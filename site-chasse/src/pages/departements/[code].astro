@@ -1,0 +1,50 @@
+---
+import Base from '../../layouts/Base.astro';
+import dataset from '../../data/departements-ara.json';
+
+export function getStaticPaths() {
+  return dataset.departements.map((d) => ({ params: { code: d.code }, props: { dep: d } }));
+}
+
+const { dep } = Astro.props;
+const periodesModules = import.meta.glob('../../data/periodes/*.json', { eager: true });
+const mod = periodesModules[`../../data/periodes/${dep.code}.json`];
+const periodes = mod ? (mod.default ?? mod) : null;
+---
+<Base title={`Chasse en ${dep.nom} (${dep.code})`}>
+  <p class="src"><a href="/">← Départements</a></p>
+  <h1>Chasse en {dep.nom} <span class="src">({dep.code})</span></h1>
+
+  <h2>Sources officielles</h2>
+  <ul>
+    <li>Fédération des chasseurs : <a href={dep.fdc_url}>{dep.fdc_nom}</a></li>
+    <li>Préfecture (arrêtés) : <a href={dep.prefecture_url}>{dep.prefecture_url}</a></li>
+  </ul>
+
+  {periodes ? (
+    <>
+      <h2>Ouverture générale {periodes.saison}</h2>
+      <p><strong>{periodes.ouverture_generale.date}</strong> —
+      <a href={periodes.ouverture_generale.source_url}>source officielle</a>
+      <span class="src"> ({periodes.ouverture_generale.source_label})</span></p>
+
+      <h2>Arrêtés en vigueur</h2>
+      <table>
+        <thead><tr><th>Objet</th><th>Référence</th><th>Statut</th><th>Source</th></tr></thead>
+        <tbody>
+          {periodes.arretes_officiels.map((a) => (
+            <tr>
+              <td>{a.objet}</td>
+              <td>{a.reference}</td>
+              <td>{a.statut}</td>
+              <td><a href={a.url_pdf}>PDF</a></td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
+    </>
+  ) : (
+    <div class="warn">Dates et quotas en cours de collecte pour ce département.
+    Les sources officielles ci-dessus font foi en attendant.</div>
+  )}
+</Base>

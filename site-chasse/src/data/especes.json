@@ -1,0 +1,23 @@
+{
+  "note": "Liste de référence de départ, à compléter et sourcer par le pipeline.",
+  "especes": [
+    { "nom": "Cerf élaphe", "categorie": "grand gibier" },
+    { "nom": "Chevreuil", "categorie": "grand gibier" },
+    { "nom": "Sanglier", "categorie": "grand gibier" },
+    { "nom": "Chamois", "categorie": "grand gibier" },
+    { "nom": "Mouflon méditerranéen", "categorie": "grand gibier" },
+    { "nom": "Lièvre d'Europe", "categorie": "petit gibier sédentaire" },
+    { "nom": "Lapin de garenne", "categorie": "petit gibier sédentaire" },
+    { "nom": "Perdrix rouge", "categorie": "petit gibier sédentaire" },
+    { "nom": "Perdrix grise", "categorie": "petit gibier sédentaire" },
+    { "nom": "Faisan commun", "categorie": "petit gibier sédentaire" },
+    { "nom": "Canard colvert", "categorie": "gibier d'eau" },
+    { "nom": "Bécasse des bois", "categorie": "oiseau de passage" },
+    { "nom": "Grive draine", "categorie": "oiseau de passage" },
+    { "nom": "Pigeon ramier", "categorie": "oiseau de passage" },
+    { "nom": "Caille des blés", "categorie": "oiseau de passage" },
+    { "nom": "Tétras-lyre", "categorie": "galliforme de montagne" },
+    { "nom": "Lagopède alpin", "categorie": "galliforme de montagne" },
+    { "nom": "Perdrix bartavelle", "categorie": "galliforme de montagne" }
+  ]
+}

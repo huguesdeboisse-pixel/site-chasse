@@ -1,0 +1,20 @@
+---
+import Base from '../layouts/Base.astro';
+import dataset from '../data/departements-ara.json';
+const deps = dataset.departements;
+---
+<Base title="Données de référence de la chasse — Auvergne-Rhône-Alpes">
+  <h1>Chasse en Auvergne-Rhône-Alpes</h1>
+  <p>Dates d'ouverture et de fermeture, quotas, coûts et arrêtés, agrégés et sourcés,
+  pour les {deps.length} départements de la région (pilote).</p>
+  <div class="warn">Bêta. Chaque donnée renvoie à sa source officielle. En cas de doute, l'arrêté préfectoral fait foi.</div>
+  <h2>Choisir un département</h2>
+  <ul class="grid">
+    {deps.map((d) => (
+      <li class="card">
+        <a href={`/departements/${d.code}/`}>{d.nom}</a>
+        <div class="src">Département {d.code}</div>
+      </li>
+    ))}
+  </ul>
+</Base>
