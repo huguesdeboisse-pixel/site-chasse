@@ -1,7 +1,7 @@
 ---
 interface Props { title?: string; description?: string; }
 const {
-  title = "Chasse · Référence — Auvergne-Rhône-Alpes",
+  title = "Tout pour la chasse — Auvergne-Rhône-Alpes",
   description = "Dates d'ouverture et de fermeture, quotas, coûts et arrêtés de la chasse, agrégés et systématiquement sourcés."
 } = Astro.props;
 ---
@@ -127,11 +127,10 @@ const {
             <path fill="#2d6a4f" d="M16 4 L21 12 H18 L23 19 H20 L25 26 H7 L12 19 H9 L14 12 H11 Z"/>
             <rect x="14.5" y="25" width="3" height="5" fill="#6b4f2e"/>
           </svg>
-          <span>Chasse<span class="brand-sep">·</span>Référence</span>
+          <span>Tout pour la chasse</span>
         </a>
         <nav class="nav">
           <a href="/">Départements</a>
-          <a href="/methodologie/">Méthodologie</a>
         </nav>
       </div>
     </header>
@@ -143,7 +142,7 @@ const {
     <footer class="site-footer">
       <div class="wrap">
         <p><strong>Données indicatives.</strong> Vérifiez toujours l'arrêté préfectoral en vigueur avant de chasser. Chaque donnée renvoie à sa source officielle.</p>
-        <p class="foot-meta">Contenu des préfectures réutilisé sous licence ouverte Etalab 2.0 · Pilote Auvergne-Rhône-Alpes</p>
+        <p class="foot-meta">Contenu des préfectures réutilisé sous licence ouverte Etalab 2.0 · Pilote Auvergne-Rhône-Alpes · <a href="/methodologie/">Sources &amp; méthode</a></p>
       </div>
     </footer>
   </body>
