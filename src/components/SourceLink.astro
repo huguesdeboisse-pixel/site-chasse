@@ -1,0 +1,9 @@
+---
+const { href, label = 'Voir la source officielle' } = Astro.props;
+---
+<a class="src-arrow" href={href} target="_blank" rel="noopener noreferrer" title={label} aria-label={label}>
+  <svg viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+    <path d="M8 16 L16 8" />
+    <path d="M9.5 8 H16 V14.5" />
+  </svg>
+</a>
