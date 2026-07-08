@@ -230,16 +230,16 @@
    "nom": "Corse-du-Sud",
    "region": "Corse",
    "prefecture_url": "https://www.corse-du-sud.gouv.fr",
-   "fdc_nom": null,
-   "fdc_url": null
+   "fdc_nom": "Fédération des Chasseurs de la Corse du Sud",
+   "fdc_url": "https://www.fdc2a.corsica/"
   },
   {
    "code": "2B",
    "nom": "Haute-Corse",
    "region": "Corse",
    "prefecture_url": "https://www.haute-corse.gouv.fr",
-   "fdc_nom": null,
-   "fdc_url": null
+   "fdc_nom": "Fédération des Chasseurs de Haute-Corse",
+   "fdc_url": "https://www.fdc2b.com/"
   },
   {
    "code": "30",
