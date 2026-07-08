@@ -48,11 +48,6 @@ const deps = dataset.departements;
     </div>
   </div>
 
-  <a class="next-page" href="/especes/">
-    Voir les espèces
-    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 5v14M5 12l7 7 7-7"/></svg>
-  </a>
-
   <script define:vars={{ deps }} is:inline>
     function normalize(s) {
       return s.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase().trim();
