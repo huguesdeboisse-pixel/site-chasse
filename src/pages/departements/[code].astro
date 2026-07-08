@@ -11,7 +11,7 @@ export function getStaticPaths() {
 interface EspecePeriode {
   slug: string;
   statut: string;
-  prelevement_max?: { valeur?: number; unite?: string; source_url: string; source_label: string };
+  prelevement?: { detail: string; saison?: string; source_url: string; source_label: string };
 }
 
 interface Periodes {
@@ -20,6 +20,7 @@ interface Periodes {
   licence_source: string;
   ouverture_generale: {
     date: string;
+    fermeture?: string;
     source_url: string;
     source_label: string;
     confiance: string;
@@ -69,11 +70,12 @@ const especeViews = especesDataset.especes.map((e) => {
   const data = slug ? especeParDepartement.get(slug) : undefined;
   let ref: number;
   let statut: string;
-  if (data?.prelevement_max) {
-    ref = noteRef(data.prelevement_max.source_label, data.prelevement_max.source_url);
-    statut = data.prelevement_max.valeur
-      ? `Quota : ${data.prelevement_max.valeur} ${data.prelevement_max.unite ?? ''}`.trim()
-      : 'Quota fixé par arrêté';
+  if (data?.prelevement) {
+    ref = noteRef(data.prelevement.source_label, data.prelevement.source_url);
+    const saisonNote = data.prelevement.saison && data.prelevement.saison !== periodes?.saison
+      ? ` (saison ${data.prelevement.saison}, dernière valeur connue)`
+      : '';
+    statut = `${data.prelevement.detail}${saisonNote}`;
   } else {
     ref = ouvertureRef || prefRef;
     statut = "Chassable — règles générales d'ouverture";
@@ -112,7 +114,11 @@ const especeViews = especesDataset.especes.map((e) => {
       {periodes ? (
         <div class="info-row" id="row-generale">
           <p class="info-title">Ouverture générale</p>
-          <p class="info-value">{formatDate(periodes.ouverture_generale.date)}<sup><a class="footnote-ref" href={`#s${ouvertureRef}`}>{ouvertureRef}</a></sup></p>
+          <p class="info-value">
+            {formatDate(periodes.ouverture_generale.date)}
+            {periodes.ouverture_generale.fermeture && <> → {formatDate(periodes.ouverture_generale.fermeture)}</>}
+            <sup><a class="footnote-ref" href={`#s${ouvertureRef}`}>{ouvertureRef}</a></sup>
+          </p>
         </div>
       ) : (
         <div class="info-row" id="row-generale">
