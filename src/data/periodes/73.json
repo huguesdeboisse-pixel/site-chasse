@@ -1,0 +1,21 @@
+{
+  "departement": "73",
+  "saison": "2026-2027",
+  "licence_source": "Licence ouverte Etalab 2.0",
+  "ouverture_generale": {
+    "date": "2026-09-13",
+    "fermeture": "2027-01-31",
+    "source_url": "https://www.savoie.gouv.fr/contenu/telechargement/54879/434834/file/APsigne_2026_0785%20ouverture%20cloture%20chasse%202026_2027.pdf",
+    "source_label": "Arrêté préfectoral SPADR/LCPT n°2026-0785 relatif à l'ouverture et la clôture de la chasse, campagne 2026-2027 (signé 12 juin 2026)",
+    "confiance": "haute"
+  },
+  "arretes_officiels": [
+    { "objet": "Ouverture et clôture 2026-2027", "reference": "AP SPADR/LCPT n°2026-0785 (12 juin 2026)", "url_pdf": "https://www.savoie.gouv.fr/contenu/telechargement/54879/434834/file/APsigne_2026_0785%20ouverture%20cloture%20chasse%202026_2027.pdf", "statut": "signé" }
+  ],
+  "especes": [
+    { "slug": "cerf-elaphe", "statut": "chassable" },
+    { "slug": "chevreuil", "statut": "chassable" },
+    { "slug": "chamois", "statut": "chassable" },
+    { "slug": "sanglier", "statut": "chassable" }
+  ]
+}

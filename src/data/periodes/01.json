@@ -1,0 +1,21 @@
+{
+  "departement": "01",
+  "saison": "2026-2027",
+  "licence_source": "Licence ouverte Etalab 2.0",
+  "ouverture_generale": {
+    "date": "2026-09-13",
+    "fermeture": "2027-02-28",
+    "source_url": "https://www.ain.gouv.fr/contenu/telechargement/35532/248002/file/20260327ApCampagneCynegetique2026-2027CompletSigneRaa.pdf",
+    "source_label": "Arrêté préfectoral relatif à la campagne cynégétique 2026-2027 dans le département de l'Ain (signé 27 mars 2026)",
+    "confiance": "haute"
+  },
+  "arretes_officiels": [
+    { "objet": "Campagne cynégétique 2026-2027", "reference": "AP du 27 mars 2026", "url_pdf": "https://www.ain.gouv.fr/contenu/telechargement/35532/248002/file/20260327ApCampagneCynegetique2026-2027CompletSigneRaa.pdf", "statut": "signé" },
+    { "objet": "Prélèvements minima/maxima grand gibier 2026-2027", "reference": "AP du 2 avril 2026", "url_pdf": "https://www.ain.gouv.fr/contenu/telechargement/35534/248012/file/20260402ApPrelevementsMiniMaxiGrandGibier2026-2027SigneRaa.pdf", "statut": "signé" }
+  ],
+  "especes": [
+    { "slug": "cerf-elaphe", "statut": "chassable" },
+    { "slug": "chevreuil", "statut": "chassable" },
+    { "slug": "sanglier", "statut": "chassable" }
+  ]
+}
