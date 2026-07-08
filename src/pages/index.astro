@@ -33,15 +33,25 @@ const deps = dataset.departements;
     <figure class="map-figure">
       <svg viewBox={`0 0 ${carte.width} ${carte.height}`} class="dep-map" role="img" aria-label="Carte des 12 départements d'Auvergne-Rhône-Alpes, chaque forme est un lien vers la fiche du département">
         {Object.entries(carte.departements).map(([code, d], i) => (
-          <a href={`/departements/${code}/`} class="dep-shape" aria-label={`${d.nom} (${code})`}>
+          <a href={`/departements/${code}/`} class="dep-shape" aria-label={`${d.nom} (${code})`} data-nom={d.nom}>
             <path d={d.path} class={i % 2 === 0 ? 'tone-a' : 'tone-b'} />
             <text x={d.labelX} y={d.labelY}>{code}</text>
           </a>
         ))}
       </svg>
-      <figcaption class="map-caption">Contours officiels IGN, simplifiés · <a href="/methodologie/">source &amp; méthode</a></figcaption>
+      <div class="map-tooltip" id="map-tooltip"></div>
     </figure>
+
+    <div class="ad-slot" role="complementary" aria-label="Emplacement publicitaire">
+      <span class="ad-slot-label">Publicité</span>
+      <span class="ad-slot-body">Emplacement disponible</span>
+    </div>
   </div>
+
+  <a class="next-page" href="/especes/">
+    Voir les espèces
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 5v14M5 12l7 7 7-7"/></svg>
+  </a>
 
   <script define:vars={{ deps }} is:inline>
     function normalize(s) {
@@ -145,6 +155,33 @@ const deps = dataset.departements;
         activeIndex = -1;
         render();
       }
+    });
+
+    const tooltip = document.getElementById('map-tooltip');
+    const figure = document.querySelector('.map-figure');
+    document.querySelectorAll('.dep-shape').forEach((shape) => {
+      shape.addEventListener('mouseenter', () => {
+        const shapeRect = shape.getBoundingClientRect();
+        const figureRect = figure.getBoundingClientRect();
+        tooltip.textContent = shape.dataset.nom;
+        tooltip.style.left = `${shapeRect.left + shapeRect.width / 2 - figureRect.left}px`;
+        tooltip.style.top = `${shapeRect.top - figureRect.top}px`;
+        tooltip.classList.add('visible');
+      });
+      shape.addEventListener('mouseleave', () => {
+        tooltip.classList.remove('visible');
+      });
+      shape.addEventListener('focus', () => {
+        const shapeRect = shape.getBoundingClientRect();
+        const figureRect = figure.getBoundingClientRect();
+        tooltip.textContent = shape.dataset.nom;
+        tooltip.style.left = `${shapeRect.left + shapeRect.width / 2 - figureRect.left}px`;
+        tooltip.style.top = `${shapeRect.top - figureRect.top}px`;
+        tooltip.classList.add('visible');
+      });
+      shape.addEventListener('blur', () => {
+        tooltip.classList.remove('visible');
+      });
     });
   </script>
 </Base>

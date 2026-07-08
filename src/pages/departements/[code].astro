@@ -99,15 +99,15 @@ const especeViews = especesDataset.especes.map((e) => {
     <nav class="breadcrumb"><a href="/">Accueil</a><span>/</span><a href="/">Départements</a><span>/</span>{dep.nom}</nav>
 
     <header class="fiche-head">
-      <span class="dep-badge">{dep.code}</span>
-      <div>
+      <div class="fiche-head-row">
+        <span class="dep-badge">{dep.code}</span>
         <h1>{dep.nom}</h1>
-        {periodes && (
-          <p class="fiche-sources">
-            Saison {periodes.saison}
-          </p>
-        )}
       </div>
+      {periodes && (
+        <p class="fiche-sources">
+          Saison {periodes.saison}
+        </p>
+      )}
     </header>
 
     <div class="cartouche">
@@ -133,6 +133,11 @@ const especeViews = especesDataset.especes.map((e) => {
           <p class="info-value">{e.statut}<sup><a class="footnote-ref" href={`#s${e.ref}`}>{e.ref}</a></sup></p>
         </div>
       ))}
+    </div>
+
+    <div class="ad-slot" role="complementary" aria-label="Emplacement publicitaire">
+      <span class="ad-slot-label">Publicité</span>
+      <span class="ad-slot-body">Emplacement disponible</span>
     </div>
 
     <section class="sources" id="sources">

@@ -23,7 +23,7 @@ function iconFor(nom: string) {
         const svg = iconFor(e.nom);
         return (
           <li class="espece-card">
-            <div class="espece-icon" set:html={svg ?? '<span aria-hidden="true">—</span>'} />
+            <div class="espece-icon" data-slug={SLUGS[e.nom]} set:html={svg ?? '<span aria-hidden="true">—</span>'} />
             <p class="espece-nom">{e.nom}</p>
             <p class="espece-cat">{e.categorie}</p>
           </li>

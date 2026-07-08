@@ -3,7 +3,6 @@ import '@fontsource/public-sans/400.css';
 import '@fontsource/public-sans/500.css';
 import '@fontsource/public-sans/600.css';
 import '@fontsource/public-sans/700.css';
-import '@fontsource/spectral/600.css';
 
 interface Props { title?: string; description?: string; }
 const {
@@ -25,7 +24,6 @@ const {
         --green-900:#14342a; --green-700:#2d6a4f; --green-600:#3f8f6b; --green-50:#eaf3ee;
         --accent:#a8562c; --chip:#eef2ec; --radius:14px;
         --sans:"Public Sans",system-ui,-apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
-        --serif:"Spectral","Iowan Old Style","Palatino Linotype",Palatino,"Book Antiqua",Georgia,serif;
       }
       *{box-sizing:border-box;}
       html{scroll-behavior:smooth;}
@@ -38,17 +36,15 @@ const {
 
       /* Header */
       .site-header{position:sticky;top:0;z-index:20;background:rgba(247,246,241,.9);backdrop-filter:saturate(1.4) blur(8px);border-bottom:1px solid var(--line);}
-      .header-inner{display:flex;align-items:center;justify-content:space-between;height:62px;}
+      .header-inner{display:flex;align-items:center;height:62px;}
       .brand{display:flex;align-items:center;gap:.55rem;font-weight:700;color:var(--ink);text-decoration:none;font-size:1.05rem;letter-spacing:-.01em;}
       .brand-mark{width:26px;height:26px;flex:none;}
       .brand-sep{color:var(--green-600);margin:0 .15em;}
-      .nav a{color:var(--muted);text-decoration:none;font-weight:500;font-size:.95rem;margin-left:1.4rem;}
-      .nav a:hover{color:var(--green-700);}
 
       /* Hero */
       .hero{background:var(--green-900);color:#f3f1e7;padding:3rem 0 3.2rem;}
       .hero .eyebrow{margin:0 0 .6rem;text-transform:uppercase;letter-spacing:.14em;font-size:.72rem;font-weight:600;color:#9ec7b0;}
-      .hero h1{font-family:var(--serif);font-weight:600;font-size:clamp(1.9rem,4.4vw,3rem);margin:0 0 .7rem;color:#fbfaf5;}
+      .hero h1{font-weight:600;font-size:clamp(1.9rem,4.4vw,3rem);margin:0 0 .7rem;color:#fbfaf5;}
       .hero .lede{margin:0;max-width:60ch;color:#d7ddd2;font-size:1.05rem;}
 
       /* Toolbar / search */
@@ -62,7 +58,7 @@ const {
       .dep-opt.active .dep-opt-code,.dep-opt:hover .dep-opt-code{background:var(--green-600);color:#fff;}
 
       /* Department map */
-      .map-figure{margin:0 0 3rem;}
+      .map-figure{position:relative;margin:0 0 3rem;}
       .dep-map{width:100%;height:auto;}
       .dep-shape{cursor:pointer;}
       .dep-shape path{transition:fill .12s ease;}
@@ -71,7 +67,9 @@ const {
       .dep-shape:hover path,.dep-shape:focus-visible path{fill:var(--green-600);}
       .dep-shape text{font-family:var(--sans);font-size:15px;font-weight:700;fill:var(--green-900);text-anchor:middle;dominant-baseline:middle;pointer-events:none;transition:fill .12s ease;}
       .dep-shape:hover text,.dep-shape:focus-visible text{fill:#fff;}
-      .map-caption{margin:.7rem 0 0;font-size:.82rem;color:var(--muted);text-align:center;}
+      .map-tooltip{position:absolute;z-index:5;pointer-events:none;transform:translate(-50%,-100%);background:var(--green-900);color:#fbfaf5;padding:.35rem .7rem;border-radius:8px;font-size:.85rem;font-weight:600;white-space:nowrap;opacity:0;transition:opacity .1s ease,transform .1s ease;box-shadow:0 6px 16px rgba(20,52,42,.18);}
+      .map-tooltip::after{content:"";position:absolute;top:100%;left:50%;transform:translateX(-50%);border:5px solid transparent;border-top-color:var(--green-900);}
+      .map-tooltip.visible{opacity:1;}
 
       /* Fiche département */
       .fiche{padding:1.4rem 0 3rem;}
@@ -79,9 +77,11 @@ const {
       .breadcrumb a{color:var(--muted);text-decoration:none;}
       .breadcrumb a:hover{color:var(--green-700);}
       .breadcrumb span{margin:0 .3rem;}
-      .fiche-head{display:flex;align-items:center;gap:1rem;margin-bottom:1.8rem;}
+      .fiche-head{margin-bottom:1.8rem;}
+      .fiche-head-row{display:flex;align-items:center;gap:.7rem;}
       .dep-badge{flex:none;width:38px;height:38px;display:grid;place-items:center;background:transparent;border:1.5px solid var(--green-700);color:var(--green-700);border-radius:50%;font-weight:600;font-size:.9rem;}
-      .fiche-head h1{font-family:var(--serif);font-weight:600;font-size:clamp(1.6rem,3.5vw,2.2rem);margin:0 0 .15rem;}
+      .fiche-head h1{font-weight:600;font-size:clamp(1.6rem,3.5vw,2.2rem);margin:0;}
+      .fiche-head .fiche-sources{margin:.3rem 0 0 calc(38px + .7rem);}
       .fiche-sources{margin:0;font-size:.9rem;color:var(--muted);}
       .fiche-sources .dot{margin:0 .5rem;color:var(--line);}
 
@@ -101,6 +101,17 @@ const {
       .sources ol{margin:0;padding-left:1.1rem;font-size:.82rem;color:var(--muted);line-height:1.9;}
       .sources a{color:var(--green-700);}
 
+      /* Emplacement publicitaire */
+      .ad-slot{margin:0 0 2.2rem;padding:.4rem;border:1px solid var(--line);background:var(--surface);display:flex;flex-direction:column;align-items:center;justify-content:center;gap:.3rem;min-height:90px;}
+      .ad-slot-label{font-size:.65rem;text-transform:uppercase;letter-spacing:.1em;color:var(--muted);}
+      .ad-slot-body{color:var(--muted);font-size:.85rem;}
+
+      /* Flèche vers la suite */
+      .next-page{display:flex;flex-direction:column;align-items:center;gap:.4rem;padding:2.5rem 0 3rem;color:var(--muted);text-decoration:none;font-size:.85rem;transition:color .12s ease;}
+      .next-page:hover{color:var(--green-700);}
+      .next-page svg{width:22px;height:22px;animation:bob 1.6s ease-in-out infinite;}
+      @keyframes bob{0%,100%{transform:translateY(0);}50%{transform:translateY(5px);}}
+
       /* Empty state */
       .empty{background:var(--surface);border:1px dashed var(--line);border-radius:var(--radius);padding:1.6rem;color:var(--muted);}
       .empty strong{color:var(--ink);}
@@ -108,8 +119,12 @@ const {
       /* Espèces */
       .especes-grid{list-style:none;margin:0 0 3rem;padding:0;display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:14px;}
       .espece-card{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);padding:1.1rem;text-align:center;}
-      .espece-icon{width:64px;height:64px;margin:0 auto .6rem;display:flex;align-items:center;justify-content:center;color:var(--green-700);}
+      .espece-icon{width:64px;height:64px;margin:0 auto .6rem;display:flex;align-items:center;justify-content:center;color:var(--green-700);overflow:visible;}
       .espece-icon svg{width:100%;height:100%;}
+      .espece-icon[data-slug="faisan-commun"] svg,
+      .espece-icon[data-slug="becasse-bois"] svg,
+      .espece-icon[data-slug="grive-draine"] svg,
+      .espece-icon[data-slug="lapin-garenne"] svg{transform:scale(1.35);}
       .espece-nom{font-weight:600;font-size:.92rem;margin:0;}
       .espece-cat{font-size:.75rem;color:var(--muted);margin:.2rem 0 0;}
 
@@ -118,13 +133,17 @@ const {
       .espece-btn{flex:none;width:76px;display:flex;flex-direction:column;align-items:center;gap:4px;padding:8px 4px;background:transparent;border:1px solid transparent;border-radius:10px;color:var(--green-700);cursor:pointer;transition:background .12s ease,color .12s ease,border-color .12s ease;}
       .espece-btn:hover{background:var(--green-50);border-color:var(--line);}
       .espece-btn.active{background:var(--green-600);color:#fff;border-color:var(--green-600);}
-      .espece-btn-icon{width:36px;height:36px;display:flex;}
+      .espece-btn-icon{width:36px;height:36px;display:flex;overflow:visible;}
       .espece-btn-icon svg{width:100%;height:100%;}
+      .espece-btn[data-slug="faisan-commun"] .espece-btn-icon svg,
+      .espece-btn[data-slug="becasse-bois"] .espece-btn-icon svg,
+      .espece-btn[data-slug="grive-draine"] .espece-btn-icon svg,
+      .espece-btn[data-slug="lapin-garenne"] .espece-btn-icon svg{transform:scale(1.35);}
       .espece-btn-nom{font-size:.68rem;line-height:1.2;text-align:center;color:inherit;}
 
       /* Prose (methodologie) */
       .prose{padding:2rem 0 3rem;max-width:70ch;}
-      .prose h1{font-family:var(--serif);font-weight:600;font-size:clamp(1.7rem,3.5vw,2.3rem);margin:0 0 1rem;}
+      .prose h1{font-weight:600;font-size:clamp(1.7rem,3.5vw,2.3rem);margin:0 0 1rem;}
       .prose h2{margin-top:2rem;}
       .prose ol,.prose ul{padding-left:1.2rem;}
       .prose li{margin:.35rem 0;}
@@ -138,9 +157,7 @@ const {
 
       @media (max-width:560px){
         .hero{padding:2.2rem 0 2.4rem;}
-        .fiche-head{gap:.8rem;}
-        .arrete{flex-wrap:wrap;}
-        .chip{order:3;}
+        .fiche-head-row{gap:.5rem;}
       }
     </style>
   </head>
@@ -154,10 +171,6 @@ const {
           </svg>
           <span>Tout pour la chasse</span>
         </a>
-        <nav class="nav">
-          <a href="/">Départements</a>
-          <a href="/especes/">Espèces</a>
-        </nav>
       </div>
     </header>
 
