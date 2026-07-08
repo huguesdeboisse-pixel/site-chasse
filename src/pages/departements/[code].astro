@@ -82,15 +82,14 @@ const especeViews = especesDataset.especes.map((e) => {
 });
 ---
 <Base title={`Chasse en ${dep.nom} (${dep.code})`} description={`Dates d'ouverture et de fermeture, quotas et arrêtés de la chasse en ${dep.nom}.`}>
-  <div class="especes-banner-wrap">
-    <div class="wrap">
-      <div class="especes-banner" role="group" aria-label="Filtrer par espèce">
-        {especeViews.map((e) => (
-          <button type="button" class="espece-btn" data-slug={e.slug} aria-pressed="false" aria-label={e.nom} title={e.nom}>
-            <span class="espece-btn-icon" set:html={e.svg ?? '<span aria-hidden="true">—</span>'} />
-          </button>
-        ))}
-      </div>
+  <div class="wrap">
+    <div class="especes-banner" role="group" aria-label="Filtrer par espèce">
+      {especeViews.map((e) => (
+        <button type="button" class="espece-btn" data-slug={e.slug} aria-pressed="false">
+          <span class="espece-btn-icon" set:html={e.svg ?? '<span aria-hidden="true">—</span>'} />
+          <span class="espece-btn-nom">{e.nom}</span>
+        </button>
+      ))}
     </div>
   </div>
 
@@ -109,30 +108,26 @@ const especeViews = especesDataset.especes.map((e) => {
       </div>
     </header>
 
-    <div id="vue-generale">
+    <div class="cartouche">
       {periodes ? (
-        <div class="stat-grid">
-          <div class="stat-card accent">
-            <p class="stat-label">Ouverture générale</p>
-            <p class="stat-value">{formatDate(periodes.ouverture_generale.date)}<sup><a class="footnote-ref" href={`#s${ouvertureRef}`}>{ouvertureRef}</a></sup></p>
-          </div>
+        <div class="info-row" id="row-generale">
+          <p class="info-title">Ouverture générale</p>
+          <p class="info-value">{formatDate(periodes.ouverture_generale.date)}<sup><a class="footnote-ref" href={`#s${ouvertureRef}`}>{ouvertureRef}</a></sup></p>
         </div>
       ) : (
-        <div class="empty">
-          <p><strong>Données en cours de collecte</strong> pour ce département.</p>
-          <p>Sources ci-dessous.</p>
+        <div class="info-row" id="row-generale">
+          <p class="info-title">Données en cours de collecte</p>
+          <p class="info-value">Sources ci-dessous.</p>
         </div>
       )}
-    </div>
 
-    {especeViews.map((e) => (
-      <div class="espece-detail" data-slug={e.slug} hidden>
-        <div class="stat-card accent">
-          <p class="stat-label">{e.nom}</p>
-          <p class="stat-value">{e.statut}<sup><a class="footnote-ref" href={`#s${e.ref}`}>{e.ref}</a></sup></p>
+      {especeViews.map((e) => (
+        <div class="info-row espece-row" data-slug={e.slug} hidden>
+          <p class="info-title">{e.nom}</p>
+          <p class="info-value">{e.statut}<sup><a class="footnote-ref" href={`#s${e.ref}`}>{e.ref}</a></sup></p>
         </div>
-      </div>
-    ))}
+      ))}
+    </div>
 
     <section class="sources" id="sources">
       <p>Sources</p>
@@ -146,8 +141,8 @@ const especeViews = especesDataset.especes.map((e) => {
 
   <script>
     const buttons = Array.from(document.querySelectorAll<HTMLButtonElement>('.espece-btn'));
-    const generale = document.getElementById('vue-generale')!;
-    const details = Array.from(document.querySelectorAll<HTMLElement>('.espece-detail'));
+    const generale = document.getElementById('row-generale')!;
+    const rows = Array.from(document.querySelectorAll<HTMLElement>('.espece-row'));
     const selected = new Set<string>();
 
     function render() {
@@ -156,8 +151,12 @@ const especeViews = especesDataset.especes.map((e) => {
         b.setAttribute('aria-pressed', on ? 'true' : 'false');
         b.classList.toggle('active', on);
       });
-      details.forEach((d) => { d.hidden = !selected.has(d.dataset.slug!); });
+      rows.forEach((r) => { r.hidden = !selected.has(r.dataset.slug!); });
       generale.hidden = selected.size > 0;
+
+      const visible = [generale, ...rows].filter((r) => !r.hidden);
+      [generale, ...rows].forEach((r) => r.classList.remove('is-last'));
+      visible[visible.length - 1]?.classList.add('is-last');
     }
 
     buttons.forEach((b) => b.addEventListener('click', () => {
@@ -165,5 +164,7 @@ const especeViews = especesDataset.especes.map((e) => {
       if (selected.has(slug)) selected.delete(slug); else selected.add(slug);
       render();
     }));
+
+    render();
   </script>
 </Base>

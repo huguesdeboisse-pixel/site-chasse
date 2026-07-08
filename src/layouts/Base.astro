@@ -85,13 +85,13 @@ const {
       .fiche-sources{margin:0;font-size:.9rem;color:var(--muted);}
       .fiche-sources .dot{margin:0 .5rem;color:var(--line);}
 
-      /* Key-figure stat cards */
-      .stat-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:12px;margin-bottom:2.2rem;}
-      .stat-card{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);padding:1.1rem 1.2rem;}
-      .stat-card.accent{border-left:4px solid var(--green-600);}
-      .stat-label{margin:0 0 .4rem;text-transform:uppercase;letter-spacing:.08em;font-size:.7rem;font-weight:600;color:var(--muted);}
-      .stat-value{margin:0;font-family:var(--serif);font-size:1.6rem;font-weight:600;color:var(--green-900);}
-      .stat-value.ok{color:var(--green-700);}
+      /* Cartouche unique d'informations */
+      .cartouche{background:var(--surface);border:1px solid var(--line);border-left:4px solid var(--green-600);border-radius:var(--radius);padding:.3rem 1.3rem;margin-bottom:2.2rem;}
+      .info-row{padding:1rem 0;border-bottom:1px solid var(--line);display:flex;flex-wrap:wrap;align-items:baseline;column-gap:.6em;row-gap:.2rem;}
+      .info-row[hidden]{display:none;}
+      .info-row.is-last{border-bottom:none;}
+      .info-title{margin:0;font-weight:700;font-size:1.05rem;color:var(--green-900);flex:none;}
+      .info-value{margin:0;font-size:1.05rem;color:var(--ink);}
       .footnote-ref{font-size:.75em;font-weight:600;text-decoration:none;color:var(--green-700);margin-left:.15em;}
       h2{font-size:1.25rem;margin:0 0 1rem;padding-bottom:.5rem;border-bottom:1px solid var(--line);}
 
@@ -114,14 +114,13 @@ const {
       .espece-cat{font-size:.75rem;color:var(--muted);margin:.2rem 0 0;}
 
       /* Bandeau d'espèces (fiche département) */
-      .especes-banner-wrap{position:sticky;top:62px;z-index:15;background:rgba(247,246,241,.94);backdrop-filter:saturate(1.4) blur(8px);border-bottom:1px solid var(--line);}
-      .especes-banner{display:flex;gap:6px;overflow-x:auto;padding:.6rem 0;scrollbar-width:thin;}
-      .espece-btn{flex:none;width:46px;height:46px;padding:7px;display:flex;align-items:center;justify-content:center;background:transparent;border:1px solid transparent;border-radius:10px;color:var(--green-700);cursor:pointer;transition:background .12s ease,color .12s ease,border-color .12s ease;}
+      .especes-banner{display:flex;flex-wrap:wrap;justify-content:flex-start;gap:4px;padding:1.2rem 0 1.6rem;border-bottom:1px solid var(--line);margin-bottom:1.4rem;}
+      .espece-btn{flex:none;width:76px;display:flex;flex-direction:column;align-items:center;gap:4px;padding:8px 4px;background:transparent;border:1px solid transparent;border-radius:10px;color:var(--green-700);cursor:pointer;transition:background .12s ease,color .12s ease,border-color .12s ease;}
       .espece-btn:hover{background:var(--green-50);border-color:var(--line);}
       .espece-btn.active{background:var(--green-600);color:#fff;border-color:var(--green-600);}
-      .espece-btn-icon{width:100%;height:100%;display:flex;}
+      .espece-btn-icon{width:36px;height:36px;display:flex;}
       .espece-btn-icon svg{width:100%;height:100%;}
-      .espece-detail{margin-bottom:2.2rem;}
+      .espece-btn-nom{font-size:.68rem;line-height:1.2;text-align:center;color:inherit;}
 
       /* Prose (methodologie) */
       .prose{padding:2rem 0 3rem;max-width:70ch;}
