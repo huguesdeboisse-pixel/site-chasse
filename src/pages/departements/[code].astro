@@ -7,18 +7,38 @@ export function getStaticPaths() {
   return dataset.departements.map((d) => ({ params: { code: d.code }, props: { dep: d } }));
 }
 
+interface ArretePeriode {
+  objet: string;
+  reference: string;
+  url_pdf: string;
+  statut: string;
+}
+
+interface Periodes {
+  departement: string;
+  saison: string;
+  licence_source: string;
+  ouverture_generale: {
+    date: string;
+    source_url: string;
+    source_label: string;
+    confiance: string;
+  };
+  arretes_officiels: ArretePeriode[];
+}
+
 const { dep } = Astro.props;
-const periodesModules = import.meta.glob('../../data/periodes/*.json', { eager: true });
+const periodesModules = import.meta.glob<{ default: Periodes }>('../../data/periodes/*.json', { eager: true });
 const mod = periodesModules[`../../data/periodes/${dep.code}.json`];
-const periodes = mod ? (mod.default ?? mod) : null;
+const periodes = mod ? mod.default : null;
 
 const MOIS = ['janvier','février','mars','avril','mai','juin','juillet','août','septembre','octobre','novembre','décembre'];
-function formatDate(iso){
+function formatDate(iso: string){
   if(!iso) return '';
   const [y,m,d] = iso.split('-').map(Number);
   return `${d} ${MOIS[m-1]} ${y}`;
 }
-function statutClass(s){
+function statutClass(s: string){
   return (s === 'signé' || s === 'en vigueur') ? 'chip-ok' : 'chip-muted';
 }
 ---
