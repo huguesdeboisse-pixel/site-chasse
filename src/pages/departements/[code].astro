@@ -43,7 +43,7 @@ const notes: Note[] = [
   { label: `Préfecture — ${dep.nom}`, href: dep.prefecture_url },
   { label: dep.fdc_nom, href: dep.fdc_url },
 ];
-let ouvertureRef = 0, arretesRef = 0;
+let ouvertureRef = 0;
 if (periodes) {
   notes.push({ label: periodes.ouverture_generale.source_label, href: periodes.ouverture_generale.source_url });
   ouvertureRef = notes.length;
@@ -51,7 +51,6 @@ if (periodes) {
     label: `Ensemble des arrêtés préfectoraux ${periodes.saison} (${periodes.arretes_officiels.length} arrêtés) — ${dep.nom}`,
     href: dep.prefecture_url,
   });
-  arretesRef = notes.length;
 }
 ---
 <Base title={`Chasse en ${dep.nom} (${dep.code})`} description={`Dates d'ouverture et de fermeture, quotas et arrêtés de la chasse en ${dep.nom}.`}>
@@ -62,35 +61,27 @@ if (periodes) {
       <span class="dep-badge">{dep.code}</span>
       <div>
         <h1>{dep.nom}</h1>
-        <p class="fiche-sources">
-          {periodes ? `Saison ${periodes.saison}` : 'Sources officielles'}
-          <sup><a class="footnote-ref" href="#s1">1</a></sup>
-          <sup><a class="footnote-ref" href="#s2">2</a></sup>
-        </p>
+        {periodes && (
+          <p class="fiche-sources">
+            Saison {periodes.saison}
+            <sup><a class="footnote-ref" href="#s1">1</a></sup>
+            <sup><a class="footnote-ref" href="#s2">2</a></sup>
+          </p>
+        )}
       </div>
     </header>
 
     {periodes ? (
-      <>
-        <div class="stat-grid">
-          <div class="stat-card accent">
-            <p class="stat-label">Ouverture générale</p>
-            <p class="stat-value">{formatDate(periodes.ouverture_generale.date)}<sup><a class="footnote-ref" href={`#s${ouvertureRef}`}>{ouvertureRef}</a></sup></p>
-          </div>
-          <div class="stat-card">
-            <p class="stat-label">Arrêtés en vigueur</p>
-            <p class="stat-value">{periodes.arretes_officiels.length}<sup><a class="footnote-ref" href={`#s${arretesRef}`}>{arretesRef}</a></sup></p>
-          </div>
-          <div class="stat-card">
-            <p class="stat-label">Confiance de la donnée</p>
-            <p class="stat-value ok">{periodes.ouverture_generale.confiance}<sup><a class="footnote-ref" href={`#s${ouvertureRef}`}>{ouvertureRef}</a></sup></p>
-          </div>
+      <div class="stat-grid">
+        <div class="stat-card accent">
+          <p class="stat-label">Ouverture générale</p>
+          <p class="stat-value">{formatDate(periodes.ouverture_generale.date)}<sup><a class="footnote-ref" href={`#s${ouvertureRef}`}>{ouvertureRef}</a></sup></p>
         </div>
-      </>
+      </div>
     ) : (
       <div class="empty">
         <p><strong>Données en cours de collecte</strong> pour ce département.</p>
-        <p>En attendant, consultez les sources officielles ci-dessous, qui font foi.</p>
+        <p>Sources ci-dessous.</p>
       </div>
     )}
 
