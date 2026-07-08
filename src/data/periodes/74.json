@@ -15,5 +15,15 @@
     { "objet": "Plan de chasse tétras-lyre 2026-2027", "reference": "AP du 26 mai 2026 (ARP0485_2026)", "url_pdf": "https://www.haute-savoie.gouv.fr/contenu/telechargement/51162/323617/file/ARP0485_2026_min-max_TLY.pdf", "statut": "signé" },
     { "objet": "PMA bécasse des bois", "reference": "Arrêté du 3 août 2011", "url_pdf": "https://www.haute-savoie.gouv.fr/contenu/telechargement/3506/17819/file/ARP_pma_becasse_74_2011.pdf", "statut": "en vigueur" },
     { "objet": "PMA bartavelle et lagopède alpin", "reference": "AP du 11 septembre 2025 (ARP-2025-1295)", "url_pdf": "https://www.haute-savoie.gouv.fr/contenu/telechargement/49317/312507/file/ARP-2025-1295_PMA_lago_barta_signe.pdf", "statut": "campagne 2025-2026" }
+  ],
+  "especes": [
+    { "slug": "cerf-elaphe", "statut": "chassable", "prelevement_max": { "source_url": "https://www.haute-savoie.gouv.fr/contenu/telechargement/51161/323612/file/ARP0484_2026_min-max-grand-gibier.pdf", "source_label": "Minima/maxima plan de chasse grand gibier 2026-2027" } },
+    { "slug": "chevreuil", "statut": "chassable", "prelevement_max": { "source_url": "https://www.haute-savoie.gouv.fr/contenu/telechargement/51161/323612/file/ARP0484_2026_min-max-grand-gibier.pdf", "source_label": "Minima/maxima plan de chasse grand gibier 2026-2027" } },
+    { "slug": "sanglier", "statut": "chassable", "prelevement_max": { "source_url": "https://www.haute-savoie.gouv.fr/contenu/telechargement/51161/323612/file/ARP0484_2026_min-max-grand-gibier.pdf", "source_label": "Minima/maxima plan de chasse grand gibier 2026-2027" } },
+    { "slug": "chamois", "statut": "chassable", "prelevement_max": { "source_url": "https://www.haute-savoie.gouv.fr/contenu/telechargement/51161/323612/file/ARP0484_2026_min-max-grand-gibier.pdf", "source_label": "Minima/maxima plan de chasse grand gibier 2026-2027" } },
+    { "slug": "tetras-lyre", "statut": "chassable", "prelevement_max": { "source_url": "https://www.haute-savoie.gouv.fr/contenu/telechargement/51162/323617/file/ARP0485_2026_min-max_TLY.pdf", "source_label": "Plan de chasse tétras-lyre 2026-2027" } },
+    { "slug": "becasse-bois", "statut": "chassable", "prelevement_max": { "source_url": "https://www.haute-savoie.gouv.fr/contenu/telechargement/3506/17819/file/ARP_pma_becasse_74_2011.pdf", "source_label": "PMA bécasse des bois (arrêté du 3 août 2011)" } },
+    { "slug": "perdrix-bartavelle", "statut": "chassable", "prelevement_max": { "source_url": "https://www.haute-savoie.gouv.fr/contenu/telechargement/49317/312507/file/ARP-2025-1295_PMA_lago_barta_signe.pdf", "source_label": "PMA bartavelle et lagopède alpin (AP du 11 septembre 2025)" } },
+    { "slug": "lagopede-alpin", "statut": "chassable", "prelevement_max": { "source_url": "https://www.haute-savoie.gouv.fr/contenu/telechargement/49317/312507/file/ARP-2025-1295_PMA_lago_barta_signe.pdf", "source_label": "PMA bartavelle et lagopède alpin (AP du 11 septembre 2025)" } }
   ]
 }

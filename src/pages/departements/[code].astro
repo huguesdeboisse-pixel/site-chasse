@@ -1,16 +1,17 @@
 ---
 import Base from '../../layouts/Base.astro';
 import dataset from '../../data/departements-ara.json';
+import especesDataset from '../../data/especes.json';
+import { SLUGS } from '../../lib/especes';
 
 export function getStaticPaths() {
   return dataset.departements.map((d) => ({ params: { code: d.code }, props: { dep: d } }));
 }
 
-interface ArretePeriode {
-  objet: string;
-  reference: string;
-  url_pdf: string;
+interface EspecePeriode {
+  slug: string;
   statut: string;
+  prelevement_max?: { valeur?: number; unite?: string; source_url: string; source_label: string };
 }
 
 interface Periodes {
@@ -23,13 +24,16 @@ interface Periodes {
     source_label: string;
     confiance: string;
   };
-  arretes_officiels: ArretePeriode[];
+  arretes_officiels: { objet: string; reference: string; url_pdf: string; statut: string }[];
+  especes?: EspecePeriode[];
 }
 
 const { dep } = Astro.props;
 const periodesModules = import.meta.glob<{ default: Periodes }>('../../data/periodes/*.json', { eager: true });
 const mod = periodesModules[`../../data/periodes/${dep.code}.json`];
 const periodes = mod ? mod.default : null;
+
+const icons = import.meta.glob('../../icons/especes/*.svg', { eager: true, query: '?raw', import: 'default' }) as Record<string, string>;
 
 const MOIS = ['janvier','février','mars','avril','mai','juin','juillet','août','septembre','octobre','novembre','décembre'];
 function formatDate(iso: string){
@@ -39,21 +43,57 @@ function formatDate(iso: string){
 }
 
 interface Note { label: string; href: string; }
-const notes: Note[] = [
-  { label: `Préfecture — ${dep.nom}`, href: dep.prefecture_url },
-  { label: dep.fdc_nom, href: dep.fdc_url },
-];
+const notes: Note[] = [];
+const noteIndex = new Map<string, number>();
+function noteRef(label: string, href: string): number {
+  const existing = noteIndex.get(href);
+  if (existing) return existing;
+  notes.push({ label, href });
+  const idx = notes.length;
+  noteIndex.set(href, idx);
+  return idx;
+}
+
+const prefRef = noteRef(`Préfecture — ${dep.nom}`, dep.prefecture_url);
+noteRef(dep.fdc_nom, dep.fdc_url);
 let ouvertureRef = 0;
 if (periodes) {
-  notes.push({ label: periodes.ouverture_generale.source_label, href: periodes.ouverture_generale.source_url });
-  ouvertureRef = notes.length;
-  notes.push({
-    label: `Ensemble des arrêtés préfectoraux ${periodes.saison} (${periodes.arretes_officiels.length} arrêtés) — ${dep.nom}`,
-    href: dep.prefecture_url,
-  });
+  ouvertureRef = noteRef(periodes.ouverture_generale.source_label, periodes.ouverture_generale.source_url);
 }
+
+const especeParDepartement = new Map((periodes?.especes ?? []).map((e) => [e.slug, e]));
+
+const especeViews = especesDataset.especes.map((e) => {
+  const slug = SLUGS[e.nom];
+  const svg = slug ? icons[`../../icons/especes/${slug}.svg`] ?? null : null;
+  const data = slug ? especeParDepartement.get(slug) : undefined;
+  let ref: number;
+  let statut: string;
+  if (data?.prelevement_max) {
+    ref = noteRef(data.prelevement_max.source_label, data.prelevement_max.source_url);
+    statut = data.prelevement_max.valeur
+      ? `Quota : ${data.prelevement_max.valeur} ${data.prelevement_max.unite ?? ''}`.trim()
+      : 'Quota fixé par arrêté';
+  } else {
+    ref = ouvertureRef || prefRef;
+    statut = "Chassable — règles générales d'ouverture";
+  }
+  return { nom: e.nom, slug, svg, statut, ref };
+});
 ---
 <Base title={`Chasse en ${dep.nom} (${dep.code})`} description={`Dates d'ouverture et de fermeture, quotas et arrêtés de la chasse en ${dep.nom}.`}>
+  <div class="especes-banner-wrap">
+    <div class="wrap">
+      <div class="especes-banner" role="group" aria-label="Filtrer par espèce">
+        {especeViews.map((e) => (
+          <button type="button" class="espece-btn" data-slug={e.slug} aria-pressed="false" aria-label={e.nom} title={e.nom}>
+            <span class="espece-btn-icon" set:html={e.svg ?? '<span aria-hidden="true">—</span>'} />
+          </button>
+        ))}
+      </div>
+    </div>
+  </div>
+
   <div class="wrap fiche">
     <nav class="breadcrumb"><a href="/">Accueil</a><span>/</span><a href="/">Départements</a><span>/</span>{dep.nom}</nav>
 
@@ -64,26 +104,35 @@ if (periodes) {
         {periodes && (
           <p class="fiche-sources">
             Saison {periodes.saison}
-            <sup><a class="footnote-ref" href="#s1">1</a></sup>
-            <sup><a class="footnote-ref" href="#s2">2</a></sup>
           </p>
         )}
       </div>
     </header>
 
-    {periodes ? (
-      <div class="stat-grid">
+    <div id="vue-generale">
+      {periodes ? (
+        <div class="stat-grid">
+          <div class="stat-card accent">
+            <p class="stat-label">Ouverture générale</p>
+            <p class="stat-value">{formatDate(periodes.ouverture_generale.date)}<sup><a class="footnote-ref" href={`#s${ouvertureRef}`}>{ouvertureRef}</a></sup></p>
+          </div>
+        </div>
+      ) : (
+        <div class="empty">
+          <p><strong>Données en cours de collecte</strong> pour ce département.</p>
+          <p>Sources ci-dessous.</p>
+        </div>
+      )}
+    </div>
+
+    {especeViews.map((e) => (
+      <div class="espece-detail" data-slug={e.slug} hidden>
         <div class="stat-card accent">
-          <p class="stat-label">Ouverture générale</p>
-          <p class="stat-value">{formatDate(periodes.ouverture_generale.date)}<sup><a class="footnote-ref" href={`#s${ouvertureRef}`}>{ouvertureRef}</a></sup></p>
+          <p class="stat-label">{e.nom}</p>
+          <p class="stat-value">{e.statut}<sup><a class="footnote-ref" href={`#s${e.ref}`}>{e.ref}</a></sup></p>
         </div>
       </div>
-    ) : (
-      <div class="empty">
-        <p><strong>Données en cours de collecte</strong> pour ce département.</p>
-        <p>Sources ci-dessous.</p>
-      </div>
-    )}
+    ))}
 
     <section class="sources" id="sources">
       <p>Sources</p>
@@ -94,4 +143,27 @@ if (periodes) {
       </ol>
     </section>
   </div>
+
+  <script>
+    const buttons = Array.from(document.querySelectorAll<HTMLButtonElement>('.espece-btn'));
+    const generale = document.getElementById('vue-generale')!;
+    const details = Array.from(document.querySelectorAll<HTMLElement>('.espece-detail'));
+    const selected = new Set<string>();
+
+    function render() {
+      buttons.forEach((b) => {
+        const on = selected.has(b.dataset.slug!);
+        b.setAttribute('aria-pressed', on ? 'true' : 'false');
+        b.classList.toggle('active', on);
+      });
+      details.forEach((d) => { d.hidden = !selected.has(d.dataset.slug!); });
+      generale.hidden = selected.size > 0;
+    }
+
+    buttons.forEach((b) => b.addEventListener('click', () => {
+      const slug = b.dataset.slug!;
+      if (selected.has(slug)) selected.delete(slug); else selected.add(slug);
+      render();
+    }));
+  </script>
 </Base>
