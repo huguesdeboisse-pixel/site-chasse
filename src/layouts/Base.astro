@@ -1,4 +1,10 @@
 ---
+import '@fontsource/public-sans/400.css';
+import '@fontsource/public-sans/500.css';
+import '@fontsource/public-sans/600.css';
+import '@fontsource/public-sans/700.css';
+import '@fontsource/spectral/600.css';
+
 interface Props { title?: string; description?: string; }
 const {
   title = "Tout pour la chasse — Auvergne-Rhône-Alpes",
@@ -18,8 +24,8 @@ const {
         --bg:#f7f6f1; --surface:#ffffff; --ink:#1b2a23; --muted:#6c7268; --line:#e6e3da;
         --green-900:#14342a; --green-700:#2d6a4f; --green-600:#3f8f6b; --green-50:#eaf3ee;
         --accent:#a8562c; --chip:#eef2ec; --radius:14px;
-        --sans:system-ui,-apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
-        --serif:"Iowan Old Style","Palatino Linotype",Palatino,"Book Antiqua",Georgia,serif;
+        --sans:"Public Sans",system-ui,-apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+        --serif:"Spectral","Iowan Old Style","Palatino Linotype",Palatino,"Book Antiqua",Georgia,serif;
       }
       *{box-sizing:border-box;}
       html{scroll-behavior:smooth;}

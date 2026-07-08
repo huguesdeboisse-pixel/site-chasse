@@ -11,6 +11,8 @@
     "check": "astro check"
   },
   "dependencies": {
+    "@fontsource/public-sans": "^5.2.7",
+    "@fontsource/spectral": "^5.2.8",
     "astro": "^4.15.0"
   },
   "devDependencies": {
