@@ -1,4 +1,4 @@
-# Site de référence chasse — pilote Auvergne-Rhône-Alpes
+# Site de référence chasse — France entière
 
 Site statique **Astro** déployé sur **Netlify**. Les données sont versionnées dans `src/data/` et chaque donnée porte sa source officielle.
 
@@ -26,7 +26,7 @@ npm run build   # génère le dossier dist/
 
 ## Structure
 
-- `src/data/departements-ara.json` — les 12 départements + sources officielles (FDC, préfecture).
+- `src/data/departements-france.json` — les 101 départements (carte + fiche) + sources officielles connues (FDC, préfecture). Le détail réglementaire réel (`periodes/`) est collecté région par région, pas encore disponible partout.
 - `src/data/especes.json` — liste de référence des espèces.
 - `src/data/periodes/{code}.json` — dates/quotas par département (ex. `74.json`), avec leur source.
 - `src/pages/index.astro` — accueil (liste des départements).
@@ -39,6 +39,6 @@ Règle dure : **aucune donnée sans `source_url` officielle**. Le pipeline (à v
 
 ## Prochaines briques
 
-- Pipeline d'extraction (`pipeline/`) : itérer les 12 départements, parser les arrêtés, remplir `periodes/`.
+- Pipeline d'extraction (`pipeline/`) : itérer les 101 départements, parser les arrêtés, remplir `periodes/`. Aujourd'hui fait à la main, région par région.
 - Comparateur inter-départemental, recherche (Pagefind), carte Leaflet/IGN.
 - Analytics Matomo + bandeau de consentement (RGPD).

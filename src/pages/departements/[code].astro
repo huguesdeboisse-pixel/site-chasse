@@ -1,6 +1,6 @@
 ---
 import Base from '../../layouts/Base.astro';
-import dataset from '../../data/departements-ara.json';
+import dataset from '../../data/departements-france.json';
 import especesDataset from '../../data/especes.json';
 import { SLUGS } from '../../lib/especes';
 
@@ -63,7 +63,9 @@ function noteRef(label: string, href: string): number {
 }
 
 const prefRef = noteRef(`Préfecture — ${dep.nom}`, dep.prefecture_url);
-noteRef(dep.fdc_nom, dep.fdc_url);
+if (dep.fdc_nom && dep.fdc_url) {
+  noteRef(dep.fdc_nom, dep.fdc_url);
+}
 let ouvertureRef = 0;
 if (periodes) {
   ouvertureRef = noteRef(periodes.ouverture_generale.source_label, periodes.ouverture_generale.source_url);
