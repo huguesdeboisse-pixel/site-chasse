@@ -29,6 +29,8 @@ const {
       }
       *{box-sizing:border-box;}
       html{scroll-behavior:smooth;}
+      .sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0;}
+      a:focus-visible,input:focus-visible,.dep-shape:focus-visible{outline:3px solid var(--green-600);outline-offset:2px;}
       body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--sans);line-height:1.6;-webkit-font-smoothing:antialiased;}
       .wrap{max-width:1040px;margin:0 auto;padding:0 20px;}
       a{color:var(--green-700);text-underline-offset:2px;}
@@ -50,19 +52,26 @@ const {
       .hero .lede{margin:0;max-width:60ch;color:#d7ddd2;font-size:1.05rem;}
 
       /* Toolbar / search */
-      .toolbar{margin:1.6rem 0 1rem;}
+      .toolbar{position:relative;margin:1.6rem 0 2rem;max-width:420px;}
       .search{width:100%;padding:.8rem 1rem .8rem 2.6rem;border:1px solid var(--line);border-radius:12px;background:var(--surface) url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='18' height='18' fill='none' stroke='%236c7268' stroke-width='2' stroke-linecap='round'%3E%3Ccircle cx='8' cy='8' r='6'/%3E%3Cpath d='M13 13 L17 17'/%3E%3C/svg%3E") no-repeat .85rem center;font-size:1rem;color:var(--ink);}
       .search:focus{outline:none;border-color:var(--green-600);box-shadow:0 0 0 3px var(--green-50);}
+      .dep-listbox{position:absolute;z-index:10;top:calc(100% + 6px);left:0;right:0;margin:0;padding:.4rem;list-style:none;background:var(--surface);border:1px solid var(--line);border-radius:12px;box-shadow:0 12px 28px rgba(20,52,42,.12);max-height:280px;overflow-y:auto;}
+      .dep-opt{display:flex;align-items:center;gap:.6rem;padding:.55rem .6rem;border-radius:8px;cursor:pointer;font-size:.95rem;}
+      .dep-opt.active,.dep-opt:hover{background:var(--green-50);}
+      .dep-opt-code{flex:none;width:30px;height:30px;display:grid;place-items:center;background:var(--green-50);color:var(--green-700);border-radius:8px;font-weight:700;font-size:.78rem;}
+      .dep-opt.active .dep-opt-code,.dep-opt:hover .dep-opt-code{background:var(--green-600);color:#fff;}
 
-      /* Department grid */
-      .dep-grid{list-style:none;margin:0 0 3rem;padding:0;display:grid;grid-template-columns:repeat(auto-fill,minmax(210px,1fr));gap:14px;}
-      .dep-card a{display:flex;align-items:center;gap:.8rem;background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);padding:1rem 1.1rem;text-decoration:none;color:var(--ink);transition:transform .12s ease,box-shadow .12s ease,border-color .12s ease;}
-      .dep-card a:hover{transform:translateY(-2px);box-shadow:0 8px 22px rgba(20,52,42,.08);border-color:var(--green-600);}
-      .dep-code{flex:none;width:40px;height:40px;display:grid;place-items:center;background:var(--green-50);color:var(--green-700);border-radius:10px;font-weight:700;font-size:.92rem;}
-      .dep-name{font-weight:600;flex:1;}
-      .dep-go{color:var(--muted);font-size:1.1rem;transition:transform .12s ease;}
-      .dep-card a:hover .dep-go{transform:translateX(3px);color:var(--green-700);}
-      .no-results{color:var(--muted);padding:1rem 0 3rem;}
+      /* Department map */
+      .map-figure{margin:0 0 3rem;}
+      .dep-map{width:100%;height:auto;}
+      .dep-shape{cursor:pointer;}
+      .dep-shape path{transition:fill .12s ease;}
+      .dep-shape .tone-a{fill:var(--green-50);}
+      .dep-shape .tone-b{fill:#dcebe2;}
+      .dep-shape:hover path,.dep-shape:focus-visible path{fill:var(--green-600);}
+      .dep-shape text{font-family:var(--sans);font-size:15px;font-weight:700;fill:var(--green-900);text-anchor:middle;dominant-baseline:middle;pointer-events:none;transition:fill .12s ease;}
+      .dep-shape:hover text,.dep-shape:focus-visible text{fill:#fff;}
+      .map-caption{margin:.7rem 0 0;font-size:.82rem;color:var(--muted);text-align:center;}
 
       /* Fiche département */
       .fiche{padding:1.4rem 0 3rem;}
@@ -76,32 +85,33 @@ const {
       .fiche-sources{margin:0;font-size:.9rem;color:var(--muted);}
       .fiche-sources .dot{margin:0 .5rem;color:var(--line);}
 
-      /* Cards & sections */
-      .card{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);padding:1.3rem 1.4rem;margin-bottom:2rem;}
-      .card.ouverture{border-left:4px solid var(--green-600);}
-      .card-label{margin:0 0 .35rem;text-transform:uppercase;letter-spacing:.1em;font-size:.72rem;font-weight:600;color:var(--muted);}
-      .big-date{margin:0;font-family:var(--serif);font-size:1.9rem;font-weight:600;color:var(--green-900);display:flex;align-items:baseline;gap:.1rem;}
+      /* Key-figure stat cards */
+      .stat-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:12px;margin-bottom:2.2rem;}
+      .stat-card{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);padding:1.1rem 1.2rem;}
+      .stat-card.accent{border-left:4px solid var(--green-600);}
+      .stat-label{margin:0 0 .4rem;text-transform:uppercase;letter-spacing:.08em;font-size:.7rem;font-weight:600;color:var(--muted);}
+      .stat-value{margin:0;font-family:var(--serif);font-size:1.6rem;font-weight:600;color:var(--green-900);}
+      .stat-value.ok{color:var(--green-700);}
+      .footnote-ref{font-size:.75em;font-weight:600;text-decoration:none;color:var(--green-700);margin-left:.15em;}
       h2{font-size:1.25rem;margin:0 0 1rem;padding-bottom:.5rem;border-bottom:1px solid var(--line);}
 
-      /* Arrêtés list */
-      .arretes{list-style:none;margin:0;padding:0;}
-      .arrete{display:flex;align-items:center;gap:.9rem;padding:.85rem 0;border-bottom:1px solid var(--line);}
-      .arrete:last-child{border-bottom:none;}
-      .arrete-main{flex:1;min-width:0;}
-      .arrete-objet{display:block;font-weight:600;}
-      .arrete-ref{display:block;font-size:.85rem;color:var(--muted);}
-      .chip{flex:none;font-size:.72rem;font-weight:600;padding:.2rem .55rem;border-radius:999px;text-transform:lowercase;letter-spacing:.02em;}
-      .chip-ok{background:var(--green-50);color:var(--green-700);}
-      .chip-muted{background:#f0efe9;color:var(--muted);}
-
-      /* Discreet source arrow */
-      .src-arrow{display:inline-flex;align-items:center;justify-content:center;width:1.35em;height:1.35em;flex:none;margin-left:.15em;color:var(--muted);text-decoration:none;border-radius:6px;transition:color .12s ease,background .12s ease;vertical-align:middle;}
-      .src-arrow:hover{color:var(--green-700);background:var(--green-50);}
-      .big-date .src-arrow{width:.7em;height:.7em;align-self:flex-start;margin-top:.15em;}
+      /* Sources footnotes */
+      .sources{background:var(--surface);border:1px dashed var(--line);border-radius:var(--radius);padding:1rem 1.2rem;margin-bottom:2rem;}
+      .sources p{margin:0 0 .6rem;text-transform:uppercase;letter-spacing:.08em;font-size:.7rem;font-weight:600;color:var(--muted);}
+      .sources ol{margin:0;padding-left:1.1rem;font-size:.82rem;color:var(--muted);line-height:1.9;}
+      .sources a{color:var(--green-700);}
 
       /* Empty state */
       .empty{background:var(--surface);border:1px dashed var(--line);border-radius:var(--radius);padding:1.6rem;color:var(--muted);}
       .empty strong{color:var(--ink);}
+
+      /* Espèces */
+      .especes-grid{list-style:none;margin:0 0 3rem;padding:0;display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:14px;}
+      .espece-card{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);padding:1.1rem;text-align:center;}
+      .espece-icon{width:64px;height:64px;margin:0 auto .6rem;display:flex;align-items:center;justify-content:center;color:var(--green-700);}
+      .espece-icon svg{width:100%;height:100%;}
+      .espece-nom{font-weight:600;font-size:.92rem;margin:0;}
+      .espece-cat{font-size:.75rem;color:var(--muted);margin:.2rem 0 0;}
 
       /* Prose (methodologie) */
       .prose{padding:2rem 0 3rem;max-width:70ch;}
@@ -137,6 +147,7 @@ const {
         </a>
         <nav class="nav">
           <a href="/">Départements</a>
+          <a href="/especes/">Espèces</a>
         </nav>
       </div>
     </header>

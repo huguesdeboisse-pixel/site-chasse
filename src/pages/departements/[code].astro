@@ -1,6 +1,5 @@
 ---
 import Base from '../../layouts/Base.astro';
-import SourceLink from '../../components/SourceLink.astro';
 import dataset from '../../data/departements-ara.json';
 
 export function getStaticPaths() {
@@ -38,8 +37,21 @@ function formatDate(iso: string){
   const [y,m,d] = iso.split('-').map(Number);
   return `${d} ${MOIS[m-1]} ${y}`;
 }
-function statutClass(s: string){
-  return (s === 'signé' || s === 'en vigueur') ? 'chip-ok' : 'chip-muted';
+
+interface Note { label: string; href: string; }
+const notes: Note[] = [
+  { label: `Préfecture — ${dep.nom}`, href: dep.prefecture_url },
+  { label: dep.fdc_nom, href: dep.fdc_url },
+];
+let ouvertureRef = 0, arretesRef = 0;
+if (periodes) {
+  notes.push({ label: periodes.ouverture_generale.source_label, href: periodes.ouverture_generale.source_url });
+  ouvertureRef = notes.length;
+  notes.push({
+    label: `Ensemble des arrêtés préfectoraux ${periodes.saison} (${periodes.arretes_officiels.length} arrêtés) — ${dep.nom}`,
+    href: dep.prefecture_url,
+  });
+  arretesRef = notes.length;
 }
 ---
 <Base title={`Chasse en ${dep.nom} (${dep.code})`} description={`Dates d'ouverture et de fermeture, quotas et arrêtés de la chasse en ${dep.nom}.`}>
@@ -51,42 +63,44 @@ function statutClass(s: string){
       <div>
         <h1>{dep.nom}</h1>
         <p class="fiche-sources">
-          Sources officielles :
-          <span>Fédération des chasseurs</span><SourceLink href={dep.fdc_url} label={`Site officiel : ${dep.fdc_nom}`} />
-          <span class="dot">·</span>
-          <span>Préfecture</span><SourceLink href={dep.prefecture_url} label="Site de la préfecture (arrêtés)" />
+          {periodes ? `Saison ${periodes.saison}` : 'Sources officielles'}
+          <sup><a class="footnote-ref" href="#s1">1</a></sup>
+          <sup><a class="footnote-ref" href="#s2">2</a></sup>
         </p>
       </div>
     </header>
 
     {periodes ? (
       <>
-        <section class="card ouverture">
-          <p class="card-label">Ouverture générale · saison {periodes.saison}</p>
-          <p class="big-date">{formatDate(periodes.ouverture_generale.date)}<SourceLink href={periodes.ouverture_generale.source_url} label={periodes.ouverture_generale.source_label} /></p>
-        </section>
-
-        <section>
-          <h2>Arrêtés en vigueur</h2>
-          <ul class="arretes">
-            {periodes.arretes_officiels.map((a) => (
-              <li class="arrete">
-                <span class="arrete-main">
-                  <span class="arrete-objet">{a.objet}</span>
-                  <span class="arrete-ref">{a.reference}</span>
-                </span>
-                <span class={`chip ${statutClass(a.statut)}`}>{a.statut}</span>
-                <SourceLink href={a.url_pdf} label={`Ouvrir le PDF officiel — ${a.objet}`} />
-              </li>
-            ))}
-          </ul>
-        </section>
+        <div class="stat-grid">
+          <div class="stat-card accent">
+            <p class="stat-label">Ouverture générale</p>
+            <p class="stat-value">{formatDate(periodes.ouverture_generale.date)}<sup><a class="footnote-ref" href={`#s${ouvertureRef}`}>{ouvertureRef}</a></sup></p>
+          </div>
+          <div class="stat-card">
+            <p class="stat-label">Arrêtés en vigueur</p>
+            <p class="stat-value">{periodes.arretes_officiels.length}<sup><a class="footnote-ref" href={`#s${arretesRef}`}>{arretesRef}</a></sup></p>
+          </div>
+          <div class="stat-card">
+            <p class="stat-label">Confiance de la donnée</p>
+            <p class="stat-value ok">{periodes.ouverture_generale.confiance}<sup><a class="footnote-ref" href={`#s${ouvertureRef}`}>{ouvertureRef}</a></sup></p>
+          </div>
+        </div>
       </>
     ) : (
       <div class="empty">
         <p><strong>Données en cours de collecte</strong> pour ce département.</p>
-        <p>En attendant, consultez les sources officielles ci-dessus, qui font foi.</p>
+        <p>En attendant, consultez les sources officielles ci-dessous, qui font foi.</p>
       </div>
     )}
+
+    <section class="sources" id="sources">
+      <p>Sources</p>
+      <ol>
+        {notes.map((n, i) => (
+          <li id={`s${i + 1}`}>{n.label} — <a href={n.href} target="_blank" rel="noopener noreferrer">consulter ↗</a></li>
+        ))}
+      </ol>
+    </section>
   </div>
 </Base>

@@ -1,6 +1,7 @@
 ---
 import Base from '../layouts/Base.astro';
 import dataset from '../data/departements-ara.json';
+import carte from '../data/carte-aura.json';
 const deps = dataset.departements;
 ---
 <Base title="Tout pour la chasse — Auvergne-Rhône-Alpes">
@@ -14,36 +15,136 @@ const deps = dataset.departements;
 
   <div class="wrap">
     <div class="toolbar">
-      <input id="dep-search" class="search" type="search" placeholder="Rechercher un département (nom ou numéro)…" aria-label="Rechercher un département" autocomplete="off" />
+      <label for="dep-search" class="sr-only">Rechercher un département par nom ou numéro</label>
+      <input
+        id="dep-search"
+        class="search"
+        type="text"
+        role="combobox"
+        aria-expanded="false"
+        aria-controls="dep-listbox"
+        aria-autocomplete="list"
+        autocomplete="off"
+        placeholder="Rechercher un département (nom ou numéro)…"
+      />
+      <ul id="dep-listbox" class="dep-listbox" role="listbox" hidden></ul>
     </div>
 
-    <ul class="dep-grid" id="dep-grid">
-      {deps.map((d) => (
-        <li class="dep-card" data-name={d.nom.toLowerCase()} data-code={d.code}>
-          <a href={`/departements/${d.code}/`}>
-            <span class="dep-code">{d.code}</span>
-            <span class="dep-name">{d.nom}</span>
-            <span class="dep-go" aria-hidden="true">&rarr;</span>
+    <figure class="map-figure">
+      <svg viewBox={`0 0 ${carte.width} ${carte.height}`} class="dep-map" role="img" aria-label="Carte des 12 départements d'Auvergne-Rhône-Alpes, chaque forme est un lien vers la fiche du département">
+        {Object.entries(carte.departements).map(([code, d], i) => (
+          <a href={`/departements/${code}/`} class="dep-shape" aria-label={`${d.nom} (${code})`}>
+            <path d={d.path} class={i % 2 === 0 ? 'tone-a' : 'tone-b'} />
+            <text x={d.labelX} y={d.labelY}>{code}</text>
           </a>
-        </li>
-      ))}
-    </ul>
-    <p class="no-results" id="no-results" hidden>Aucun département ne correspond à votre recherche.</p>
+        ))}
+      </svg>
+      <figcaption class="map-caption">Contours officiels IGN, simplifiés · <a href="/methodologie/">source &amp; méthode</a></figcaption>
+    </figure>
   </div>
 
-  <script is:inline>
+  <script define:vars={{ deps }} is:inline>
+    function normalize(s) {
+      return s.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase().trim();
+    }
+
+    function levenshtein(a, b) {
+      const m = a.length, n = b.length;
+      const dp = [];
+      for (let i = 0; i <= m; i++) { dp.push(new Array(n + 1).fill(0)); dp[i][0] = i; }
+      for (let j = 0; j <= n; j++) dp[0][j] = j;
+      for (let i = 1; i <= m; i++) {
+        for (let j = 1; j <= n; j++) {
+          dp[i][j] = a[i - 1] === b[j - 1]
+            ? dp[i - 1][j - 1]
+            : 1 + Math.min(dp[i - 1][j - 1], dp[i - 1][j], dp[i][j - 1]);
+        }
+      }
+      return dp[m][n];
+    }
+
+    function getCandidates(query) {
+      const q = normalize(query);
+      if (!q) return [];
+      const scored = [];
+      for (const d of deps) {
+        const name = normalize(d.nom);
+        if (d.code === q || d.code.startsWith(q)) { scored.push({ ...d, tier: 0, dist: 0 }); continue; }
+        if (name.includes(q)) { scored.push({ ...d, tier: name.startsWith(q) ? 0 : 1, dist: 0 }); continue; }
+        const words = name.split(/\s+/);
+        const dist = Math.min(levenshtein(q, name), ...words.map((w) => levenshtein(q, w)));
+        const threshold = Math.max(1, Math.floor(q.length / 3));
+        if (dist <= threshold) scored.push({ ...d, tier: 2, dist });
+      }
+      scored.sort((a, b) => a.tier - b.tier || a.dist - b.dist || a.nom.localeCompare(b.nom));
+      return scored.slice(0, 6);
+    }
+
     const input = document.getElementById('dep-search');
-    const cards = Array.from(document.querySelectorAll('.dep-card'));
-    const noRes = document.getElementById('no-results');
-    input && input.addEventListener('input', () => {
-      const q = input.value.trim().toLowerCase();
-      let visible = 0;
-      cards.forEach((c) => {
-        const match = c.dataset.name.includes(q) || c.dataset.code.includes(q);
-        c.hidden = !match;
-        if (match) visible++;
+    const listbox = document.getElementById('dep-listbox');
+    let candidates = [];
+    let activeIndex = -1;
+
+    function render() {
+      listbox.innerHTML = '';
+      candidates.forEach((d, i) => {
+        const li = document.createElement('li');
+        li.id = `dep-opt-${d.code}`;
+        li.role = 'option';
+        li.className = 'dep-opt' + (i === activeIndex ? ' active' : '');
+        li.setAttribute('aria-selected', i === activeIndex ? 'true' : 'false');
+        li.innerHTML = `<span class="dep-opt-code">${d.code}</span><span>${d.nom}</span>`;
+        li.addEventListener('mousedown', (e) => {
+          e.preventDefault();
+          navigate(d);
+        });
+        listbox.appendChild(li);
       });
-      noRes.hidden = visible > 0;
+      const open = candidates.length > 0;
+      listbox.hidden = !open;
+      input.setAttribute('aria-expanded', open ? 'true' : 'false');
+      input.setAttribute('aria-activedescendant', activeIndex >= 0 ? `dep-opt-${candidates[activeIndex].code}` : '');
+    }
+
+    function navigate(d) {
+      window.location.href = `/departements/${d.code}/`;
+    }
+
+    input.addEventListener('input', () => {
+      candidates = getCandidates(input.value);
+      activeIndex = -1;
+      render();
+    });
+
+    input.addEventListener('keydown', (e) => {
+      if (e.key === 'ArrowDown') {
+        e.preventDefault();
+        if (candidates.length === 0) return;
+        activeIndex = Math.min(activeIndex + 1, candidates.length - 1);
+        render();
+      } else if (e.key === 'ArrowUp') {
+        e.preventDefault();
+        activeIndex = Math.max(activeIndex - 1, -1);
+        render();
+      } else if (e.key === 'Enter') {
+        if (activeIndex >= 0) {
+          navigate(candidates[activeIndex]);
+        } else if (candidates.length === 1) {
+          navigate(candidates[0]);
+        }
+      } else if (e.key === 'Escape') {
+        candidates = [];
+        activeIndex = -1;
+        render();
+      }
+    });
+
+    document.addEventListener('click', (e) => {
+      if (!e.target.closest('.toolbar')) {
+        candidates = [];
+        activeIndex = -1;
+        render();
+      }
     });
   </script>
 </Base>

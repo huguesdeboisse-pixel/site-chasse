@@ -1,0 +1,54 @@
+---
+import Base from '../layouts/Base.astro';
+import dataset from '../data/especes.json';
+
+const SLUGS: Record<string, string> = {
+  'Cerf élaphe': 'cerf-elaphe',
+  'Chevreuil': 'chevreuil',
+  'Sanglier': 'sanglier',
+  'Chamois': 'chamois',
+  'Mouflon méditerranéen': 'mouflon-mediterraneen',
+  "Lièvre d'Europe": 'lievre-europe',
+  'Lapin de garenne': 'lapin-garenne',
+  'Perdrix rouge': 'perdrix-rouge',
+  'Perdrix grise': 'perdrix-grise',
+  'Faisan commun': 'faisan-commun',
+  'Canard colvert': 'canard-colvert',
+  'Bécasse des bois': 'becasse-bois',
+  'Grive draine': 'grive-draine',
+  'Pigeon ramier': 'pigeon-ramier',
+  'Caille des blés': 'caille-bles',
+  'Tétras-lyre': 'tetras-lyre',
+  'Lagopède alpin': 'lagopede-alpin',
+  'Perdrix bartavelle': 'perdrix-bartavelle',
+};
+
+const icons = import.meta.glob('../icons/especes/*.svg', { eager: true, query: '?raw', import: 'default' }) as Record<string, string>;
+
+function iconFor(nom: string) {
+  const slug = SLUGS[nom];
+  if (!slug) return null;
+  return icons[`../icons/especes/${slug}.svg`] ?? null;
+}
+---
+<Base title="Espèces chassables — Auvergne-Rhône-Alpes" description="Référentiel des espèces chassables : grand gibier, petit gibier sédentaire, gibier d'eau, oiseaux de passage et galliformes de montagne.">
+  <div class="wrap prose">
+    <h1>Espèces chassables</h1>
+    <p>Référentiel national des espèces, indépendant des dates et quotas par département (à venir dans le pipeline de données). {dataset.note}</p>
+  </div>
+
+  <div class="wrap">
+    <ul class="especes-grid">
+      {dataset.especes.map((e) => {
+        const svg = iconFor(e.nom);
+        return (
+          <li class="espece-card">
+            <div class="espece-icon" set:html={svg ?? '<span aria-hidden="true">—</span>'} />
+            <p class="espece-nom">{e.nom}</p>
+            <p class="espece-cat">{e.categorie}</p>
+          </li>
+        );
+      })}
+    </ul>
+  </div>
+</Base>
