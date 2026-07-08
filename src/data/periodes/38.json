@@ -10,14 +10,63 @@
     "confiance": "haute"
   },
   "arretes_officiels": [
-    { "objet": "Ouverture et clôture 2026-2027", "reference": "AP n°38-2026-06-23-00014 (23 juin 2026)", "url_pdf": "https://www.isere.gouv.fr/contenu/telechargement/83920/644203/file/AP_ouverture%20cloture%20CHASSE_2026_2027%20.pdf", "statut": "signé" },
-    { "objet": "Quotas plan de chasse grand gibier 2026-2027", "reference": "AP n°38-2026-03-27-00004 (27 mars 2026)", "url_pdf": "https://www.isere.gouv.fr/contenu/telechargement/82723/636949/file/AP%20MinMax%2020260327%202026_2027.pdf", "statut": "signé" }
+    {
+      "objet": "Ouverture et clôture 2026-2027",
+      "reference": "AP n°38-2026-06-23-00014 (23 juin 2026)",
+      "url_pdf": "https://www.isere.gouv.fr/contenu/telechargement/83920/644203/file/AP_ouverture%20cloture%20CHASSE_2026_2027%20.pdf",
+      "statut": "signé"
+    },
+    {
+      "objet": "Quotas plan de chasse grand gibier 2026-2027",
+      "reference": "AP n°38-2026-03-27-00004 (27 mars 2026)",
+      "url_pdf": "https://www.isere.gouv.fr/contenu/telechargement/82723/636949/file/AP%20MinMax%2020260327%202026_2027.pdf",
+      "statut": "signé"
+    }
   ],
   "especes": [
-    { "slug": "cerf-elaphe", "statut": "chassable", "prelevement": { "detail": "953 à 1907 (total département, par pays cerf)", "source_url": "https://www.isere.gouv.fr/contenu/telechargement/82723/636949/file/AP%20MinMax%2020260327%202026_2027.pdf", "source_label": "Quotas plan de chasse grand gibier 2026-2027 (AP n°38-2026-03-27-00004)" } },
-    { "slug": "chevreuil", "statut": "chassable", "prelevement": { "detail": "4565 à 9121 (total département, par unité de gestion)", "source_url": "https://www.isere.gouv.fr/contenu/telechargement/82723/636949/file/AP%20MinMax%2020260327%202026_2027.pdf", "source_label": "Quotas plan de chasse grand gibier 2026-2027 (AP n°38-2026-03-27-00004)" } },
-    { "slug": "chamois", "statut": "chassable", "prelevement": { "detail": "1175 à 2392 (total département, par unité de gestion)", "source_url": "https://www.isere.gouv.fr/contenu/telechargement/82723/636949/file/AP%20MinMax%2020260327%202026_2027.pdf", "source_label": "Quotas plan de chasse grand gibier 2026-2027 (AP n°38-2026-03-27-00004)" } },
-    { "slug": "mouflon-mediterraneen", "statut": "chassable", "prelevement": { "detail": "153 à 293 (total département, par unité de gestion)", "source_url": "https://www.isere.gouv.fr/contenu/telechargement/82723/636949/file/AP%20MinMax%2020260327%202026_2027.pdf", "source_label": "Quotas plan de chasse grand gibier 2026-2027 (AP n°38-2026-03-27-00004)" } },
-    { "slug": "sanglier", "statut": "chassable" }
+    {
+      "slug": "cerf-elaphe",
+      "faits": [
+        {
+          "label": "Quota",
+          "detail": "953 à 1907 (total département, par pays cerf)",
+          "source_url": "https://www.isere.gouv.fr/contenu/telechargement/82723/636949/file/AP%20MinMax%2020260327%202026_2027.pdf",
+          "source_label": "Quotas plan de chasse grand gibier 2026-2027 (AP n°38-2026-03-27-00004)"
+        }
+      ]
+    },
+    {
+      "slug": "chevreuil",
+      "faits": [
+        {
+          "label": "Quota",
+          "detail": "4565 à 9121 (total département, par unité de gestion)",
+          "source_url": "https://www.isere.gouv.fr/contenu/telechargement/82723/636949/file/AP%20MinMax%2020260327%202026_2027.pdf",
+          "source_label": "Quotas plan de chasse grand gibier 2026-2027 (AP n°38-2026-03-27-00004)"
+        }
+      ]
+    },
+    {
+      "slug": "chamois",
+      "faits": [
+        {
+          "label": "Quota",
+          "detail": "1175 à 2392 (total département, par unité de gestion)",
+          "source_url": "https://www.isere.gouv.fr/contenu/telechargement/82723/636949/file/AP%20MinMax%2020260327%202026_2027.pdf",
+          "source_label": "Quotas plan de chasse grand gibier 2026-2027 (AP n°38-2026-03-27-00004)"
+        }
+      ]
+    },
+    {
+      "slug": "mouflon-mediterraneen",
+      "faits": [
+        {
+          "label": "Quota",
+          "detail": "153 à 293 (total département, par unité de gestion)",
+          "source_url": "https://www.isere.gouv.fr/contenu/telechargement/82723/636949/file/AP%20MinMax%2020260327%202026_2027.pdf",
+          "source_label": "Quotas plan de chasse grand gibier 2026-2027 (AP n°38-2026-03-27-00004)"
+        }
+      ]
+    }
   ]
 }

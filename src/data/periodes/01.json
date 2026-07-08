@@ -10,12 +10,17 @@
     "confiance": "haute"
   },
   "arretes_officiels": [
-    { "objet": "Campagne cynégétique 2026-2027", "reference": "AP du 27 mars 2026", "url_pdf": "https://www.ain.gouv.fr/contenu/telechargement/35532/248002/file/20260327ApCampagneCynegetique2026-2027CompletSigneRaa.pdf", "statut": "signé" },
-    { "objet": "Prélèvements minima/maxima grand gibier 2026-2027", "reference": "AP du 2 avril 2026", "url_pdf": "https://www.ain.gouv.fr/contenu/telechargement/35534/248012/file/20260402ApPrelevementsMiniMaxiGrandGibier2026-2027SigneRaa.pdf", "statut": "signé" }
-  ],
-  "especes": [
-    { "slug": "cerf-elaphe", "statut": "chassable" },
-    { "slug": "chevreuil", "statut": "chassable" },
-    { "slug": "sanglier", "statut": "chassable" }
+    {
+      "objet": "Campagne cynégétique 2026-2027",
+      "reference": "AP du 27 mars 2026",
+      "url_pdf": "https://www.ain.gouv.fr/contenu/telechargement/35532/248002/file/20260327ApCampagneCynegetique2026-2027CompletSigneRaa.pdf",
+      "statut": "signé"
+    },
+    {
+      "objet": "Prélèvements minima/maxima grand gibier 2026-2027",
+      "reference": "AP du 2 avril 2026",
+      "url_pdf": "https://www.ain.gouv.fr/contenu/telechargement/35534/248012/file/20260402ApPrelevementsMiniMaxiGrandGibier2026-2027SigneRaa.pdf",
+      "statut": "signé"
+    }
   ]
 }

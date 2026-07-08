@@ -10,12 +10,43 @@
     "confiance": "haute"
   },
   "arretes_officiels": [
-    { "objet": "Ouverture et clôture 2026-2027", "reference": "AP SPADR/LCPT n°2026-0785 (12 juin 2026)", "url_pdf": "https://www.savoie.gouv.fr/contenu/telechargement/54879/434834/file/APsigne_2026_0785%20ouverture%20cloture%20chasse%202026_2027.pdf", "statut": "signé" }
+    {
+      "objet": "Ouverture et clôture 2026-2027",
+      "reference": "AP SPADR/LCPT n°2026-0785 (12 juin 2026)",
+      "url_pdf": "https://www.savoie.gouv.fr/contenu/telechargement/54879/434834/file/APsigne_2026_0785%20ouverture%20cloture%20chasse%202026_2027.pdf",
+      "statut": "signé"
+    },
+    {
+      "objet": "Classement ESOD groupe 3 (sanglier, lapin de garenne)",
+      "reference": "AP DDT/SPADR n°2025-0696 (2025-2026)",
+      "url_pdf": "https://www.savoie.gouv.fr/contenu/telechargement/50836/406129/file/AP%202025-0696%20ESOD_%20groupe3_%20annexe.pdf",
+      "statut": "en vigueur jusqu'au 30 juin 2026"
+    }
   ],
   "especes": [
-    { "slug": "cerf-elaphe", "statut": "chassable" },
-    { "slug": "chevreuil", "statut": "chassable" },
-    { "slug": "chamois", "statut": "chassable" },
-    { "slug": "sanglier", "statut": "chassable" }
+    {
+      "slug": "sanglier",
+      "faits": [
+        {
+          "label": "Statut",
+          "detail": "Classé ESOD (espèce susceptible d'occasionner des dégâts), ensemble du département — destruction par tir possible toute l'année sur autorisation préfectorale individuelle",
+          "saison": "2025-2026",
+          "source_url": "https://www.savoie.gouv.fr/contenu/telechargement/50836/406129/file/AP%202025-0696%20ESOD_%20groupe3_%20annexe.pdf",
+          "source_label": "Arrêté ESOD groupe 3 n°2025-0696, en vigueur jusqu'au 30 juin 2026"
+        }
+      ]
+    },
+    {
+      "slug": "lapin-garenne",
+      "faits": [
+        {
+          "label": "Statut",
+          "detail": "Classé ESOD (espèce susceptible d'occasionner des dégâts), ensemble du département",
+          "saison": "2025-2026",
+          "source_url": "https://www.savoie.gouv.fr/contenu/telechargement/50836/406129/file/AP%202025-0696%20ESOD_%20groupe3_%20annexe.pdf",
+          "source_label": "Arrêté ESOD groupe 3 n°2025-0696, en vigueur jusqu'au 30 juin 2026"
+        }
+      ]
+    }
   ]
 }

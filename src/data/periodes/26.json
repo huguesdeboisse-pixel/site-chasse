@@ -10,17 +10,68 @@
     "confiance": "haute"
   },
   "arretes_officiels": [
-    { "objet": "Dates d'ouverture-fermeture et modalités d'exercice 2026-2027", "reference": "AP n°26-2026-06-25-00008 (25 juin 2026)", "url_pdf": "https://www.chasseurs-drome.fr/download_file/c4393ea5-76ea-4b54-9bba-194fb3244441/1185", "statut": "signé" }
+    {
+      "objet": "Dates d'ouverture-fermeture et modalités d'exercice 2026-2027",
+      "reference": "AP n°26-2026-06-25-00008 (25 juin 2026)",
+      "url_pdf": "https://www.chasseurs-drome.fr/download_file/c4393ea5-76ea-4b54-9bba-194fb3244441/1185",
+      "statut": "signé"
+    }
   ],
   "especes": [
-    { "slug": "lievre-europe", "statut": "chassable", "prelevement": { "detail": "Ouvert du 13 septembre 2026 au 10 janvier 2027 (selon plan de gestion cynégétique par GGC)", "source_url": "https://www.chasseurs-drome.fr/download_file/c4393ea5-76ea-4b54-9bba-194fb3244441/1185", "source_label": "Arrêté préfectoral n°26-2026-06-25-00008, saison 2026-2027" } },
-    { "slug": "lapin-garenne", "statut": "chassable", "prelevement": { "detail": "Ouvert du 13 septembre 2026 au 10 janvier 2027", "source_url": "https://www.chasseurs-drome.fr/download_file/c4393ea5-76ea-4b54-9bba-194fb3244441/1185", "source_label": "Arrêté préfectoral n°26-2026-06-25-00008, saison 2026-2027" } },
-    { "slug": "perdrix-rouge", "statut": "chassable", "prelevement": { "detail": "Ouvert du 13 septembre 2026 au 13 décembre 2026 (tir à l'affût, à l'agrainée ou près d'un abreuvoir interdit)", "source_url": "https://www.chasseurs-drome.fr/download_file/c4393ea5-76ea-4b54-9bba-194fb3244441/1185", "source_label": "Arrêté préfectoral n°26-2026-06-25-00008, saison 2026-2027" } },
-    { "slug": "perdrix-grise", "statut": "chassable", "prelevement": { "detail": "Ouvert du 13 septembre 2026 au 13 décembre 2026 (tir à l'affût, à l'agrainée ou près d'un abreuvoir interdit)", "source_url": "https://www.chasseurs-drome.fr/download_file/c4393ea5-76ea-4b54-9bba-194fb3244441/1185", "source_label": "Arrêté préfectoral n°26-2026-06-25-00008, saison 2026-2027" } },
-    { "slug": "faisan-commun", "statut": "chassable", "prelevement": { "detail": "Ouvert du 13 septembre 2026 au 13 décembre 2026", "source_url": "https://www.chasseurs-drome.fr/download_file/c4393ea5-76ea-4b54-9bba-194fb3244441/1185", "source_label": "Arrêté préfectoral n°26-2026-06-25-00008, saison 2026-2027" } },
-    { "slug": "sanglier", "statut": "chassable" },
-    { "slug": "chevreuil", "statut": "chassable" },
-    { "slug": "cerf-elaphe", "statut": "chassable" },
-    { "slug": "chamois", "statut": "chassable" }
+    {
+      "slug": "lievre-europe",
+      "faits": [
+        {
+          "label": "Dates spécifiques",
+          "detail": "Ouvert du 13 septembre 2026 au 10 janvier 2027 (selon plan de gestion cynégétique par GGC)",
+          "source_url": "https://www.chasseurs-drome.fr/download_file/c4393ea5-76ea-4b54-9bba-194fb3244441/1185",
+          "source_label": "Arrêté préfectoral n°26-2026-06-25-00008, saison 2026-2027"
+        }
+      ]
+    },
+    {
+      "slug": "lapin-garenne",
+      "faits": [
+        {
+          "label": "Dates spécifiques",
+          "detail": "Ouvert du 13 septembre 2026 au 10 janvier 2027",
+          "source_url": "https://www.chasseurs-drome.fr/download_file/c4393ea5-76ea-4b54-9bba-194fb3244441/1185",
+          "source_label": "Arrêté préfectoral n°26-2026-06-25-00008, saison 2026-2027"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-rouge",
+      "faits": [
+        {
+          "label": "Dates spécifiques",
+          "detail": "Ouvert du 13 septembre 2026 au 13 décembre 2026 (tir à l'affût, à l'agrainée ou près d'un abreuvoir interdit)",
+          "source_url": "https://www.chasseurs-drome.fr/download_file/c4393ea5-76ea-4b54-9bba-194fb3244441/1185",
+          "source_label": "Arrêté préfectoral n°26-2026-06-25-00008, saison 2026-2027"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-grise",
+      "faits": [
+        {
+          "label": "Dates spécifiques",
+          "detail": "Ouvert du 13 septembre 2026 au 13 décembre 2026 (tir à l'affût, à l'agrainée ou près d'un abreuvoir interdit)",
+          "source_url": "https://www.chasseurs-drome.fr/download_file/c4393ea5-76ea-4b54-9bba-194fb3244441/1185",
+          "source_label": "Arrêté préfectoral n°26-2026-06-25-00008, saison 2026-2027"
+        }
+      ]
+    },
+    {
+      "slug": "faisan-commun",
+      "faits": [
+        {
+          "label": "Dates spécifiques",
+          "detail": "Ouvert du 13 septembre 2026 au 13 décembre 2026",
+          "source_url": "https://www.chasseurs-drome.fr/download_file/c4393ea5-76ea-4b54-9bba-194fb3244441/1185",
+          "source_label": "Arrêté préfectoral n°26-2026-06-25-00008, saison 2026-2027"
+        }
+      ]
+    }
   ]
 }

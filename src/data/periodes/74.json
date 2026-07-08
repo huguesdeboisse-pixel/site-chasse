@@ -10,21 +10,127 @@
     "confiance": "haute"
   },
   "arretes_officiels": [
-    { "objet": "Ouverture et clôture 2026-2027", "reference": "AP du 26 mai 2026 (DDT-2026-0482)", "url_pdf": "https://www.haute-savoie.gouv.fr/contenu/telechargement/51159/323602/file/ARP0482_2026_ouverture-cloture.pdf", "statut": "signé" },
-    { "objet": "Minima/maxima plan de chasse grand gibier 2026-2027", "reference": "AP du 26 mai 2026 (DDT-2026-0484)", "url_pdf": "https://www.haute-savoie.gouv.fr/contenu/telechargement/51161/323612/file/ARP0484_2026_min-max-grand-gibier.pdf", "statut": "signé" },
-    { "objet": "Plan de chasse tétras-lyre 2026-2027", "reference": "AP du 26 mai 2026 (DDT-2026-0485)", "url_pdf": "https://www.haute-savoie.gouv.fr/contenu/telechargement/51162/323617/file/ARP0485_2026_min-max_TLY.pdf", "statut": "signé" },
-    { "objet": "PMA bécasse des bois", "reference": "Arrêté du 3 août 2011 (DDT-2011-215-0014)", "url_pdf": "https://www.haute-savoie.gouv.fr/contenu/telechargement/3506/17819/file/ARP_pma_becasse_74_2011.pdf", "statut": "en vigueur" },
-    { "objet": "PMA bartavelle et lagopède alpin 2025-2026", "reference": "AP du 11 septembre 2025 (DDT-2025-1295)", "url_pdf": "https://www.haute-savoie.gouv.fr/contenu/telechargement/49317/312507/file/ARP-2025-1295_PMA_lago_barta_signe.pdf", "statut": "campagne 2025-2026 (2026-2027 non encore publié)" }
+    {
+      "objet": "Ouverture et clôture 2026-2027",
+      "reference": "AP du 26 mai 2026 (DDT-2026-0482)",
+      "url_pdf": "https://www.haute-savoie.gouv.fr/contenu/telechargement/51159/323602/file/ARP0482_2026_ouverture-cloture.pdf",
+      "statut": "signé"
+    },
+    {
+      "objet": "Minima/maxima plan de chasse grand gibier 2026-2027",
+      "reference": "AP du 26 mai 2026 (DDT-2026-0484)",
+      "url_pdf": "https://www.haute-savoie.gouv.fr/contenu/telechargement/51161/323612/file/ARP0484_2026_min-max-grand-gibier.pdf",
+      "statut": "signé"
+    },
+    {
+      "objet": "Plan de chasse tétras-lyre 2026-2027",
+      "reference": "AP du 26 mai 2026 (DDT-2026-0485)",
+      "url_pdf": "https://www.haute-savoie.gouv.fr/contenu/telechargement/51162/323617/file/ARP0485_2026_min-max_TLY.pdf",
+      "statut": "signé"
+    },
+    {
+      "objet": "PMA bécasse des bois",
+      "reference": "Arrêté du 3 août 2011 (DDT-2011-215-0014)",
+      "url_pdf": "https://www.haute-savoie.gouv.fr/contenu/telechargement/3506/17819/file/ARP_pma_becasse_74_2011.pdf",
+      "statut": "en vigueur"
+    },
+    {
+      "objet": "PMA bartavelle et lagopède alpin 2025-2026",
+      "reference": "AP du 11 septembre 2025 (DDT-2025-1295)",
+      "url_pdf": "https://www.haute-savoie.gouv.fr/contenu/telechargement/49317/312507/file/ARP-2025-1295_PMA_lago_barta_signe.pdf",
+      "statut": "campagne 2025-2026 (2026-2027 non encore publié)"
+    }
   ],
   "especes": [
-    { "slug": "cerf-elaphe", "statut": "chassable", "prelevement": { "detail": "1139 à 3500 (total département, plan de chasse par unité de gestion)", "source_url": "https://www.haute-savoie.gouv.fr/contenu/telechargement/51161/323612/file/ARP0484_2026_min-max-grand-gibier.pdf", "source_label": "Minima/maxima plan de chasse grand gibier 2026-2027 (DDT-2026-0484)" } },
-    { "slug": "chevreuil", "statut": "chassable", "prelevement": { "detail": "1510 à 3525 (total département, plan de chasse par unité de gestion)", "source_url": "https://www.haute-savoie.gouv.fr/contenu/telechargement/51161/323612/file/ARP0484_2026_min-max-grand-gibier.pdf", "source_label": "Minima/maxima plan de chasse grand gibier 2026-2027 (DDT-2026-0484)" } },
-    { "slug": "sanglier", "statut": "chassable" },
-    { "slug": "chamois", "statut": "chassable", "prelevement": { "detail": "1218 à 3191 (total département, plan de chasse par massif)", "source_url": "https://www.haute-savoie.gouv.fr/contenu/telechargement/51161/323612/file/ARP0484_2026_min-max-grand-gibier.pdf", "source_label": "Minima/maxima plan de chasse grand gibier 2026-2027 (DDT-2026-0484)" } },
-    { "slug": "mouflon-mediterraneen", "statut": "chassable", "prelevement": { "detail": "0 à 75 (total département, plan de chasse par unité de gestion)", "source_url": "https://www.haute-savoie.gouv.fr/contenu/telechargement/51161/323612/file/ARP0484_2026_min-max-grand-gibier.pdf", "source_label": "Minima/maxima plan de chasse grand gibier 2026-2027 (DDT-2026-0484)" } },
-    { "slug": "tetras-lyre", "statut": "chassable", "prelevement": { "detail": "Quota variable selon l'indice de reproduction annuel (0 à 18% des mâles, barème par zone)", "source_url": "https://www.haute-savoie.gouv.fr/contenu/telechargement/51162/323617/file/ARP0485_2026_min-max_TLY.pdf", "source_label": "Plan de chasse tétras-lyre 2026-2027 (DDT-2026-0485)" } },
-    { "slug": "becasse-bois", "statut": "chassable", "prelevement": { "detail": "6 par semaine et par chasseur (ouverture au 31 déc.), puis 3 par semaine (1er janv. à la fermeture)", "source_url": "https://www.haute-savoie.gouv.fr/contenu/telechargement/3506/17819/file/ARP_pma_becasse_74_2011.pdf", "source_label": "PMA bécasse des bois (arrêté du 3 août 2011)" } },
-    { "slug": "perdrix-bartavelle", "statut": "chassable", "prelevement": { "detail": "2 oiseaux par saison et par chasseur (quota départemental : 15)", "saison": "2025-2026", "source_url": "https://www.haute-savoie.gouv.fr/contenu/telechargement/49317/312507/file/ARP-2025-1295_PMA_lago_barta_signe.pdf", "source_label": "PMA bartavelle et lagopède alpin (AP du 11 septembre 2025)" } },
-    { "slug": "lagopede-alpin", "statut": "chassable", "prelevement": { "detail": "0 oiseau (chasse fermée, mauvaise reproduction 2025)", "saison": "2025-2026", "source_url": "https://www.haute-savoie.gouv.fr/contenu/telechargement/49317/312507/file/ARP-2025-1295_PMA_lago_barta_signe.pdf", "source_label": "PMA bartavelle et lagopède alpin (AP du 11 septembre 2025)" } }
+    {
+      "slug": "cerf-elaphe",
+      "faits": [
+        {
+          "label": "Quota",
+          "detail": "1139 à 3500 (total département, plan de chasse par unité de gestion)",
+          "source_url": "https://www.haute-savoie.gouv.fr/contenu/telechargement/51161/323612/file/ARP0484_2026_min-max-grand-gibier.pdf",
+          "source_label": "Minima/maxima plan de chasse grand gibier 2026-2027 (DDT-2026-0484)"
+        }
+      ]
+    },
+    {
+      "slug": "chevreuil",
+      "faits": [
+        {
+          "label": "Quota",
+          "detail": "1510 à 3525 (total département, plan de chasse par unité de gestion)",
+          "source_url": "https://www.haute-savoie.gouv.fr/contenu/telechargement/51161/323612/file/ARP0484_2026_min-max-grand-gibier.pdf",
+          "source_label": "Minima/maxima plan de chasse grand gibier 2026-2027 (DDT-2026-0484)"
+        }
+      ]
+    },
+    {
+      "slug": "chamois",
+      "faits": [
+        {
+          "label": "Quota",
+          "detail": "1218 à 3191 (total département, plan de chasse par massif)",
+          "source_url": "https://www.haute-savoie.gouv.fr/contenu/telechargement/51161/323612/file/ARP0484_2026_min-max-grand-gibier.pdf",
+          "source_label": "Minima/maxima plan de chasse grand gibier 2026-2027 (DDT-2026-0484)"
+        }
+      ]
+    },
+    {
+      "slug": "mouflon-mediterraneen",
+      "faits": [
+        {
+          "label": "Quota",
+          "detail": "0 à 75 (total département, plan de chasse par unité de gestion)",
+          "source_url": "https://www.haute-savoie.gouv.fr/contenu/telechargement/51161/323612/file/ARP0484_2026_min-max-grand-gibier.pdf",
+          "source_label": "Minima/maxima plan de chasse grand gibier 2026-2027 (DDT-2026-0484)"
+        }
+      ]
+    },
+    {
+      "slug": "tetras-lyre",
+      "faits": [
+        {
+          "label": "Quota",
+          "detail": "Quota variable selon l'indice de reproduction annuel (0 à 18% des mâles, barème par zone)",
+          "source_url": "https://www.haute-savoie.gouv.fr/contenu/telechargement/51162/323617/file/ARP0485_2026_min-max_TLY.pdf",
+          "source_label": "Plan de chasse tétras-lyre 2026-2027 (DDT-2026-0485)"
+        }
+      ]
+    },
+    {
+      "slug": "becasse-bois",
+      "faits": [
+        {
+          "label": "Quota",
+          "detail": "6 par semaine et par chasseur (ouverture au 31 déc.), puis 3 par semaine (1er janv. à la fermeture)",
+          "source_url": "https://www.haute-savoie.gouv.fr/contenu/telechargement/3506/17819/file/ARP_pma_becasse_74_2011.pdf",
+          "source_label": "PMA bécasse des bois (arrêté du 3 août 2011)"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-bartavelle",
+      "faits": [
+        {
+          "label": "Quota",
+          "detail": "2 oiseaux par saison et par chasseur (quota départemental : 15)",
+          "source_url": "https://www.haute-savoie.gouv.fr/contenu/telechargement/49317/312507/file/ARP-2025-1295_PMA_lago_barta_signe.pdf",
+          "source_label": "PMA bartavelle et lagopède alpin (AP du 11 septembre 2025)",
+          "saison": "2025-2026"
+        }
+      ]
+    },
+    {
+      "slug": "lagopede-alpin",
+      "faits": [
+        {
+          "label": "Quota",
+          "detail": "0 oiseau (chasse fermée, mauvaise reproduction 2025)",
+          "source_url": "https://www.haute-savoie.gouv.fr/contenu/telechargement/49317/312507/file/ARP-2025-1295_PMA_lago_barta_signe.pdf",
+          "source_label": "PMA bartavelle et lagopède alpin (AP du 11 septembre 2025)",
+          "saison": "2025-2026"
+        }
+      ]
+    }
   ]
 }

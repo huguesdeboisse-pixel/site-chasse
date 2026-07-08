@@ -8,10 +8,17 @@ export function getStaticPaths() {
   return dataset.departements.map((d) => ({ params: { code: d.code }, props: { dep: d } }));
 }
 
+interface Fait {
+  label: string;
+  detail: string;
+  saison?: string;
+  source_url: string;
+  source_label: string;
+}
+
 interface EspecePeriode {
   slug: string;
-  statut: string;
-  prelevement?: { detail: string; saison?: string; source_url: string; source_label: string };
+  faits: Fait[];
 }
 
 interface Periodes {
@@ -64,24 +71,32 @@ if (periodes) {
 
 const especeParDepartement = new Map((periodes?.especes ?? []).map((e) => [e.slug, e]));
 
-const especeViews = especesDataset.especes.map((e) => {
+interface EspeceBannerView { nom: string; slug: string | undefined; svg: string | null; }
+interface EspeceRow { slug: string; titre: string; valeur: string; ref: number; }
+
+const especeViews: EspeceBannerView[] = [];
+const especeRows: EspeceRow[] = [];
+
+for (const e of especesDataset.especes) {
   const slug = SLUGS[e.nom];
   const svg = slug ? icons[`../../icons/especes/${slug}.svg`] ?? null : null;
-  const data = slug ? especeParDepartement.get(slug) : undefined;
-  let ref: number;
-  let statut: string;
-  if (data?.prelevement) {
-    ref = noteRef(data.prelevement.source_label, data.prelevement.source_url);
-    const saisonNote = data.prelevement.saison && data.prelevement.saison !== periodes?.saison
-      ? ` (saison ${data.prelevement.saison}, dernière valeur connue)`
-      : '';
-    statut = `${data.prelevement.detail}${saisonNote}`;
+  especeViews.push({ nom: e.nom, slug, svg });
+  if (!slug) continue;
+
+  const data = especeParDepartement.get(slug);
+  if (data?.faits?.length) {
+    for (const fait of data.faits) {
+      const ref = noteRef(fait.source_label, fait.source_url);
+      const saisonNote = fait.saison && fait.saison !== periodes?.saison
+        ? ` (saison ${fait.saison}, dernière valeur connue)`
+        : '';
+      especeRows.push({ slug, titre: `${e.nom} — ${fait.label}`, valeur: `${fait.detail}${saisonNote}`, ref });
+    }
   } else {
-    ref = ouvertureRef || prefRef;
-    statut = "Chassable — règles générales d'ouverture";
+    const ref = ouvertureRef || prefRef;
+    especeRows.push({ slug, titre: e.nom, valeur: "Chassable — règles générales d'ouverture", ref });
   }
-  return { nom: e.nom, slug, svg, statut, ref };
-});
+}
 ---
 <Base title={`Chasse en ${dep.nom} (${dep.code})`} description={`Dates d'ouverture et de fermeture, quotas et arrêtés de la chasse en ${dep.nom}.`}>
   <div class="wrap">
@@ -127,10 +142,10 @@ const especeViews = especesDataset.especes.map((e) => {
         </div>
       )}
 
-      {especeViews.map((e) => (
-        <div class="info-row espece-row" data-slug={e.slug} hidden>
-          <p class="info-title">{e.nom}</p>
-          <p class="info-value">{e.statut}<sup><a class="footnote-ref" href={`#s${e.ref}`}>{e.ref}</a></sup></p>
+      {especeRows.map((r) => (
+        <div class="info-row espece-row" data-slug={r.slug} hidden>
+          <p class="info-title">{r.titre}</p>
+          <p class="info-value">{r.valeur}<sup><a class="footnote-ref" href={`#s${r.ref}`}>{r.ref}</a></sup></p>
         </div>
       ))}
     </div>
