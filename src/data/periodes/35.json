@@ -1,0 +1,121 @@
+{
+  "departement": "35",
+  "saison": "2026-2027",
+  "licence_source": "Licence ouverte Etalab 2.0",
+  "ouverture_generale": {
+    "date": "2026-09-20",
+    "fermeture": "2027-02-28",
+    "source_url": "https://fdc35.com/download/720/arretes-2026-2027/6890/fdc35-ap_ouverture-cloture_chasse_2026-2027_signe.pdf",
+    "source_label": "Arrêté relatif à l'ouverture et à la clôture de la chasse pour la campagne 2026-2027 en Ille-et-Vilaine (signé le 27 mai 2026 par le secrétaire général de la préfecture, Pierre Larrey)",
+    "confiance": "haute"
+  },
+  "arretes_officiels": [
+    {
+      "objet": "Ouverture et clôture générale 2026-2027",
+      "reference": "Arrêté du 27 mai 2026 (signature Pierre Larrey, secrétaire général de la préfecture d'Ille-et-Vilaine)",
+      "url_pdf": "https://fdc35.com/download/720/arretes-2026-2027/6890/fdc35-ap_ouverture-cloture_chasse_2026-2027_signe.pdf",
+      "statut": "signé"
+    }
+  ],
+  "especes": [
+    {
+      "slug": "sanglier",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Chasse à l'affût, à l'approche ou en battue du 1er juin 2026 au 31 mars 2027, puis période complémentaire de protection des semis du 1er avril au 31 mai 2027 (affût/approche, battue à titre exceptionnel)",
+          "source_url": "https://fdc35.com/download/720/arretes-2026-2027/6890/fdc35-ap_ouverture-cloture_chasse_2026-2027_signe.pdf",
+          "source_label": "Arrêté ouverture-clôture chasse 2026-2027 Ille-et-Vilaine (signé 27 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "chevreuil",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Chasse à l'affût ou à l'approche (tir d'été) du 1er juin au 19 septembre 2026, puis ouverture générale (affût, approche, battue ou devant soi) du 20 septembre 2026 au 28 février 2027",
+          "source_url": "https://fdc35.com/download/720/arretes-2026-2027/6890/fdc35-ap_ouverture-cloture_chasse_2026-2027_signe.pdf",
+          "source_label": "Arrêté ouverture-clôture chasse 2026-2027 Ille-et-Vilaine (signé 27 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "cerf-elaphe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Chasse à l'affût ou à l'approche (tir d'été) du 1er septembre au 19 septembre 2026, puis ouverture générale (affût, approche ou battue) du 20 septembre 2026 au 28 février 2027",
+          "source_url": "https://fdc35.com/download/720/arretes-2026-2027/6890/fdc35-ap_ouverture-cloture_chasse_2026-2027_signe.pdf",
+          "source_label": "Arrêté ouverture-clôture chasse 2026-2027 Ille-et-Vilaine (signé 27 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "lapin-garenne",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Ouverture générale du 20 septembre 2026 au 10 janvier 2027 (avec perdrix rouge et grise)",
+          "source_url": "https://fdc35.com/download/720/arretes-2026-2027/6890/fdc35-ap_ouverture-cloture_chasse_2026-2027_signe.pdf",
+          "source_label": "Arrêté ouverture-clôture chasse 2026-2027 Ille-et-Vilaine (signé 27 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-rouge",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Ouverture générale du 20 septembre 2026 au 10 janvier 2027",
+          "source_url": "https://fdc35.com/download/720/arretes-2026-2027/6890/fdc35-ap_ouverture-cloture_chasse_2026-2027_signe.pdf",
+          "source_label": "Arrêté ouverture-clôture chasse 2026-2027 Ille-et-Vilaine (signé 27 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-grise",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Ouverture générale du 20 septembre 2026 au 10 janvier 2027",
+          "source_url": "https://fdc35.com/download/720/arretes-2026-2027/6890/fdc35-ap_ouverture-cloture_chasse_2026-2027_signe.pdf",
+          "source_label": "Arrêté ouverture-clôture chasse 2026-2027 Ille-et-Vilaine (signé 27 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "faisan-commun",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Ouverture générale du 20 septembre 2026 au 10 janvier 2027",
+          "source_url": "https://fdc35.com/download/720/arretes-2026-2027/6890/fdc35-ap_ouverture-cloture_chasse_2026-2027_signe.pdf",
+          "source_label": "Arrêté ouverture-clôture chasse 2026-2027 Ille-et-Vilaine (signé 27 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "lievre-europe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Zone à plan de chasse : du 18 octobre au 22 novembre 2026. Zone à 1 jour : ouverture le 18 octobre 2026. Zone à 2 jours : les 18 et 25 octobre 2026",
+          "source_url": "https://fdc35.com/download/720/arretes-2026-2027/6890/fdc35-ap_ouverture-cloture_chasse_2026-2027_signe.pdf",
+          "source_label": "Arrêté ouverture-clôture chasse 2026-2027 Ille-et-Vilaine (signé 27 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "becasse-bois",
+      "faits": [
+        {
+          "label": "Prélèvement maximal autorisé",
+          "detail": "Ouverture du 20 septembre 2026 au 20 février 2027. PMA national de 30 oiseaux par saison et par chasseur ; PMA départemental de 3 oiseaux par semaine (du lundi au dimanche). Marquage immédiat à la patte ou déclaration via ChassAdapt, carnet à restituer à la FDC avant le 15 mars 2027",
+          "source_url": "https://fdc35.com/download/720/arretes-2026-2027/6890/fdc35-ap_ouverture-cloture_chasse_2026-2027_signe.pdf",
+          "source_label": "Arrêté ouverture-clôture chasse 2026-2027 Ille-et-Vilaine (signé 27 mai 2026)"
+        }
+      ]
+    }
+  ]
+}

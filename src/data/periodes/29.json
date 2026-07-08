@@ -1,0 +1,145 @@
+{
+  "departement": "29",
+  "saison": "2026-2027",
+  "licence_source": "Licence ouverte Etalab 2.0",
+  "ouverture_generale": {
+    "date": "2026-09-20",
+    "fermeture": "2027-02-28",
+    "source_url": "https://www.fdc29.com/wp-content/uploads/RAA-AP-ouv-clot-2026-2027-1.pdf",
+    "source_label": "Arrêté préfectoral n°29-2026-05-21-00002 fixant l'ouverture et la clôture de la chasse dans le Finistère pour la campagne 2026-2027 (signé le 21 mai 2026)",
+    "confiance": "haute"
+  },
+  "arretes_officiels": [
+    {
+      "objet": "Ouverture et clôture générale 2026-2027",
+      "reference": "AP n°29-2026-05-21-00002 (21 mai 2026)",
+      "url_pdf": "https://www.fdc29.com/wp-content/uploads/RAA-AP-ouv-clot-2026-2027-1.pdf",
+      "statut": "signé"
+    },
+    {
+      "objet": "Classement ESOD groupe 3 (sanglier, lapin de garenne, pigeon ramier)",
+      "reference": "AP n°29-2026-05-21-00004 (21 mai 2026)",
+      "url_pdf": "https://www.fdc29.com/wp-content/uploads/RAA-ESOD-G3-2026.pdf",
+      "statut": "signé"
+    }
+  ],
+  "especes": [
+    {
+      "slug": "sanglier",
+      "faits": [
+        {
+          "label": "Statut",
+          "detail": "Classé ESOD (espèce susceptible d'occasionner des dégâts) sur l'ensemble du département pour la période du 1er juillet 2026 au 30 juin 2027",
+          "source_url": "https://www.fdc29.com/wp-content/uploads/RAA-ESOD-G3-2026.pdf",
+          "source_label": "Arrêté ESOD n°29-2026-05-21-00004 (21 mai 2026)"
+        },
+        {
+          "label": "Ouverture anticipée",
+          "detail": "Du 1er juin au 14 août 2026 (affût, approche ou battue avec autorisation préfectorale), puis du 15 août au 19 septembre 2026 (mêmes modes, sans autorisation individuelle). Ouverture générale du 20 septembre 2026 à 8h30 au 31 mars 2027. Période de récolte (chasse en présence de sangliers sur parcelles agricoles) du 1er juillet au 30 novembre 2026. Période complémentaire de protection des semis du 1er avril au 31 mai 2027. Tir à balle ou à l'arc uniquement, déclaration de prélèvement obligatoire sous 72h",
+          "source_url": "https://www.fdc29.com/wp-content/uploads/RAA-AP-ouv-clot-2026-2027-1.pdf",
+          "source_label": "Arrêté préfectoral n°29-2026-05-21-00002 (21 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "lapin-garenne",
+      "faits": [
+        {
+          "label": "Statut",
+          "detail": "Classé ESOD sur les terrains de pépinières forestières et horticoles, cultures florales et légumières de plein champ, vergers, jeunes reboisements (et zone de 200 m autour), terrains de golf, aérodromes, îles (sauf Ouessant) et domaine public fluvial, pour la période du 1er juillet 2026 au 30 juin 2027",
+          "source_url": "https://www.fdc29.com/wp-content/uploads/RAA-ESOD-G3-2026.pdf",
+          "source_label": "Arrêté ESOD n°29-2026-05-21-00004 (21 mai 2026)"
+        },
+        {
+          "label": "Dates de chasse",
+          "detail": "Ouverture générale du 20 septembre 2026 au 28 février 2027",
+          "source_url": "https://www.fdc29.com/wp-content/uploads/RAA-AP-ouv-clot-2026-2027-1.pdf",
+          "source_label": "Arrêté préfectoral n°29-2026-05-21-00002 (21 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "pigeon-ramier",
+      "faits": [
+        {
+          "label": "Statut",
+          "detail": "Classé ESOD (destruction à tir possible) en tout lieu du département pour la période du 1er juillet 2026 au 30 juin 2027, en complément de la chasse traditionnelle",
+          "source_url": "https://www.fdc29.com/wp-content/uploads/RAA-ESOD-G3-2026.pdf",
+          "source_label": "Arrêté ESOD n°29-2026-05-21-00004 (21 mai 2026)"
+        },
+        {
+          "label": "Restriction saisonnière",
+          "detail": "Du 15 janvier au 10 février 2027, chasse également autorisée au-delà de 17h30 jusqu'à 18h, uniquement à poste fixe matérialisé. Du 11 février au 20 février 2027, chasse uniquement à poste fixe matérialisé, de 9h à 18h30",
+          "source_url": "https://www.fdc29.com/wp-content/uploads/RAA-AP-ouv-clot-2026-2027-1.pdf",
+          "source_label": "Arrêté préfectoral n°29-2026-05-21-00002 (21 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "faisan-commun",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Ouverture générale du 20 septembre 2026 au 1er janvier 2027, sauf communes de Beuzec-Cap-Sizun, Brasparts, Cléden-Cap-Sizun, Commana, Goulien, Lopérec, Plogoff, Pont-de-Buis-lès-Quimerc'h, Primelin et Saint-Rivoal où la clôture est fixée au 11 novembre 2026",
+          "source_url": "https://www.fdc29.com/wp-content/uploads/RAA-AP-ouv-clot-2026-2027-1.pdf",
+          "source_label": "Arrêté préfectoral n°29-2026-05-21-00002 (21 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-rouge",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Ouverture générale du 20 septembre 2026 au 1er janvier 2027, sur l'ensemble du département",
+          "source_url": "https://www.fdc29.com/wp-content/uploads/RAA-AP-ouv-clot-2026-2027-1.pdf",
+          "source_label": "Arrêté préfectoral n°29-2026-05-21-00002 (21 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "lievre-europe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Ouverture générale du 11 octobre au 13 décembre 2026, chasse réservée aux seuls titulaires d'un plan de chasse, marquage obligatoire",
+          "source_url": "https://www.fdc29.com/wp-content/uploads/RAA-AP-ouv-clot-2026-2027-1.pdf",
+          "source_label": "Arrêté préfectoral n°29-2026-05-21-00002 (21 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "chevreuil",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Période anticipée (tir d'été du brocard, soumis à autorisation individuelle) du 1er juin au 19 septembre 2026, puis ouverture générale du 20 septembre 2026 à 8h30 au 28 février 2027. Espèce soumise à plan de chasse, déclaration de prélèvement obligatoire sous 72h",
+          "source_url": "https://www.fdc29.com/wp-content/uploads/RAA-AP-ouv-clot-2026-2027-1.pdf",
+          "source_label": "Arrêté préfectoral n°29-2026-05-21-00002 (21 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "cerf-elaphe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Période anticipée (tir d'été, autorisation individuelle) du 1er septembre au 19 septembre 2026, puis ouverture générale du 20 septembre 2026 à 8h30 au 28 février 2027. Espèce soumise à plan de chasse",
+          "source_url": "https://www.fdc29.com/wp-content/uploads/RAA-AP-ouv-clot-2026-2027-1.pdf",
+          "source_label": "Arrêté préfectoral n°29-2026-05-21-00002 (21 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "becasse-bois",
+      "faits": [
+        {
+          "label": "Prélèvement maximal autorisé",
+          "detail": "PMA de 30 bécasses par chasseur et par saison, et 3 bécasses par chasseur et par semaine (du lundi au dimanche). Marquage à la patte ou déclaration via l'application ChassAdapt obligatoire",
+          "source_url": "https://www.fdc29.com/wp-content/uploads/RAA-AP-ouv-clot-2026-2027-1.pdf",
+          "source_label": "Arrêté préfectoral n°29-2026-05-21-00002 (21 mai 2026)"
+        }
+      ]
+    }
+  ]
+}

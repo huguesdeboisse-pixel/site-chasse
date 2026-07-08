@@ -166,8 +166,8 @@
    "nom": "Côtes-d'Armor",
    "region": "Bretagne",
    "prefecture_url": "https://www.cotes-darmor.gouv.fr",
-   "fdc_nom": null,
-   "fdc_url": null
+   "fdc_nom": "Fédération des Chasseurs des Côtes-d'Armor",
+   "fdc_url": "https://www.fdc22.com"
   },
   {
    "code": "23",
@@ -222,8 +222,8 @@
    "nom": "Finistère",
    "region": "Bretagne",
    "prefecture_url": "https://www.finistere.gouv.fr",
-   "fdc_nom": null,
-   "fdc_url": null
+   "fdc_nom": "Fédération Départementale des Chasseurs du Finistère",
+   "fdc_url": "https://www.fdc29.com"
   },
   {
    "code": "2A",
@@ -286,8 +286,8 @@
    "nom": "Ille-et-Vilaine",
    "region": "Bretagne",
    "prefecture_url": "https://www.ille-et-vilaine.gouv.fr",
-   "fdc_nom": null,
-   "fdc_url": null
+   "fdc_nom": "Fédération Départementale des Chasseurs d'Ille-et-Vilaine",
+   "fdc_url": "https://fdc35.com"
   },
   {
    "code": "36",
@@ -454,8 +454,8 @@
    "nom": "Morbihan",
    "region": "Bretagne",
    "prefecture_url": "https://www.morbihan.gouv.fr",
-   "fdc_nom": null,
-   "fdc_url": null
+   "fdc_nom": "Fédération Départementale des Chasseurs du Morbihan",
+   "fdc_url": "https://www.chasserenbretagne.fr/fdc56/"
   },
   {
    "code": "57",
