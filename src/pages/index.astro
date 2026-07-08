@@ -117,6 +117,7 @@ const deps = dataset.departements;
     }
 
     function navigate(d) {
+      window.trackEvent && window.trackEvent('department_select_search', { code: d.code });
       window.location.href = `/departements/${d.code}/`;
     }
 
@@ -160,6 +161,9 @@ const deps = dataset.departements;
     const tooltip = document.getElementById('map-tooltip');
     const figure = document.querySelector('.map-figure');
     document.querySelectorAll('.dep-shape').forEach((shape) => {
+      shape.addEventListener('click', () => {
+        window.trackEvent && window.trackEvent('department_select_map', { code: shape.getAttribute('href').split('/')[2] });
+      });
       shape.addEventListener('mouseenter', () => {
         const shapeRect = shape.getBoundingClientRect();
         const figureRect = figure.getBoundingClientRect();

@@ -178,4 +178,17 @@ const especeViews = especesDataset.especes.map((e) => {
 
     render();
   </script>
+
+  <script define:vars={{ depCode: dep.code }} is:inline>
+    window.trackEvent && window.trackEvent('department_view', { code: depCode });
+    document.querySelectorAll('.espece-btn').forEach(function (b) {
+      b.addEventListener('click', function () {
+        window.trackEvent && window.trackEvent('species_select', {
+          code: depCode,
+          slug: b.dataset.slug,
+          selected: b.getAttribute('aria-pressed') === 'true',
+        });
+      });
+    });
+  </script>
 </Base>

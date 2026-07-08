@@ -1,0 +1,49 @@
+---
+---
+<div id="consent-banner" class="consent-banner" role="dialog" aria-modal="false" aria-labelledby="consent-title" hidden>
+  <div class="wrap consent-inner">
+    <div class="consent-text">
+      <p id="consent-title" class="consent-title">Vos préférences</p>
+      <p>On aimerait savoir quels départements et quelles espèces intéressent le plus les visiteurs (et mesurer l'attention portée aux emplacements publicitaires), pour orienter le contenu et les partenariats du site — y compris avec un site partenaire de vente d'articles de chasse. Rien n'est activé sans ton accord. Détails dans la <a href="/confidentialite/">politique de confidentialité</a>.</p>
+    </div>
+    <div class="consent-actions">
+      <button type="button" id="consent-refuse" class="consent-btn">Refuser</button>
+      <button type="button" id="consent-accept" class="consent-btn consent-btn-accent">Accepter</button>
+    </div>
+  </div>
+</div>
+
+<script is:inline>
+  (function () {
+    var KEY = 'consent-tracking';
+    var banner = document.getElementById('consent-banner');
+    var accept = document.getElementById('consent-accept');
+    var refuse = document.getElementById('consent-refuse');
+
+    function apply(value) {
+      window.dispatchEvent(new CustomEvent('consent-change', { detail: value }));
+    }
+
+    var current = localStorage.getItem(KEY);
+    if (!current) banner.hidden = false;
+
+    accept.addEventListener('click', function () {
+      localStorage.setItem(KEY, 'granted');
+      banner.hidden = true;
+      apply('granted');
+    });
+    refuse.addEventListener('click', function () {
+      localStorage.setItem(KEY, 'denied');
+      banner.hidden = true;
+      apply('denied');
+    });
+
+    document.addEventListener('click', function (e) {
+      var link = e.target.closest('[data-open-consent]');
+      if (link) {
+        e.preventDefault();
+        banner.hidden = false;
+      }
+    });
+  })();
+</script>
