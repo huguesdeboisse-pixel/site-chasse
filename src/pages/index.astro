@@ -32,12 +32,24 @@ const deps = dataset.departements;
 
     <figure class="map-figure">
       <svg viewBox={`0 0 ${carte.width} ${carte.height}`} class="dep-map" role="img" aria-label="Carte des 101 départements français, chaque forme est un lien vers la fiche du département">
+        <line
+          class="idf-connector"
+          x1={carte.idfLocator.labelX}
+          y1={carte.idfLocator.labelY}
+          x2={carte.idfInsetBox.x - 6}
+          y2={carte.idfInsetBox.y + carte.idfInsetBox.h / 2}
+        />
         {Object.entries(carte.departements).map(([code, d], i) => (
           <a href={`/departements/${code}/`} class="dep-shape" aria-label={`${d.nom} (${code})`} data-nom={d.nom}>
             <path d={d.path} class={i % 2 === 0 ? 'tone-a' : 'tone-b'} />
             <text x={d.labelX} y={d.labelY}>{code}</text>
           </a>
         ))}
+        <g class="idf-locator" data-nom="Île-de-France — zoom ci-contre" aria-hidden="true">
+          <path d={carte.idfLocator.path} />
+          <text x={carte.idfLocator.labelX} y={carte.idfLocator.labelY}>IDF</text>
+        </g>
+        <text class="idf-inset-title" x={carte.idfInsetBox.x + carte.idfInsetBox.w / 2} y={carte.idfInsetBox.y - 10}>Île-de-France</text>
       </svg>
       <div class="map-tooltip" id="map-tooltip"></div>
     </figure>
@@ -182,5 +194,20 @@ const deps = dataset.departements;
         tooltip.classList.remove('visible');
       });
     });
+
+    const idfLocator = document.querySelector('.idf-locator');
+    if (idfLocator) {
+      idfLocator.addEventListener('mouseenter', () => {
+        const shapeRect = idfLocator.getBoundingClientRect();
+        const figureRect = figure.getBoundingClientRect();
+        tooltip.textContent = idfLocator.dataset.nom;
+        tooltip.style.left = `${shapeRect.left + shapeRect.width / 2 - figureRect.left}px`;
+        tooltip.style.top = `${shapeRect.top - figureRect.top}px`;
+        tooltip.classList.add('visible');
+      });
+      idfLocator.addEventListener('mouseleave', () => {
+        tooltip.classList.remove('visible');
+      });
+    }
   </script>
 </Base>
