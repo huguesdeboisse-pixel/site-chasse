@@ -1,0 +1,165 @@
+{
+  "departement": "31",
+  "saison": "2026-2027",
+  "licence_source": "Licence ouverte Etalab 2.0",
+  "ouverture_generale": {
+    "date": "2026-09-13",
+    "fermeture": "2027-02-28",
+    "source_url": "https://www.haute-garonne.gouv.fr/index.php/contenu/telechargement/63384/453184/file/20260527-AP-ouverture-cloture-chasse-sign%C3%A9.pdf",
+    "source_label": "Arrêté portant ouverture et clôture de la chasse pour la campagne 2026-2027 dans le département de la Haute-Garonne (signé à Toulouse le 27 mai 2026 par le préfet Pierre-André Durand)",
+    "confiance": "haute"
+  },
+  "arretes_officiels": [
+    {
+      "objet": "Ouverture et clôture 2026-2027",
+      "reference": "Arrêté préfectoral DDT (27 mai 2026)",
+      "url_pdf": "https://www.haute-garonne.gouv.fr/index.php/contenu/telechargement/63384/453184/file/20260527-AP-ouverture-cloture-chasse-sign%C3%A9.pdf",
+      "statut": "signé"
+    }
+  ],
+  "especes": [
+    {
+      "slug": "sanglier",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 1er juin au 14 août 2026 : chasse en battue, à l'approche ou à l'affût par les détenteurs d'une autorisation préfectorale. Du 15 août 2026 au 31 mars 2027 : chasse en battue, à l'approche ou à l'affût, ouverture générale. Du 1er avril au 31 mai 2027 : chasse à l'approche ou à l'affût par les détenteurs d'une autorisation préfectorale. Chasse en temps de neige autorisée. Agrainage interdit toute l'année sauf dérogation administrative",
+          "source_url": "https://www.haute-garonne.gouv.fr/index.php/contenu/telechargement/63384/453184/file/20260527-AP-ouverture-cloture-chasse-sign%C3%A9.pdf",
+          "source_label": "Arrêté préfectoral DDT (27 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "cerf-elaphe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 1er au 12 septembre 2026 : chasse à l'approche ou à l'affût par les détenteurs d'une autorisation préfectorale. Du 13 septembre 2026 au 28 février 2027 : chasse en battue, à l'approche ou à l'affût, ouverture générale. Plan de chasse légal, tir à balles ou à l'arc obligatoire, chasse en temps de neige autorisée",
+          "source_url": "https://www.haute-garonne.gouv.fr/index.php/contenu/telechargement/63384/453184/file/20260527-AP-ouverture-cloture-chasse-sign%C3%A9.pdf",
+          "source_label": "Arrêté préfectoral DDT (27 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "chevreuil",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 1er juin au 12 septembre 2026 : chasse à l'approche ou à l'affût sur autorisation préfectorale. Du 13 septembre 2026 au 28 février 2027 : chasse en battue, à l'approche ou à l'affût, ouverture générale. Plan de chasse légal, tir à balles, à l'arc ou à plombs n°1, 2, 3 ; chasse par temps de neige autorisée",
+          "source_url": "https://www.haute-garonne.gouv.fr/index.php/contenu/telechargement/63384/453184/file/20260527-AP-ouverture-cloture-chasse-sign%C3%A9.pdf",
+          "source_label": "Arrêté préfectoral DDT (27 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "chamois",
+      "faits": [
+        {
+          "label": "Dates de chasse (isard)",
+          "detail": "Du 13 septembre 2026 au 28 février 2027. Plan de chasse légal, présentation obligatoire des isards prélevés au correspondant local habilité par la FDC31, chasse autorisée en temps de neige, tir à balles ou à l'arc, traque et battue interdites. Localement appelé isard dans les Pyrénées",
+          "source_url": "https://www.haute-garonne.gouv.fr/index.php/contenu/telechargement/63384/453184/file/20260527-AP-ouverture-cloture-chasse-sign%C3%A9.pdf",
+          "source_label": "Arrêté préfectoral DDT (27 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "lievre-europe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Ouverture générale du 13 septembre 2026 au 28 février 2027, mais tir du lièvre autorisé uniquement du 4 octobre au 20 décembre 2026 inclus. Plan de gestion cynégétique en vigueur",
+          "source_url": "https://www.haute-garonne.gouv.fr/index.php/contenu/telechargement/63384/453184/file/20260527-AP-ouverture-cloture-chasse-sign%C3%A9.pdf",
+          "source_label": "Arrêté préfectoral DDT (27 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "lapin-garenne",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13 septembre 2026 au 31 janvier 2027, plan de gestion cynégétique en vigueur",
+          "source_url": "https://www.haute-garonne.gouv.fr/index.php/contenu/telechargement/63384/453184/file/20260527-AP-ouverture-cloture-chasse-sign%C3%A9.pdf",
+          "source_label": "Arrêté préfectoral DDT (27 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-rouge",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13 septembre 2026 au 15 novembre 2026 (jusqu'au dernier jour de février dans les établissements professionnels de chasse à caractère commercial et enclos de chasse pour les oiseaux d'élevage). Plan de gestion en vigueur. Chasse à l'affût, à l'agrainée ou à proximité d'abreuvoirs interdite",
+          "source_url": "https://www.haute-garonne.gouv.fr/index.php/contenu/telechargement/63384/453184/file/20260527-AP-ouverture-cloture-chasse-sign%C3%A9.pdf",
+          "source_label": "Arrêté préfectoral DDT (27 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-grise",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13 septembre 2026 au 15 novembre 2026 (plaine). Perdrix grise de montagne : du 4 octobre au 8 novembre 2026, lâchers de perdrix grises d'élevage interdits dans le pays cynégétique des Pyrénées centrales. Chasse à l'affût, à l'agrainée ou à proximité d'abreuvoirs interdite",
+          "source_url": "https://www.haute-garonne.gouv.fr/index.php/contenu/telechargement/63384/453184/file/20260527-AP-ouverture-cloture-chasse-sign%C3%A9.pdf",
+          "source_label": "Arrêté préfectoral DDT (27 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "faisan-commun",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13 septembre 2026 au 17 janvier 2027 (jusqu'au dernier jour de février pour les oiseaux d'élevage dans les établissements professionnels de chasse et enclos de chasse). Chasse à l'affût, à l'agrainée ou à proximité d'abreuvoirs interdite",
+          "source_url": "https://www.haute-garonne.gouv.fr/index.php/contenu/telechargement/63384/453184/file/20260527-AP-ouverture-cloture-chasse-sign%C3%A9.pdf",
+          "source_label": "Arrêté préfectoral DDT (27 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "becasse-bois",
+      "faits": [
+        {
+          "label": "Prélèvement maximal autorisé",
+          "detail": "PMA national de 30 bécasses par saison et par chasseur ; PMA départemental de 3 oiseaux par jour et 6 par semaine. Enregistrement obligatoire au moyen du dispositif fourni par la FDC31, du carnet de prélèvement bécasse ou de l'application Chassadapt",
+          "source_url": "https://www.haute-garonne.gouv.fr/index.php/contenu/telechargement/63384/453184/file/20260527-AP-ouverture-cloture-chasse-sign%C3%A9.pdf",
+          "source_label": "Arrêté préfectoral DDT (27 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "caille-bles",
+      "faits": [
+        {
+          "label": "Prélèvement maximal autorisé",
+          "detail": "PMA de 45 oiseaux par saison et par chasseur ; PMA départemental de 5 oiseaux par jour. Enregistrement obligatoire au moyen du dispositif fourni par la FDC31 avant tout transport",
+          "source_url": "https://www.haute-garonne.gouv.fr/index.php/contenu/telechargement/63384/453184/file/20260527-AP-ouverture-cloture-chasse-sign%C3%A9.pdf",
+          "source_label": "Arrêté préfectoral DDT (27 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "pigeon-ramier",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Chasse en temps de neige du pigeon ramier autorisée, à poste fixe matérialisé de main d'homme, sans chien, fusil déchargé et sous étui à l'aller et au retour, uniquement dans le pays cynégétique des Pyrénées centrales. Chasse depuis un poste surélevé en application du plan de gestion de l'annexe 8 du SDGC",
+          "source_url": "https://www.haute-garonne.gouv.fr/index.php/contenu/telechargement/63384/453184/file/20260527-AP-ouverture-cloture-chasse-sign%C3%A9.pdf",
+          "source_label": "Arrêté préfectoral DDT (27 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "lagopede-alpin",
+      "faits": [
+        {
+          "label": "Statut",
+          "detail": "Prélèvement suspendu pour la campagne 2026-2027",
+          "source_url": "https://www.haute-garonne.gouv.fr/index.php/contenu/telechargement/63384/453184/file/20260527-AP-ouverture-cloture-chasse-sign%C3%A9.pdf",
+          "source_label": "Arrêté préfectoral DDT (27 mai 2026)"
+        }
+      ]
+    }
+  ]
+}

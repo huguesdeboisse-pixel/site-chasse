@@ -1,0 +1,132 @@
+{
+  "departement": "48",
+  "saison": "2026-2027",
+  "licence_source": "Licence ouverte Etalab 2.0",
+  "ouverture_generale": {
+    "date": "2026-09-13",
+    "fermeture": "2027-02-28",
+    "source_url": "https://chasseurdelozere.com/wp-content/uploads/2026/06/arrete_chasse_2026_signe.pdf",
+    "source_label": "Arrêté préfectoral n° DDT-SEB-2026-152-0005 du 01 juin 2026 relatif à l'ouverture et à la clôture de la chasse pour la campagne 2026-2027 en Lozère (signé pour le préfet par la directrice départementale des territoires Agnès Delsol)",
+    "confiance": "haute"
+  },
+  "arretes_officiels": [
+    {
+      "objet": "Ouverture et clôture 2026-2027",
+      "reference": "Arrêté n° DDT-SEB-2026-152-0005 (1er juin 2026)",
+      "url_pdf": "https://chasseurdelozere.com/wp-content/uploads/2026/06/arrete_chasse_2026_signe.pdf",
+      "statut": "signé"
+    }
+  ],
+  "especes": [
+    {
+      "slug": "sanglier",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Tirs d'été à l'approche/affût sur autorisation préfectorale : du 1er juin au 30 juin 2026 et du 1er juillet au 14 août 2026 selon les pays cynégétiques. Autorisations « tir d'été » valides jusqu'au 5 septembre 2026. Ouverture générale : 6 septembre 2026, avec clôture au 28 février 2027 (pays Aubrac-Truyère, Margeride, Charpal, Haut-Allier, Contreforts de l'Aubrac, Gardille-Chassezac, Boulaine) ou au 31 mars 2027 (pays Sauveterre, Méjean, Mont-Lozère, Aigoual, Cévennes)",
+          "source_url": "https://chasseurdelozere.com/wp-content/uploads/2026/06/arrete_chasse_2026_signe.pdf",
+          "source_label": "Arrêté n° DDT-SEB-2026-152-0005 (1er juin 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "chevreuil",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Chasse du chevreuil mâle : du 1er juin au 30 juin 2026 et du 1er juillet au 12 septembre 2026, sur autorisation préfectorale individuelle. Ouverture générale (soumis à plan de chasse) : du 13 septembre 2026 au 28 février 2027, chasses individuelles et collectives, plombs n°1/2 série de Paris ou grenaille sans plomb 1 à 2/0 autorisés",
+          "source_url": "https://chasseurdelozere.com/wp-content/uploads/2026/06/arrete_chasse_2026_signe.pdf",
+          "source_label": "Arrêté n° DDT-SEB-2026-152-0005 (1er juin 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "cerf-elaphe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 1er au 12 septembre 2026, à l'approche ou à l'affût uniquement, sur les pays cynégétiques Méjean, Aigoual, Mont-Lozère, Cévennes. Ouverture générale : 13 septembre 2026 au 28 février 2027 (mêmes pays, chasses individuelles et collectives) ou 15 octobre 2026 au 28 février 2027 (pays Aubrac-Truyère, Margeride, Charpal, Haut-Allier, Boulaine, Contreforts de l'Aubrac, Sauveterre, Gardille-Chassezac)",
+          "source_url": "https://chasseurdelozere.com/wp-content/uploads/2026/06/arrete_chasse_2026_signe.pdf",
+          "source_label": "Arrêté n° DDT-SEB-2026-152-0005 (1er juin 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "mouflon-mediterraneen",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Soumis à plan de chasse, ouverture générale du 13 septembre 2026 au 28 février 2027 (dates précisées à l'article 5 de l'arrêté). Chasse à l'approche ou à l'affût uniquement, sans chien",
+          "source_url": "https://chasseurdelozere.com/wp-content/uploads/2026/06/arrete_chasse_2026_signe.pdf",
+          "source_label": "Arrêté n° DDT-SEB-2026-152-0005 (1er juin 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "lievre-europe",
+      "faits": [
+        {
+          "label": "Dates de chasse (variables selon zones)",
+          "detail": "Selon les communes : du 13 au 26 septembre 2026, ou du 27 septembre au 13 décembre 2026 (sauf Serverette, Fontans, Rimeize, Saint-Alban-sur-Limagnole : 4 octobre-29 novembre 2026), ou du 14 au 27 décembre 2026 sur une liste spécifique de communes. Chasse interdite sur de nombreuses communes listées à l'arrêté. Vente/achat/transport interdits du 13 septembre au 12 octobre 2026",
+          "source_url": "https://chasseurdelozere.com/wp-content/uploads/2026/06/arrete_chasse_2026_signe.pdf",
+          "source_label": "Arrêté n° DDT-SEB-2026-152-0005 (1er juin 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "lapin-garenne",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13 septembre 2026 au 3 janvier 2027, sans condition spécifique sauf sur une liste de communes (notamment Mende, Nasbinals, Aumont-Aubrac) où la chasse du lapin de garenne est interdite. Vente/achat/transport interdits du 13 septembre au 12 octobre 2026",
+          "source_url": "https://chasseurdelozere.com/wp-content/uploads/2026/06/arrete_chasse_2026_signe.pdf",
+          "source_label": "Arrêté n° DDT-SEB-2026-152-0005 (1er juin 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-rouge",
+      "faits": [
+        {
+          "label": "Dates de chasse et PMA",
+          "detail": "Du 3 au 25 octobre 2026, interdite sur une longue liste de communes (Allenc, Aumont-Aubrac, Nasbinals, Mende, etc.). Sur les communes soumises au Plan de Gestion Cynégétique Approuvé (PGCA), dates notifiées par la FDC48 au plus tard le 20 septembre 2026 après analyse des données de suivi ; PMA de 2 oiseaux par chasseur et par jour, carnet de prélèvement individuel obligatoire à retourner avant le 10 mars 2027. Vente/achat/transport interdits du 13 septembre au 12 octobre 2026",
+          "source_url": "https://chasseurdelozere.com/wp-content/uploads/2026/06/arrete_chasse_2026_signe.pdf",
+          "source_label": "Arrêté n° DDT-SEB-2026-152-0005 (1er juin 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "faisan-commun",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13 septembre 2026 au 3 janvier 2027, sans condition spécifique",
+          "source_url": "https://chasseurdelozere.com/wp-content/uploads/2026/06/arrete_chasse_2026_signe.pdf",
+          "source_label": "Arrêté n° DDT-SEB-2026-152-0005 (1er juin 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "becasse-bois",
+      "faits": [
+        {
+          "label": "Prélèvement maximal autorisé",
+          "detail": "PMA national de 30 bécasses par chasseur pour la saison 2026-2027 ; en Lozère, prélèvement journalier limité à 3 bécasses par chasseur. Carnet de prélèvement fourni par la FDC48 ou application ChassAdapt obligatoire",
+          "source_url": "https://chasseurdelozere.com/wp-content/uploads/2026/06/arrete_chasse_2026_signe.pdf",
+          "source_label": "Arrêté n° DDT-SEB-2026-152-0005 (1er juin 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "canard-colvert",
+      "faits": [
+        {
+          "label": "Dates de chasse (gibier d'eau)",
+          "detail": "Chasse autorisée les lundis, mercredis, samedis, dimanches et jours fériés légaux. Par temps de neige, tirs autorisés uniquement au-dessus de la nappe d'eau sur une liste de cours d'eau et plans d'eau précisée par l'arrêté (Allier, Bramont, Colagne, Limagnole, Lot, Rimeize, Truyère, Bès)",
+          "source_url": "https://chasseurdelozere.com/wp-content/uploads/2026/06/arrete_chasse_2026_signe.pdf",
+          "source_label": "Arrêté n° DDT-SEB-2026-152-0005 (1er juin 2026)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "departement": "32",
+  "saison": "2026-2027",
+  "licence_source": "Licence ouverte Etalab 2.0",
+  "ouverture_generale": {
+    "date": "2026-09-13",
+    "fermeture": "2027-02-28",
+    "source_url": "https://www.chasse-nature-occitanie.fr/gers/documents/32-2026-05-29-00006-AP-ouvertu.pdf",
+    "source_label": "Arrêté n°32-2026-05-29-00006 concernant l'ouverture et la clôture de la chasse dans le département du Gers pour la campagne 2026/2027 (signé à Auch le 29 mai 2026, pour le préfet et par délégation le secrétaire général Cédric Kari-Herkner)",
+    "confiance": "haute"
+  },
+  "arretes_officiels": [
+    {
+      "objet": "Ouverture et clôture 2026-2027",
+      "reference": "Arrêté n°32-2026-05-29-00006 (29 mai 2026)",
+      "url_pdf": "https://www.chasse-nature-occitanie.fr/gers/documents/32-2026-05-29-00006-AP-ouvertu.pdf",
+      "statut": "signé"
+    }
+  ],
+  "especes": [
+    {
+      "slug": "sanglier",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 1er juin 2026 au 31 mars 2027 (approche, affût, battue, sur les territoires bénéficiaires d'un plan de gestion). Période complémentaire de protection des semis : 1er avril au 31 mai 2027, à l'affût ou à l'approche sur autorisation préfectorale (battue possible à titre exceptionnel selon arrêté préfectoral n°32-2026-05-13-00002). Trois chasseurs minimum constituent une battue. Chevrotine autorisée en battue collective sous conditions strictes (21 grains, 6,20-6,30 mm, distance de tir maximale 20 m)",
+          "source_url": "https://www.chasse-nature-occitanie.fr/gers/documents/32-2026-05-29-00006-AP-ouvertu.pdf",
+          "source_label": "Arrêté n°32-2026-05-29-00006 (29 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "chevreuil",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 1er juin au 12 septembre 2026 : chasse à l'approche ou à l'affût du brocard uniquement (bracelets CH-été/CH-mal). Du 13 septembre 2026 au 28 février 2027 : chasse à l'approche, à l'affût et en battue, tir du chevreuil indifférencié ; tir du brocard à l'approche/affût interdit du 13 septembre au 15 novembre 2026 sauf bracelets CH-été/CH-mal. Tir à balles ou à plombs de Paris n°1 et n°2 obligatoire, ou arc de chasse",
+          "source_url": "https://www.chasse-nature-occitanie.fr/gers/documents/32-2026-05-29-00006-AP-ouvertu.pdf",
+          "source_label": "Arrêté n°32-2026-05-29-00006 (29 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "cerf-elaphe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 1er au 12 septembre 2026 : chasse à l'affût ou à l'approche. Du 13 septembre 2026 au 28 février 2027 : chasse en battue, à l'affût ou à l'approche (trois chasseurs minimum par battue). Plan de chasse obligatoire, tir à balles ou à l'arc obligatoire",
+          "source_url": "https://www.chasse-nature-occitanie.fr/gers/documents/32-2026-05-29-00006-AP-ouvertu.pdf",
+          "source_label": "Arrêté n°32-2026-05-29-00006 (29 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "lievre-europe",
+      "faits": [
+        {
+          "label": "Dates de chasse et PMA",
+          "detail": "Du 11 octobre 2026 au 10 janvier 2027 (recherche et poursuite par les chiens autorisée jusqu'au 31 mars 2027 en dehors de ces dates). PMA de 3 lièvres par an et par chasseur, sauf territoires soumis à plan de chasse ou plan de gestion cynégétique. Enregistrement obligatoire via Carnet de Prélèvement Gers (CPG) ou application ChassAdapt",
+          "source_url": "https://www.chasse-nature-occitanie.fr/gers/documents/32-2026-05-29-00006-AP-ouvertu.pdf",
+          "source_label": "Arrêté n°32-2026-05-29-00006 (29 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "lapin-garenne",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13 septembre 2026 au 27 décembre 2026. Chasse au furet autorisée sans formalité pour furets identifiés ; reprise des lapins vivants possible dans les mêmes conditions",
+          "source_url": "https://www.chasse-nature-occitanie.fr/gers/documents/32-2026-05-29-00006-AP-ouvertu.pdf",
+          "source_label": "Arrêté n°32-2026-05-29-00006 (29 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-rouge",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13 septembre 2026 au 13 décembre 2026. Sur les territoires en plan de gestion cynégétique, carnet CPG ou ChassAdapt obligatoire pour l'enregistrement des prélèvements ; à défaut, bracelets de marquage fournis par la FDC32. Du 11 octobre 2026 à la clôture, chasse uniquement le mercredi et le dimanche (sauf concours officiels)",
+          "source_url": "https://www.chasse-nature-occitanie.fr/gers/documents/32-2026-05-29-00006-AP-ouvertu.pdf",
+          "source_label": "Arrêté n°32-2026-05-29-00006 (29 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "faisan-commun",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13 septembre 2026 au 13 décembre 2026. Sur les territoires en plan de gestion cynégétique, carnet CPG ou ChassAdapt obligatoire. Du 11 octobre 2026 à la clôture, chasse uniquement le mercredi et le dimanche (sauf concours officiels). Lâchers de faisans interdits du 11 octobre au 13 décembre 2026 inclus",
+          "source_url": "https://www.chasse-nature-occitanie.fr/gers/documents/32-2026-05-29-00006-AP-ouvertu.pdf",
+          "source_label": "Arrêté n°32-2026-05-29-00006 (29 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "becasse-bois",
+      "faits": [
+        {
+          "label": "Prélèvement maximal autorisé",
+          "detail": "PMA national de 30 bécasses par saison et par chasseur. Au niveau du Gers : 2 oiseaux par jour pour un chasseur seul, 6 par semaine, 30 par saison ; 3 bécasses par jour par groupe d'au moins deux chasseurs. Enregistrement en temps réel obligatoire (carnet de prélèvement ou application ChassAdapt), carnet à retourner à la FDC32 avant le 30 juin 2027",
+          "source_url": "https://www.chasse-nature-occitanie.fr/gers/documents/32-2026-05-29-00006-AP-ouvertu.pdf",
+          "source_label": "Arrêté n°32-2026-05-29-00006 (29 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "pigeon-ramier",
+      "faits": [
+        {
+          "label": "Chasse en temps de neige",
+          "detail": "En temps de neige, la chasse du pigeon ramier (palombe) reste autorisée, avec le grand gibier soumis à plan de chasse, le sanglier et le renard",
+          "source_url": "https://www.chasse-nature-occitanie.fr/gers/documents/32-2026-05-29-00006-AP-ouvertu.pdf",
+          "source_label": "Arrêté n°32-2026-05-29-00006 (29 mai 2026)"
+        }
+      ]
+    }
+  ]
+}

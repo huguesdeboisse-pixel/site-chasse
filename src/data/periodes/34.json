@@ -1,0 +1,143 @@
+{
+  "departement": "34",
+  "saison": "2026-2027",
+  "licence_source": "Licence ouverte Etalab 2.0",
+  "ouverture_generale": {
+    "date": "2026-09-13",
+    "fermeture": "2027-02-28",
+    "source_url": "https://www.chasse-nature-occitanie.fr/herault/documents/AP-OuvertureFermetureChasse-201.pdf",
+    "source_label": "Arrêté préfectoral n°DDTM34-2026-05-17047 relatif aux dates d'ouverture, de clôture, et aux modalités d'exercice de la chasse à tir, pour la saison cynégétique 2026-2027, dans le département de l'Hérault (signé à Montpellier le 18 mai 2026 par la préfète Chantal Mauchet)",
+    "confiance": "haute"
+  },
+  "arretes_officiels": [
+    {
+      "objet": "Dates d'ouverture, de clôture et modalités d'exercice de la chasse 2026-2027",
+      "reference": "Arrêté préfectoral n°DDTM34-2026-05-17047 (18 mai 2026)",
+      "url_pdf": "https://www.chasse-nature-occitanie.fr/herault/documents/AP-OuvertureFermetureChasse-201.pdf",
+      "statut": "signé"
+    }
+  ],
+  "especes": [
+    {
+      "slug": "sanglier",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 1er juin 2026 au 31 mai 2027 selon les modes de chasse. Affût/approche : du 1er juin au 12 septembre 2026 sur autorisation préfectorale individuelle (prévention dégâts), du 13 septembre 2026 au 28 février 2027 les mercredis, samedis, dimanches et jours fériés, du 1er au 31 mars 2027 tous les jours près des cultures, du 1er avril au 31 mai 2027 sur autorisation (protection des semis uniquement). Battues : du 1er juin au 14 août 2026 sur autorisation, du 15 août 2026 au 31 mars 2027 les mercredis/samedis/dimanches/jours fériés. Tir à balle obligatoire, arc autorisé. Chasse dans les vignes autorisée dès le 1er juin 2026 sous réserve du consentement de l'exploitant",
+          "source_url": "https://www.chasse-nature-occitanie.fr/herault/documents/AP-OuvertureFermetureChasse-201.pdf",
+          "source_label": "Arrêté préfectoral n°DDTM34-2026-05-17047 (18 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "chevreuil",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 1er juin 2026 au 28 février 2027. Affût/approche : du 1er juin au 12 septembre 2026 (bracelet de marquage spécifique chasse d'été), du 13 septembre 2026 au 28 février 2027 (chasse sans distinction de sexe). Battues : du 13 septembre 2026 au 28 février 2027, uniquement mercredis, samedis, dimanches et jours fériés. Tir à balle obligatoire, arc autorisé",
+          "source_url": "https://www.chasse-nature-occitanie.fr/herault/documents/AP-OuvertureFermetureChasse-201.pdf",
+          "source_label": "Arrêté préfectoral n°DDTM34-2026-05-17047 (18 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "cerf-elaphe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 1er septembre 2026 au 28 février 2027. Affût/approche sur tout le département ; battues uniquement mercredis, samedis, dimanches et jours fériés. Tir à balle obligatoire, arc autorisé, saisie en ligne des constats de tir et photos obligatoire sous 48h",
+          "source_url": "https://www.chasse-nature-occitanie.fr/herault/documents/AP-OuvertureFermetureChasse-201.pdf",
+          "source_label": "Arrêté préfectoral n°DDTM34-2026-05-17047 (18 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "mouflon-mediterraneen",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 1er septembre 2026 au 28 février 2027. Chasse à balle à l'affût/approche avec accompagnement obligatoire par guide agréé pour les associations adhérentes au GIEC du Caroux-Espinouse ; chasse à l'arc uniquement en chasse dirigée sous l'autorité d'un guide agréé. Battues uniquement mercredis, samedis, dimanches et jours fériés",
+          "source_url": "https://www.chasse-nature-occitanie.fr/herault/documents/AP-OuvertureFermetureChasse-201.pdf",
+          "source_label": "Arrêté préfectoral n°DDTM34-2026-05-17047 (18 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "lievre-europe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13 septembre 2026 au 25 décembre 2026, sur tout le département",
+          "source_url": "https://www.chasse-nature-occitanie.fr/herault/documents/AP-OuvertureFermetureChasse-201.pdf",
+          "source_label": "Arrêté préfectoral n°DDTM34-2026-05-17047 (18 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "lapin-garenne",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13 septembre 2026 au 1er février 2027 (jusqu'au 28 février 2027 sur les communes classées oranges : Capestang, Colombiers, Lespignan, Marseillan, Nissan-lez-Enserune, Poilhes, Pomerols, Portiragnes, Sauvian, Serignan). Sur les communes classées rouges à forts dégâts (Baillargues, Candillargues, Castelnau-le-Lez, Lansargues, Lattes, Le Crès, Lunel, Lunel-Viel, Marsillargues, Mauguio, Montpellier, Mudaison, Saint-Aunès, Saint-Brès, Saint-Just, Saint-Nazaire-de-Pezan, Valergues, Vendargues, Villeneuve-les-Maguelone), chasse prolongée jusqu'au 28 février 2027 avec furet autorisé sans formalité",
+          "source_url": "https://www.chasse-nature-occitanie.fr/herault/documents/AP-OuvertureFermetureChasse-201.pdf",
+          "source_label": "Arrêté préfectoral n°DDTM34-2026-05-17047 (18 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-rouge",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 4 octobre 2026 au 22 novembre 2026, sur tout le département",
+          "source_url": "https://www.chasse-nature-occitanie.fr/herault/documents/AP-OuvertureFermetureChasse-201.pdf",
+          "source_label": "Arrêté préfectoral n°DDTM34-2026-05-17047 (18 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "faisan-commun",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13 septembre 2026 au 31 janvier 2027, sur tout le département sauf la commune de Roqueredonde ; tir de la poule faisane interdit sur la commune d'Agde",
+          "source_url": "https://www.chasse-nature-occitanie.fr/herault/documents/AP-OuvertureFermetureChasse-201.pdf",
+          "source_label": "Arrêté préfectoral n°DDTM34-2026-05-17047 (18 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "becasse-bois",
+      "faits": [
+        {
+          "label": "Prélèvement maximal autorisé",
+          "detail": "PMA de 3 bécasses par chasseur et par jour, 6 par semaine, 30 par saison. Chasse autorisée uniquement de la demi-heure avant le lever du soleil à la demi-heure après le coucher du soleil. Carnet de prélèvement national bécasse (CPB) ou application ChassAdapt obligatoire, à retourner à la FDC34 avant le 30 juin 2027",
+          "source_url": "https://www.chasse-nature-occitanie.fr/herault/documents/AP-OuvertureFermetureChasse-201.pdf",
+          "source_label": "Arrêté préfectoral n°DDTM34-2026-05-17047 (18 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "pigeon-ramier",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Application de la période d'ouverture générale (13 septembre 2026 au 28 février 2027), sous réserve des arrêtés ministériels d'ouverture (2006) et de fermeture (2009). Palombe pertinente en migration dans le Sud-Ouest",
+          "source_url": "https://www.chasse-nature-occitanie.fr/herault/documents/AP-OuvertureFermetureChasse-201.pdf",
+          "source_label": "Arrêté préfectoral n°DDTM34-2026-05-17047 (18 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "canard-colvert",
+      "faits": [
+        {
+          "label": "Dates et PMA (gibier d'eau, étangs de l'Hérault)",
+          "detail": "Application de la période d'ouverture générale sous réserve des arrêtés ministériels. Plan quantitatif de gestion des anatidés : 25 anatidés maximum par installation de chasse de nuit déclarée sur 24h (comptabilisés à moins de 30 m de l'installation, consigné au carnet de hutte) ; 15 oiseaux d'eau par jour et par chasseur pour tous les autres modes de chasse au gibier d'eau",
+          "source_url": "https://www.chasse-nature-occitanie.fr/herault/documents/AP-OuvertureFermetureChasse-201.pdf",
+          "source_label": "Arrêté préfectoral n°DDTM34-2026-05-17047 (18 mai 2026)"
+        }
+      ]
+    }
+  ]
+}

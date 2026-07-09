@@ -1,0 +1,187 @@
+{
+  "departement": "11",
+  "saison": "2026-2027",
+  "licence_source": "Licence ouverte Etalab 2.0",
+  "ouverture_generale": {
+    "date": "2026-09-13",
+    "fermeture": "2027-02-28",
+    "source_url": "https://www.chasse-nature-occitanie.fr/aude/documents/AP-ouv-clot-2026-2027-signA-.pdf",
+    "source_label": "Arrêté préfectoral n° DDTM-SAFEB-UFCB-2026-064 relatif à l'ouverture et à la clôture de la chasse pour la campagne 2026-2027 (signé à Carcassonne le 29 mai 2026 par le préfet Alain Bucquet)",
+    "confiance": "haute"
+  },
+  "arretes_officiels": [
+    {
+      "objet": "Ouverture et clôture 2026-2027",
+      "reference": "Arrêté préfectoral n° DDTM-SAFEB-UFCB-2026-064 (29 mai 2026)",
+      "url_pdf": "https://www.chasse-nature-occitanie.fr/aude/documents/AP-ouv-clot-2026-2027-signA-.pdf",
+      "statut": "signé"
+    }
+  ],
+  "especes": [
+    {
+      "slug": "sanglier",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Affût/approche : du 1er juin au 14 août 2026 (détenteur du droit de chasse, tous les jours), du 15 août 2026 au 31 mars 2027 (sur autorisation du détenteur), période complémentaire de protection des semis du 1er avril au 31 mai 2027. Battue : du 1er juin au 14 août 2026 (mercredi/samedi/dimanche/jours fériés, minimum 5 participants, fin à 11h, déclaration préalable en mairie et OFB), du 15 août 2026 au 31 mars 2027 (mercredi/samedi/dimanche/jours fériés, conforme au schéma départemental)",
+          "source_url": "https://www.chasse-nature-occitanie.fr/aude/documents/AP-ouv-clot-2026-2027-signA-.pdf",
+          "source_label": "Arrêté préfectoral n° DDTM-SAFEB-UFCB-2026-064 (29 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "chevreuil",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Affût/approche (plan de chasse obligatoire, tir à balle ou à l'arc) : du 1er juin au 12 septembre 2026 (brocard uniquement, bracelet CHI APP), puis du 13 septembre 2026 au 28 février 2027 (bracelet CHI ou CHI APP). Battue : du 13 septembre 2026 au 28 février 2027, mercredi/samedi/dimanche/jours fériés, tir à grenaille de plomb ou d'acier autorisé uniquement pour le chevreuil",
+          "source_url": "https://www.chasse-nature-occitanie.fr/aude/documents/AP-ouv-clot-2026-2027-signA-.pdf",
+          "source_label": "Arrêté préfectoral n° DDTM-SAFEB-UFCB-2026-064 (29 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "cerf-elaphe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 1er septembre 2026 au 28 février 2027. À l'affût ou à l'approche tous les jours ; en battue mercredi, samedi, dimanche et jours fériés. Plan de chasse et tir à balle ou à l'arc obligatoires",
+          "source_url": "https://www.chasse-nature-occitanie.fr/aude/documents/AP-ouv-clot-2026-2027-signA-.pdf",
+          "source_label": "Arrêté préfectoral n° DDTM-SAFEB-UFCB-2026-064 (29 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "mouflon-mediterraneen",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 1er septembre 2026 au 28 février 2027, tous les jours, à l'approche ou à l'affût dans le cadre d'un plan de chasse obligatoire, tir à balle ou à l'arc obligatoire, traque et emploi des chiens interdits",
+          "source_url": "https://www.chasse-nature-occitanie.fr/aude/documents/AP-ouv-clot-2026-2027-signA-.pdf",
+          "source_label": "Arrêté préfectoral n° DDTM-SAFEB-UFCB-2026-064 (29 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "chamois",
+      "faits": [
+        {
+          "label": "Dates de chasse (isard)",
+          "detail": "Du 13 septembre 2026 au 28 février 2027, tous les jours, à l'approche ou à l'affût dans le cadre d'un plan de chasse obligatoire, tir à balle ou à l'arc, traque et emploi des chiens interdits. Localement appelé isard dans les Pyrénées",
+          "source_url": "https://www.chasse-nature-occitanie.fr/aude/documents/AP-ouv-clot-2026-2027-signA-.pdf",
+          "source_label": "Arrêté préfectoral n° DDTM-SAFEB-UFCB-2026-064 (29 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "lievre-europe",
+      "faits": [
+        {
+          "label": "Prélèvement maximal autorisé",
+          "detail": "Zone 1 : du 13 septembre au 11 novembre 2026 (mercredi, samedi, dimanche, jours fériés). Reste du département : du 11 octobre au 20 décembre 2026 (mercredi, samedi, dimanche, jours fériés). PMA : 1 lièvre par chasseur et par jour, 8 lièvres par chasseur et par saison",
+          "source_url": "https://www.chasse-nature-occitanie.fr/aude/documents/AP-ouv-clot-2026-2027-signA-.pdf",
+          "source_label": "Arrêté préfectoral n° DDTM-SAFEB-UFCB-2026-064 (29 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-rouge",
+      "faits": [
+        {
+          "label": "Prélèvement maximal autorisé",
+          "detail": "Du 11 octobre au 13 décembre 2026, samedi/dimanche/jours fériés. PMA : 2 perdrix rouges par chasseur et par jour, 14 par chasseur et par saison",
+          "source_url": "https://www.chasse-nature-occitanie.fr/aude/documents/AP-ouv-clot-2026-2027-signA-.pdf",
+          "source_label": "Arrêté préfectoral n° DDTM-SAFEB-UFCB-2026-064 (29 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-grise",
+      "faits": [
+        {
+          "label": "Dates de chasse et PMA (perdrix grise des Pyrénées, zone 1)",
+          "detail": "Zone 1 (hors Castans, Labastide-Esparbaïrenque, Pradelles-Cabardès) : du 4 au 25 octobre 2026, mercredi/samedi/dimanche/jours fériés. PMA : 2 par chasseur et par jour, 6 par chasseur et par saison (unité de gestion n°9 Haute-Vallée-Pays de Sault : prélèvement fixé par la FDCA après dénombrements estivaux, bagues obligatoires). Reste du département : perdrix grise du 13 septembre au 13 décembre 2026, samedi/dimanche/jours fériés",
+          "source_url": "https://www.chasse-nature-occitanie.fr/aude/documents/AP-ouv-clot-2026-2027-signA-.pdf",
+          "source_label": "Arrêté préfectoral n° DDTM-SAFEB-UFCB-2026-064 (29 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "faisan-commun",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13 septembre 2026 au 28 février 2027, tous les jours sauf mardi et vendredi (+ jours fériés)",
+          "source_url": "https://www.chasse-nature-occitanie.fr/aude/documents/AP-ouv-clot-2026-2027-signA-.pdf",
+          "source_label": "Arrêté préfectoral n° DDTM-SAFEB-UFCB-2026-064 (29 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "lapin-garenne",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13 septembre 2026 au 31 janvier 2027, tous les jours sauf mardi et vendredi (+ jours fériés). Emploi du furet interdit",
+          "source_url": "https://www.chasse-nature-occitanie.fr/aude/documents/AP-ouv-clot-2026-2027-signA-.pdf",
+          "source_label": "Arrêté préfectoral n° DDTM-SAFEB-UFCB-2026-064 (29 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "becasse-bois",
+      "faits": [
+        {
+          "label": "Prélèvement maximal autorisé",
+          "detail": "Du 13 septembre 2026 au 20 février 2027, tous les jours. PMA : 3 bécasses par chasseur et par jour, 6 par semaine, 30 par saison. Dans les bois de plus de 3 ha, chasse uniquement au chien d'arrêt ou chien leveur",
+          "source_url": "https://www.chasse-nature-occitanie.fr/aude/documents/AP-ouv-clot-2026-2027-signA-.pdf",
+          "source_label": "Arrêté préfectoral n° DDTM-SAFEB-UFCB-2026-064 (29 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "caille-bles",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 29 août 2026 au 20 février 2027, tous les jours, avec chien d'arrêt ou chien leveur uniquement",
+          "source_url": "https://www.chasse-nature-occitanie.fr/aude/documents/AP-ouv-clot-2026-2027-signA-.pdf",
+          "source_label": "Arrêté préfectoral n° DDTM-SAFEB-UFCB-2026-064 (29 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "pigeon-ramier",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13 septembre 2026 au 20 février 2027 (avec grive et merle). Jusqu'au 9 février 2027 : chasse devant soi ou à poste fixe ; du 10 au 20 février 2027 : chasse à poste fixe matérialisé de main d'homme obligatoire",
+          "source_url": "https://www.chasse-nature-occitanie.fr/aude/documents/AP-ouv-clot-2026-2027-signA-.pdf",
+          "source_label": "Arrêté préfectoral n° DDTM-SAFEB-UFCB-2026-064 (29 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "grive-draine",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13 septembre 2026 au 20 février 2027 (avec pigeon ramier et merle). Jusqu'au 9 février 2027 : chasse devant soi ou à poste fixe ; du 10 au 20 février 2027 : poste fixe matérialisé de main d'homme obligatoire",
+          "source_url": "https://www.chasse-nature-occitanie.fr/aude/documents/AP-ouv-clot-2026-2027-signA-.pdf",
+          "source_label": "Arrêté préfectoral n° DDTM-SAFEB-UFCB-2026-064 (29 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "canard-colvert",
+      "faits": [
+        {
+          "label": "Dates de chasse (gibier d'eau)",
+          "detail": "Du 21 août 2026 au 31 janvier 2027, tous les jours, selon arrêté ministériel",
+          "source_url": "https://www.chasse-nature-occitanie.fr/aude/documents/AP-ouv-clot-2026-2027-signA-.pdf",
+          "source_label": "Arrêté préfectoral n° DDTM-SAFEB-UFCB-2026-064 (29 mai 2026)"
+        }
+      ]
+    }
+  ]
+}

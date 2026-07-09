@@ -70,8 +70,8 @@
    "nom": "Ariège",
    "region": "Occitanie",
    "prefecture_url": "https://www.ariege.gouv.fr",
-   "fdc_nom": null,
-   "fdc_url": null
+   "fdc_nom": "Fédération des chasseurs de l'Ariège",
+   "fdc_url": "https://www.chasse-nature-occitanie.fr/ariege/"
   },
   {
    "code": "10",
@@ -86,16 +86,16 @@
    "nom": "Aude",
    "region": "Occitanie",
    "prefecture_url": "https://www.aude.gouv.fr",
-   "fdc_nom": null,
-   "fdc_url": null
+   "fdc_nom": "Fédération départementale des chasseurs de l'Aude",
+   "fdc_url": "https://www.chasse-nature-occitanie.fr/aude/"
   },
   {
    "code": "12",
    "nom": "Aveyron",
    "region": "Occitanie",
    "prefecture_url": "https://www.aveyron.gouv.fr",
-   "fdc_nom": null,
-   "fdc_url": null
+   "fdc_nom": "Fédération départementale des chasseurs de l'Aveyron",
+   "fdc_url": "https://www.chasse-nature-occitanie.fr/aveyron/"
   },
   {
    "code": "13",
@@ -246,24 +246,24 @@
    "nom": "Gard",
    "region": "Occitanie",
    "prefecture_url": "https://www.gard.gouv.fr",
-   "fdc_nom": null,
-   "fdc_url": null
+   "fdc_nom": "Fédération départementale des chasseurs du Gard",
+   "fdc_url": "https://www.fdc30.fr/"
   },
   {
    "code": "31",
    "nom": "Haute-Garonne",
    "region": "Occitanie",
    "prefecture_url": "https://www.haute-garonne.gouv.fr",
-   "fdc_nom": null,
-   "fdc_url": null
+   "fdc_nom": "Fédération départementale des chasseurs de la Haute-Garonne",
+   "fdc_url": "https://www.chasse-nature-occitanie.fr/haute-garonne/"
   },
   {
    "code": "32",
    "nom": "Gers",
    "region": "Occitanie",
    "prefecture_url": "https://www.gers.gouv.fr",
-   "fdc_nom": null,
-   "fdc_url": null
+   "fdc_nom": "Fédération départementale des chasseurs du Gers",
+   "fdc_url": "https://www.chasse-nature-occitanie.fr/gers/"
   },
   {
    "code": "33",
@@ -278,8 +278,8 @@
    "nom": "Hérault",
    "region": "Occitanie",
    "prefecture_url": "https://www.herault.gouv.fr",
-   "fdc_nom": null,
-   "fdc_url": null
+   "fdc_nom": "Fédération départementale des chasseurs de l'Hérault",
+   "fdc_url": "https://www.chasse-nature-occitanie.fr/herault/"
   },
   {
    "code": "35",
@@ -374,8 +374,8 @@
    "nom": "Lot",
    "region": "Occitanie",
    "prefecture_url": "https://www.lot.gouv.fr",
-   "fdc_nom": null,
-   "fdc_url": null
+   "fdc_nom": "Fédération départementale des chasseurs du Lot",
+   "fdc_url": "https://www.chasse-nature-occitanie.fr/lot/"
   },
   {
    "code": "47",
@@ -390,8 +390,8 @@
    "nom": "Lozère",
    "region": "Occitanie",
    "prefecture_url": "https://www.lozere.gouv.fr",
-   "fdc_nom": null,
-   "fdc_url": null
+   "fdc_nom": "Fédération départementale des chasseurs de la Lozère",
+   "fdc_url": "https://chasseurdelozere.com/"
   },
   {
    "code": "49",
@@ -526,16 +526,16 @@
    "nom": "Hautes-Pyrénées",
    "region": "Occitanie",
    "prefecture_url": "https://www.hautes-pyrenees.gouv.fr",
-   "fdc_nom": null,
-   "fdc_url": null
+   "fdc_nom": "Fédération départementale des chasseurs des Hautes-Pyrénées",
+   "fdc_url": "https://www.chasse-nature-occitanie.fr/hautes-pyrenees/"
   },
   {
    "code": "66",
    "nom": "Pyrénées-Orientales",
    "region": "Occitanie",
    "prefecture_url": "https://www.pyrenees-orientales.gouv.fr",
-   "fdc_nom": null,
-   "fdc_url": null
+   "fdc_nom": "Fédération départementale des chasseurs des Pyrénées-Orientales",
+   "fdc_url": "https://www.fdc66.fr/"
   },
   {
    "code": "67",
@@ -654,16 +654,16 @@
    "nom": "Tarn",
    "region": "Occitanie",
    "prefecture_url": "https://www.tarn.gouv.fr",
-   "fdc_nom": null,
-   "fdc_url": null
+   "fdc_nom": "Fédération départementale des chasseurs du Tarn",
+   "fdc_url": "https://www.chasse-nature-occitanie.fr/tarn/"
   },
   {
    "code": "82",
    "nom": "Tarn-et-Garonne",
    "region": "Occitanie",
    "prefecture_url": "https://www.tarn-et-garonne.gouv.fr",
-   "fdc_nom": null,
-   "fdc_url": null
+   "fdc_nom": "Fédération départementale des chasseurs de Tarn-et-Garonne",
+   "fdc_url": "https://www.chasse-nature-occitanie.fr/tarn-et-garonne/"
   },
   {
    "code": "83",

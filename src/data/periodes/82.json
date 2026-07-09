@@ -1,0 +1,121 @@
+{
+  "departement": "82",
+  "saison": "2026-2027",
+  "licence_source": "Licence ouverte Etalab 2.0",
+  "ouverture_generale": {
+    "date": "2026-09-13",
+    "fermeture": "2027-02-28",
+    "source_url": "https://www.tarn-et-garonne.gouv.fr/contenu/telechargement/40773/267400/file/ap_20260507_ddt-seb_ouverture-cloture-chasse.pdf",
+    "source_label": "Arrêté n°82-2026-05-07-00002 relatif à l'ouverture et à la clôture de la chasse pour la campagne 2026-2027 dans le département de Tarn-et-Garonne (signé à Montauban le 7 mai 2026 par le préfet Vincent Roberti)",
+    "confiance": "haute"
+  },
+  "arretes_officiels": [
+    {
+      "objet": "Ouverture et clôture 2026-2027",
+      "reference": "Arrêté n°82-2026-05-07-00002 (7 mai 2026)",
+      "url_pdf": "https://www.tarn-et-garonne.gouv.fr/contenu/telechargement/40773/267400/file/ap_20260507_ddt-seb_ouverture-cloture-chasse.pdf",
+      "statut": "signé"
+    }
+  ],
+  "especes": [
+    {
+      "slug": "sanglier",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 1er juin 2026 au 31 mai 2027, selon modalités : 1er juin-14 août 2026 (affût/approche/battue sur autorisation individuelle) ; 15 août-13 septembre 2026 (affût/approche/battue) ; 14 septembre 2026-28 février 2027 (tout mode de chasse autorisé) ; 1er-31 mars 2027 (affût/approche/battue) ; 1er avril-31 mai 2027 (affût/approche ou battue exceptionnelle sur autorisation individuelle). Tir à balle ou à flèche ; chevrotine autorisée uniquement en battue sur autorisation du directeur de battue. Plan de gestion cynégétique (PGC) sur l'ensemble du département",
+          "source_url": "https://www.tarn-et-garonne.gouv.fr/contenu/telechargement/40773/267400/file/ap_20260507_ddt-seb_ouverture-cloture-chasse.pdf",
+          "source_label": "Arrêté n°82-2026-05-07-00002 (7 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "chevreuil",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 1er juin au 12 septembre 2026 : tir à l'affût ou à l'approche uniquement, à balle ou à flèche, sur autorisation individuelle, bilan saisi sur application mobile après chaque sortie. Du 13 septembre 2026 au 28 février 2027 : tir à balle, à flèche ou à plomb (n°1-2 et substituts n°1 à 000), à l'affût, à l'approche ou en battue. Espèce soumise à plan de chasse",
+          "source_url": "https://www.tarn-et-garonne.gouv.fr/contenu/telechargement/40773/267400/file/ap_20260507_ddt-seb_ouverture-cloture-chasse.pdf",
+          "source_label": "Arrêté n°82-2026-05-07-00002 (7 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "cerf-elaphe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 1er septembre 2026 au 28 février 2027. Tir à balle ou à flèche uniquement, à l'affût, à l'approche ou en battue. Espèce soumise à plan de chasse",
+          "source_url": "https://www.tarn-et-garonne.gouv.fr/contenu/telechargement/40773/267400/file/ap_20260507_ddt-seb_ouverture-cloture-chasse.pdf",
+          "source_label": "Arrêté n°82-2026-05-07-00002 (7 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "lievre-europe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13 septembre 2026 au 31 janvier 2027, ouverte les dimanches, lundis, mercredis, samedis et jours fériés. Plan de gestion cynégétique (PGC) institué sur certains territoires",
+          "source_url": "https://www.tarn-et-garonne.gouv.fr/contenu/telechargement/40773/267400/file/ap_20260507_ddt-seb_ouverture-cloture-chasse.pdf",
+          "source_label": "Arrêté n°82-2026-05-07-00002 (7 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "lapin-garenne",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13 septembre 2026 au 31 janvier 2027. Furet autorisé du 1er décembre 2026 au 31 janvier 2027",
+          "source_url": "https://www.tarn-et-garonne.gouv.fr/contenu/telechargement/40773/267400/file/ap_20260507_ddt-seb_ouverture-cloture-chasse.pdf",
+          "source_label": "Arrêté n°82-2026-05-07-00002 (7 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-rouge",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13 septembre 2026 au 28 février 2027, ouverte les dimanches, lundis, mercredis, samedis et jours fériés. Plan de gestion cynégétique (PGC) institué pour la perdrix rouge sur certains territoires. Dans les établissements professionnels de chasse à caractère commercial, chasse des perdrix rouges et grises issues d'élevage autorisée tous les jours",
+          "source_url": "https://www.tarn-et-garonne.gouv.fr/contenu/telechargement/40773/267400/file/ap_20260507_ddt-seb_ouverture-cloture-chasse.pdf",
+          "source_label": "Arrêté n°82-2026-05-07-00002 (7 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-grise",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13 septembre 2026 au 28 février 2027, ouverte les dimanches, lundis, mercredis, samedis et jours fériés",
+          "source_url": "https://www.tarn-et-garonne.gouv.fr/contenu/telechargement/40773/267400/file/ap_20260507_ddt-seb_ouverture-cloture-chasse.pdf",
+          "source_label": "Arrêté n°82-2026-05-07-00002 (7 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "faisan-commun",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13 septembre 2026 au 28 février 2027. Plan de gestion cynégétique (PGC) institué sur certains territoires",
+          "source_url": "https://www.tarn-et-garonne.gouv.fr/contenu/telechargement/40773/267400/file/ap_20260507_ddt-seb_ouverture-cloture-chasse.pdf",
+          "source_label": "Arrêté n°82-2026-05-07-00002 (7 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "becasse-bois",
+      "faits": [
+        {
+          "label": "Prélèvement maximal autorisé",
+          "detail": "PMA de 3 bécasses par jour et par chasseur. Chasse à la passée ou à la croule interdite. Dates d'ouverture et de clôture fixées par arrêté ministériel",
+          "source_url": "https://www.tarn-et-garonne.gouv.fr/contenu/telechargement/40773/267400/file/ap_20260507_ddt-seb_ouverture-cloture-chasse.pdf",
+          "source_label": "Arrêté n°82-2026-05-07-00002 (7 mai 2026)"
+        }
+      ]
+    }
+  ]
+}

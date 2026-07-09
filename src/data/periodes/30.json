@@ -1,0 +1,165 @@
+{
+  "departement": "30",
+  "saison": "2026-2027",
+  "licence_source": "Licence ouverte Etalab 2.0",
+  "ouverture_generale": {
+    "date": "2026-09-13",
+    "fermeture": "2027-02-28",
+    "source_url": "https://www.fdc30.fr/pdf/reglementation/document129_1.pdf",
+    "source_label": "Arrêté préfectoral n°30-2026-05-22-00007 relatif à l'ouverture et à la clôture de la chasse pour la campagne 2026/2027 dans le département du Gard et approuvant les plans de gestion cynégétique (signé le 22 mai 2026, référence de numérotation intégrant la date de signature)",
+    "confiance": "haute"
+  },
+  "arretes_officiels": [
+    {
+      "objet": "Ouverture et clôture 2026-2027 et plans de gestion cynégétique",
+      "reference": "Arrêté préfectoral n°30-2026-05-22-00007 (22 mai 2026)",
+      "url_pdf": "https://www.fdc30.fr/pdf/reglementation/document129_1.pdf",
+      "statut": "signé"
+    }
+  ],
+  "especes": [
+    {
+      "slug": "sanglier",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Ouverture anticipée à l'affût/approche sans chien (protection des cultures, autorisation préfectorale) : 1er juin au 14 août 2026, tir à balle ou à l'arc obligatoire. Ouverture générale (battue, affût, approche) : 15 août 2026 au 31 mars 2027, battues interdites le mardi et le vendredi (hors jours fériés). Période complémentaire protection des semis : 1er avril au 31 mai 2027, affût/approche uniquement sur autorisation préfectorale",
+          "source_url": "https://www.fdc30.fr/pdf/reglementation/document129_1.pdf",
+          "source_label": "Arrêté préfectoral n°30-2026-05-22-00007 (22 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "chevreuil",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 1er juin 2026 au 28 février 2027. Du 1er juin au 12 septembre 2026 : tirs d'été réservés aux bénéficiaires d'une autorisation préfectorale individuelle de plan de chasse, battues non autorisées. Notification individuelle (plan de chasse) obligatoire, tir à balle ou à l'arc obligatoire",
+          "source_url": "https://www.fdc30.fr/pdf/reglementation/document129_1.pdf",
+          "source_label": "Arrêté préfectoral n°30-2026-05-22-00007 (22 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "cerf-elaphe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13 septembre 2026 au 28 février 2027. Plan de chasse (notification individuelle) obligatoire, tir à balle ou à l'arc obligatoire",
+          "source_url": "https://www.fdc30.fr/pdf/reglementation/document129_1.pdf",
+          "source_label": "Arrêté préfectoral n°30-2026-05-22-00007 (22 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "mouflon-mediterraneen",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13 septembre 2026 au 28 février 2027. Plan de chasse (notification individuelle) obligatoire, tir à balle ou à l'arc obligatoire",
+          "source_url": "https://www.fdc30.fr/pdf/reglementation/document129_1.pdf",
+          "source_label": "Arrêté préfectoral n°30-2026-05-22-00007 (22 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "lievre-europe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13 septembre 2026 au 15 décembre 2026, selon les modalités du schéma départemental de gestion cynégétique et plan de gestion cynégétique approuvé",
+          "source_url": "https://www.fdc30.fr/pdf/reglementation/document129_1.pdf",
+          "source_label": "Arrêté préfectoral n°30-2026-05-22-00007 (22 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "lapin-garenne",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13 septembre 2026 au 10 janvier 2027, selon les modalités du plan de gestion cynégétique approuvé (PGCA)",
+          "source_url": "https://www.fdc30.fr/pdf/reglementation/document129_1.pdf",
+          "source_label": "Arrêté préfectoral n°30-2026-05-22-00007 (22 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-rouge",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13 septembre 2026 au 28 février 2027, selon les modalités du PGCA",
+          "source_url": "https://www.fdc30.fr/pdf/reglementation/document129_1.pdf",
+          "source_label": "Arrêté préfectoral n°30-2026-05-22-00007 (22 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "faisan-commun",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13 septembre 2026 au 10 janvier 2027, selon les modalités du PGCA",
+          "source_url": "https://www.fdc30.fr/pdf/reglementation/document129_1.pdf",
+          "source_label": "Arrêté préfectoral n°30-2026-05-22-00007 (22 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "becasse-bois",
+      "faits": [
+        {
+          "label": "Prélèvement maximal autorisé",
+          "detail": "PMA de 3 bécasses par jour, 6 par semaine, 30 par saison et par chasseur. Chasse interdite le mardi et le vendredi (hors jours fériés), et une demi-heure avant le lever et après le coucher du soleil. Carnet de prélèvement bécasse (CPB) ou application Chass'Adapt obligatoire",
+          "source_url": "https://www.fdc30.fr/pdf/reglementation/document129_1.pdf",
+          "source_label": "Arrêté préfectoral n°30-2026-05-22-00007 (22 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "caille-bles",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 29 août 2026 au 20 février 2027 (communes de Campestre-et-Luc, Causse-Bégon, Lanuejols, Revens) ou du 13 septembre 2026 au 20 février 2027 (reste du département). Chasse interdite le mardi et le vendredi (hors jours fériés). Gestion adaptative, quota national de prélèvements, déclaration obligatoire via Chass'Adapt",
+          "source_url": "https://www.fdc30.fr/pdf/reglementation/document129_1.pdf",
+          "source_label": "Arrêté préfectoral n°30-2026-05-22-00007 (22 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "pigeon-ramier",
+      "faits": [
+        {
+          "label": "Dates et PMA",
+          "detail": "Classé espèce susceptible d'occasionner des dégâts dans le département (niveau cynégétique 2). Chasse à poste fixe matérialisé de main d'homme autorisée tous les jours de la semaine pendant toute la période d'ouverture. PMA éthique départemental de 30 oiseaux/jour/chasseur partagé avec grive et merle sur les unités de gestion 1 à 19",
+          "source_url": "https://www.fdc30.fr/pdf/reglementation/document129_1.pdf",
+          "source_label": "Arrêté préfectoral n°30-2026-05-22-00007 (22 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "grive-draine",
+      "faits": [
+        {
+          "label": "Prélèvement maximal autorisé",
+          "detail": "PMA éthique départemental de 30 oiseaux (grive et merle confondus) par jour et par chasseur sur les unités de gestion 1 à 19. Chasse interdite une demi-heure avant le lever et après le coucher du soleil",
+          "source_url": "https://www.fdc30.fr/pdf/reglementation/document129_1.pdf",
+          "source_label": "Arrêté préfectoral n°30-2026-05-22-00007 (22 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "canard-colvert",
+      "faits": [
+        {
+          "label": "Dates et PMA (gibier d'eau)",
+          "detail": "Chasse du gibier d'eau autorisée tous les jours de la semaine sur les unités de gestion 1 à 19, pratiquée à la botte dans les étangs et marais non asséchés (notamment étangs camarguais du sud du département) ou à poste fixe matérialisé de main d'homme ailleurs. Chasse de nuit interdite dans le Gard. PMA « éthique » de 15 anatidés/jour/chasseur (hors colvert) pour chipeau, sarcelles, pilet, siffleur, souchet, fuligule morillon, nette rousse ; 3 oies/jour ; 10 limicoles/jour ; 10 rallidés/jour",
+          "source_url": "https://www.fdc30.fr/pdf/reglementation/document129_1.pdf",
+          "source_label": "Arrêté préfectoral n°30-2026-05-22-00007 (22 mai 2026)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "departement": "46",
+  "saison": "2026-2027",
+  "licence_source": "Licence ouverte Etalab 2.0",
+  "ouverture_generale": {
+    "date": "2026-09-13",
+    "fermeture": "2027-02-28",
+    "source_url": "https://www.lot.gouv.fr/contenu/telechargement/25231/188977/file/AP_ouvert_ferm_2026-2027_signe_pref.pdf",
+    "source_label": "Arrêté n°E-2026-115 relatif à l'ouverture et à la clôture de la chasse pour la campagne 2026-2027 dans le département du Lot (signé à Cahors le 13 mai 2026 par la préfète Marilyne Poulain, enregistré le 18 mai 2026)",
+    "confiance": "haute"
+  },
+  "arretes_officiels": [
+    {
+      "objet": "Ouverture et clôture 2026-2027",
+      "reference": "Arrêté n°E-2026-115 (13 mai 2026)",
+      "url_pdf": "https://www.lot.gouv.fr/contenu/telechargement/25231/188977/file/AP_ouvert_ferm_2026-2027_signe_pref.pdf",
+      "statut": "signé"
+    }
+  ],
+  "especes": [
+    {
+      "slug": "sanglier",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Approche/affût : du 1er juin au 14 août 2026 tous les jours sur autorisation préfectorale individuelle (chasse interdite de 9h à 18h), tir à balle ou arc de chasse obligatoire. Battue : du 1er au 14 août 2026 uniquement sur cultures de maïs en production (avant 9h) ; du 15 août au 13 septembre 2026 les samedi/dimanche/lundi/mercredi/jours fériés ; du 13 septembre 2026 au 31 mars 2027 tous modes de chasse les samedi/dimanche/lundi/mercredi/jours fériés. Plan de gestion cynégétique départemental. Chevrotine (8 ou 9 grains) réservée à la battue, distance de tir max 15 m, comptes-rendus hebdomadaires via ChassAdapt dès le 1er juin 2026",
+          "source_url": "https://www.lot.gouv.fr/contenu/telechargement/25231/188977/file/AP_ouvert_ferm_2026-2027_signe_pref.pdf",
+          "source_label": "Arrêté n°E-2026-115 (13 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "chevreuil",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 1er juin au 12 septembre 2026 : chasse à l'approche ou à l'affût sur autorisation préfectorale individuelle, tir à balle ou à l'arc uniquement. Du 13 septembre 2026 au 28 février 2027 : tous modes de chasse, tir à balle, à l'arc ou à plombs n°1/2 de série spécifique Paris (grenaille de substitution obligatoire près des cours d'eau : n°000/3-0 ou 00/2-00)",
+          "source_url": "https://www.lot.gouv.fr/contenu/telechargement/25231/188977/file/AP_ouvert_ferm_2026-2027_signe_pref.pdf",
+          "source_label": "Arrêté n°E-2026-115 (13 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "cerf-elaphe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 25 octobre 2026 au 28 février 2027 (mâles et femelles tous âges). Tous modes de chasse, tir à balle ou à l'arc uniquement. Plan de chasse obligatoire, comptes-rendus à envoyer à la FDC46 avant le 10 mars 2027",
+          "source_url": "https://www.lot.gouv.fr/contenu/telechargement/25231/188977/file/AP_ouvert_ferm_2026-2027_signe_pref.pdf",
+          "source_label": "Arrêté n°E-2026-115 (13 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "mouflon-mediterraneen",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13 septembre 2026 au 28 février 2027, tous modes de chasse. Tir à balle ou à l'arc uniquement. Plan de chasse obligatoire (avec le daim)",
+          "source_url": "https://www.lot.gouv.fr/contenu/telechargement/25231/188977/file/AP_ouvert_ferm_2026-2027_signe_pref.pdf",
+          "source_label": "Arrêté n°E-2026-115 (13 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "lievre-europe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13 septembre 2026 au 3 janvier 2027. Mise en vente, achat, transport et colportage interdits du 13 septembre au 14 octobre 2026 inclus",
+          "source_url": "https://www.lot.gouv.fr/contenu/telechargement/25231/188977/file/AP_ouvert_ferm_2026-2027_signe_pref.pdf",
+          "source_label": "Arrêté n°E-2026-115 (13 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "lapin-garenne",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13 septembre 2026 au 31 janvier 2027. Chasse au furet du 6 décembre 2026 au 31 janvier 2027, soumise à autorisation préfectorale individuelle après avis de la FDC46",
+          "source_url": "https://www.lot.gouv.fr/contenu/telechargement/25231/188977/file/AP_ouvert_ferm_2026-2027_signe_pref.pdf",
+          "source_label": "Arrêté n°E-2026-115 (13 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-rouge",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 20 septembre 2026 au 25 octobre 2026, les six dimanches seulement. Mise en vente, achat, transport et colportage interdits pendant cette même période",
+          "source_url": "https://www.lot.gouv.fr/contenu/telechargement/25231/188977/file/AP_ouvert_ferm_2026-2027_signe_pref.pdf",
+          "source_label": "Arrêté n°E-2026-115 (13 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-grise",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13 septembre 2026 au 28 février 2027, sur tout le département",
+          "source_url": "https://www.lot.gouv.fr/contenu/telechargement/25231/188977/file/AP_ouvert_ferm_2026-2027_signe_pref.pdf",
+          "source_label": "Arrêté n°E-2026-115 (13 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "faisan-commun",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Faisan de chasse : du 13 septembre 2026 au 28 février 2027 (sur terrains d'établissements professionnels de chasse à caractère commercial, uniquement oiseaux d'élevage marqués, jusqu'au 28 février 2027)",
+          "source_url": "https://www.lot.gouv.fr/contenu/telechargement/25231/188977/file/AP_ouvert_ferm_2026-2027_signe_pref.pdf",
+          "source_label": "Arrêté n°E-2026-115 (13 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "caille-bles",
+      "faits": [
+        {
+          "label": "Dates de chasse (colin)",
+          "detail": "Du 13 septembre 2026 au 24 janvier 2027 (mentionné sous l'appellation « colin » dans l'arrêté)",
+          "source_url": "https://www.lot.gouv.fr/contenu/telechargement/25231/188977/file/AP_ouvert_ferm_2026-2027_signe_pref.pdf",
+          "source_label": "Arrêté n°E-2026-115 (13 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "becasse-bois",
+      "faits": [
+        {
+          "label": "Prélèvement maximal autorisé",
+          "detail": "PMA de 3 oiseaux par jour de chasse et par chasseur, maximum 6 par semaine et 30 par saison. Carnet individuel de prélèvement ou application ChassAdapt obligatoire, marquage systématique avant tout transport. Chasse suspendue les mardis, jeudis et vendredis (sauf jours fériés). Mise en vente et achat de bécasses (y compris pâtés, conserves) interdits. Plan de gestion cynégétique départemental de la bécasse annexé à l'arrêté",
+          "source_url": "https://www.lot.gouv.fr/contenu/telechargement/25231/188977/file/AP_ouvert_ferm_2026-2027_signe_pref.pdf",
+          "source_label": "Arrêté n°E-2026-115 (13 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "pigeon-ramier",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Chasse autorisée du 11 au 20 février, à poste fixe matérialisé de main d'homme ; dans le Lot, uniquement au posé dans les arbres à l'aide d'appelants vivants ou artificiels durant cette période (arrêté ministériel du 19 janvier 2009)",
+          "source_url": "https://www.lot.gouv.fr/contenu/telechargement/25231/188977/file/AP_ouvert_ferm_2026-2027_signe_pref.pdf",
+          "source_label": "Arrêté n°E-2026-115 (13 mai 2026)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "departement": "09",
+  "saison": "2026-2027",
+  "licence_source": "Licence ouverte Etalab 2.0",
+  "ouverture_generale": {
+    "date": "2026-09-13",
+    "fermeture": "2027-02-28",
+    "source_url": "https://www.ariege.gouv.fr/index.php/contenu/telechargement/34753/236315/file/2026_ap_ouv_clot_chasse_2026_2027vf_version_Sign%C3%A9.pdf",
+    "source_label": "Arrêté préfectoral relatif à l'ouverture et la clôture de la chasse pour la campagne 2026/2027 dans le département de l'Ariège (signé le 19 mai 2026, zone de plaine ; zone de montagne : 20 septembre 2026)",
+    "confiance": "haute"
+  },
+  "arretes_officiels": [
+    {
+      "objet": "Ouverture et clôture 2026-2027",
+      "reference": "Arrêté préfectoral DDT/SER (19 mai 2026)",
+      "url_pdf": "https://www.ariege.gouv.fr/index.php/contenu/telechargement/34753/236315/file/2026_ap_ouv_clot_chasse_2026_2027vf_version_Sign%C3%A9.pdf",
+      "statut": "signé"
+    }
+  ],
+  "especes": [
+    {
+      "slug": "sanglier",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Ouverture générale du 16 août 2026 (zone de plaine) ou 30 août 2026 (zone de montagne) au 28 février 2027. Non soumis à plan de chasse. Battue uniquement les mercredis, samedis, dimanches et jours fériés, avec au moins 6 personnes et des chiens ; avant l'ouverture générale, chasse à l'affût ou à l'approche tous les jours sauf mardi et vendredi. Dans la réserve de chasse et de faune sauvage du mont Valier, chasse autorisée tous les jours par agents assermentés ONF (30 août 2026 - 28 février 2027)",
+          "source_url": "https://www.ariege.gouv.fr/index.php/contenu/telechargement/34753/236315/file/2026_ap_ouv_clot_chasse_2026_2027vf_version_Sign%C3%A9.pdf",
+          "source_label": "Arrêté préfectoral DDT/SER (19 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "chevreuil",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Ouverture générale du 13 septembre 2026 (plaine) / 20 septembre 2026 (montagne) au 28 février 2027. Chasse en battue uniquement lundi, mercredi, jeudi, samedi, dimanche et jours fériés. Ouverture anticipée à l'affût ou à l'approche individuelle sans chien à partir du 1er juin 2026 sur autorisation préfectorale individuelle",
+          "source_url": "https://www.ariege.gouv.fr/index.php/contenu/telechargement/34753/236315/file/2026_ap_ouv_clot_chasse_2026_2027vf_version_Sign%C3%A9.pdf",
+          "source_label": "Arrêté préfectoral DDT/SER (19 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "cerf-elaphe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Ouverture générale du 13 septembre 2026 (plaine) / 20 septembre 2026 (montagne) au 28 février 2027. Chasse en battue uniquement lundi, mercredi, jeudi, samedi, dimanche et jours fériés. Ouverture anticipée à l'affût ou à l'approche individuelle sans chien à partir du 1er septembre 2026 sur autorisation préfectorale individuelle",
+          "source_url": "https://www.ariege.gouv.fr/index.php/contenu/telechargement/34753/236315/file/2026_ap_ouv_clot_chasse_2026_2027vf_version_Sign%C3%A9.pdf",
+          "source_label": "Arrêté préfectoral DDT/SER (19 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "chamois",
+      "faits": [
+        {
+          "label": "Dates de chasse (isard)",
+          "detail": "Plan de chasse indifférencié (ISI) : du 4 octobre 2026 au 25 octobre 2026, chasse individuelle à l'approche ou à l'affût sans chien, autorisée mercredis, samedis, dimanches et jours fériés, tirs de femelles suitées interdits. Plan de chasse différencié expérimental (certains territoires) : du 4 octobre au 8 novembre 2026. Territoires domaniaux avec chasse guidée ONF : du 1er septembre au 30 novembre 2026, tous les jours (autorisation préfectorale individuelle obligatoire avant l'ouverture générale). Localement appelé isard dans les Pyrénées",
+          "source_url": "https://www.ariege.gouv.fr/index.php/contenu/telechargement/34753/236315/file/2026_ap_ouv_clot_chasse_2026_2027vf_version_Sign%C3%A9.pdf",
+          "source_label": "Arrêté préfectoral DDT/SER (19 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "mouflon-mediterraneen",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Ouverture générale (13/20 septembre 2026 selon zone) au 28 février 2027. Chasse individuelle à l'approche ou à l'affût, sans chien uniquement. Sur le massif de Tabe, tir des mâles interdit sauf mâles atypiques (robe isabelle, cornes en parasol). Sur le lot domanial Mérens n°1, chasse possible du 1er septembre 2026 à l'ouverture générale sur autorisation préfectorale individuelle",
+          "source_url": "https://www.ariege.gouv.fr/index.php/contenu/telechargement/34753/236315/file/2026_ap_ouv_clot_chasse_2026_2027vf_version_Sign%C3%A9.pdf",
+          "source_label": "Arrêté préfectoral DDT/SER (19 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "lievre-europe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13 septembre 2026 au 13 décembre 2026. Plan de chasse légal au lièvre en vigueur sur une liste de communes définie en annexe de l'arrêté",
+          "source_url": "https://www.ariege.gouv.fr/index.php/contenu/telechargement/34753/236315/file/2026_ap_ouv_clot_chasse_2026_2027vf_version_Sign%C3%A9.pdf",
+          "source_label": "Arrêté préfectoral DDT/SER (19 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-rouge",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Ouverture générale du 13 septembre 2026 au 29 novembre 2026",
+          "source_url": "https://www.ariege.gouv.fr/index.php/contenu/telechargement/34753/236315/file/2026_ap_ouv_clot_chasse_2026_2027vf_version_Sign%C3%A9.pdf",
+          "source_label": "Arrêté préfectoral DDT/SER (19 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-grise",
+      "faits": [
+        {
+          "label": "Dates de chasse (perdrix grise de montagne)",
+          "detail": "Du 4 octobre 2026 au 25 octobre 2026, chasse autorisée les mercredis, samedis et dimanches. Plan de chasse légal sur le groupement forestier du Clot de Celles et du Seuil (Montferrier)",
+          "source_url": "https://www.ariege.gouv.fr/index.php/contenu/telechargement/34753/236315/file/2026_ap_ouv_clot_chasse_2026_2027vf_version_Sign%C3%A9.pdf",
+          "source_label": "Arrêté préfectoral DDT/SER (19 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "faisan-commun",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Ouverture générale (13/20 septembre 2026 selon zone) jusqu'au 3 janvier 2027",
+          "source_url": "https://www.ariege.gouv.fr/index.php/contenu/telechargement/34753/236315/file/2026_ap_ouv_clot_chasse_2026_2027vf_version_Sign%C3%A9.pdf",
+          "source_label": "Arrêté préfectoral DDT/SER (19 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "lapin-garenne",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Ouverture générale (13/20 septembre 2026 selon zone) jusqu'au 3 janvier 2027. Avant l'ouverture générale, le lapin peut aussi être tiré à l'occasion des battues au sanglier",
+          "source_url": "https://www.ariege.gouv.fr/index.php/contenu/telechargement/34753/236315/file/2026_ap_ouv_clot_chasse_2026_2027vf_version_Sign%C3%A9.pdf",
+          "source_label": "Arrêté préfectoral DDT/SER (19 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "lagopede-alpin",
+      "faits": [
+        {
+          "label": "Statut",
+          "detail": "Chasse suspendue pour la campagne 2026-2027",
+          "source_url": "https://www.ariege.gouv.fr/index.php/contenu/telechargement/34753/236315/file/2026_ap_ouv_clot_chasse_2026_2027vf_version_Sign%C3%A9.pdf",
+          "source_label": "Arrêté préfectoral DDT/SER (19 mai 2026)"
+        }
+      ]
+    }
+  ]
+}
