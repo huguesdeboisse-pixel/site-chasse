@@ -1,0 +1,27 @@
+{
+  "departement": "974",
+  "saison": "2026",
+  "licence_source": "Licence ouverte Etalab 2.0",
+  "ouverture_generale": {
+    "date": "2026-02-15",
+    "fermeture": "2026-11-11",
+    "source_url": "https://fdc974.re/wp-content/uploads/2026/02/AP-chasse-974-.-2026.pdf",
+    "source_label": "Arrêté préfectoral n°2026-152/SG/SCOPP/BCPE du 9 février 2026 fixant les périodes d'ouverture et de fermeture de la chasse dans le département de La Réunion pour la saison cynégétique 2026 (signé par le secrétaire général par intérim de la préfecture)",
+    "confiance": "haute"
+  },
+  "arretes_officiels": [
+    {
+      "objet": "Ouverture et clôture de la chasse, saison cynégétique 2026 (tangue, lièvre à collier noir, gibier à plumes)",
+      "reference": "Arrêté n°2026-152/SG/SCOPP/BCPE du 9 février 2026",
+      "url_pdf": "https://fdc974.re/wp-content/uploads/2026/02/AP-chasse-974-.-2026.pdf",
+      "statut": "signé"
+    },
+    {
+      "objet": "Plan de chasse Cerf de Java, massif de la Roche Écrite",
+      "reference": "Arrêté n°2026-153 du 9 février 2026",
+      "url_pdf": "https://fdc974.re/wp-content/uploads/2026/02/AP-2026-153-du-9-fevrier-2026-plan-de-chasse-Cerf-de-Java-Roche-Ecrite-2026.pdf",
+      "statut": "signé"
+    }
+  ],
+  "especes": []
+}

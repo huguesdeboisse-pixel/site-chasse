@@ -774,15 +774,15 @@
    "nom": "Guadeloupe",
    "region": "Guadeloupe",
    "prefecture_url": "https://www.guadeloupe.gouv.fr",
-   "fdc_nom": null,
-   "fdc_url": null
+   "fdc_nom": "Fédération Départementale des Chasseurs de la Guadeloupe",
+   "fdc_url": "https://www.fdc971.com/"
   },
   {
    "code": "972",
    "nom": "Martinique",
    "region": "Martinique",
    "prefecture_url": "https://www.martinique.gouv.fr",
-   "fdc_nom": null,
+   "fdc_nom": "Fédération Départementale des Chasseurs de la Martinique",
    "fdc_url": null
   },
   {
@@ -798,8 +798,8 @@
    "nom": "La Réunion",
    "region": "La Réunion",
    "prefecture_url": "https://www.la-reunion.gouv.fr",
-   "fdc_nom": null,
-   "fdc_url": null
+   "fdc_nom": "Fédération Départementale des Chasseurs de la Réunion",
+   "fdc_url": "https://fdc974.re/"
   },
   {
    "code": "976",
