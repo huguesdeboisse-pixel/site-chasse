@@ -1,0 +1,116 @@
+{
+  "departement": "25",
+  "saison": "2026-2027",
+  "licence_source": "Licence ouverte Etalab 2.0",
+  "ouverture_generale": {
+    "date": "2026-09-13",
+    "fermeture": "2027-02-28",
+    "source_url": "https://www.doubs.gouv.fr/contenu/telechargement/46519/309898/file/260522_arrete_ouverture_cloture_chasse_2026-2027_signe.pdf",
+    "source_label": "Arrêté préfectoral n°25-2026-05-22-00004 fixant l'ouverture et la clôture de la chasse pour la campagne 2026-2027 dans le département du Doubs (signé le 22 mai 2026)",
+    "confiance": "haute"
+  },
+  "arretes_officiels": [
+    {
+      "objet": "Ouverture et clôture générale 2026-2027",
+      "reference": "Arrêté n°25-2026-05-22-00004 (22 mai 2026)",
+      "url_pdf": "https://www.doubs.gouv.fr/contenu/telechargement/46519/309898/file/260522_arrete_ouverture_cloture_chasse_2026-2027_signe.pdf",
+      "statut": "signé"
+    },
+    {
+      "objet": "Projet d'arrêté modificatif (suite à ordonnance du tribunal administratif de Besançon) - consultation en cours",
+      "reference": "Projet 260701_PROJET_modif_ap_ouverture-cloture_chasse_2026-2027",
+      "url_pdf": "https://www.doubs.gouv.fr/Publications/Publications-Legales/Participation-du-Public-aux-decisions-en-matiere-d-environnement/Projet-d-arrete-modificatif-fixant-l-ouverture-et-la-cloture-de-la-chasse-pour-la-saison-2026-2027",
+      "statut": "projet en consultation publique (7-27 juillet 2026), non signé"
+    }
+  ],
+  "especes": [
+    {
+      "slug": "sanglier",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "A l'approche ou à l'affût du 1er juin au 14 août 2026 (attribution tir d'été) ; à titre exceptionnel en battue sur autorisation individuelle de la DDT du 1er juin au 14 août 2026 ; en battue obligatoire (placée sous l'autorité du détenteur du droit de chasse) du 15 août 2026 à l'ouverture générale au 28 février 2027, jeudi et samedi uniquement ; marquage et déclaration obligatoires dans les 5 jours à la FDC25",
+          "source_url": "https://www.doubs.gouv.fr/contenu/telechargement/46519/309898/file/260522_arrete_ouverture_cloture_chasse_2026-2027_signe.pdf",
+          "source_label": "Arrêté n°25-2026-05-22-00004 (22 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "chevreuil",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Avant l'ouverture générale : du 1er juin 2026 au 31 janvier 2027 uniquement à l'approche ou à l'affût, sans chien, sur les territoires bénéficiant d'une attribution de tir d'été, seul le tir du brocard étant autorisé. Ouverture générale à toutes modalités de chasse jusqu'au 28 février 2027",
+          "source_url": "https://www.doubs.gouv.fr/contenu/telechargement/46519/309898/file/260522_arrete_ouverture_cloture_chasse_2026-2027_signe.pdf",
+          "source_label": "Arrêté n°25-2026-05-22-00004 (22 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "cerf-elaphe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 1er septembre 2026 au 28 février 2027. Avant l'ouverture générale, chasse à l'approche ou à l'affût uniquement, sans chien. Plan de chasse qualitatif (cerf, biche, daguet, faon) avec bracelet par catégorie",
+          "source_url": "https://www.doubs.gouv.fr/contenu/telechargement/46519/309898/file/260522_arrete_ouverture_cloture_chasse_2026-2027_signe.pdf",
+          "source_label": "Arrêté n°25-2026-05-22-00004 (22 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "chamois",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 14 septembre 2026 au 27 janvier 2027 (le préfet peut reculer la période de chasse au 25 février 2027 sur certains territoires en cas de déséquilibre). Chasse individuelle à l'approche ou à l'affût exclusivement, sans chien, uniquement les lundi, mardi et mercredi non fériés. Plan de chasse qualitatif (mâle, femelle, jeune)",
+          "source_url": "https://www.doubs.gouv.fr/contenu/telechargement/46519/309898/file/260522_arrete_ouverture_cloture_chasse_2026-2027_signe.pdf",
+          "source_label": "Arrêté n°25-2026-05-22-00004 (22 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "lievre-europe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 18 octobre au 6 décembre 2026, sur autorisation individuelle dans le cadre du plan de gestion cynégétique du SDGC. Chasse autorisée les lundi, mercredi, samedi, dimanche et jours fériés",
+          "source_url": "https://www.doubs.gouv.fr/contenu/telechargement/46519/309898/file/260522_arrete_ouverture_cloture_chasse_2026-2027_signe.pdf",
+          "source_label": "Arrêté n°25-2026-05-22-00004 (22 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-grise",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13 septembre 2026 au 31 janvier 2027, tir autorisé les mercredis, samedis et dimanches",
+          "source_url": "https://www.doubs.gouv.fr/contenu/telechargement/46519/309898/file/260522_arrete_ouverture_cloture_chasse_2026-2027_signe.pdf",
+          "source_label": "Arrêté n°25-2026-05-22-00004 (22 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "faisan-commun",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13 septembre 2026 au 31 janvier 2027 sur l'ensemble du département, tir autorisé les mercredis, samedis et dimanches. Sur l'unité de gestion VD3 : période raccourcie du 27 septembre au 28 octobre 2026, PMA de 2 faisans communs par an et par chasseur, marquage obligatoire et carnet à retourner à la FDC25 avant le 30 juin 2027",
+          "source_url": "https://www.doubs.gouv.fr/contenu/telechargement/46519/309898/file/260522_arrete_ouverture_cloture_chasse_2026-2027_signe.pdf",
+          "source_label": "Arrêté n°25-2026-05-22-00004 (22 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "becasse-bois",
+      "faits": [
+        {
+          "label": "Prélèvement maximal autorisé",
+          "detail": "PMA fixé à 30 bécasses pour la campagne, 3 par chasseur et par jour de chasse, 4 par groupe de chasseurs à partir de 2 personnes et par jour, 6 maximum par semaine. Marquage immédiat sur la patte et déclaration via carnet ou application ChassAdapt ; carnet à retourner à la FDC25 avant le 30 juin 2027. A partir du 1er février 2027, le prélèvement maximal est ramené à 1 bécasse par semaine et par chasseur",
+          "source_url": "https://www.doubs.gouv.fr/contenu/telechargement/46519/309898/file/260522_arrete_ouverture_cloture_chasse_2026-2027_signe.pdf",
+          "source_label": "Arrêté n°25-2026-05-22-00004 (22 mai 2026)"
+        }
+      ]
+    }
+  ]
+}

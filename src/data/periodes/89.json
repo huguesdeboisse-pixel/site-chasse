@@ -1,0 +1,110 @@
+{
+  "departement": "89",
+  "saison": "2026-2027",
+  "licence_source": "Licence ouverte Etalab 2.0",
+  "ouverture_generale": {
+    "date": "2026-09-20",
+    "fermeture": "2027-02-28",
+    "source_url": "https://www.chasseurdelyonne.fr/uploads/89%20-APO.pdf",
+    "source_label": "Arrêté préfectoral n°DDT/SEA/2026-18 fixant les dates d'ouverture et de clôture de la chasse pour la campagne 2026-2027 dans le département de l'Yonne (signé le 29 mai 2026 par le préfet Pascal Jan)",
+    "confiance": "haute"
+  },
+  "arretes_officiels": [
+    {
+      "objet": "Ouverture et clôture générale 2026-2027",
+      "reference": "Arrêté n°DDT/SEA/2026-18 (29 mai 2026)",
+      "url_pdf": "https://www.chasseurdelyonne.fr/uploads/89%20-APO.pdf",
+      "statut": "signé"
+    }
+  ],
+  "especes": [
+    {
+      "slug": "sanglier",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 1er juin au 14 août 2026, chasse individuelle ou collective (y compris battues, sur autorisation de la fédération valant autorisation préfectorale) ; du 15 août 2026 au 31 mars 2027, chasse individuelle ou collective ; du 1er avril au 31 mai 2027, chasse uniquement sur parcelles agricoles pour protéger les semis (individuelle/collective, battue sur autorisation préfectorale spécifique). Plan de chasse suspendu pour les sangliers de 20 kg ou moins, prélevables et transportables sans marquage sur tout le département pour inciter au tir. Comptes-rendus hebdomadaires des prélèvements obligatoires sur l'espace adhérent territorial depuis le 1er juin 2025",
+          "source_url": "https://www.chasseurdelyonne.fr/uploads/89%20-APO.pdf",
+          "source_label": "Arrêté n°DDT/SEA/2026-18 (29 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "chevreuil",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 1er juin au 19 septembre 2026, chasse individuelle (compte-rendu sous 48h sur l'espace adhérent) ; du 20 septembre 2026 au 28 février 2027, chasse individuelle ou collective. Chasse au grand gibier réalisable uniquement à balle ou à l'arc, sur des parcelles formant un îlot de 10 ha minimum",
+          "source_url": "https://www.chasseurdelyonne.fr/uploads/89%20-APO.pdf",
+          "source_label": "Arrêté n°DDT/SEA/2026-18 (29 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "cerf-elaphe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 1er au 19 septembre 2026, chasse individuelle (compte-rendu sous 48h) ; du 20 septembre 2026 au 28 février 2027, chasse individuelle ou collective. Soumis à plan de chasse",
+          "source_url": "https://www.chasseurdelyonne.fr/uploads/89%20-APO.pdf",
+          "source_label": "Arrêté n°DDT/SEA/2026-18 (29 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "lievre-europe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 20 septembre au 14 novembre 2026 dans la majorité des communes du département (liste étendue soumise à plan de chasse) ; du 20 septembre au 10 octobre 2026 dans les autres communes non listées. Tir autorisé uniquement les 20 et 27 septembre 2026 à Pourrain ; les 27 septembre et 4 octobre 2026 à Escamps ; tir interdit à Vallan",
+          "source_url": "https://www.chasseurdelyonne.fr/uploads/89%20-APO.pdf",
+          "source_label": "Arrêté n°DDT/SEA/2026-18 (29 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-grise",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 20 septembre 2026 au 31 janvier 2027, sauf sur les communes d'Escamps et Vallan (tir autorisé uniquement les 20 et 27 septembre puis 4, 11 et 18 octobre 2026) et de Gy-l'Évêque (tir autorisé uniquement les 20 et 27 septembre 2026)",
+          "source_url": "https://www.chasseurdelyonne.fr/uploads/89%20-APO.pdf",
+          "source_label": "Arrêté n°DDT/SEA/2026-18 (29 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-rouge",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 20 septembre 2026 au 31 janvier 2027, sauf sur les communes d'Escamps et Vallan (tir autorisé uniquement les 20 et 27 septembre puis 4, 11 et 18 octobre 2026) et de Gy-l'Évêque (tir autorisé uniquement les 20 et 27 septembre 2026)",
+          "source_url": "https://www.chasseurdelyonne.fr/uploads/89%20-APO.pdf",
+          "source_label": "Arrêté n°DDT/SEA/2026-18 (29 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "faisan-commun",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 20 septembre 2026 au 31 janvier 2027 ; tir de la poule faisane commune et vénérée interdit sur les communes d'Armeau, Escamps, Leugny, Passy, Vallan, Villeneuve-sur-Yonne (rive droite) et Villevallier",
+          "source_url": "https://www.chasseurdelyonne.fr/uploads/89%20-APO.pdf",
+          "source_label": "Arrêté n°DDT/SEA/2026-18 (29 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "lapin-garenne",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 20 septembre 2026 au 28 février 2027, chasse autorisée par tir et par furetage",
+          "source_url": "https://www.chasseurdelyonne.fr/uploads/89%20-APO.pdf",
+          "source_label": "Arrêté n°DDT/SEA/2026-18 (29 mai 2026)"
+        }
+      ]
+    }
+  ]
+}

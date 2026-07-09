@@ -1,0 +1,139 @@
+{
+  "departement": "58",
+  "saison": "2026-2027",
+  "licence_source": "Licence ouverte Etalab 2.0",
+  "ouverture_generale": {
+    "date": "2026-09-20",
+    "fermeture": "2027-02-28",
+    "source_url": "https://www.nievre.gouv.fr/contenu/telechargement/24512/202950/file/Arr%C3%AAt%C3%A9%20ouverture%20cloture_2026-2027.pdf",
+    "source_label": "Arrêté préfectoral n°58-2026-05-13-00001 relatif à l'ouverture et à la clôture de la chasse pour la campagne 2026-2027 dans le département de la Nièvre (signé le 13 mai 2026)",
+    "confiance": "haute"
+  },
+  "arretes_officiels": [
+    {
+      "objet": "Ouverture et clôture générale 2026-2027",
+      "reference": "Arrêté n°58-2026-05-13-00001 (13 mai 2026)",
+      "url_pdf": "https://www.nievre.gouv.fr/contenu/telechargement/24512/202950/file/Arr%C3%AAt%C3%A9%20ouverture%20cloture_2026-2027.pdf",
+      "statut": "signé"
+    },
+    {
+      "objet": "Classement ESOD (pigeon ramier, lapin de garenne, sanglier) 2026-2027",
+      "reference": "Arrêté n°58-2026-05-13-00006 (13 mai 2026)",
+      "url_pdf": "https://www.chasse-nature-58.com/uploads/Arr%C3%AAt%C3%A9%20ESOD_2026-2027.pdf",
+      "statut": "signé"
+    }
+  ],
+  "especes": [
+    {
+      "slug": "sanglier",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Chasse à l'approche/affût du chevreuil, daim, cerf élaphe, mouflon et sanglier possible dès le 1er septembre 2026 (décision d'attribution de plan de chasse valant autorisation individuelle jusqu'au 19 septembre 2026) ; ouverture générale à tir du 20 septembre 2026, clôture spécifique du sanglier au 31 mars 2027 ; du 1er avril au 31 mai 2027, chasse possible uniquement pour la protection des semis, à l'affût ou à l'approche, sur autorisation préfectorale individuelle, sur les communes \"points noirs\". Du 1er juin 2026 à l'ouverture générale, tout détenteur de plan de gestion sanglier peut chasser à l'approche, à l'affût ou en battue, tous les jours, sans autorisation préfectorale individuelle, dans les cultures et à proximité",
+          "source_url": "https://www.nievre.gouv.fr/contenu/telechargement/24512/202950/file/Arr%C3%AAt%C3%A9%20ouverture%20cloture_2026-2027.pdf",
+          "source_label": "Arrêté n°58-2026-05-13-00001 (13 mai 2026)"
+        },
+        {
+          "label": "Statut",
+          "detail": "Classé ESOD (espèce susceptible d'occasionner des dégâts) pour la campagne 2026-2027, sur les communes listées par l'arrêté préfectoral fixant les zones à dégâts significatifs (n°58-2026-03-12-00003 du 12 mars 2026)",
+          "source_url": "https://www.chasse-nature-58.com/uploads/Arr%C3%AAt%C3%A9%20ESOD_2026-2027.pdf",
+          "source_label": "Arrêté ESOD n°58-2026-05-13-00006 (13 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "chevreuil",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "A l'approche ou à l'affût à partir du lundi 1er juin 2026 (décision d'attribution de plan de chasse valant autorisation jusqu'au 19 septembre 2026), tous les jours de la semaine ; battue autorisée uniquement les lundis, mercredis, samedis, dimanches et jours fériés après l'ouverture générale du 20 septembre 2026 jusqu'au 28 février 2027",
+          "source_url": "https://www.nievre.gouv.fr/contenu/telechargement/24512/202950/file/Arr%C3%AAt%C3%A9%20ouverture%20cloture_2026-2027.pdf",
+          "source_label": "Arrêté n°58-2026-05-13-00001 (13 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "cerf-elaphe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "A l'approche ou à l'affût (sauf biches et faons) à partir du mardi 1er septembre 2026, tous les jours de la semaine ; battue autorisée uniquement les lundis, mercredis, samedis, dimanches et jours fériés après l'ouverture générale du 20 septembre 2026 jusqu'au 28 février 2027",
+          "source_url": "https://www.nievre.gouv.fr/contenu/telechargement/24512/202950/file/Arr%C3%AAt%C3%A9%20ouverture%20cloture_2026-2027.pdf",
+          "source_label": "Arrêté n°58-2026-05-13-00001 (13 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "lievre-europe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du dimanche 20 septembre 2026 au dimanche 22 novembre 2026, sur l'ensemble du département hors communes soumises à plan de gestion spécifique (GIC du Pays Corbigeois, GIC du Val de Loire, GIC Bourgogne Nivernaise)",
+          "source_url": "https://www.nievre.gouv.fr/contenu/telechargement/24512/202950/file/Arr%C3%AAt%C3%A9%20ouverture%20cloture_2026-2027.pdf",
+          "source_label": "Arrêté n°58-2026-05-13-00001 (13 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-grise",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du dimanche 20 septembre 2026 au vendredi 20 février 2027, en dehors des GIC où des mesures plus restrictives s'appliquent (plan de gestion spécifique sur la commune d'Alligny-Cosne, GIC Bourgogne Nivernaise)",
+          "source_url": "https://www.nievre.gouv.fr/contenu/telechargement/24512/202950/file/Arr%C3%AAt%C3%A9%20ouverture%20cloture_2026-2027.pdf",
+          "source_label": "Arrêté n°58-2026-05-13-00001 (13 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "faisan-commun",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du dimanche 20 septembre 2026 au vendredi 20 février 2027, en dehors des GIC soumis à plan de gestion spécifique (GIC du Pays Corbigeois, GIC de la Sardolle, GIC de la Montagne)",
+          "source_url": "https://www.nievre.gouv.fr/contenu/telechargement/24512/202950/file/Arr%C3%AAt%C3%A9%20ouverture%20cloture_2026-2027.pdf",
+          "source_label": "Arrêté n°58-2026-05-13-00001 (13 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "becasse-bois",
+      "faits": [
+        {
+          "label": "Prélèvement maximal autorisé",
+          "detail": "PMA fixé à 30 bécasses par chasseur pour la saison 2026-2027, dans la limite de 5 oiseaux par semaine et 3 oiseaux par jour. Marquage immédiat obligatoire (dispositif FDC58 ou application ChassAdapt) ; carnet à retourner à la FDC58 avant le 30 juin 2027. Chasse à la passée et à la croule interdite",
+          "source_url": "https://www.nievre.gouv.fr/contenu/telechargement/24512/202950/file/Arr%C3%AAt%C3%A9%20ouverture%20cloture_2026-2027.pdf",
+          "source_label": "Arrêté n°58-2026-05-13-00001 (13 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "lapin-garenne",
+      "faits": [
+        {
+          "label": "Statut",
+          "detail": "Classé ESOD (espèce susceptible d'occasionner des dégâts) pour la campagne 2026-2027, uniquement à l'intérieur de l'enceinte du circuit automobile de Nevers-Magny-Cours et à l'intérieur de l'emprise de l'aéroport de Nevers",
+          "source_url": "https://www.chasse-nature-58.com/uploads/Arr%C3%AAt%C3%A9%20ESOD_2026-2027.pdf",
+          "source_label": "Arrêté ESOD n°58-2026-05-13-00006 (13 mai 2026)"
+        },
+        {
+          "label": "Dates de chasse",
+          "detail": "Chasse au furet autorisée sur l'ensemble du département",
+          "source_url": "https://www.nievre.gouv.fr/contenu/telechargement/24512/202950/file/Arr%C3%AAt%C3%A9%20ouverture%20cloture_2026-2027.pdf",
+          "source_label": "Arrêté n°58-2026-05-13-00001 (13 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "pigeon-ramier",
+      "faits": [
+        {
+          "label": "Statut",
+          "detail": "Classé ESOD (espèce susceptible d'occasionner des dégâts) pour la campagne 2026-2027, sur les parcelles ensemencées en céréales, oléagineux et protéagineux",
+          "source_url": "https://www.chasse-nature-58.com/uploads/Arr%C3%AAt%C3%A9%20ESOD_2026-2027.pdf",
+          "source_label": "Arrêté ESOD n°58-2026-05-13-00006 (13 mai 2026)"
+        }
+      ]
+    }
+  ]
+}

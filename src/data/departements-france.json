@@ -158,8 +158,8 @@
    "nom": "Côte-d'Or",
    "region": "Bourgogne-Franche-Comté",
    "prefecture_url": "https://www.cote-dor.gouv.fr",
-   "fdc_nom": null,
-   "fdc_url": null
+   "fdc_nom": "Fédération départementale des chasseurs de la Côte-d'Or",
+   "fdc_url": "https://www.fdc21.com/"
   },
   {
    "code": "22",
@@ -190,8 +190,8 @@
    "nom": "Doubs",
    "region": "Bourgogne-Franche-Comté",
    "prefecture_url": "https://www.doubs.gouv.fr",
-   "fdc_nom": null,
-   "fdc_url": null
+   "fdc_nom": "Fédération des chasseurs du Doubs",
+   "fdc_url": "https://www.fdc25.com/"
   },
   {
    "code": "26",
@@ -318,8 +318,8 @@
    "nom": "Jura",
    "region": "Bourgogne-Franche-Comté",
    "prefecture_url": "https://www.jura.gouv.fr",
-   "fdc_nom": null,
-   "fdc_url": null
+   "fdc_nom": "Fédération départementale des chasseurs du Jura",
+   "fdc_url": "https://www.chasseurdujura.com/"
   },
   {
    "code": "40",
@@ -470,8 +470,8 @@
    "nom": "Nièvre",
    "region": "Bourgogne-Franche-Comté",
    "prefecture_url": "https://www.nievre.gouv.fr",
-   "fdc_nom": null,
-   "fdc_url": null
+   "fdc_nom": "Fédération départementale des chasseurs de la Nièvre",
+   "fdc_url": "https://www.chasse-nature-58.com/"
   },
   {
    "code": "59",
@@ -566,16 +566,16 @@
    "nom": "Haute-Saône",
    "region": "Bourgogne-Franche-Comté",
    "prefecture_url": "https://www.haute-saone.gouv.fr",
-   "fdc_nom": null,
-   "fdc_url": null
+   "fdc_nom": "Fédération départementale des chasseurs de Haute-Saône",
+   "fdc_url": "https://www.fdchasseurs70.fr/"
   },
   {
    "code": "71",
    "nom": "Saône-et-Loire",
    "region": "Bourgogne-Franche-Comté",
    "prefecture_url": "https://www.saone-et-loire.gouv.fr",
-   "fdc_nom": null,
-   "fdc_url": null
+   "fdc_nom": "Fédération départementale des chasseurs de Saône-et-Loire",
+   "fdc_url": "https://www.chasse-nature-71.fr/"
   },
   {
    "code": "72",
@@ -718,16 +718,16 @@
    "nom": "Yonne",
    "region": "Bourgogne-Franche-Comté",
    "prefecture_url": "https://www.yonne.gouv.fr",
-   "fdc_nom": null,
-   "fdc_url": null
+   "fdc_nom": "Fédération départementale des chasseurs de l'Yonne",
+   "fdc_url": "https://www.chasseurdelyonne.fr/"
   },
   {
    "code": "90",
    "nom": "Territoire de Belfort",
    "region": "Bourgogne-Franche-Comté",
    "prefecture_url": "https://www.territoire-de-belfort.gouv.fr",
-   "fdc_nom": null,
-   "fdc_url": null
+   "fdc_nom": "Fédération départementale des chasseurs du Territoire de Belfort",
+   "fdc_url": "https://www.fdc90.fr/"
   },
   {
    "code": "91",

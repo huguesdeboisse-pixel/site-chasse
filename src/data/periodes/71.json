@@ -1,0 +1,149 @@
+{
+  "departement": "71",
+  "saison": "2026-2027",
+  "licence_source": "Licence ouverte Etalab 2.0",
+  "ouverture_generale": {
+    "date": "2026-09-20",
+    "fermeture": "2027-02-28",
+    "source_url": "https://www.chasse-nature-71.fr/wp-content/uploads/2026/06/AP_ouverture_2026_2027_RAA.pdf",
+    "source_label": "Arrêté préfectoral n°71-2026-05-20-00002 portant sur les périodes d'ouverture et les conditions spécifiques de chasse de certaines espèces de gibier pour la campagne 2026/2027 (publié au RAA le 20 mai 2026), mirroré par la FDC71",
+    "confiance": "haute"
+  },
+  "arretes_officiels": [
+    {
+      "objet": "Périodes d'ouverture et conditions spécifiques de chasse 2026-2027",
+      "reference": "Arrêté n°71-2026-05-20-00002 (RAA spécial n°71-2026-129, publié le 20 mai 2026)",
+      "url_pdf": "https://www.chasse-nature-71.fr/wp-content/uploads/2026/06/AP_ouverture_2026_2027_RAA.pdf",
+      "statut": "signé"
+    },
+    {
+      "objet": "Autorisation complémentaire de déterrage du blaireau (15 juin au 14 septembre 2026)",
+      "reference": "Arrêté du 11 juin 2026",
+      "url_pdf": "https://www.chasse-nature-71.fr/wp-content/uploads/2026/06/AP_Ouverture_compl_blaireau_2026_RAA-1.pdf",
+      "statut": "signé"
+    }
+  ],
+  "especes": [
+    {
+      "slug": "sanglier",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Chasse réservée aux bénéficiaires d'un plan de gestion individuel. Du 1er juin au 31 juillet 2026, à l'approche ou à l'affût uniquement, sans chien ; du 1er août 2026 au 31 mars 2027, en battue, à l'approche ou à l'affût ; du 1er avril au 31 mai 2027, à l'approche ou à l'affût uniquement, pour la protection des semis, sur autorisation préfectorale individuelle après avis de la FDC71. Aucune consigne restrictive de tir ne doit être imposée. Marquage et déclaration à la fédération sous 48h obligatoires",
+          "source_url": "https://www.chasse-nature-71.fr/wp-content/uploads/2026/06/AP_ouverture_2026_2027_RAA.pdf",
+          "source_label": "Arrêté n°71-2026-05-20-00002 (20 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "chevreuil",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 1er juin 2026 au 28 février 2027, chasse réservée aux bénéficiaires d'un plan de chasse individuel. Du 1er juin à l'ouverture générale (20 septembre 2026), chasse à l'approche ou à l'affût uniquement, sans chien. Marquage et déclaration à la fédération sous 48h obligatoires",
+          "source_url": "https://www.chasse-nature-71.fr/wp-content/uploads/2026/06/AP_ouverture_2026_2027_RAA.pdf",
+          "source_label": "Arrêté n°71-2026-05-20-00002 (20 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "cerf-elaphe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 1er septembre 2026 au 28 février 2027, chasse réservée aux bénéficiaires d'un plan de chasse individuel. Du 1er septembre à l'ouverture générale, chasse à l'approche ou à l'affût uniquement, sans chien. Marquage et déclaration obligatoires, signalement également possible auprès de l'OFB ou de la police de la chasse",
+          "source_url": "https://www.chasse-nature-71.fr/wp-content/uploads/2026/06/AP_ouverture_2026_2027_RAA.pdf",
+          "source_label": "Arrêté n°71-2026-05-20-00002 (20 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "chamois",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 1er septembre 2026 au 28 février 2027, chasse réservée aux bénéficiaires d'un plan de chasse individuel, à l'approche ou à l'affût uniquement, sans chien",
+          "source_url": "https://www.chasse-nature-71.fr/wp-content/uploads/2026/06/AP_ouverture_2026_2027_RAA.pdf",
+          "source_label": "Arrêté n°71-2026-05-20-00002 (20 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "mouflon-mediterraneen",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 1er septembre 2026 au 28 février 2027, chasse réservée aux bénéficiaires d'un plan de chasse individuel",
+          "source_url": "https://www.chasse-nature-71.fr/wp-content/uploads/2026/06/AP_ouverture_2026_2027_RAA.pdf",
+          "source_label": "Arrêté n°71-2026-05-20-00002 (20 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "lievre-europe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 20 septembre au 6 décembre 2026. Plan de gestion lièvre décliné en 4 niveaux selon les 22 entités petit gibier (EPG) : niveau 1 (chasse tous les jours), niveau 2 (chasse le dimanche uniquement), niveau 3 (chasse tous les jours avec PMA par chasseur et territoire), niveau 4 (chasse réservée aux détenteurs de plan de gestion avec quota individuel et marquage obligatoire). Tout prélèvement doit être déclaré à la FDC71 avant le 28 février 2027",
+          "source_url": "https://www.chasse-nature-71.fr/wp-content/uploads/2026/06/AP_ouverture_2026_2027_RAA.pdf",
+          "source_label": "Arrêté n°71-2026-05-20-00002 (20 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-grise",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 20 septembre 2026 au 31 janvier 2027",
+          "source_url": "https://www.chasse-nature-71.fr/wp-content/uploads/2026/06/AP_ouverture_2026_2027_RAA.pdf",
+          "source_label": "Arrêté n°71-2026-05-20-00002 (20 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-rouge",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 20 septembre 2026 au 31 janvier 2027",
+          "source_url": "https://www.chasse-nature-71.fr/wp-content/uploads/2026/06/AP_ouverture_2026_2027_RAA.pdf",
+          "source_label": "Arrêté n°71-2026-05-20-00002 (20 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "faisan-commun",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 20 septembre 2026 au 31 janvier 2027 (poule et coq)",
+          "source_url": "https://www.chasse-nature-71.fr/wp-content/uploads/2026/06/AP_ouverture_2026_2027_RAA.pdf",
+          "source_label": "Arrêté n°71-2026-05-20-00002 (20 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "becasse-bois",
+      "faits": [
+        {
+          "label": "Prélèvement maximal autorisé",
+          "detail": "PMA fixé à 4 oiseaux par chasseur et par jour dans le département (et 30 oiseaux pour la saison sur l'ensemble du territoire métropolitain). Enregistrement immédiat obligatoire sur carnet de prélèvement avec marquage, ou via l'application ChassAdapt",
+          "source_url": "https://www.chasse-nature-71.fr/wp-content/uploads/2026/06/AP_ouverture_2026_2027_RAA.pdf",
+          "source_label": "Arrêté n°71-2026-05-20-00002 (20 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "lapin-garenne",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Chasse au furet autorisée sur l'ensemble du département",
+          "source_url": "https://www.chasse-nature-71.fr/wp-content/uploads/2026/06/AP_ouverture_2026_2027_RAA.pdf",
+          "source_label": "Arrêté n°71-2026-05-20-00002 (20 mai 2026)"
+        }
+      ]
+    }
+  ]
+}

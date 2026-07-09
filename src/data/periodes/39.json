@@ -1,0 +1,121 @@
+{
+  "departement": "39",
+  "saison": "2026-2027",
+  "licence_source": "Licence ouverte Etalab 2.0",
+  "ouverture_generale": {
+    "date": "2026-09-13",
+    "fermeture": "2027-02-28",
+    "source_url": "https://www.jura.gouv.fr/index.php/contenu/telechargement/36609/272505/file/AP%20ouverture%20cl%C3%B4ture%20chasse%202026-2027.pdf",
+    "source_label": "Arrêté préfectoral n°2026-05-21-002 (RAA 39-2026-06-23-00003) relatif à l'ouverture et à la clôture de la chasse pour la campagne 2026-2027 dans le département du Jura (signé le 23 juin 2026)",
+    "confiance": "haute"
+  },
+  "arretes_officiels": [
+    {
+      "objet": "Ouverture et clôture générale 2026-2027",
+      "reference": "Arrêté n°2026-05-21-002 / RAA 39-2026-06-23-00003 (23 juin 2026)",
+      "url_pdf": "https://www.jura.gouv.fr/index.php/contenu/telechargement/36609/272505/file/AP%20ouverture%20cl%C3%B4ture%20chasse%202026-2027.pdf",
+      "statut": "signé"
+    }
+  ],
+  "especes": [
+    {
+      "slug": "sanglier",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Sur autorisation préfectorale, en battue/affût/approche du 1er juillet au 14 août 2026 ; en battue/affût/approche du 15 août au 12 septembre 2026 (dont en réserve de chasse après déclaration à la FDCJ) ; période d'ouverture générale (tous modes) du 13 septembre 2026 au 28 février 2027 ; à l'approche ou à l'affût du 1er au 31 mars 2027 ; sur autorisation préfectorale du 1er au 30 juin 2027. Marquage obligatoire avant tout transport, déclaration à la FDCJ sous 7 jours via chasseurdujura.com. Aucune consigne restrictive de tir ne doit être imposée (Plan National de Maîtrise du sanglier)",
+          "source_url": "https://www.jura.gouv.fr/index.php/contenu/telechargement/36609/272505/file/AP%20ouverture%20cl%C3%B4ture%20chasse%202026-2027.pdf",
+          "source_label": "Arrêté n°2026-05-21-002 (23 juin 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "chevreuil",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 1er juillet 2026 au 28 février 2027. Avant la date d'ouverture générale, chasse uniquement à l'approche ou à l'affût, individuelle, sans rabatteur ni chien, sur autorisation préfectorale, y compris en réserve de chasse. Plan de chasse obligatoire",
+          "source_url": "https://www.jura.gouv.fr/index.php/contenu/telechargement/36609/272505/file/AP%20ouverture%20cl%C3%B4ture%20chasse%202026-2027.pdf",
+          "source_label": "Arrêté n°2026-05-21-002 (23 juin 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "cerf-elaphe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 1er septembre 2026 au 28 février 2027, tous modes de chasse autorisés, plan de chasse obligatoire, battue en réserve possible dans les conditions de l'article 9",
+          "source_url": "https://www.jura.gouv.fr/index.php/contenu/telechargement/36609/272505/file/AP%20ouverture%20cl%C3%B4ture%20chasse%202026-2027.pdf",
+          "source_label": "Arrêté n°2026-05-21-002 (23 juin 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "chamois",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13 septembre 2026 au 28 février 2027, uniquement à l'approche, chasse individuelle sans rabatteur ni chien, autorisée y compris en réserve de chasse. Plan de chasse obligatoire ; tout animal prélevé doit être présenté à un point de contrôle ou une personne habilitée de la FDCJ",
+          "source_url": "https://www.jura.gouv.fr/index.php/contenu/telechargement/36609/272505/file/AP%20ouverture%20cl%C3%B4ture%20chasse%202026-2027.pdf",
+          "source_label": "Arrêté n°2026-05-21-002 (23 juin 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "lievre-europe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13 septembre au 31 décembre 2026 ; du 4 octobre au 31 décembre 2026 pour les unités de gestion n°1 à 13. Plan de chasse et déclaration obligatoires (déclaration du prélèvement au titulaire du plan de chasse le jour même)",
+          "source_url": "https://www.jura.gouv.fr/index.php/contenu/telechargement/36609/272505/file/AP%20ouverture%20cl%C3%B4ture%20chasse%202026-2027.pdf",
+          "source_label": "Arrêté n°2026-05-21-002 (23 juin 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-grise",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13 septembre au 31 décembre 2026",
+          "source_url": "https://www.jura.gouv.fr/index.php/contenu/telechargement/36609/272505/file/AP%20ouverture%20cl%C3%B4ture%20chasse%202026-2027.pdf",
+          "source_label": "Arrêté n°2026-05-21-002 (23 juin 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "faisan-commun",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13 septembre au 31 décembre 2026. Le tir de la poule faisane est interdit dans l'unité de gestion n°9",
+          "source_url": "https://www.jura.gouv.fr/index.php/contenu/telechargement/36609/272505/file/AP%20ouverture%20cl%C3%B4ture%20chasse%202026-2027.pdf",
+          "source_label": "Arrêté n°2026-05-21-002 (23 juin 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "becasse-bois",
+      "faits": [
+        {
+          "label": "Prélèvement maximal autorisé",
+          "detail": "PMA fixé à 30 oiseaux par chasseur pour la campagne, 3 oiseaux par jour et par chasseur, 6 oiseaux par semaine et par chasseur",
+          "source_url": "https://www.jura.gouv.fr/index.php/contenu/telechargement/36609/272505/file/AP%20ouverture%20cl%C3%B4ture%20chasse%202026-2027.pdf",
+          "source_label": "Arrêté n°2026-05-21-002 (23 juin 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "pigeon-ramier",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "La chasse à tir est interdite le mardi sauf jour férié ; à titre expérimental, chasse au pigeon ramier à poste fixe matérialisé de main d'homme et sans chien autorisée le mardi du 1er octobre au 11 novembre 2026",
+          "source_url": "https://www.jura.gouv.fr/index.php/contenu/telechargement/36609/272505/file/AP%20ouverture%20cl%C3%B4ture%20chasse%202026-2027.pdf",
+          "source_label": "Arrêté n°2026-05-21-002 (23 juin 2026)"
+        }
+      ]
+    }
+  ]
+}

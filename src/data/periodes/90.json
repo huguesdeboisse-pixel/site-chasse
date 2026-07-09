@@ -1,0 +1,132 @@
+{
+  "departement": "90",
+  "saison": "2026-2027",
+  "licence_source": "Licence ouverte Etalab 2.0",
+  "ouverture_generale": {
+    "date": "2026-09-13",
+    "fermeture": "2027-02-28",
+    "source_url": "https://www.mairie-de-cravanche.fr/wp-content/uploads/2026_05_19_AP_ouverture_fermeture_chasse_2026_2027.pdf",
+    "source_label": "Arrêté préfectoral n°DDTSEEF-90-2026-05-19-00008 relatif à l'ouverture et à la clôture de la chasse pour la campagne 2026-2027 dans le département du Territoire de Belfort (signé le 19 mai 2026 par délégation du préfet, Romain Courtet, directeur départemental des territoires)",
+    "confiance": "haute"
+  },
+  "arretes_officiels": [
+    {
+      "objet": "Ouverture et clôture générale 2026-2027",
+      "reference": "Arrêté n°DDTSEEF-90-2026-05-19-00008 (19 mai 2026)",
+      "url_pdf": "https://www.mairie-de-cravanche.fr/wp-content/uploads/2026_05_19_AP_ouverture_fermeture_chasse_2026_2027.pdf",
+      "statut": "signé"
+    }
+  ],
+  "especes": [
+    {
+      "slug": "sanglier",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Espèce non soumise à plan de chasse. A l'affût et à l'approche : du 13 septembre 2026 au 28 février 2027, tir autorisé tous les jours ; prolongation possible à l'affût du 1er au 31 mars 2027 par arrêté préfectoral selon dégâts constatés. En battue : du 13 septembre 2026 au 28 février 2027, uniquement les jeudis, samedis, dimanches et jours fériés (extension possible en semaine sauf mercredi sur autorisation préfectorale dans les zones à dégâts). Ouverture anticipée à l'affût sur autorisation préfectorale individuelle du 1er juin au 14 août 2026 puis dans tout le département du 15 août au 12 septembre 2026 ; en battue sur autorisation du 1er août au 14 août 2026 (zones de vigilance) et du 15 août au 12 septembre 2026 (tout le département, sauf mercredi). Période complémentaire de protection des semis à l'affût sur chaise/mirador du 1er avril au 31 mai 2027 sur autorisation préfectorale ; battue possible dans les mêmes conditions selon l'article 5. Tir interdit dans un rayon de 30 m autour des points d'agrainage, d'affouragement et des dépôts de pierres de sel. Déclaration de tout prélèvement de grand gibier à la FDC90 obligatoire sous 72h",
+          "source_url": "https://www.mairie-de-cravanche.fr/wp-content/uploads/2026_05_19_AP_ouverture_fermeture_chasse_2026_2027.pdf",
+          "source_label": "Arrêté n°DDTSEEF-90-2026-05-19-00008 (19 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "chevreuil",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Chasse réservée aux détenteurs d'un plan de chasse individuel, animaux prélevés munis d'un bracelet réglementaire. Brocard et chevrillard (moins d'un an) : du 13 septembre 2026 au 31 janvier 2027 ; chevrette : du 11 octobre 2026 au 31 janvier 2027. Ouverture anticipée du brocard à l'affût sur autorisation préfectorale individuelle du 1er juin au 12 septembre 2026. A l'approche et en battue uniquement les jeudis, samedis, dimanches et jours fériés ; à l'affût tous les jours. Tir à l'arc ou à balle uniquement (sauf exception en battue). Déclaration à la FDC90 sous 72h obligatoire",
+          "source_url": "https://www.mairie-de-cravanche.fr/wp-content/uploads/2026_05_19_AP_ouverture_fermeture_chasse_2026_2027.pdf",
+          "source_label": "Arrêté n°DDTSEEF-90-2026-05-19-00008 (19 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "cerf-elaphe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Cerf, biche, faon et daguet : du 11 octobre 2026 au 31 janvier 2027, chasse réservée aux détenteurs d'un plan de chasse individuel, animaux prélevés munis d'un bracelet réglementaire. A l'approche et en battue uniquement les jeudis, samedis, dimanches et jours fériés ; à l'affût tous les jours",
+          "source_url": "https://www.mairie-de-cravanche.fr/wp-content/uploads/2026_05_19_AP_ouverture_fermeture_chasse_2026_2027.pdf",
+          "source_label": "Arrêté n°DDTSEEF-90-2026-05-19-00008 (19 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "chamois",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13 septembre 2026 au 31 janvier 2027, chasse réservée aux détenteurs d'un plan de chasse individuel, animaux prélevés munis d'un bracelet réglementaire",
+          "source_url": "https://www.mairie-de-cravanche.fr/wp-content/uploads/2026_05_19_AP_ouverture_fermeture_chasse_2026_2027.pdf",
+          "source_label": "Arrêté n°DDTSEEF-90-2026-05-19-00008 (19 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "lievre-europe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 11 octobre au 11 novembre 2026, uniquement les lundis, jeudis, samedis, dimanches et jours fériés. Chasse interdite par temps de neige",
+          "source_url": "https://www.mairie-de-cravanche.fr/wp-content/uploads/2026_05_19_AP_ouverture_fermeture_chasse_2026_2027.pdf",
+          "source_label": "Arrêté n°DDTSEEF-90-2026-05-19-00008 (19 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-grise",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13 septembre 2026 au 31 janvier 2027. Chasse interdite par temps de neige",
+          "source_url": "https://www.mairie-de-cravanche.fr/wp-content/uploads/2026_05_19_AP_ouverture_fermeture_chasse_2026_2027.pdf",
+          "source_label": "Arrêté n°DDTSEEF-90-2026-05-19-00008 (19 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "lapin-garenne",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13 septembre au 6 décembre 2026. Chasse interdite par temps de neige",
+          "source_url": "https://www.mairie-de-cravanche.fr/wp-content/uploads/2026_05_19_AP_ouverture_fermeture_chasse_2026_2027.pdf",
+          "source_label": "Arrêté n°DDTSEEF-90-2026-05-19-00008 (19 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "faisan-commun",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Coq et poule : du 13 septembre 2026 au 31 janvier 2027. Chasse interdite par temps de neige",
+          "source_url": "https://www.mairie-de-cravanche.fr/wp-content/uploads/2026_05_19_AP_ouverture_fermeture_chasse_2026_2027.pdf",
+          "source_label": "Arrêté n°DDTSEEF-90-2026-05-19-00008 (19 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "becasse-bois",
+      "faits": [
+        {
+          "label": "Prélèvement maximal autorisé",
+          "detail": "PMA fixé à 30 oiseaux par chasseur pour la saison, avec un maximum de 3 oiseaux par jour et par chasseur, dans les conditions prévues par l'arrêté préfectoral n°2011181-0001 du 30 juin 2011. Chasse interdite par temps de neige",
+          "source_url": "https://www.mairie-de-cravanche.fr/wp-content/uploads/2026_05_19_AP_ouverture_fermeture_chasse_2026_2027.pdf",
+          "source_label": "Arrêté n°DDTSEEF-90-2026-05-19-00008 (19 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "canard-colvert",
+      "faits": [
+        {
+          "label": "Statut",
+          "detail": "Commercialisation interdite du 21 août 2026 à 6h au 13 septembre 2026 au soir",
+          "source_url": "https://www.mairie-de-cravanche.fr/wp-content/uploads/2026_05_19_AP_ouverture_fermeture_chasse_2026_2027.pdf",
+          "source_label": "Arrêté n°DDTSEEF-90-2026-05-19-00008 (19 mai 2026)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "departement": "21",
+  "saison": "2026-2027",
+  "licence_source": "Licence ouverte Etalab 2.0",
+  "ouverture_generale": {
+    "date": "2026-09-20",
+    "fermeture": "2027-02-28",
+    "source_url": "https://www.cote-dor.gouv.fr/contenu/telechargement/21414/163895/file/20260522_ap_ouverture_fermeture_chasse_2026_2027.pdf",
+    "source_label": "Arrêté préfectoral n°2026/888 relatif à l'ouverture et à la clôture de la chasse pour la campagne 2026-2027 dans le département de la Côte-d'Or (signé le 22 mai 2026)",
+    "confiance": "haute"
+  },
+  "arretes_officiels": [
+    {
+      "objet": "Ouverture et clôture générale 2026-2027",
+      "reference": "Arrêté n°2026/888 (22 mai 2026)",
+      "url_pdf": "https://www.cote-dor.gouv.fr/contenu/telechargement/21414/163895/file/20260522_ap_ouverture_fermeture_chasse_2026_2027.pdf",
+      "statut": "signé"
+    }
+  ],
+  "especes": [
+    {
+      "slug": "sanglier",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Chasse à l'approche/affût (seul, sans chien) ou en battue du 1er juin au 14 août 2026 sur autorisation de la FDC21 ; chasse en battue ou individuelle silencieuse (plan de chasse grand gibier) du 15 août 2026 au 31 mars 2027 ; période complémentaire de protection des semis à l'approche/affût (battue exceptionnelle) du 1er avril au 31 mai 2027 sur autorisation de la FDC21. Dans le cœur du Parc national de forêts, battue soumise à autorisation du directeur du Parc du 1er juin au 16 octobre 2026 et du 1er avril au 31 mai 2027",
+          "source_url": "https://www.cote-dor.gouv.fr/contenu/telechargement/21414/163895/file/20260522_ap_ouverture_fermeture_chasse_2026_2027.pdf",
+          "source_label": "Arrêté n°2026/888 (22 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "chevreuil",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Chasse à l'approche/affût (seul, sans chien) du 1er juin au 19 septembre 2026, puis ouverture générale (battue ou individuelle silencieuse, plan de chasse grand gibier) du 20 septembre 2026 au 28 février 2027",
+          "source_url": "https://www.cote-dor.gouv.fr/contenu/telechargement/21414/163895/file/20260522_ap_ouverture_fermeture_chasse_2026_2027.pdf",
+          "source_label": "Arrêté n°2026/888 (22 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "cerf-elaphe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Chasse à l'approche/affût (seul, sans chien, plan de chasse individuel) du 1er septembre au 19 septembre 2026, puis à l'approche/affût du 20 septembre au 16 octobre 2026, puis en battue (ou chasse individuelle silencieuse) du 17 octobre 2026 au 28 février 2027",
+          "source_url": "https://www.cote-dor.gouv.fr/contenu/telechargement/21414/163895/file/20260522_ap_ouverture_fermeture_chasse_2026_2027.pdf",
+          "source_label": "Arrêté n°2026/888 (22 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "mouflon-mediterraneen",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Mêmes périodes que le cerf (approche/affût du 1er septembre au 16 octobre 2026, puis chasse individuelle silencieuse du 17 octobre 2026 au 28 février 2027) ; la chasse en battue ou traque du mouflon est interdite par arrêté ministériel du 7 juillet 1995",
+          "source_url": "https://www.cote-dor.gouv.fr/contenu/telechargement/21414/163895/file/20260522_ap_ouverture_fermeture_chasse_2026_2027.pdf",
+          "source_label": "Arrêté n°2026/888 (22 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "lievre-europe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 4 octobre au 25 octobre 2026 sur les communes hors zones AOC non soumises à plan de gestion ; du 4 octobre au 1er novembre 2026 sur les communes en aires AOC délimitées ; du 4 octobre au 11 novembre 2026 sur les territoires bénéficiant d'un plan de gestion du lièvre",
+          "source_url": "https://www.cote-dor.gouv.fr/contenu/telechargement/21414/163895/file/20260522_ap_ouverture_fermeture_chasse_2026_2027.pdf",
+          "source_label": "Arrêté n°2026/888 (22 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-rouge",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 20 septembre 2026 au 28 février 2027, sur l'ensemble du département",
+          "source_url": "https://www.cote-dor.gouv.fr/contenu/telechargement/21414/163895/file/20260522_ap_ouverture_fermeture_chasse_2026_2027.pdf",
+          "source_label": "Arrêté n°2026/888 (22 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "faisan-commun",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 20 septembre 2026 au 28 février 2027, sur l'ensemble du département",
+          "source_url": "https://www.cote-dor.gouv.fr/contenu/telechargement/21414/163895/file/20260522_ap_ouverture_fermeture_chasse_2026_2027.pdf",
+          "source_label": "Arrêté n°2026/888 (22 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "becasse-bois",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 20 septembre 2026 au 20 février 2027, sauf dans le cœur du Parc national de forêts où la chasse n'est autorisée qu'à partir du 17 octobre 2026. Chasse à la passée ou à la croule interdite",
+          "source_url": "https://www.cote-dor.gouv.fr/contenu/telechargement/21414/163895/file/20260522_ap_ouverture_fermeture_chasse_2026_2027.pdf",
+          "source_label": "Arrêté n°2026/888 (22 mai 2026)"
+        },
+        {
+          "label": "Prélèvement maximal autorisé",
+          "detail": "PMA maintenu pour 2026-2027 : 3 bécasses par jour, 5 par semaine civile, 30 sur l'ensemble de la campagne. Carnet de prélèvement FDC21 ou application ChassAdapt obligatoire, marquage immédiat sur le lieu de capture",
+          "source_url": "https://www.cote-dor.gouv.fr/contenu/telechargement/21414/163895/file/20260522_ap_ouverture_fermeture_chasse_2026_2027.pdf",
+          "source_label": "Arrêté n°2026/888 (22 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "caille-bles",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 29 août 2026 au 20 février 2027",
+          "source_url": "https://www.cote-dor.gouv.fr/contenu/telechargement/21414/163895/file/20260522_ap_ouverture_fermeture_chasse_2026_2027.pdf",
+          "source_label": "Arrêté n°2026/888 (22 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "pigeon-ramier",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 20 septembre 2026 au 10 février 2027 ; du 11 au 20 février 2027, uniquement à poste fixe matérialisé de main d'homme",
+          "source_url": "https://www.cote-dor.gouv.fr/contenu/telechargement/21414/163895/file/20260522_ap_ouverture_fermeture_chasse_2026_2027.pdf",
+          "source_label": "Arrêté n°2026/888 (22 mai 2026)"
+        }
+      ]
+    }
+  ]
+}

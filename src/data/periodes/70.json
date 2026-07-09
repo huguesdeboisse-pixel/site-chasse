@@ -1,0 +1,122 @@
+{
+  "departement": "70",
+  "saison": "2026-2027",
+  "licence_source": "Licence ouverte Etalab 2.0",
+  "ouverture_generale": {
+    "date": "2026-09-13",
+    "fermeture": "2027-02-28",
+    "source_url": "https://www.fdchasseurs70.fr/fichiers-public/?upf=dl&id=8800",
+    "source_label": "Arrêté préfectoral n°70-2026-05-18-00009 relatif à l'ouverture et à la clôture de la chasse pour la campagne 2026-2027 dans le département de la Haute-Saône (signé le 18 mai 2026), mirroré par la FDC70",
+    "confiance": "haute"
+  },
+  "arretes_officiels": [
+    {
+      "objet": "Ouverture et clôture générale 2026-2027",
+      "reference": "Arrêté n°70-2026-05-18-00009 (18 mai 2026)",
+      "url_pdf": "https://www.fdchasseurs70.fr/fichiers-public/?upf=dl&id=8800",
+      "statut": "signé"
+    },
+    {
+      "objet": "Projet d'arrêté ouverture/clôture 2026-2027 (consultation publique, antérieur à la version signée)",
+      "reference": "Projet, consultation du 17 avril au 7 mai 2026",
+      "url_pdf": "https://www.haute-saone.gouv.fr/index.php/Actions-de-l-Etat/Environnement/Information-et-consultation-du-public/Consultation-du-public/CHASSE/Projet-d-arrete-relatif-a-l-ouverture-et-a-la-cloture-de-la-chasse",
+      "statut": "projet, superseded par l'arrêté signé n°70-2026-05-18-00009"
+    }
+  ],
+  "especes": [
+    {
+      "slug": "sanglier",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Seuls les détenteurs d'un plan de gestion sanglier individuel peuvent chasser. Du 1er juin au 14 août 2026, à l'affût ou à l'approche sur autorisation préfectorale ; du 1er au 14 août 2026, en battue uniquement dans les cultures sur autorisation préfectorale ; du 15 août au 12 septembre 2026, en battue dans les cultures, prairies et boqueteaux (jusqu'à 3 ha), affût/approche libre sur tout le territoire ; du 13 septembre 2026 au 28 février 2027, toutes modalités sur l'ensemble du territoire chassable ; prolongation possible du 1er au 31 mars 2027 après avis de la commission départementale ; du 1er avril au 31 mai 2027, chasse à l'affût en poste fixe sur autorisation préfectorale pour la protection des semis. Consignes de tir limitant le prélèvement des laies de 50 kg et plus interdites (objectif de réduction des populations)",
+          "source_url": "https://www.fdchasseurs70.fr/fichiers-public/?upf=dl&id=8800",
+          "source_label": "Arrêté n°70-2026-05-18-00009 (18 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "chevreuil",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Brocard et jeunes (mâle ou femelle) : du 13 septembre 2026 au 28 février 2027 ; chevrette : du 11 octobre 2026 au 28 février 2027. Seuls les détenteurs d'un plan de chasse individuel peuvent chasser ; tir à balle ou à l'arc uniquement. Du 1er juin au 12 septembre 2026, chasse du brocard à l'approche ou à l'affût sur autorisation préfectorale individuelle",
+          "source_url": "https://www.fdchasseurs70.fr/fichiers-public/?upf=dl&id=8800",
+          "source_label": "Arrêté n°70-2026-05-18-00009 (18 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "cerf-elaphe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 11 octobre 2026 au 28 février 2027, ouverture générale ; du 1er septembre au 12 septembre 2026, chasse à l'approche ou à l'affût sur autorisation préfectorale individuelle. Cerf sika : du 13 septembre 2026 au 28 février 2027, avec ouverture anticipée à l'approche/affût du 1er au 12 septembre 2026 sur autorisation préfectorale",
+          "source_url": "https://www.fdchasseurs70.fr/fichiers-public/?upf=dl&id=8800",
+          "source_label": "Arrêté n°70-2026-05-18-00009 (18 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "chamois",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13 septembre 2026 au 28 février 2027, à l'approche ou à l'affût uniquement sur autorisation préfectorale individuelle, tir à balle ou à l'arc, seuls les détenteurs d'un plan de chasse individuel peuvent chasser",
+          "source_url": "https://www.fdchasseurs70.fr/fichiers-public/?upf=dl&id=8800",
+          "source_label": "Arrêté n°70-2026-05-18-00009 (18 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "lievre-europe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 18 octobre au 15 novembre 2026, chasse à tir uniquement les mercredis, samedis, dimanches et jours fériés, réservée aux détenteurs d'un plan de chasse individuel lièvre. En zone de montagne (communes de Saint-Bresson, La Montagne, La Longine, La Rosière, Corravillers, Amont-et-Effreney, Beulotte-Saint-Laurent, Servance, Le Haut-du-Them-Château-Lambert, Ternuay, Plancher-les-Mines, Belfahy, Miellin, Esmoulières) : du 4 octobre au 1er novembre 2026. Chasse au vol : du 18 octobre 2026 au 28 février 2027. Vénerie : du 18 octobre 2026 au 31 mars 2027",
+          "source_url": "https://www.fdchasseurs70.fr/fichiers-public/?upf=dl&id=8800",
+          "source_label": "Arrêté n°70-2026-05-18-00009 (18 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-grise",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13 septembre 2026 au 31 janvier 2027",
+          "source_url": "https://www.fdchasseurs70.fr/fichiers-public/?upf=dl&id=8800",
+          "source_label": "Arrêté n°70-2026-05-18-00009 (18 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "faisan-commun",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Coq et poule : du 13 septembre au 15 novembre 2026",
+          "source_url": "https://www.fdchasseurs70.fr/fichiers-public/?upf=dl&id=8800",
+          "source_label": "Arrêté n°70-2026-05-18-00009 (18 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "becasse-bois",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13 septembre 2026 au 20 février 2027",
+          "source_url": "https://www.fdchasseurs70.fr/fichiers-public/?upf=dl&id=8800",
+          "source_label": "Arrêté n°70-2026-05-18-00009 (18 mai 2026)"
+        },
+        {
+          "label": "Prélèvement maximal autorisé",
+          "detail": "PMA fixé à 30 oiseaux par chasseur pour la campagne, maximum 3 oiseaux par jour et par chasseur (niveau national), maximum 6 oiseaux par semaine dans le département. Marquage par languette autocollante sur une des pattes obligatoire ; carnet de prélèvement ou application ChassAdapt obligatoire, à retourner à la FDC70 dès la fermeture de la chasse même sans prélèvement",
+          "source_url": "https://www.fdchasseurs70.fr/fichiers-public/?upf=dl&id=8800",
+          "source_label": "Arrêté n°70-2026-05-18-00009 (18 mai 2026)"
+        }
+      ]
+    }
+  ]
+}
