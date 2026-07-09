@@ -126,16 +126,16 @@
    "nom": "Charente",
    "region": "Nouvelle-Aquitaine",
    "prefecture_url": "https://www.charente.gouv.fr",
-   "fdc_nom": null,
-   "fdc_url": null
+   "fdc_nom": "Fédération Départementale des Chasseurs de la Charente",
+   "fdc_url": "https://www.fdc16.com/"
   },
   {
    "code": "17",
    "nom": "Charente-Maritime",
    "region": "Nouvelle-Aquitaine",
    "prefecture_url": "https://www.charente-maritime.gouv.fr",
-   "fdc_nom": null,
-   "fdc_url": null
+   "fdc_nom": "Fédération Départementale des Chasseurs de la Charente-Maritime",
+   "fdc_url": "https://www.chasseurs17.com/"
   },
   {
    "code": "18",
@@ -150,8 +150,8 @@
    "nom": "Corrèze",
    "region": "Nouvelle-Aquitaine",
    "prefecture_url": "https://www.correze.gouv.fr",
-   "fdc_nom": null,
-   "fdc_url": null
+   "fdc_nom": "Fédération Départementale des Chasseurs de la Corrèze",
+   "fdc_url": "https://www.chasse-correze.fr/"
   },
   {
    "code": "21",
@@ -174,16 +174,16 @@
    "nom": "Creuse",
    "region": "Nouvelle-Aquitaine",
    "prefecture_url": "https://www.creuse.gouv.fr",
-   "fdc_nom": null,
-   "fdc_url": null
+   "fdc_nom": "Fédération Départementale des Chasseurs de la Creuse",
+   "fdc_url": "https://www.fdc23.fr/"
   },
   {
    "code": "24",
    "nom": "Dordogne",
    "region": "Nouvelle-Aquitaine",
    "prefecture_url": "https://www.dordogne.gouv.fr",
-   "fdc_nom": null,
-   "fdc_url": null
+   "fdc_nom": "Fédération des Chasseurs de la Dordogne",
+   "fdc_url": "https://www.chasseurs24.com/"
   },
   {
    "code": "25",
@@ -270,8 +270,8 @@
    "nom": "Gironde",
    "region": "Nouvelle-Aquitaine",
    "prefecture_url": "https://www.gironde.gouv.fr",
-   "fdc_nom": null,
-   "fdc_url": null
+   "fdc_nom": "Fédération des Chasseurs de la Gironde",
+   "fdc_url": "https://chasseurs33.com/"
   },
   {
    "code": "34",
@@ -326,8 +326,8 @@
    "nom": "Landes",
    "region": "Nouvelle-Aquitaine",
    "prefecture_url": "https://www.landes.gouv.fr",
-   "fdc_nom": null,
-   "fdc_url": null
+   "fdc_nom": "Fédération Départementale des Chasseurs des Landes",
+   "fdc_url": "https://fedechasseurslandes.com/"
   },
   {
    "code": "41",
@@ -382,8 +382,8 @@
    "nom": "Lot-et-Garonne",
    "region": "Nouvelle-Aquitaine",
    "prefecture_url": "https://www.lot-et-garonne.gouv.fr",
-   "fdc_nom": null,
-   "fdc_url": null
+   "fdc_nom": "Fédération Départementale des Chasseurs de Lot-et-Garonne",
+   "fdc_url": "https://www.chasseurs47.com/"
   },
   {
    "code": "48",
@@ -518,8 +518,8 @@
    "nom": "Pyrénées-Atlantiques",
    "region": "Nouvelle-Aquitaine",
    "prefecture_url": "https://www.pyrenees-atlantiques.gouv.fr",
-   "fdc_nom": null,
-   "fdc_url": null
+   "fdc_nom": "Fédération Départementale des Chasseurs des Pyrénées-Atlantiques",
+   "fdc_url": "https://chasseurs64.com/"
   },
   {
    "code": "65",
@@ -638,8 +638,8 @@
    "nom": "Deux-Sèvres",
    "region": "Nouvelle-Aquitaine",
    "prefecture_url": "https://www.deux-sevres.gouv.fr",
-   "fdc_nom": null,
-   "fdc_url": null
+   "fdc_nom": "Fédération Départementale des Chasseurs des Deux-Sèvres",
+   "fdc_url": "https://www.chasse-79.com/"
   },
   {
    "code": "80",
@@ -694,16 +694,16 @@
    "nom": "Vienne",
    "region": "Nouvelle-Aquitaine",
    "prefecture_url": "https://www.vienne.gouv.fr",
-   "fdc_nom": null,
-   "fdc_url": null
+   "fdc_nom": "Fédération des Chasseurs de la Vienne",
+   "fdc_url": "https://www.chasseenvienne.com/"
   },
   {
    "code": "87",
    "nom": "Haute-Vienne",
    "region": "Nouvelle-Aquitaine",
    "prefecture_url": "https://www.haute-vienne.gouv.fr",
-   "fdc_nom": null,
-   "fdc_url": null
+   "fdc_nom": "Fédération Départementale des Chasseurs de la Haute-Vienne",
+   "fdc_url": "https://fdc87.com/"
   },
   {
    "code": "88",

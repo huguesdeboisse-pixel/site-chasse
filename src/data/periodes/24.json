@@ -1,0 +1,154 @@
+{
+  "departement": "24",
+  "saison": "2026-2027",
+  "licence_source": "Licence ouverte Etalab 2.0",
+  "ouverture_generale": {
+    "date": "2026-09-13",
+    "fermeture": "2027-02-28",
+    "source_url": "https://www.chasseurs24.com/wp-content/uploads/2026/06/AP-ouverture-cloture-2026_2027-signe.pdf",
+    "source_label": "Arrêté n°DDT/SEER/EMN/26-1273 relatif à l'ouverture et à la clôture de la chasse sur le département de la Dordogne pour la saison cynégétique 2026-2027 (signé à Périgueux le 12 mai 2026 par la préfète)",
+    "confiance": "haute"
+  },
+  "arretes_officiels": [
+    {
+      "objet": "Ouverture et clôture générale 2026-2027",
+      "reference": "Arrêté n°DDT/SEER/EMN/26-1273 (12 mai 2026)",
+      "url_pdf": "https://www.chasseurs24.com/wp-content/uploads/2026/06/AP-ouverture-cloture-2026_2027-signe.pdf",
+      "statut": "signé"
+    }
+  ],
+  "especes": [
+    {
+      "slug": "sanglier",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Approche/affût (sans chien, tir à balle en arme rayée ou arc obligatoire) du 1er juin 2026 au 31 mars 2027, anticipée jusqu'au 14 août sur autorisation préfectorale individuelle ; en battue du 1er juin au 14 août 2026 sur autorisation préfectorale, puis sans autorisation du 15 août 2026 au 31 mars 2027 ; période complémentaire protection des semis (approche/affût et 2 battues exceptionnelles) du 1er avril au 31 mai 2027 sur autorisation préfectorale",
+          "source_url": "https://www.chasseurs24.com/wp-content/uploads/2026/06/AP-ouverture-cloture-2026_2027-signe.pdf",
+          "source_label": "Arrêté n°DDT/SEER/EMN/26-1273 (12 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "chevreuil",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Approche/affût (sans chien, tir à balle en arme rayée ou arc obligatoire) du 1er juin 2026 au 28 février 2027, seul le tir du brocard autorisé entre le 1er juin et le 12 septembre sauf dérogation ; en battue du 13 septembre 2026 au 28 février 2027, tous les jours",
+          "source_url": "https://www.chasseurs24.com/wp-content/uploads/2026/06/AP-ouverture-cloture-2026_2027-signe.pdf",
+          "source_label": "Arrêté n°DDT/SEER/EMN/26-1273 (12 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "cerf-elaphe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Approche/affût en zones CEI et zones qualitatives : du 1er au 25 septembre 2026 (tir CEFA hors biches suitées uniquement en zones qualitatives, pour protection des cultures) ; approche/affût général du 26 septembre 2026 au 28 février 2027 ; battue du 10 octobre 2026 au 28 février 2027",
+          "source_url": "https://www.chasseurs24.com/wp-content/uploads/2026/06/AP-ouverture-cloture-2026_2027-signe.pdf",
+          "source_label": "Arrêté n°DDT/SEER/EMN/26-1273 (12 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "mouflon-mediterraneen",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Approche/affût (sans chien, tir à balle arme rayée ou arc obligatoire) du 1er septembre 2026 au 28 février 2027 ; en battue les samedis, dimanches et jours fériés du 27 septembre 2026 au 28 février 2027",
+          "source_url": "https://www.chasseurs24.com/wp-content/uploads/2026/06/AP-ouverture-cloture-2026_2027-signe.pdf",
+          "source_label": "Arrêté n°DDT/SEER/EMN/26-1273 (12 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "lievre-europe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 4 octobre au 13 décembre 2026, les dimanches, mercredis et jours fériés uniquement. Plan de gestion cynégétique départemental fixé par le SDGC",
+          "source_url": "https://www.chasseurs24.com/wp-content/uploads/2026/06/AP-ouverture-cloture-2026_2027-signe.pdf",
+          "source_label": "Arrêté n°DDT/SEER/EMN/26-1273 (12 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-rouge",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13 septembre au 29 novembre 2026, les dimanches et jours fériés uniquement (hors chasses commerciales, chassables tous les jours de l'ouverture à la fermeture générale ; oiseaux lâchés munis d'un signe distinctif obligatoire entre le 30 novembre 2026 et le 28 février 2027)",
+          "source_url": "https://www.chasseurs24.com/wp-content/uploads/2026/06/AP-ouverture-cloture-2026_2027-signe.pdf",
+          "source_label": "Arrêté n°DDT/SEER/EMN/26-1273 (12 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-grise",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13 septembre au 29 novembre 2026, les dimanches et jours fériés uniquement",
+          "source_url": "https://www.chasseurs24.com/wp-content/uploads/2026/06/AP-ouverture-cloture-2026_2027-signe.pdf",
+          "source_label": "Arrêté n°DDT/SEER/EMN/26-1273 (12 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "faisan-commun",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13 septembre 2026 au 28 février 2027, les samedis, dimanches, lundis, mercredis et jours fériés (hors chasses commerciales, chassable tous les jours)",
+          "source_url": "https://www.chasseurs24.com/wp-content/uploads/2026/06/AP-ouverture-cloture-2026_2027-signe.pdf",
+          "source_label": "Arrêté n°DDT/SEER/EMN/26-1273 (12 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "lapin-garenne",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13 septembre 2026 au 31 janvier 2027, les samedis, dimanches, lundis, mercredis et jours fériés",
+          "source_url": "https://www.chasseurs24.com/wp-content/uploads/2026/06/AP-ouverture-cloture-2026_2027-signe.pdf",
+          "source_label": "Arrêté n°DDT/SEER/EMN/26-1273 (12 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "becasse-bois",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Ouverture et clôture selon arrêtés ministériels du 24 mars 2006 et du 19 janvier 2009 modifiés. Chassable les samedis, dimanches, lundis, mercredis, jeudis et jours fériés. Plans de gestion départementaux et locaux fixés par le SDGC",
+          "source_url": "https://www.chasseurs24.com/wp-content/uploads/2026/06/AP-ouverture-cloture-2026_2027-signe.pdf",
+          "source_label": "Arrêté n°DDT/SEER/EMN/26-1273 (12 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "canard-colvert",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Ouverture et clôture selon arrêtés ministériels du 24 mars 2006 et du 19 janvier 2009 modifiés. Chassable les samedis, dimanches, lundis, mercredis, jeudis et jours fériés. Plans de gestion départementaux et locaux fixés par le SDGC",
+          "source_url": "https://www.chasseurs24.com/wp-content/uploads/2026/06/AP-ouverture-cloture-2026_2027-signe.pdf",
+          "source_label": "Arrêté n°DDT/SEER/EMN/26-1273 (12 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "pigeon-ramier",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Ouverture et clôture selon arrêtés ministériels du 24 mars 2006 et du 19 janvier 2009 modifiés. Chassable (avec le pigeon colombin) les samedis, dimanches, lundis, mercredis et jours fériés ; hors de ces jours, tir possible uniquement à poste fixe ou à l'affût. Plans de gestion départementaux fixés par le SDGC",
+          "source_url": "https://www.chasseurs24.com/wp-content/uploads/2026/06/AP-ouverture-cloture-2026_2027-signe.pdf",
+          "source_label": "Arrêté n°DDT/SEER/EMN/26-1273 (12 mai 2026)"
+        }
+      ]
+    }
+  ]
+}

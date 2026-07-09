@@ -1,0 +1,143 @@
+{
+  "departement": "19",
+  "saison": "2026-2027",
+  "licence_source": "Licence ouverte Etalab 2.0",
+  "ouverture_generale": {
+    "date": "2026-09-13",
+    "fermeture": "2027-02-28",
+    "source_url": "https://www.correze.gouv.fr/index.php/contenu/telechargement/34694/245388/file/arrete_ouv_ferm_2026-2027.pdf",
+    "source_label": "Arrêté préfectoral relatif à l'ouverture et à la fermeture de la chasse pour l'année cynégétique 2026-2027 dans le département de la Corrèze (signé à Tulle le 13 mai 2026 par le préfet Vincent Berton)",
+    "confiance": "haute"
+  },
+  "arretes_officiels": [
+    {
+      "objet": "Ouverture et clôture générale 2026-2027",
+      "reference": "Arrêté préfectoral du 13 mai 2026 (Corrèze)",
+      "url_pdf": "https://www.correze.gouv.fr/index.php/contenu/telechargement/34694/245388/file/arrete_ouv_ferm_2026-2027.pdf",
+      "statut": "signé"
+    }
+  ],
+  "especes": [
+    {
+      "slug": "sanglier",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Chasse silencieuse ou en battue sur autorisation préfectorale individuelle (2 personnes max pour approche/affût) du 1er juillet au 14 août 2026, tous les jours ; puis sans autorisation les mercredis, samedis, dimanches et jours fériés du 15 août au 12 septembre 2026 ; ouverture générale les mercredis, samedis, dimanches et jours fériés du 13 septembre 2026 au 31 mars 2027 ; période complémentaire protection des semis sur autorisation préfectorale du 1er avril au 31 mai 2027 ; période estivale sur autorisation du 1er au 30 juin 2027",
+          "source_url": "https://www.correze.gouv.fr/index.php/contenu/telechargement/34694/245388/file/arrete_ouv_ferm_2026-2027.pdf",
+          "source_label": "Arrêté préfectoral du 13 mai 2026 (Corrèze)"
+        }
+      ]
+    },
+    {
+      "slug": "chevreuil",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Ouverture générale du 13/09/2026 au 28/02/2027, chasse autorisée tous les jours sauf mardis et vendredis, réservée au détenteur d'un plan de chasse ; tir à balle, plombs n°1 et 2 série de Paris ou munition de substitution ; chasse silencieuse (approche/affût) sur autorisation préfectorale du 1er juin au 12 septembre 2026 (brocard et tir sanitaire uniquement)",
+          "source_url": "https://www.correze.gouv.fr/index.php/contenu/telechargement/34694/245388/file/arrete_ouv_ferm_2026-2027.pdf",
+          "source_label": "Arrêté préfectoral du 13 mai 2026 (Corrèze)"
+        }
+      ]
+    },
+    {
+      "slug": "cerf-elaphe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 17/10/2026 au 28/02/2027, chasse autorisée tous les jours sauf mardis et vendredis, réservée au détenteur d'un plan de chasse. Règles de gestion définies au schéma départemental de gestion cynégétique (SDGC) en vigueur",
+          "source_url": "https://www.correze.gouv.fr/index.php/contenu/telechargement/34694/245388/file/arrete_ouv_ferm_2026-2027.pdf",
+          "source_label": "Arrêté préfectoral du 13 mai 2026 (Corrèze)"
+        }
+      ]
+    },
+    {
+      "slug": "chamois",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 17/10/2026 au 28/02/2027, chasse autorisée tous les jours sauf mardis et vendredis, réservée au détenteur d'un plan de chasse ; chasse en battue et emploi des chiens interdits ; approche limitée à deux chasseurs maximum (et éventuellement un accompagnateur) ; déclaration téléphonique obligatoire à la FDC19 après chaque prélèvement",
+          "source_url": "https://www.correze.gouv.fr/index.php/contenu/telechargement/34694/245388/file/arrete_ouv_ferm_2026-2027.pdf",
+          "source_label": "Arrêté préfectoral du 13 mai 2026 (Corrèze)"
+        }
+      ]
+    },
+    {
+      "slug": "lievre-europe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 27/09/2026 au 1er janvier 2027 selon les secteurs : pays d'Auvergne, Centre, Millevaches, Monédières, Neuvic, Roche de Vic et Xaintrie uniquement les mercredis/samedis/dimanches/jours fériés ; pays de Brive-Sud et Brive-Nord du 11/10/2026 uniquement dimanches et jours fériés (sauf communes du GIC Lièvre) ; pays d'Uzerche du 11/10/2026 jeudis/dimanches/jours fériés ; pays de Seilhac du 11/10/2026 mercredis/dimanches/jours fériés. Sur les communes du GIC Lièvre (Allassac, Donzenac, Sainte-Féréole, Saint-Viance, Saint-Germain-les-Vergnes, Saint-Hilaire-Peyroux, Ussac, Sadroc, Saint-Pantaléon-de-Larche, Saint-Pardoux-l'Ortigier) : tir uniquement les 8, 22 novembre, 6 et 20 décembre 2026",
+          "source_url": "https://www.correze.gouv.fr/index.php/contenu/telechargement/34694/245388/file/arrete_ouv_ferm_2026-2027.pdf",
+          "source_label": "Arrêté préfectoral du 13 mai 2026 (Corrèze)"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-rouge",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13/09/2026 au 28/02/2027",
+          "source_url": "https://www.correze.gouv.fr/index.php/contenu/telechargement/34694/245388/file/arrete_ouv_ferm_2026-2027.pdf",
+          "source_label": "Arrêté préfectoral du 13 mai 2026 (Corrèze)"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-grise",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13/09/2026 au 28/02/2027",
+          "source_url": "https://www.correze.gouv.fr/index.php/contenu/telechargement/34694/245388/file/arrete_ouv_ferm_2026-2027.pdf",
+          "source_label": "Arrêté préfectoral du 13 mai 2026 (Corrèze)"
+        }
+      ]
+    },
+    {
+      "slug": "faisan-commun",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13/09/2026 au 28/02/2027",
+          "source_url": "https://www.correze.gouv.fr/index.php/contenu/telechargement/34694/245388/file/arrete_ouv_ferm_2026-2027.pdf",
+          "source_label": "Arrêté préfectoral du 13 mai 2026 (Corrèze)"
+        }
+      ]
+    },
+    {
+      "slug": "lapin-garenne",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13/09/2026 au 28/02/2027",
+          "source_url": "https://www.correze.gouv.fr/index.php/contenu/telechargement/34694/245388/file/arrete_ouv_ferm_2026-2027.pdf",
+          "source_label": "Arrêté préfectoral du 13 mai 2026 (Corrèze)"
+        }
+      ]
+    },
+    {
+      "slug": "becasse-bois",
+      "faits": [
+        {
+          "label": "Prélèvement maximal autorisé",
+          "detail": "Du 13/09/2026 au 20/02/2027 (selon arrêté ministériel du 19 janvier 2009). PMA de 3 bécasses par jour et par chasseur, maximum 30 pour la saison. Carnet de prélèvement ou saisie ChassAdapt obligatoire, marquage sur le lieu de capture, transmission à la FDC19 avant le 30 juin 2027",
+          "source_url": "https://www.correze.gouv.fr/index.php/contenu/telechargement/34694/245388/file/arrete_ouv_ferm_2026-2027.pdf",
+          "source_label": "Arrêté préfectoral du 13 mai 2026 (Corrèze)"
+        }
+      ]
+    },
+    {
+      "slug": "pigeon-ramier",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Chasse à poste fixe autorisée les mardis et vendredis (jours normalement chômés en période d'ouverture générale) du 1er octobre au 15 novembre 2026, avec les colombidés et turdidés",
+          "source_url": "https://www.correze.gouv.fr/index.php/contenu/telechargement/34694/245388/file/arrete_ouv_ferm_2026-2027.pdf",
+          "source_label": "Arrêté préfectoral du 13 mai 2026 (Corrèze)"
+        }
+      ]
+    }
+  ]
+}

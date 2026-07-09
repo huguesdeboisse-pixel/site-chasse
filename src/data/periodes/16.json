@@ -1,0 +1,110 @@
+{
+  "departement": "16",
+  "saison": "2026-2027",
+  "licence_source": "Licence ouverte Etalab 2.0",
+  "ouverture_generale": {
+    "date": "2026-09-13",
+    "fermeture": "2027-02-28",
+    "source_url": "https://www.charente.gouv.fr/contenu/telechargement/52838/418495/file/2026_05_29_AP_ouverture_Cloture.pdf",
+    "source_label": "Arrêté préfectoral n°16-2026-05-29-00006 relatif à l'ouverture et à la clôture de la chasse dans le département de la Charente, saison cynégétique 2026-2027 (signé le 29 mai 2026)",
+    "confiance": "haute"
+  },
+  "arretes_officiels": [
+    {
+      "objet": "Ouverture et clôture générale 2026-2027",
+      "reference": "Arrêté n°16-2026-05-29-00006 (29 mai 2026)",
+      "url_pdf": "https://www.charente.gouv.fr/contenu/telechargement/52838/418495/file/2026_05_29_AP_ouverture_Cloture.pdf",
+      "statut": "signé"
+    }
+  ],
+  "especes": [
+    {
+      "slug": "sanglier",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "À l'approche/à l'affût sur autorisation préfectorale individuelle du 1er juin au 31 mars ; en battue sur autorisation préfectorale individuelle du 1er juin au 14 août puis sans autorisation du 15 août 2026 au 31 mars 2027 (aucune consigne de tir taille/poids/sexe à partir de l'ouverture générale) ; période complémentaire de protection des semis du 1er avril au 31 mai 2027 sur autorisation préfectorale individuelle",
+          "source_url": "https://www.charente.gouv.fr/contenu/telechargement/52838/418495/file/2026_05_29_AP_ouverture_Cloture.pdf",
+          "source_label": "Arrêté n°16-2026-05-29-00006 (29 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "chevreuil",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "À l'approche/à l'affût sur autorisation préfectorale à partir du 1er juin 2026 jusqu'à l'ouverture générale (14 septembre), puis jusqu'au 28 février 2027 ; en battue du 13 septembre 2026 au 28 février 2027, munitions : plomb 3,5-4mm (n°1,2,3 série de Paris) ou grenaille sans plomb 4-4,5mm en zone humide",
+          "source_url": "https://www.charente.gouv.fr/contenu/telechargement/52838/418495/file/2026_05_29_AP_ouverture_Cloture.pdf",
+          "source_label": "Arrêté n°16-2026-05-29-00006 (29 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "cerf-elaphe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "À l'approche/à l'affût sur autorisation préfectorale à partir du 1er septembre 2026 jusqu'au 28 février 2027 ; en battue du 13 septembre 2026 au 28 février 2027",
+          "source_url": "https://www.charente.gouv.fr/contenu/telechargement/52838/418495/file/2026_05_29_AP_ouverture_Cloture.pdf",
+          "source_label": "Arrêté n°16-2026-05-29-00006 (29 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "lievre-europe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 11 octobre au 25 décembre 2026, sur l'ensemble du département. PMA de 1 lièvre par chasseur et par jour de chasse ; carnet de prélèvement spécifique délivré par la FDC16, à retourner au plus tard le 31 janvier 2027. Sur les communes de l'annexe 1 : plan de gestion spécifique avec marquage obligatoire",
+          "source_url": "https://www.charente.gouv.fr/contenu/telechargement/52838/418495/file/2026_05_29_AP_ouverture_Cloture.pdf",
+          "source_label": "Arrêté n°16-2026-05-29-00006 (29 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-rouge",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13 septembre au 22 novembre 2026. PMA de 2 perdrix par chasseur et par jour de chasse (quota non applicable à la chasse collective ni aux établissements à caractère professionnel)",
+          "source_url": "https://www.charente.gouv.fr/contenu/telechargement/52838/418495/file/2026_05_29_AP_ouverture_Cloture.pdf",
+          "source_label": "Arrêté n°16-2026-05-29-00006 (29 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "faisan-commun",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13 septembre 2026 au 31 janvier 2027, sur l'ensemble du département ; sur les communes de l'annexe 2, seul le tir du faisan obscur (Phasianus colchicus mutans tenebrusus) est autorisé",
+          "source_url": "https://www.charente.gouv.fr/contenu/telechargement/52838/418495/file/2026_05_29_AP_ouverture_Cloture.pdf",
+          "source_label": "Arrêté n°16-2026-05-29-00006 (29 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "lapin-garenne",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13 septembre 2026 au 28 février 2027, sur l'ensemble du département, furet autorisé sans autorisation administrative",
+          "source_url": "https://www.charente.gouv.fr/contenu/telechargement/52838/418495/file/2026_05_29_AP_ouverture_Cloture.pdf",
+          "source_label": "Arrêté n°16-2026-05-29-00006 (29 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "becasse-bois",
+      "faits": [
+        {
+          "label": "Prélèvement maximal autorisé",
+          "detail": "Du 13 septembre 2026 au 20 février 2027. PMA de 2 bécasses par chasseur et par jour de chasse, 6 par semaine, 30 par saison cynégétique. Marquage obligatoire, carnet de prélèvement à retourner à la FDC ou déclaration via ChassAdapt. Chasse à tir interdite le mardi et le vendredi (sauf jours fériés)",
+          "source_url": "https://www.charente.gouv.fr/contenu/telechargement/52838/418495/file/2026_05_29_AP_ouverture_Cloture.pdf",
+          "source_label": "Arrêté n°16-2026-05-29-00006 (29 mai 2026)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "departement": "64",
+  "saison": "2026-2027",
+  "licence_source": "Licence ouverte Etalab 2.0",
+  "ouverture_generale": {
+    "date": "2026-09-13",
+    "fermeture": "2027-02-28",
+    "source_url": "https://chasseurs64.com/wp-content/uploads/2026/05/AP_OG-plaine-2026-2027.pdf",
+    "source_label": "Arrêté préfectoral n°64-2026-05-11-00007 relatif à l'ouverture générale et à la clôture de la chasse en plaine pour la campagne 2026-2027 (signé à Pau le 11 mai 2026 par le préfet Jean-Marie Girier)",
+    "confiance": "haute"
+  },
+  "arretes_officiels": [
+    {
+      "objet": "Ouverture générale et clôture de la chasse en plaine 2026-2027",
+      "reference": "Arrêté n°64-2026-05-11-00007 (11 mai 2026)",
+      "url_pdf": "https://chasseurs64.com/wp-content/uploads/2026/05/AP_OG-plaine-2026-2027.pdf",
+      "statut": "signé"
+    }
+  ],
+  "especes": [
+    {
+      "slug": "sanglier",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Ouverture générale (plan de gestion cynégétique départemental) jusqu'au 31 mai 2027. Du 1er au 31 mars : pour répondre à une problématique de dégâts. Du 1er avril au 31 mai : uniquement pour la protection des semis, à l'approche/à l'affût ou en battue exceptionnelle sur autorisation préfectorale individuelle, bilan à adresser au préfet avant le 1er juillet 2027",
+          "source_url": "https://chasseurs64.com/wp-content/uploads/2026/05/AP_OG-plaine-2026-2027.pdf",
+          "source_label": "Arrêté n°64-2026-05-11-00007 (11 mai 2026, zone plaine)"
+        }
+      ]
+    },
+    {
+      "slug": "cerf-elaphe",
+      "faits": [
+        {
+          "label": "Statut",
+          "detail": "Soumis à un plan de chasse triennal départemental. Ouverture générale au 28 février 2027",
+          "source_url": "https://chasseurs64.com/wp-content/uploads/2026/05/AP_OG-plaine-2026-2027.pdf",
+          "source_label": "Arrêté n°64-2026-05-11-00007 (11 mai 2026, zone plaine)"
+        }
+      ]
+    },
+    {
+      "slug": "chevreuil",
+      "faits": [
+        {
+          "label": "Statut",
+          "detail": "Soumis à un plan de chasse triennal départemental. Ouverture générale au 28 février 2027",
+          "source_url": "https://chasseurs64.com/wp-content/uploads/2026/05/AP_OG-plaine-2026-2027.pdf",
+          "source_label": "Arrêté n°64-2026-05-11-00007 (11 mai 2026, zone plaine)"
+        }
+      ]
+    },
+    {
+      "slug": "faisan-commun",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Ouverture générale au 25 décembre 2026, uniquement les mercredis, samedis, dimanches et jours fériés (zone plaine)",
+          "source_url": "https://chasseurs64.com/wp-content/uploads/2026/05/AP_OG-plaine-2026-2027.pdf",
+          "source_label": "Arrêté n°64-2026-05-11-00007 (11 mai 2026, zone plaine)"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-grise",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Ouverture générale au 25 décembre 2026, uniquement les mercredis, samedis, dimanches et jours fériés (zone plaine)",
+          "source_url": "https://chasseurs64.com/wp-content/uploads/2026/05/AP_OG-plaine-2026-2027.pdf",
+          "source_label": "Arrêté n°64-2026-05-11-00007 (11 mai 2026, zone plaine)"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-rouge",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Ouverture générale au 25 décembre 2026, uniquement les mercredis, samedis, dimanches et jours fériés (zone plaine)",
+          "source_url": "https://chasseurs64.com/wp-content/uploads/2026/05/AP_OG-plaine-2026-2027.pdf",
+          "source_label": "Arrêté n°64-2026-05-11-00007 (11 mai 2026, zone plaine)"
+        }
+      ]
+    },
+    {
+      "slug": "lapin-garenne",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Ouverture générale au 25 décembre 2026, uniquement les mercredis, samedis, dimanches et jours fériés (zone plaine)",
+          "source_url": "https://chasseurs64.com/wp-content/uploads/2026/05/AP_OG-plaine-2026-2027.pdf",
+          "source_label": "Arrêté n°64-2026-05-11-00007 (11 mai 2026, zone plaine)"
+        }
+      ]
+    },
+    {
+      "slug": "lievre-europe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 18 octobre 2026 au 17 janvier 2027, chasse autorisée uniquement les mercredis, samedis, dimanches et jours fériés. Soumis à plan de gestion cynégétique",
+          "source_url": "https://chasseurs64.com/wp-content/uploads/2026/05/AP_OG-plaine-2026-2027.pdf",
+          "source_label": "Arrêté n°64-2026-05-11-00007 (11 mai 2026, zone plaine)"
+        }
+      ]
+    },
+    {
+      "slug": "becasse-bois",
+      "faits": [
+        {
+          "label": "Prélèvement maximal autorisé",
+          "detail": "Ouverture générale au 20 février 2027. PMA selon arrêté ministériel du 31 mai 2011 modifié et arrêté préfectoral spécifique campagne 2026-2027. Tir autorisé tous les jours sauf mardi et vendredi (sauf jours fériés) à compter du 1er décembre 2026",
+          "source_url": "https://chasseurs64.com/wp-content/uploads/2026/05/AP_OG-plaine-2026-2027.pdf",
+          "source_label": "Arrêté n°64-2026-05-11-00007 (11 mai 2026, zone plaine)"
+        }
+      ]
+    },
+    {
+      "slug": "pigeon-ramier",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Chasse aux filets (\"pantières\") pour pigeon ramier et pigeon colombin autorisée jusqu'au 20 novembre 2026, relevé quotidien de captures obligatoire, bilan à adresser à la DDTM et à la FDC64 avant le 30 novembre. En temps de neige, chasse du pigeon ramier autorisée à poste fixe matérialisé, arme démontée ou déchargée sous étui à l'aller/retour",
+          "source_url": "https://chasseurs64.com/wp-content/uploads/2026/05/AP_OG-plaine-2026-2027.pdf",
+          "source_label": "Arrêté n°64-2026-05-11-00007 (11 mai 2026, zone plaine)"
+        }
+      ]
+    }
+  ]
+}

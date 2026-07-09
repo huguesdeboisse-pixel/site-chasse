@@ -1,0 +1,143 @@
+{
+  "departement": "23",
+  "saison": "2026-2027",
+  "licence_source": "Licence ouverte Etalab 2.0",
+  "ouverture_generale": {
+    "date": "2026-09-13",
+    "fermeture": "2027-02-28",
+    "source_url": "https://www.creuse.gouv.fr/index.php/contenu/telechargement/23544/171956/file/Arr%C3%AAt%C3%A9%20pr%C3%A9fectoral%20n%C2%B023-2026-06-01-00013%20du%201er%20juin%202026%20ouverture%20fermeture%20chasse%202026-2027.pdf",
+    "source_label": "Arrêté préfectoral n°23-2026-06-01-00013 relatif à l'ouverture et à la clôture de la chasse pour la campagne 2026-2027 dans le département de la Creuse (signé le 1er juin 2026)",
+    "confiance": "haute"
+  },
+  "arretes_officiels": [
+    {
+      "objet": "Ouverture et clôture générale 2026-2027",
+      "reference": "Arrêté n°23-2026-06-01-00013 (1er juin 2026)",
+      "url_pdf": "https://www.creuse.gouv.fr/index.php/contenu/telechargement/23544/171956/file/Arr%C3%AAt%C3%A9%20pr%C3%A9fectoral%20n%C2%B023-2026-06-01-00013%20du%201er%20juin%202026%20ouverture%20fermeture%20chasse%202026-2027.pdf",
+      "statut": "signé"
+    }
+  ],
+  "especes": [
+    {
+      "slug": "sanglier",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "À l'affût/à l'approche (sans chien ni rabat) du 1er juin au 14 août 2026 ; les jeudis, samedis, dimanches et jours fériés (affût, approche ou battue) du 15 août au 12 septembre 2026 ; ouverture générale les jeudis, samedis, dimanches et jours fériés du 13 septembre 2026 au 29 mars 2027. Plan de gestion sur l'ensemble des unités du département, bracelet obligatoire pour sangliers de plus de 50 kg (tolérance 10%), tir libre en dessous de 50 kg, déclaration à la FDC23 sous 48h",
+          "source_url": "https://www.creuse.gouv.fr/index.php/contenu/telechargement/23544/171956/file/Arr%C3%AAt%C3%A9%20pr%C3%A9fectoral%20n%C2%B023-2026-06-01-00013%20du%201er%20juin%202026%20ouverture%20fermeture%20chasse%202026-2027.pdf",
+          "source_label": "Arrêté n°23-2026-06-01-00013 (1er juin 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "chevreuil",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Chasse du brocard uniquement à l'affût/à l'approche du 1er juin au 12 septembre 2026 ; ouverture générale les jeudis, samedis, dimanches et jours fériés du 13 septembre 2026 au 28 février 2027 (affût, approche ou battue). Soumis à plan de chasse individuel obligatoire",
+          "source_url": "https://www.creuse.gouv.fr/index.php/contenu/telechargement/23544/171956/file/Arr%C3%AAt%C3%A9%20pr%C3%A9fectoral%20n%C2%B023-2026-06-01-00013%20du%201er%20juin%202026%20ouverture%20fermeture%20chasse%202026-2027.pdf",
+          "source_label": "Arrêté n°23-2026-06-01-00013 (1er juin 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "cerf-elaphe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Cerf/biche/bichette : du 17 octobre 2026 au 28 février 2027, chasse autorisée uniquement les jeudis, samedis, dimanches et jours fériés à l'affût, à l'approche ou en battue. Faon/daguet : du 1er octobre 2026 au 28 février 2027. Soumis à plan de chasse individuel obligatoire",
+          "source_url": "https://www.creuse.gouv.fr/index.php/contenu/telechargement/23544/171956/file/Arr%C3%AAt%C3%A9%20pr%C3%A9fectoral%20n%C2%B023-2026-06-01-00013%20du%201er%20juin%202026%20ouverture%20fermeture%20chasse%202026-2027.pdf",
+          "source_label": "Arrêté n°23-2026-06-01-00013 (1er juin 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "lievre-europe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 20 septembre 2026 au 6 décembre 2026 (ouverture générale) ; du 27 septembre au 13 décembre 2026 sur les territoires cynégétiques des communes listées en annexe de l'arrêté",
+          "source_url": "https://www.creuse.gouv.fr/index.php/contenu/telechargement/23544/171956/file/Arr%C3%AAt%C3%A9%20pr%C3%A9fectoral%20n%C2%B023-2026-06-01-00013%20du%201er%20juin%202026%20ouverture%20fermeture%20chasse%202026-2027.pdf",
+          "source_label": "Arrêté n°23-2026-06-01-00013 (1er juin 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-rouge",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Ouverture générale au 28 février 2027 au soir",
+          "source_url": "https://www.creuse.gouv.fr/index.php/contenu/telechargement/23544/171956/file/Arr%C3%AAt%C3%A9%20pr%C3%A9fectoral%20n%C2%B023-2026-06-01-00013%20du%201er%20juin%202026%20ouverture%20fermeture%20chasse%202026-2027.pdf",
+          "source_label": "Arrêté n°23-2026-06-01-00013 (1er juin 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-grise",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Ouverture générale au 28 février 2027 au soir",
+          "source_url": "https://www.creuse.gouv.fr/index.php/contenu/telechargement/23544/171956/file/Arr%C3%AAt%C3%A9%20pr%C3%A9fectoral%20n%C2%B023-2026-06-01-00013%20du%201er%20juin%202026%20ouverture%20fermeture%20chasse%202026-2027.pdf",
+          "source_label": "Arrêté n°23-2026-06-01-00013 (1er juin 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "faisan-commun",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Ouverture générale au 28 février 2027 au soir. Conditions spécifiques sur les territoires sous contrat fédéral",
+          "source_url": "https://www.creuse.gouv.fr/index.php/contenu/telechargement/23544/171956/file/Arr%C3%AAt%C3%A9%20pr%C3%A9fectoral%20n%C2%B023-2026-06-01-00013%20du%201er%20juin%202026%20ouverture%20fermeture%20chasse%202026-2027.pdf",
+          "source_label": "Arrêté n°23-2026-06-01-00013 (1er juin 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "lapin-garenne",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Ouverture générale au 28 février 2027 au soir. Utilisation du furet autorisée",
+          "source_url": "https://www.creuse.gouv.fr/index.php/contenu/telechargement/23544/171956/file/Arr%C3%AAt%C3%A9%20pr%C3%A9fectoral%20n%C2%B023-2026-06-01-00013%20du%201er%20juin%202026%20ouverture%20fermeture%20chasse%202026-2027.pdf",
+          "source_label": "Arrêté n°23-2026-06-01-00013 (1er juin 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "becasse-bois",
+      "faits": [
+        {
+          "label": "Prélèvement maximal autorisé",
+          "detail": "PMA national de 30 bécasses par an et par chasseur, limité dans la Creuse à 3 bécasses par jour et par chasseur. Enregistrement obligatoire (carnet de prélèvement ou application FNC), carnet à retourner à la FDC23 avant le 30 juin 2027. Attribution du carnet conditionnée au dépôt de celui de la saison précédente",
+          "source_url": "https://www.creuse.gouv.fr/index.php/contenu/telechargement/23544/171956/file/Arr%C3%AAt%C3%A9%20pr%C3%A9fectoral%20n%C2%B023-2026-06-01-00013%20du%201er%20juin%202026%20ouverture%20fermeture%20chasse%202026-2027.pdf",
+          "source_label": "Arrêté n°23-2026-06-01-00013 (1er juin 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "pigeon-ramier",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Dates d'ouverture et de fermeture définies par arrêtés ministériels (gibier d'eau et oiseaux de passage)",
+          "source_url": "https://www.creuse.gouv.fr/index.php/contenu/telechargement/23544/171956/file/Arr%C3%AAt%C3%A9%20pr%C3%A9fectoral%20n%C2%B023-2026-06-01-00013%20du%201er%20juin%202026%20ouverture%20fermeture%20chasse%202026-2027.pdf",
+          "source_label": "Arrêté n°23-2026-06-01-00013 (1er juin 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "caille-bles",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Dates d'ouverture et de fermeture définies par arrêtés ministériels",
+          "source_url": "https://www.creuse.gouv.fr/index.php/contenu/telechargement/23544/171956/file/Arr%C3%AAt%C3%A9%20pr%C3%A9fectoral%20n%C2%B023-2026-06-01-00013%20du%201er%20juin%202026%20ouverture%20fermeture%20chasse%202026-2027.pdf",
+          "source_label": "Arrêté n°23-2026-06-01-00013 (1er juin 2026)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "departement": "79",
+  "saison": "2026-2027",
+  "licence_source": "Licence ouverte Etalab 2.0",
+  "ouverture_generale": {
+    "date": "2026-09-13",
+    "fermeture": "2027-02-28",
+    "source_url": "https://www.deux-sevres.gouv.fr/contenu/telechargement/62995/505844/file/20260609_AP_ouverture_cloture_et_annexe_2026_2027.pdf",
+    "source_label": "Arrêté préfectoral n°RAA 79-2026-06-09-00004 relatif à l'ouverture et à la clôture de la chasse pour la campagne 2026-2027 dans les Deux-Sèvres (signé le 9 juin 2026 par le préfet Simon Fetet)",
+    "confiance": "haute"
+  },
+  "arretes_officiels": [
+    {
+      "objet": "Ouverture et clôture générale 2026-2027",
+      "reference": "Arrêté n°RAA 79-2026-06-09-00004 (9 juin 2026)",
+      "url_pdf": "https://www.deux-sevres.gouv.fr/contenu/telechargement/62995/505844/file/20260609_AP_ouverture_cloture_et_annexe_2026_2027.pdf",
+      "statut": "signé"
+    }
+  ],
+  "especes": [
+    {
+      "slug": "sanglier",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "À l'approche/affût/battue sur autorisation préfectorale individuelle du 1er juillet au 14 août 2026 ; sans autorisation du 15 août 2026 au 31 mars 2027 (tir à balle ou à l'arc obligatoire, feuille de battue obligatoire) ; période protection des semis du 1er avril au 31 mai 2027 sur autorisation préfectorale ; période estivale du 1er au 30 juin 2027 sur autorisation préfectorale. Déclaration des prélèvements sous 48h obligatoire sur l'espace adhérent FDC79. Plan de chasse spécifique sur la forêt domaniale d'Aulnay (Aubigné, Ensigné, Paizay-le-Chapt, Asnières-en-Poitou)",
+          "source_url": "https://www.deux-sevres.gouv.fr/contenu/telechargement/62995/505844/file/20260609_AP_ouverture_cloture_et_annexe_2026_2027.pdf",
+          "source_label": "Arrêté n°RAA 79-2026-06-09-00004 (9 juin 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "chevreuil",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13 septembre 2026 au 28 février 2027. Tir à balle ou à l'arc recommandé ; tir à la grenaille possible uniquement en chasse collective (minimum 2 tireurs postés), plombs n°1 ou n°2 série de Paris (3,75-4mm) hors zones humides, grenaille sans plomb (acier n°0/00/000 ou autre n°1) en zones humides",
+          "source_url": "https://www.deux-sevres.gouv.fr/contenu/telechargement/62995/505844/file/20260609_AP_ouverture_cloture_et_annexe_2026_2027.pdf",
+          "source_label": "Arrêté n°RAA 79-2026-06-09-00004 (9 juin 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "lievre-europe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 27 septembre au 13 décembre 2026 sur l'ensemble du département (sauf communes listées en annexe : du 18 octobre au 13 décembre 2026). Soumis à plan de chasse ; possibilité de prélèvement en réserve de chasse et de faune sauvage sur autorisation individuelle à partir du 15 novembre",
+          "source_url": "https://www.deux-sevres.gouv.fr/contenu/telechargement/62995/505844/file/20260609_AP_ouverture_cloture_et_annexe_2026_2027.pdf",
+          "source_label": "Arrêté n°RAA 79-2026-06-09-00004 (9 juin 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-rouge",
+      "faits": [
+        {
+          "label": "Prélèvement maximal autorisé",
+          "detail": "Du 13 septembre au 29 novembre 2026. PMA de 3 perdrix par chasseur et par jour sur les communes non soumises à plan de gestion/plan de chasse spécifique (sauf chasses commerciales déclarées)",
+          "source_url": "https://www.deux-sevres.gouv.fr/contenu/telechargement/62995/505844/file/20260609_AP_ouverture_cloture_et_annexe_2026_2027.pdf",
+          "source_label": "Arrêté n°RAA 79-2026-06-09-00004 (9 juin 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-grise",
+      "faits": [
+        {
+          "label": "Prélèvement maximal autorisé",
+          "detail": "Du 13 septembre au 29 novembre 2026. Plan de gestion cynégétique sur les communes d'Epannes, La Foye Monjault, La Rochénard, Val du Mignon et Vallans : PMA d'1 perdrix grise par chasseur et par jour, bracelet de marquage FDC79 obligatoire. Plan de chasse sur la commune de Faye-sur-Ardin. Ailleurs, PMA de 3 perdrix par chasseur et par jour",
+          "source_url": "https://www.deux-sevres.gouv.fr/contenu/telechargement/62995/505844/file/20260609_AP_ouverture_cloture_et_annexe_2026_2027.pdf",
+          "source_label": "Arrêté n°RAA 79-2026-06-09-00004 (9 juin 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "faisan-commun",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13 septembre 2026 au 17 janvier 2027, soumis à plan de gestion cynégétique en deux zones (communes listées en annexe) : PMA d'1 faisan par chasseur et par jour en zone 1 avec marquage et fiche d'accompagnement obligatoires avant transport",
+          "source_url": "https://www.deux-sevres.gouv.fr/contenu/telechargement/62995/505844/file/20260609_AP_ouverture_cloture_et_annexe_2026_2027.pdf",
+          "source_label": "Arrêté n°RAA 79-2026-06-09-00004 (9 juin 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "caille-bles",
+      "faits": [
+        {
+          "label": "Prélèvement maximal autorisé",
+          "detail": "PMA de 15 cailles par chasseur et par jour, enregistrement des prélèvements obligatoire sur l'application mobile ChassAdapt. Ouverture le dernier samedi d'août (29 août 2026), fermeture le 20 février 2027",
+          "source_url": "https://www.deux-sevres.gouv.fr/contenu/telechargement/62995/505844/file/20260609_AP_ouverture_cloture_et_annexe_2026_2027.pdf",
+          "source_label": "Arrêté n°RAA 79-2026-06-09-00004 (9 juin 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "becasse-bois",
+      "faits": [
+        {
+          "label": "Prélèvement maximal autorisé",
+          "detail": "Ouverture générale, fermeture le 20 février 2027. PMA de 2 par jour de chasse, 6 par semaine et 30 pour la saison cynégétique",
+          "source_url": "https://www.deux-sevres.gouv.fr/contenu/telechargement/62995/505844/file/20260609_AP_ouverture_cloture_et_annexe_2026_2027.pdf",
+          "source_label": "Arrêté n°RAA 79-2026-06-09-00004 (9 juin 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "pigeon-ramier",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Ouverture générale, fermeture le 20 février 2027",
+          "source_url": "https://www.deux-sevres.gouv.fr/contenu/telechargement/62995/505844/file/20260609_AP_ouverture_cloture_et_annexe_2026_2027.pdf",
+          "source_label": "Arrêté n°RAA 79-2026-06-09-00004 (9 juin 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "canard-colvert",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Canards de surface (colvert, chipeau, pilet, siffleur, souchet, sarcelles) : ouverture le premier samedi d'août à 6h ou le 21 août à 6h selon les territoires (domaine public maritime/estuaire de la Gironde vs reste du territoire), ouverture générale sur le reste du territoire, fermeture le 31 janvier 2027",
+          "source_url": "https://www.deux-sevres.gouv.fr/contenu/telechargement/62995/505844/file/20260609_AP_ouverture_cloture_et_annexe_2026_2027.pdf",
+          "source_label": "Arrêté n°RAA 79-2026-06-09-00004 (9 juin 2026)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "departement": "40",
+  "saison": "2026-2027",
+  "licence_source": "Licence ouverte Etalab 2.0",
+  "ouverture_generale": {
+    "date": "2026-09-13",
+    "fermeture": "2027-02-28",
+    "source_url": "https://fedechasseurslandes.com/wp-content/uploads/APOC2026_2027.pdf",
+    "source_label": "Arrêté préfectoral n°2026/714 fixant les dates d'ouverture-clôture et les modalités d'exercice de la chasse pour la campagne 2026-2027 dans le département des Landes (signé à Mont-de-Marsan le 28 mai 2026 par le préfet Gilles Clavreul)",
+    "confiance": "haute"
+  },
+  "arretes_officiels": [
+    {
+      "objet": "Ouverture et clôture générale 2026-2027, modalités d'exercice de la chasse",
+      "reference": "Arrêté n°2026/714 (28 mai 2026)",
+      "url_pdf": "https://fedechasseurslandes.com/wp-content/uploads/APOC2026_2027.pdf",
+      "statut": "signé"
+    },
+    {
+      "objet": "Annexe modalités et dates de chasse 2026-2027",
+      "reference": "Annexe à l'arrêté n°2026/714",
+      "url_pdf": "https://fedechasseurslandes.com/wp-content/uploads/Annexe-APOC-2026_2027.pdf",
+      "statut": "signé"
+    }
+  ],
+  "especes": [
+    {
+      "slug": "sanglier",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "À l'affût/approche/en battues collectives (déclarées, bilan à adresser avant le 15 septembre) du 1er juin au 14 août 2026 ; sans déclaration du 15 août au 12 septembre 2026 ; ouverture générale en battue/affût/approche du 13 septembre 2026 au 31 mars 2027. Tir exclusivement à balle, à flèche ou à la chevrotine (conditions SDGC 2021-2027)",
+          "source_url": "https://fedechasseurslandes.com/wp-content/uploads/APOC2026_2027.pdf",
+          "source_label": "Arrêté n°2026/714 (28 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "chevreuil",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "À l'affût/approche (de jour, tir à balle, flèche ou grenaille ≤4mm plomb/4,8mm autre) du 1er juin au 12 septembre 2026 ; en battue/affût/approche du 13 septembre 2026 au 28 février 2027. Tir occasionnel du renard autorisé pendant l'affût/approche du chevreuil",
+          "source_url": "https://fedechasseurslandes.com/wp-content/uploads/APOC2026_2027.pdf",
+          "source_label": "Arrêté n°2026/714 (28 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "cerf-elaphe",
+      "faits": [
+        {
+          "label": "Statut",
+          "detail": "Cerf et biche soumis au plan de chasse individuel",
+          "source_url": "https://fedechasseurslandes.com/wp-content/uploads/APOC2026_2027.pdf",
+          "source_label": "Arrêté n°2026/714 (28 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "lievre-europe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13 septembre au 25 décembre 2026 sur l'ensemble du département. Sur le GIC La Lèbe : du 27 septembre 2026 au 10 janvier 2027 (PMA d'1 lièvre par jour et par équipe de 1 à 5 chasseurs), poursuite sans fusil ni prélèvement autorisée du 11 janvier au 28 février 2027 les mercredis/vendredis/samedis/dimanches. Sur le GIC des Quatre Chemins : du 13 septembre au 25 décembre 2026, quota fixé par le règlement de chasse local. Vente/transport interdits du 13 septembre au 10 octobre 2026",
+          "source_url": "https://fedechasseurslandes.com/wp-content/uploads/APOC2026_2027.pdf",
+          "source_label": "Arrêté n°2026/714 (28 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-rouge",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13 septembre 2026 au 31 janvier 2027 sur l'ensemble du département ; dans les établissements professionnels de chasse à caractère commercial en milieu fermé, du 1er au 28 février 2027 (gibier marqué obligatoire avant lâcher). Vente/transport interdits du 13 septembre au 10 octobre 2026",
+          "source_url": "https://fedechasseurslandes.com/wp-content/uploads/APOC2026_2027.pdf",
+          "source_label": "Arrêté n°2026/714 (28 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "faisan-commun",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13 septembre 2026 au 31 janvier 2027 sur l'ensemble du département ; en établissements professionnels de chasse commerciale en milieu fermé, du 1er au 28 février 2027 (gibier marqué obligatoire). Vente/transport interdits du 13 septembre au 10 octobre 2026",
+          "source_url": "https://fedechasseurslandes.com/wp-content/uploads/APOC2026_2027.pdf",
+          "source_label": "Arrêté n°2026/714 (28 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "lapin-garenne",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Ouverture générale du 13 septembre 2026 au 28 février 2027. Usage du furet possible sans formalité dans les unités de gestion classées ESOD pour le lapin, sinon autorisation préfectorale individuelle nécessaire",
+          "source_url": "https://fedechasseurslandes.com/wp-content/uploads/APOC2026_2027.pdf",
+          "source_label": "Arrêté n°2026/714 (28 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "becasse-bois",
+      "faits": [
+        {
+          "label": "Prélèvement maximal autorisé",
+          "detail": "PMA national de 30 bécasses par saison et par chasseur. PMA départemental : 2 par jour, 6 par semaine ; en groupe (à partir de 2 chasseurs), 4 bécasses par jour maximum. Carnet de prélèvement individuel obligatoire (ou application ChassAdapt), à retourner à la FDC40 avant le 31 mars. Du 1er au 30 novembre, chasse limitée de 8h à 17h30 ; chasse à la passée et à la croule interdite. Vente interdite toute l'année",
+          "source_url": "https://fedechasseurslandes.com/wp-content/uploads/APOC2026_2027.pdf",
+          "source_label": "Arrêté n°2026/714 (28 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "canard-colvert",
+      "faits": [
+        {
+          "label": "Prélèvement maximal autorisé",
+          "detail": "Plan quantitatif de gestion du gibier d'eau : prélèvement maximum de 25 canards par installation et par nuit (de midi à midi), oies et foulques exclues du décompte. Chasse en temps de neige autorisée en zone de chasse maritime, fleuves, rivières, canaux, réservoirs, lacs, étangs et marais non asséchés. Vente/transport du colvert interdits du 13 septembre au 10 octobre 2026",
+          "source_url": "https://fedechasseurslandes.com/wp-content/uploads/APOC2026_2027.pdf",
+          "source_label": "Arrêté n°2026/714 (28 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "pigeon-ramier",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Chasse au poste fixe réglementée (distance minimum 300m entre postes, hauteur couloirs >1,30m, postes enterrés interdits). Chasses traditionnelles à appelants (\"rouquetaires\") autorisées du 1er octobre au 20 novembre. Tir interdit sur parcelles agricoles récoltées non réensemencées à compter du 1er octobre. Tir au vol depuis installations surélevées interdit à l'est d'une ligne de démarcation définie (RD652, RD626, RD79, RD810). Formulaire de suivi des prélèvements à retourner à la FDC40 à la fermeture (20 février). Vente/transport de la palombe interdits du 21 novembre au 20 décembre 2026",
+          "source_url": "https://fedechasseurslandes.com/wp-content/uploads/APOC2026_2027.pdf",
+          "source_label": "Arrêté n°2026/714 (28 mai 2026)"
+        }
+      ]
+    }
+  ]
+}
