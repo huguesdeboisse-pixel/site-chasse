@@ -102,7 +102,7 @@ for (const e of especesDuTerritoire) {
     }
   } else {
     const ref = ouvertureRef || prefRef;
-    especeRows.push({ slug, titre: e.nom, valeur: "Chassable — règles générales d'ouverture", ref });
+    especeRows.push({ slug, titre: `${e.nom} — Statut`, valeur: "Aucune règle spécifique recensée pour cette espèce dans l'arrêté de ce département.", ref });
   }
 }
 ---
