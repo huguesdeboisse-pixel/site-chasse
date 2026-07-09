@@ -1,0 +1,154 @@
+{
+  "departement": "55",
+  "saison": "2026-2027",
+  "licence_source": "Licence ouverte Etalab 2.0",
+  "ouverture_generale": {
+    "date": "2026-09-20",
+    "fermeture": "2027-02-28",
+    "source_url": "https://www.meuse.gouv.fr/contenu/telechargement/35932/255448/file/ap%202026-11541%20ouverture%20fermeture%20de%20la%20chasse.pdf",
+    "source_label": "Arrêté n° 2026-11541 relatif à l'ouverture et à la clôture de la chasse, campagne cynégétique 2026/2027 dans le département de la Meuse (signé le 28 mai 2026 par la préfète Anne-Florence Canton)",
+    "confiance": "haute"
+  },
+  "arretes_officiels": [
+    {
+      "objet": "Ouverture et clôture générale 2026-2027",
+      "reference": "Arrêté n° 2026-11541 (28 mai 2026)",
+      "url_pdf": "https://www.meuse.gouv.fr/contenu/telechargement/35932/255448/file/ap%202026-11541%20ouverture%20fermeture%20de%20la%20chasse.pdf",
+      "statut": "signé"
+    }
+  ],
+  "especes": [
+    {
+      "slug": "cerf-elaphe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Tir d'été à l'approche/affût du 1er septembre au 25 septembre 2026 sur autorisation préfectorale individuelle. Cerf-biche-faon à l'affût/approche du 26 septembre 2026 à la fermeture générale (28 février 2027), et en battue selon calendrier prévu par l'arrêté n°11522-2026-DDT-SE",
+          "source_url": "https://www.meuse.gouv.fr/contenu/telechargement/35932/255448/file/ap%202026-11541%20ouverture%20fermeture%20de%20la%20chasse.pdf",
+          "source_label": "Arrêté n° 2026-11541 (28 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "chevreuil",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Tir d'été du brocard à l'approche/affût du 1er juin au 19 septembre 2026 sur autorisation préfectorale individuelle. Brocard-chevrette-chevrillard à l'affût/approche de l'ouverture générale (20 septembre 2026) à la fermeture générale (28 février 2027), et en battue selon calendrier",
+          "source_url": "https://www.meuse.gouv.fr/contenu/telechargement/35932/255448/file/ap%202026-11541%20ouverture%20fermeture%20de%20la%20chasse.pdf",
+          "source_label": "Arrêté n° 2026-11541 (28 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "sanglier",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Tir d'été à l'approche/affût du 1er août au 14 août 2026 sur autorisation préfectorale au détenteur du droit de chasse. À l'affût/approche du 15 août 2026 au 28 février 2027. En battue ou poussée silencieuse du 15 août 2026 au 28 février 2027 selon calendrier (autorisation écrite de l'exploitant agricole requise si battue prévue dans une culture sur pied)",
+          "source_url": "https://www.meuse.gouv.fr/contenu/telechargement/35932/255448/file/ap%202026-11541%20ouverture%20fermeture%20de%20la%20chasse.pdf",
+          "source_label": "Arrêté n° 2026-11541 (28 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "lievre-europe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 17 octobre 2026 au 1er novembre 2026 sur territoires non soumis à plan de chasse/gestion (communes listées en annexe 1) ; jusqu'au 11 novembre 2026 sur territoires soumis à plan de chasse ou plan de gestion lièvre (territoires de l'Orne, de la Barboure, communes de Richecourt et Lahayville)",
+          "source_url": "https://www.meuse.gouv.fr/contenu/telechargement/35932/255448/file/ap%202026-11541%20ouverture%20fermeture%20de%20la%20chasse.pdf",
+          "source_label": "Arrêté n° 2026-11541 (28 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-grise",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 17 octobre 2026 au 1er novembre 2026 sur territoires non soumis à plan de chasse/gestion perdrix grise, jusqu'au 11 novembre 2026 sur territoires soumis à plan de chasse/gestion (communes en annexe 1). Chasse interdite sur les territoires de la Barboure et soumise à plan de chasse sur le territoire de l'Orne",
+          "source_url": "https://www.meuse.gouv.fr/contenu/telechargement/35932/255448/file/ap%202026-11541%20ouverture%20fermeture%20de%20la%20chasse.pdf",
+          "source_label": "Arrêté n° 2026-11541 (28 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-rouge",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Ouverture et fermeture générales (20 septembre 2026 au 28 février 2027)",
+          "source_url": "https://www.meuse.gouv.fr/contenu/telechargement/35932/255448/file/ap%202026-11541%20ouverture%20fermeture%20de%20la%20chasse.pdf",
+          "source_label": "Arrêté n° 2026-11541 (28 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "faisan-commun",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Faisan commun y compris obscur : ouverture générale (20 septembre 2026) au 22 novembre 2026 ; chasse du faisan commun hors forme obscure soumise à plan de chasse sur le territoire des communes figurant en annexe 1",
+          "source_url": "https://www.meuse.gouv.fr/contenu/telechargement/35932/255448/file/ap%202026-11541%20ouverture%20fermeture%20de%20la%20chasse.pdf",
+          "source_label": "Arrêté n° 2026-11541 (28 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "lapin-garenne",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Ouverture générale (20 septembre 2026) au 10 janvier 2027, emploi du furet autorisé",
+          "source_url": "https://www.meuse.gouv.fr/contenu/telechargement/35932/255448/file/ap%202026-11541%20ouverture%20fermeture%20de%20la%20chasse.pdf",
+          "source_label": "Arrêté n° 2026-11541 (28 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "becasse-bois",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Ouverture générale (20 septembre 2026) au 20 février 2027",
+          "source_url": "https://www.meuse.gouv.fr/contenu/telechargement/35932/255448/file/ap%202026-11541%20ouverture%20fermeture%20de%20la%20chasse.pdf",
+          "source_label": "Arrêté n° 2026-11541 (28 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "caille-bles",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Ouverture le 29 août 2026, clôture en fonction des décisions ministérielles",
+          "source_url": "https://www.meuse.gouv.fr/contenu/telechargement/35932/255448/file/ap%202026-11541%20ouverture%20fermeture%20de%20la%20chasse.pdf",
+          "source_label": "Arrêté n° 2026-11541 (28 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "pigeon-ramier",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Ouverture générale (20 septembre 2026) au 10 février 2027, prolongation du 11 au 20 février 2027 à poste fixe matérialisé de main d'homme",
+          "source_url": "https://www.meuse.gouv.fr/contenu/telechargement/35932/255448/file/ap%202026-11541%20ouverture%20fermeture%20de%20la%20chasse.pdf",
+          "source_label": "Arrêté n° 2026-11541 (28 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "canard-colvert",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Ouverture des canards au 21 août 2026, clôture au 31 janvier 2027 sous réserve des évolutions des décisions ministérielles",
+          "source_url": "https://www.meuse.gouv.fr/contenu/telechargement/35932/255448/file/ap%202026-11541%20ouverture%20fermeture%20de%20la%20chasse.pdf",
+          "source_label": "Arrêté n° 2026-11541 (28 mai 2026)"
+        }
+      ]
+    }
+  ]
+}

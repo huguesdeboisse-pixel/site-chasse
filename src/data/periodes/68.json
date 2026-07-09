@@ -1,0 +1,127 @@
+{
+  "departement": "68",
+  "saison": "2026-2027",
+  "licence_source": "Licence ouverte Etalab 2.0",
+  "ouverture_generale": {
+    "date": "2026-08-23",
+    "fermeture": "2027-02-01",
+    "source_url": "https://drive.google.com/uc?export=download&id=1PwDrIAVpi8Ktyhs6b1mUpJk55-jZ4TH5",
+    "source_label": "Arrêté préfectoral fixant les dates d'ouverture et de fermeture de la chasse dans le Haut-Rhin pour la campagne 2026-2027 (signé le 27 avril 2026 par le préfet Emmanuel Aubry, à Colmar) — droit local Alsace-Moselle, régime distinct du droit commun, publié via la Fédération départementale des chasseurs du Haut-Rhin (mirroir du document préfectoral)",
+    "confiance": "haute"
+  },
+  "arretes_officiels": [
+    {
+      "objet": "Dates d'ouverture et de fermeture de la chasse 2026-2027",
+      "reference": "Arrêté préfectoral (27 avril 2026)",
+      "url_pdf": "https://drive.google.com/uc?export=download&id=1PwDrIAVpi8Ktyhs6b1mUpJk55-jZ4TH5",
+      "statut": "signé"
+    },
+    {
+      "objet": "Plan de chasse grand gibier 2026-2027",
+      "reference": "AP du 27/04/2026",
+      "url_pdf": "https://drive.google.com/uc?export=download&id=1K9CocI7mXczP2BSI_rSADTRq-UvD_cUR",
+      "statut": "signé"
+    }
+  ],
+  "especes": [
+    {
+      "slug": "sanglier",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 15 avril 2026 (matin) au 1er février 2027 (soir)",
+          "source_url": "https://drive.google.com/uc?export=download&id=1PwDrIAVpi8Ktyhs6b1mUpJk55-jZ4TH5",
+          "source_label": "Arrêté préfectoral fixant les dates de chasse 2026-2027 (27 avril 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "chevreuil",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Chevreuil mâle (brocard) : du 15 mai 2026 (matin) au 1er février 2027 (soir). Chevreuil femelle et faon : ouverture générale (23 août 2026) au 1er février 2027",
+          "source_url": "https://drive.google.com/uc?export=download&id=1PwDrIAVpi8Ktyhs6b1mUpJk55-jZ4TH5",
+          "source_label": "Arrêté préfectoral fixant les dates de chasse 2026-2027 (27 avril 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "cerf-elaphe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Cerf élaphe mâle : du 1er août 2026 (matin) au 1er février 2027 (soir). Cerf élaphe femelle et faon : ouverture générale (23 août 2026) au 1er février 2027",
+          "source_url": "https://drive.google.com/uc?export=download&id=1PwDrIAVpi8Ktyhs6b1mUpJk55-jZ4TH5",
+          "source_label": "Arrêté préfectoral fixant les dates de chasse 2026-2027 (27 avril 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "chamois",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Ouverture et fermeture générales : du 23 août 2026 (matin) au 1er février 2027 (soir)",
+          "source_url": "https://drive.google.com/uc?export=download&id=1PwDrIAVpi8Ktyhs6b1mUpJk55-jZ4TH5",
+          "source_label": "Arrêté préfectoral fixant les dates de chasse 2026-2027 (27 avril 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "lapin-garenne",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 15 avril 2026 (matin) au 28 février 2027 (soir)",
+          "source_url": "https://drive.google.com/uc?export=download&id=1PwDrIAVpi8Ktyhs6b1mUpJk55-jZ4TH5",
+          "source_label": "Arrêté préfectoral fixant les dates de chasse 2026-2027 (27 avril 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "lievre-europe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Lièvre commun : du 15 octobre 2026 (matin) au 15 décembre 2026 (soir)",
+          "source_url": "https://drive.google.com/uc?export=download&id=1PwDrIAVpi8Ktyhs6b1mUpJk55-jZ4TH5",
+          "source_label": "Arrêté préfectoral fixant les dates de chasse 2026-2027 (27 avril 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "faisan-commun",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 15 septembre 2026 (matin) au 31 décembre 2026 (soir), avec perdrix rouge et grise. Chasse de la poule faisane interdite dans les secteurs où la neige recouvre le sol de façon uniforme et continue",
+          "source_url": "https://drive.google.com/uc?export=download&id=1PwDrIAVpi8Ktyhs6b1mUpJk55-jZ4TH5",
+          "source_label": "Arrêté préfectoral fixant les dates de chasse 2026-2027 (27 avril 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-grise",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 15 septembre 2026 (matin) au 31 décembre 2026 (soir). Chasse interdite dans les secteurs où la neige recouvre le sol de façon uniforme et continue",
+          "source_url": "https://drive.google.com/uc?export=download&id=1PwDrIAVpi8Ktyhs6b1mUpJk55-jZ4TH5",
+          "source_label": "Arrêté préfectoral fixant les dates de chasse 2026-2027 (27 avril 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-rouge",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 15 septembre 2026 (matin) au 31 décembre 2026 (soir). Chasse interdite dans les secteurs où la neige recouvre le sol de façon uniforme et continue",
+          "source_url": "https://drive.google.com/uc?export=download&id=1PwDrIAVpi8Ktyhs6b1mUpJk55-jZ4TH5",
+          "source_label": "Arrêté préfectoral fixant les dates de chasse 2026-2027 (27 avril 2026)"
+        }
+      ]
+    }
+  ]
+}

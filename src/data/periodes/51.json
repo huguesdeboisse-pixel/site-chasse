@@ -1,0 +1,111 @@
+{
+  "departement": "51",
+  "saison": "2026-2027",
+  "licence_source": "Licence ouverte Etalab 2.0",
+  "ouverture_generale": {
+    "date": "2026-09-20",
+    "fermeture": "2027-02-28",
+    "source_url": "https://www.marne.gouv.fr/contenu/telechargement/53760/381157/file/Arr%C3%AAt%C3%A9%20CHAS-2026-036_p%C3%A9riode_chasse_2026_2027.pdf",
+    "source_label": "Arrêté n° CHAS/2026-036 relatif à la période de chasse pour la campagne 2026-2027 dans le département de la Marne (signé le 20 mai 2026)",
+    "confiance": "haute"
+  },
+  "arretes_officiels": [
+    {
+      "objet": "Période de chasse 2026-2027",
+      "reference": "Arrêté n° CHAS/2026-036 (20 mai 2026)",
+      "url_pdf": "https://www.marne.gouv.fr/contenu/telechargement/53760/381157/file/Arr%C3%AAt%C3%A9%20CHAS-2026-036_p%C3%A9riode_chasse_2026_2027.pdf",
+      "statut": "signé"
+    },
+    {
+      "objet": "Plans de chasse grand gibier (minimums et maximums) 2026-2027",
+      "reference": "Arrêté n° CHAS-2026-032",
+      "url_pdf": "https://www.marne.gouv.fr/contenu/telechargement/53761/381162/file/Arr%C3%AAt%C3%A9_CHAS-2026-032_minimum_maximum_2026_2027.pdf",
+      "statut": "signé"
+    },
+    {
+      "objet": "Classement ESOD groupe 3 2026-2027",
+      "reference": "Arrêté ESOD groupe 3 2026-2027",
+      "url_pdf": "https://www.marne.gouv.fr/contenu/telechargement/54219/383835/file/Ap_ESOD_grp_3_2026_2027.pdf",
+      "statut": "signé"
+    }
+  ],
+  "especes": [
+    {
+      "slug": "sanglier",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Ouverture spécifique à l'approche/affût sur autorisation préfectorale individuelle du 1er juin au 31 juillet 2026 ; à l'affût, à l'approche et en battue sur autorisation préfectorale individuelle du 1er au 14 août 2026 ; ouverte à l'approche, à l'affût et en battue sans autorisation du 15 août 2026 au 28 février 2027 ; à l'approche/affût sur tout le département et en battue en zones hors plan de chasse (parcs et enclos) du 1er mars au 31 mars 2027, battue en zone à plan de chasse/gestion sur autorisation préfectorale individuelle ; période complémentaire pour la protection des semis à l'affût/approche du 1er avril au 31 mai 2027 sur autorisation préfectorale individuelle (battue exceptionnelle possible sur autorisation)",
+          "source_url": "https://www.marne.gouv.fr/contenu/telechargement/53760/381157/file/Arr%C3%AAt%C3%A9%20CHAS-2026-036_p%C3%A9riode_chasse_2026_2027.pdf",
+          "source_label": "Arrêté n° CHAS/2026-036 (20 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "cerf-elaphe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Ouverture spécifique du cerf coiffé à l'approche/affût sur autorisation préfectorale individuelle du 1er septembre 2026 à l'ouverture générale (20 septembre 2026) ; cerf, biche, faon en ouverture et fermeture générales (20 septembre 2026 au 28 février 2027) dans les conditions spécifiques du grand gibier",
+          "source_url": "https://www.marne.gouv.fr/contenu/telechargement/53760/381157/file/Arr%C3%AAt%C3%A9%20CHAS-2026-036_p%C3%A9riode_chasse_2026_2027.pdf",
+          "source_label": "Arrêté n° CHAS/2026-036 (20 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "chevreuil",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Ouverture spécifique du brocard à l'approche/affût sur autorisation préfectorale individuelle du 1er juin 2026 à l'ouverture générale (20 septembre 2026) ; chevreuil en ouverture et fermeture générales (20 septembre 2026 au 28 février 2027) dans les conditions spécifiques du grand gibier",
+          "source_url": "https://www.marne.gouv.fr/contenu/telechargement/53760/381157/file/Arr%C3%AAt%C3%A9%20CHAS-2026-036_p%C3%A9riode_chasse_2026_2027.pdf",
+          "source_label": "Arrêté n° CHAS/2026-036 (20 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "mouflon-mediterraneen",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Ouverture et fermeture générales (20 septembre 2026 au 28 février 2027). Chasse en battue ou traque ainsi que l'emploi de chiens interdits pour le mouflon dans le département de la Marne",
+          "source_url": "https://www.marne.gouv.fr/contenu/telechargement/53760/381157/file/Arr%C3%AAt%C3%A9%20CHAS-2026-036_p%C3%A9riode_chasse_2026_2027.pdf",
+          "source_label": "Arrêté n° CHAS/2026-036 (20 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "lievre-europe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 20 septembre 2026 au 23 novembre 2026, sur l'ensemble du département (plan de gestion généralisé à toutes les communes de la Marne)",
+          "source_url": "https://www.marne.gouv.fr/contenu/telechargement/53760/381157/file/Arr%C3%AAt%C3%A9%20CHAS-2026-036_p%C3%A9riode_chasse_2026_2027.pdf",
+          "source_label": "Arrêté n° CHAS/2026-036 (20 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-grise",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Ouverture anticipée du 6 au 19 septembre 2026 (uniquement sur populations naturelles, au chien d'arrêt/leveur/rapporteur, hors chasse commerciale) ; ouverture générale le 20 septembre 2026 ; clôture le 22 novembre 2026, sur l'ensemble du département (plan de gestion généralisé)",
+          "source_url": "https://www.marne.gouv.fr/contenu/telechargement/53760/381157/file/Arr%C3%AAt%C3%A9%20CHAS-2026-036_p%C3%A9riode_chasse_2026_2027.pdf",
+          "source_label": "Arrêté n° CHAS/2026-036 (20 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "faisan-commun",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Poule faisane : ouverture générale (20 septembre 2026) au 31 décembre 2026, hors chasse commerciale. Coq faisan : ouverture et fermeture générales (20 septembre 2026 au 28 février 2027). Plan de gestion spécifique dans plusieurs secteurs cynégétiques (Brie des étangs, Trois cantons, Vallées, Hauts de Champagne, Bocage Champenois, Argonne, Perthois, Grande Montagne)",
+          "source_url": "https://www.marne.gouv.fr/contenu/telechargement/53760/381157/file/Arr%C3%AAt%C3%A9%20CHAS-2026-036_p%C3%A9riode_chasse_2026_2027.pdf",
+          "source_label": "Arrêté n° CHAS/2026-036 (20 mai 2026)"
+        }
+      ]
+    }
+  ]
+}

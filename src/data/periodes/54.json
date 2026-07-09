@@ -1,0 +1,99 @@
+{
+  "departement": "54",
+  "saison": "2026-2027",
+  "licence_source": "Licence ouverte Etalab 2.0",
+  "ouverture_generale": {
+    "date": "2026-09-20",
+    "fermeture": "2027-02-28",
+    "source_url": "https://www.fdc54.com/wp-content/uploads/2026/05/AP-ouverture-chasse-2026_2027.pdf",
+    "source_label": "Arrêté préfectoral n° 2026/DDT/ABER/48 d'ouverture et de clôture de la chasse dans le département de Meurthe-et-Moselle, campagne 2026-2027 (signé le 16 avril 2026, pour le préfet et par délégation le directeur départemental des territoires Emmanuel Tirtaine)",
+    "confiance": "haute"
+  },
+  "arretes_officiels": [
+    {
+      "objet": "Ouverture et clôture générale 2026-2027",
+      "reference": "Arrêté préfectoral n° 2026/DDT/ABER/48 (16 avril 2026)",
+      "url_pdf": "https://www.fdc54.com/wp-content/uploads/2026/05/AP-ouverture-chasse-2026_2027.pdf",
+      "statut": "signé"
+    }
+  ],
+  "especes": [
+    {
+      "slug": "cerf-elaphe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 1er septembre 2026 au 28 février 2027. Du 1er au 19 septembre 2026 : tir du cerf mâle (CEM1/CEM2) uniquement à l'approche/affût pour les détenteurs de plan de chasse. Du 20 septembre au 2 octobre 2026 : tir du cerf, de la biche et du faon uniquement à l'approche/affût. À partir du 3 octobre 2026 : à l'approche/affût tous les jours, et en battue (2 battues max par semaine et par territoire, calendrier à déposer avant le 15 septembre 2026)",
+          "source_url": "https://www.fdc54.com/wp-content/uploads/2026/05/AP-ouverture-chasse-2026_2027.pdf",
+          "source_label": "Arrêté préfectoral n° 2026/DDT/ABER/48 (16 avril 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "chevreuil",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 1er juin 2026 au 28 février 2027. Du 1er juin au 19 septembre 2026 : tir d'été du brocard uniquement à l'approche/affût. Du 20 septembre 2026 au 28 février 2027 : à l'approche/affût tous les jours, et en battue (2 battues max par semaine et par territoire)",
+          "source_url": "https://www.fdc54.com/wp-content/uploads/2026/05/AP-ouverture-chasse-2026_2027.pdf",
+          "source_label": "Arrêté préfectoral n° 2026/DDT/ABER/48 (16 avril 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "sanglier",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 1er juin 2026 au 31 mai 2027. Du 1er juin au 10 juillet 2026 : à l'approche/affût pour détenteurs de plan de chasse sanglier. Du 11 juillet au 19 septembre 2026 : approche/affût, et battue en plaine et massifs forestiers de moins de 50 ha pour détenteurs de plan de chasse (bilan à transmettre à la FDC54 avant le 30 septembre 2026). Du 20 septembre 2026 au 31 mars 2027 : approche/affût et battue (2 battues max/semaine/territoire). Du 1er avril au 31 mai 2027 : uniquement pour la protection des semis, à l'affût ou à l'approche, en plaine et hors massif forestier, chiens interdits sauf chien de sang",
+          "source_url": "https://www.fdc54.com/wp-content/uploads/2026/05/AP-ouverture-chasse-2026_2027.pdf",
+          "source_label": "Arrêté préfectoral n° 2026/DDT/ABER/48 (16 avril 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "faisan-commun",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 20 septembre 2026 au 31 janvier 2027, conformément au plan de gestion cynégétique mis en place par la FDC54",
+          "source_url": "https://www.fdc54.com/wp-content/uploads/2026/05/AP-ouverture-chasse-2026_2027.pdf",
+          "source_label": "Arrêté préfectoral n° 2026/DDT/ABER/48 (16 avril 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "lievre-europe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 1er octobre 2026 au 31 décembre 2026, conformément au plan de gestion cynégétique mis en place par la FDC54",
+          "source_url": "https://www.fdc54.com/wp-content/uploads/2026/05/AP-ouverture-chasse-2026_2027.pdf",
+          "source_label": "Arrêté préfectoral n° 2026/DDT/ABER/48 (16 avril 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-grise",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 20 septembre 2026 au 1er novembre 2026, conformément au plan de gestion cynégétique mis en place par la FDC54",
+          "source_url": "https://www.fdc54.com/wp-content/uploads/2026/05/AP-ouverture-chasse-2026_2027.pdf",
+          "source_label": "Arrêté préfectoral n° 2026/DDT/ABER/48 (16 avril 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-rouge",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 20 septembre 2026 au 31 janvier 2027",
+          "source_url": "https://www.fdc54.com/wp-content/uploads/2026/05/AP-ouverture-chasse-2026_2027.pdf",
+          "source_label": "Arrêté préfectoral n° 2026/DDT/ABER/48 (16 avril 2026)"
+        }
+      ]
+    }
+  ]
+}

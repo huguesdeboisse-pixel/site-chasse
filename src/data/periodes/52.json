@@ -1,0 +1,121 @@
+{
+  "departement": "52",
+  "saison": "2026-2027",
+  "licence_source": "Licence ouverte Etalab 2.0",
+  "ouverture_generale": {
+    "date": "2026-09-20",
+    "fermeture": "2027-02-28",
+    "source_url": "https://www.haute-marne.gouv.fr/contenu/telechargement/29478/223166/file/ARRETE%20N%C2%B0%2052-2026-05-00054%20DU%2012%20MAI%202026.pdf",
+    "source_label": "Arrêté n°52-2026-05-00054 du 12 mai 2026 portant fixation des dates d'ouverture et de clôture de la chasse dans le département de la Haute-Marne, campagne 2026-2027 (signé par la préfète Régine PAM, abroge l'arrêté n°52-2026-05-00037 du 11 mai 2026)",
+    "confiance": "haute"
+  },
+  "arretes_officiels": [
+    {
+      "objet": "Ouverture et clôture générale 2026-2027 (arrêté rectificatif)",
+      "reference": "Arrêté n°52-2026-05-00054 (12 mai 2026)",
+      "url_pdf": "https://www.haute-marne.gouv.fr/contenu/telechargement/29478/223166/file/ARRETE%20N%C2%B0%2052-2026-05-00054%20DU%2012%20MAI%202026.pdf",
+      "statut": "signé"
+    }
+  ],
+  "especes": [
+    {
+      "slug": "sanglier",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Tir de sélection à l'approche/affût du 1er juin 2026 au 14 août 2026 sur autorisation fédérale individuelle, puis sans autorisation du 15 août 2026 au 28 février 2027. Chasse en battue autorisée du 15 août 2026 au 28 février 2027. Recherche du gibier blessé possible par conducteurs de chien de rouge le 1er mars 2027. Chasse interdite le mercredi",
+          "source_url": "https://www.haute-marne.gouv.fr/contenu/telechargement/29478/223166/file/ARRETE%20N%C2%B0%2052-2026-05-00054%20DU%2012%20MAI%202026.pdf",
+          "source_label": "Arrêté n°52-2026-05-00054 (12 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "chevreuil",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Tir de sélection à l'approche/affût du 1er juin 2026 au 19 septembre 2026 sur autorisation fédérale individuelle, puis sans autorisation du 20 septembre 2026 au 28 février 2027 (en battue à partir du 20 septembre 2026). Chasse interdite le mercredi",
+          "source_url": "https://www.haute-marne.gouv.fr/contenu/telechargement/29478/223166/file/ARRETE%20N%C2%B0%2052-2026-05-00054%20DU%2012%20MAI%202026.pdf",
+          "source_label": "Arrêté n°52-2026-05-00054 (12 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "cerf-elaphe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Tir de sélection à l'approche/affût du 1er septembre 2026 au 19 septembre 2026 sur autorisation fédérale individuelle, puis sans autorisation du 20 septembre 2026 au 28 février 2027 (en battue à partir du 20 septembre 2026, toutes catégories). Dans le cœur du Parc national de forêts, ouverture de la chasse en battue fixée au 17 octobre 2026. Chasse interdite le mercredi",
+          "source_url": "https://www.haute-marne.gouv.fr/contenu/telechargement/29478/223166/file/ARRETE%20N%C2%B0%2052-2026-05-00054%20DU%2012%20MAI%202026.pdf",
+          "source_label": "Arrêté n°52-2026-05-00054 (12 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "lievre-europe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 20 septembre 2026 au 22 novembre 2026 (tous les jours sauf mercredi), sauf sur les communes du GIC du Sud Haut-Marnais (Aprey, Baissey, Chassigny, Choilley-Dardenay, Coublanc, Cusey, Dommarien, Flagey, Grenant, Isômes, Le Montsaugeonnais, Leuchey, Longeau-Percey, Verseilles-le-Bas, Verseilles-le-Haut, Maatz, Occey, Orcevaux, Rivières-les-Fosses, Saint-Broingt-les-Fosses, Val-d'Esnoms, Villegusien-le-Lac, Villiers-les-Aprey) où la clôture est fixée au 20 décembre 2026",
+          "source_url": "https://www.haute-marne.gouv.fr/contenu/telechargement/29478/223166/file/ARRETE%20N%C2%B0%2052-2026-05-00054%20DU%2012%20MAI%202026.pdf",
+          "source_label": "Arrêté n°52-2026-05-00054 (12 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "lapin-garenne",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 20 septembre 2026 au 28 février 2027, tir autorisé tous les jours (y compris mercredi)",
+          "source_url": "https://www.haute-marne.gouv.fr/contenu/telechargement/29478/223166/file/ARRETE%20N%C2%B0%2052-2026-05-00054%20DU%2012%20MAI%202026.pdf",
+          "source_label": "Arrêté n°52-2026-05-00054 (12 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "faisan-commun",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 20 septembre 2026 au 28 février 2027, tir autorisé tous les jours (y compris mercredi), sauf tir de la poule faisane interdit sur la commune de Longeville-sur-la-Laines (Rives Dervoises)",
+          "source_url": "https://www.haute-marne.gouv.fr/contenu/telechargement/29478/223166/file/ARRETE%20N%C2%B0%2052-2026-05-00054%20DU%2012%20MAI%202026.pdf",
+          "source_label": "Arrêté n°52-2026-05-00054 (12 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-grise",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 20 septembre 2026 au 8 novembre 2026, chasse interdite tous les jours sur les communes de Chassigny, Choilley-Dardenay, Cusey, Dommarien, Isômes, Occey, Le Montsaugeonnais, Vaux-sous-Aubigny, Villegusien-le-Lac (Piépape uniquement) ; autorisée sur le reste du département les samedis, dimanches, jours fériés et le lundi suivant l'ouverture",
+          "source_url": "https://www.haute-marne.gouv.fr/contenu/telechargement/29478/223166/file/ARRETE%20N%C2%B0%2052-2026-05-00054%20DU%2012%20MAI%202026.pdf",
+          "source_label": "Arrêté n°52-2026-05-00054 (12 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-rouge",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 20 septembre 2026 au 28 février 2027, tous les jours sauf mercredi",
+          "source_url": "https://www.haute-marne.gouv.fr/contenu/telechargement/29478/223166/file/ARRETE%20N%C2%B0%2052-2026-05-00054%20DU%2012%20MAI%202026.pdf",
+          "source_label": "Arrêté n°52-2026-05-00054 (12 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "becasse-bois",
+      "faits": [
+        {
+          "label": "Prélèvement maximal autorisé",
+          "detail": "PMA de 3 oiseaux par chasseur et par jour de chasse, 6 par chasseur et par semaine, 30 par chasseur et par saison. Dans le cœur du Parc national de forêts, ouverture de la chasse à la bécasse fixée au 17 octobre 2026",
+          "source_url": "https://www.haute-marne.gouv.fr/contenu/telechargement/29478/223166/file/ARRETE%20N%C2%B0%2052-2026-05-00054%20DU%2012%20MAI%202026.pdf",
+          "source_label": "Arrêté n°52-2026-05-00054 (12 mai 2026)"
+        }
+      ]
+    }
+  ]
+}

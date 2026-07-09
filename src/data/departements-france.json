@@ -62,8 +62,8 @@
    "nom": "Ardennes",
    "region": "Grand Est",
    "prefecture_url": "https://www.ardennes.gouv.fr",
-   "fdc_nom": null,
-   "fdc_url": null
+   "fdc_nom": "Fédération départementale des chasseurs des Ardennes",
+   "fdc_url": "https://le-chasseur-ardennais.com/"
   },
   {
    "code": "09",
@@ -78,8 +78,8 @@
    "nom": "Aube",
    "region": "Grand Est",
    "prefecture_url": "https://www.aube.gouv.fr",
-   "fdc_nom": null,
-   "fdc_url": null
+   "fdc_nom": "Fédération départementale des chasseurs de l'Aube",
+   "fdc_url": "https://www.fdc10.org/"
   },
   {
    "code": "11",
@@ -414,16 +414,16 @@
    "nom": "Marne",
    "region": "Grand Est",
    "prefecture_url": "https://www.marne.gouv.fr",
-   "fdc_nom": null,
-   "fdc_url": null
+   "fdc_nom": "Fédération départementale des chasseurs de la Marne",
+   "fdc_url": "https://www.fdc51.com/"
   },
   {
    "code": "52",
    "nom": "Haute-Marne",
    "region": "Grand Est",
    "prefecture_url": "https://www.haute-marne.gouv.fr",
-   "fdc_nom": null,
-   "fdc_url": null
+   "fdc_nom": "Fédération départementale des chasseurs de la Haute-Marne",
+   "fdc_url": "https://www.fdc52.fr/"
   },
   {
    "code": "53",
@@ -438,16 +438,16 @@
    "nom": "Meurthe-et-Moselle",
    "region": "Grand Est",
    "prefecture_url": "https://www.meurthe-et-moselle.gouv.fr",
-   "fdc_nom": null,
-   "fdc_url": null
+   "fdc_nom": "Fédération départementale des chasseurs de Meurthe-et-Moselle",
+   "fdc_url": "https://www.fdc54.com/"
   },
   {
    "code": "55",
    "nom": "Meuse",
    "region": "Grand Est",
    "prefecture_url": "https://www.meuse.gouv.fr",
-   "fdc_nom": null,
-   "fdc_url": null
+   "fdc_nom": "Fédération départementale des chasseurs de la Meuse",
+   "fdc_url": "https://www.fdc55.com/"
   },
   {
    "code": "56",
@@ -462,8 +462,8 @@
    "nom": "Moselle",
    "region": "Grand Est",
    "prefecture_url": "https://www.moselle.gouv.fr",
-   "fdc_nom": null,
-   "fdc_url": null
+   "fdc_nom": "Fédération départementale des chasseurs de la Moselle (FDC57 / FDIDS57)",
+   "fdc_url": "https://www.fdc57.org/"
   },
   {
    "code": "58",
@@ -542,16 +542,16 @@
    "nom": "Bas-Rhin",
    "region": "Grand Est",
    "prefecture_url": "https://www.bas-rhin.gouv.fr",
-   "fdc_nom": null,
-   "fdc_url": null
+   "fdc_nom": "Fédération des Chasseurs du Bas-Rhin",
+   "fdc_url": "https://fdc67.fr/"
   },
   {
    "code": "68",
    "nom": "Haut-Rhin",
    "region": "Grand Est",
    "prefecture_url": "https://www.haut-rhin.gouv.fr",
-   "fdc_nom": null,
-   "fdc_url": null
+   "fdc_nom": "Fédération départementale des Chasseurs du Haut-Rhin",
+   "fdc_url": "https://www.federation-chasseurs-haut-rhin-68.fr/"
   },
   {
    "code": "69",
@@ -710,8 +710,8 @@
    "nom": "Vosges",
    "region": "Grand Est",
    "prefecture_url": "https://www.vosges.gouv.fr",
-   "fdc_nom": null,
-   "fdc_url": null
+   "fdc_nom": "Fédération départementale des chasseurs des Vosges",
+   "fdc_url": "http://www.federationchasseur88.fr/"
   },
   {
    "code": "89",

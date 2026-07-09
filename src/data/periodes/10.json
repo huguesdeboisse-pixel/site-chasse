@@ -1,0 +1,110 @@
+{
+  "departement": "10",
+  "saison": "2026-2027",
+  "licence_source": "Licence ouverte Etalab 2.0",
+  "ouverture_generale": {
+    "date": "2026-09-20",
+    "fermeture": "2027-02-28",
+    "source_url": "https://www.aube.gouv.fr/contenu/telechargement/45112/321053/file/Arrete_ouverture_chasse_2026-2027.pdf",
+    "source_label": "Arrêté n° DDT-SAER-2026152-0001 fixant les modalités d'ouverture de la chasse dans le département de l'Aube pour la campagne 2026/2027 (signé le 1er juin 2026 par le secrétaire général, préfet par intérim)",
+    "confiance": "haute"
+  },
+  "arretes_officiels": [
+    {
+      "objet": "Ouverture et modalités de chasse 2026-2027",
+      "reference": "Arrêté n° DDT-SAER-2026152-0001 (1er juin 2026)",
+      "url_pdf": "https://www.aube.gouv.fr/contenu/telechargement/45112/321053/file/Arrete_ouverture_chasse_2026-2027.pdf",
+      "statut": "signé"
+    }
+  ],
+  "especes": [
+    {
+      "slug": "chevreuil",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "À l'approche/affût : du 1er juin 2026 au 28 février 2027, sur territoires adhérents FDC10 munis d'un plan de chasse (jusqu'au 19 septembre 2026 inclus, seul le prélèvement des brocards est autorisé, dans la limite de 50% du maximum annuel). En battue : à compter de l'ouverture générale, le 20 septembre 2026, jusqu'au 28 février 2027, limitée à 3 jours par semaine (samedi, dimanche, lundi et jours fériés)",
+          "source_url": "https://www.aube.gouv.fr/contenu/telechargement/45112/321053/file/Arrete_ouverture_chasse_2026-2027.pdf",
+          "source_label": "Arrêté n° DDT-SAER-2026152-0001 (1er juin 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "cerf-elaphe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "À l'approche/affût : du 1er septembre 2026 au 28 février 2027, sur territoires adhérents FDC10 munis d'un plan de chasse (jusqu'au 16 octobre 2026 inclus, seul le prélèvement des cerfs coiffés est autorisé, dans la limite de 50% du maximum annuel). En battue : à compter du 17 octobre 2026 jusqu'au 28 février 2027, limitée à 3 jours par semaine (samedi, dimanche, lundi et jours fériés)",
+          "source_url": "https://www.aube.gouv.fr/contenu/telechargement/45112/321053/file/Arrete_ouverture_chasse_2026-2027.pdf",
+          "source_label": "Arrêté n° DDT-SAER-2026152-0001 (1er juin 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "sanglier",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "À l'approche/affût : du 1er juin 2026 au 31 mars 2027, sur territoires adhérents FDC10. En battue : du 1er juin 2026 au 14 août 2026 sur autorisation préfectorale après avis de la FDCA (5 tireurs minimum dont un traqueur avec chiens) ; puis sans autorisation nécessaire du 15 août 2026 à la fermeture générale (limitée à 3 jours/semaine : samedi, dimanche, lundi et jours fériés dans les unités de gestion cynégétique, tous les jours en dehors) ; période complémentaire à l'affût du 1er avril au 31 mai 2027 pour la protection des semis, sur autorisation préfectorale après avis de la FDC. Tout sanglier prélevé doit être muni d'un dispositif de marquage FDC10 avant tout déplacement",
+          "source_url": "https://www.aube.gouv.fr/contenu/telechargement/45112/321053/file/Arrete_ouverture_chasse_2026-2027.pdf",
+          "source_label": "Arrêté n° DDT-SAER-2026152-0001 (1er juin 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "lievre-europe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 4 octobre 2026 au 7 novembre 2026, chasse limitée à 5 jours ; fixée à 1 jour par semaine (dimanche, remplaçable par un autre jour déclaré) ; clôture avancée au 28 novembre 2026 dans les périmètres des unités de gestion lièvre (cette date ne modifie pas les 5 jours de chasse autorisés)",
+          "source_url": "https://www.aube.gouv.fr/contenu/telechargement/45112/321053/file/Arrete_ouverture_chasse_2026-2027.pdf",
+          "source_label": "Arrêté n° DDT-SAER-2026152-0001 (1er juin 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-grise",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Zone nord : ouverture le 20 septembre 2026, clôture le 26 septembre 2026 (1 jour de chasse), sauf périmètres de gestion/contrats où l'ouverture est avancée au 6 septembre 2026 (attribution limitée à 30% de l'année précédente) et clôture au 28 novembre 2026. Zone sud : du 20 septembre 2026 au 10 octobre 2026 (3 jours de chasse). Dans les communes viticoles listées (Avirey-Lingey, Balnot-sur-Laignes, Les Riceys, etc.), ouverture générale décalée au 4 octobre 2026 : perdrix grise 3 jours (4 au 24 octobre 2026)",
+          "source_url": "https://www.aube.gouv.fr/contenu/telechargement/45112/321053/file/Arrete_ouverture_chasse_2026-2027.pdf",
+          "source_label": "Arrêté n° DDT-SAER-2026152-0001 (1er juin 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-rouge",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Classée dans « Autres perdrix », chassable du 20 septembre 2026 au 31 janvier 2027 ; dans les communes viticoles à ouverture décalée : du 4 octobre au 10 octobre 2026 (1 jour)",
+          "source_url": "https://www.aube.gouv.fr/contenu/telechargement/45112/321053/file/Arrete_ouverture_chasse_2026-2027.pdf",
+          "source_label": "Arrêté n° DDT-SAER-2026152-0001 (1er juin 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "faisan-commun",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 20 septembre 2026 au 31 janvier 2027 ; dans les communes viticoles à ouverture décalée, du 4 octobre 2026 au 31 janvier 2027",
+          "source_url": "https://www.aube.gouv.fr/contenu/telechargement/45112/321053/file/Arrete_ouverture_chasse_2026-2027.pdf",
+          "source_label": "Arrêté n° DDT-SAER-2026152-0001 (1er juin 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "caille-bles",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 29 août 2026 à la veille de l'ouverture générale (19 septembre 2026), avec chien d'arrêt, chien leveur ou rapporteur de gibier, maximum 3 fusils par chien",
+          "source_url": "https://www.aube.gouv.fr/contenu/telechargement/45112/321053/file/Arrete_ouverture_chasse_2026-2027.pdf",
+          "source_label": "Arrêté n° DDT-SAER-2026152-0001 (1er juin 2026)"
+        }
+      ]
+    }
+  ]
+}

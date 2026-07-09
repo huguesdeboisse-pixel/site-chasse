@@ -1,0 +1,160 @@
+{
+  "departement": "57",
+  "saison": "2026-2027",
+  "licence_source": "Licence ouverte Etalab 2.0",
+  "ouverture_generale": {
+    "date": "2026-08-23",
+    "fermeture": "2027-02-01",
+    "source_url": "https://www.fdc57.org/images/liens%20gaetan/AP%202026-21%20especes%20chassables%20et%20dates%20saison%20chasse%202026-2027.pdf",
+    "source_label": "Arrêté 2026-DDT-SERAF-UFC n°21 fixant la liste des espèces chassables et les dates d'ouverture et de fermeture de la chasse dans le département de la Moselle, saison 2026-2027 (signé le 1er avril 2026, pour le préfet et par délégation le secrétaire général Jérôme Seguy) — droit local Alsace-Moselle, régime distinct du droit commun",
+    "confiance": "haute"
+  },
+  "arretes_officiels": [
+    {
+      "objet": "Espèces chassables et dates d'ouverture/fermeture 2026-2027",
+      "reference": "Arrêté 2026-DDT-SERAF-UFC n°21 (1er avril 2026)",
+      "url_pdf": "https://www.fdc57.org/images/liens%20gaetan/AP%202026-21%20especes%20chassables%20et%20dates%20saison%20chasse%202026-2027.pdf",
+      "statut": "signé"
+    },
+    {
+      "objet": "Autorisation du tir de nuit du sanglier du 15 avril 2026 au 1er février 2027",
+      "reference": "Arrêté préfectoral 2026-DDT-SERAF-UFC n°22 (1er avril 2026)",
+      "url_pdf": "https://www.fdc57.org/images/liens%20gaetan/AP%202026-21%20especes%20chassables%20et%20dates%20saison%20chasse%202026-2027.pdf",
+      "statut": "signé"
+    }
+  ],
+  "especes": [
+    {
+      "slug": "sanglier",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 15 avril 2026 (matin) au 1er février 2027 (soir). Tir de nuit autorisé sur la même période selon les conditions de l'arrêté 2026-DDT-SERAF-UFC n°22 du 1er avril 2026. Utilisation des chiens interdite jusqu'au 31 juillet inclus (hors vénerie sous terre et déterrage)",
+          "source_url": "https://www.fdc57.org/images/liens%20gaetan/AP%202026-21%20especes%20chassables%20et%20dates%20saison%20chasse%202026-2027.pdf",
+          "source_label": "Arrêté 2026-DDT-SERAF-UFC n°21 (1er avril 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "chevreuil",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Chevreuil mâle : du 15 mai 2026 (matin) au 1er février 2027 (soir). Tir du gibier rouge (chevreuil, cerf, daim) en battue interdit avant le deuxième samedi d'octobre",
+          "source_url": "https://www.fdc57.org/images/liens%20gaetan/AP%202026-21%20especes%20chassables%20et%20dates%20saison%20chasse%202026-2027.pdf",
+          "source_label": "Arrêté 2026-DDT-SERAF-UFC n°21 (1er avril 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "cerf-elaphe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Cerf élaphe mâle : du 1er août 2026 (matin) au 1er février 2027 (soir). Tir du gibier rouge (chevreuil, cerf, daim) en battue interdit avant le deuxième samedi d'octobre",
+          "source_url": "https://www.fdc57.org/images/liens%20gaetan/AP%202026-21%20especes%20chassables%20et%20dates%20saison%20chasse%202026-2027.pdf",
+          "source_label": "Arrêté 2026-DDT-SERAF-UFC n°21 (1er avril 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "lievre-europe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Lièvre brun : du 15 octobre 2026 (matin) au 31 décembre 2026 (soir)",
+          "source_url": "https://www.fdc57.org/images/liens%20gaetan/AP%202026-21%20especes%20chassables%20et%20dates%20saison%20chasse%202026-2027.pdf",
+          "source_label": "Arrêté 2026-DDT-SERAF-UFC n°21 (1er avril 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-grise",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 23 août 2026 (matin) au 30 novembre 2026 (soir). Tir des poules faisanes et perdrix (mâles et femelles) interdit par temps de neige",
+          "source_url": "https://www.fdc57.org/images/liens%20gaetan/AP%202026-21%20especes%20chassables%20et%20dates%20saison%20chasse%202026-2027.pdf",
+          "source_label": "Arrêté 2026-DDT-SERAF-UFC n°21 (1er avril 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "faisan-commun",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Gibier sédentaire de droit commun : ouverture générale 23 août 2026, fermeture 1er février 2027. Coq faisan commun/hybride dans le périmètre du GIC « entre Seille et Nied » : du 15 septembre 2026 au 15 janvier 2027 (tir de la poule interdit). Faisans obscurs et vénérés de souche pure dans ce même GIC : du 23 août 2026 au 1er février 2027, sur justificatif d'achat",
+          "source_url": "https://www.fdc57.org/images/liens%20gaetan/AP%202026-21%20especes%20chassables%20et%20dates%20saison%20chasse%202026-2027.pdf",
+          "source_label": "Arrêté 2026-DDT-SERAF-UFC n°21 (1er avril 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "lapin-garenne",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 15 avril 2026 (matin) au 28 février 2027 (soir)",
+          "source_url": "https://www.fdc57.org/images/liens%20gaetan/AP%202026-21%20especes%20chassables%20et%20dates%20saison%20chasse%202026-2027.pdf",
+          "source_label": "Arrêté 2026-DDT-SERAF-UFC n°21 (1er avril 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "becasse-bois",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 23 août 2026 (matin) au 1er février 2027 (soir)",
+          "source_url": "https://www.fdc57.org/images/liens%20gaetan/AP%202026-21%20especes%20chassables%20et%20dates%20saison%20chasse%202026-2027.pdf",
+          "source_label": "Arrêté 2026-DDT-SERAF-UFC n°21 (1er avril 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "caille-bles",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 23 août 2026 (matin) au 16 novembre 2026 (soir)",
+          "source_url": "https://www.fdc57.org/images/liens%20gaetan/AP%202026-21%20especes%20chassables%20et%20dates%20saison%20chasse%202026-2027.pdf",
+          "source_label": "Arrêté 2026-DDT-SERAF-UFC n°21 (1er avril 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "pigeon-ramier",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Gibier sédentaire de droit commun (avec pigeon biset, pigeon colombin, tourterelle turque) : du 23 août 2026 (matin) au 1er février 2027 (soir)",
+          "source_url": "https://www.fdc57.org/images/liens%20gaetan/AP%202026-21%20especes%20chassables%20et%20dates%20saison%20chasse%202026-2027.pdf",
+          "source_label": "Arrêté 2026-DDT-SERAF-UFC n°21 (1er avril 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "canard-colvert",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Gibier d'eau (avec autres anatidés/limicoles chassables) : du 23 août 2026 (matin) au 31 janvier 2027 (soir). Chasse à la passée : 2 heures avant le lever du soleil à 2 heures après son coucher",
+          "source_url": "https://www.fdc57.org/images/liens%20gaetan/AP%202026-21%20especes%20chassables%20et%20dates%20saison%20chasse%202026-2027.pdf",
+          "source_label": "Arrêté 2026-DDT-SERAF-UFC n°21 (1er avril 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "grive-draine",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Oiseaux de passage (avec autres grives, merle noir) : du 23 août 2026 (matin) au 1er février 2027 (soir)",
+          "source_url": "https://www.fdc57.org/images/liens%20gaetan/AP%202026-21%20especes%20chassables%20et%20dates%20saison%20chasse%202026-2027.pdf",
+          "source_label": "Arrêté 2026-DDT-SERAF-UFC n°21 (1er avril 2026)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "departement": "88",
+  "saison": "2026-2027",
+  "licence_source": "Licence ouverte Etalab 2.0",
+  "ouverture_generale": {
+    "date": "2026-09-20",
+    "fermeture": "2027-02-28",
+    "source_url": "https://www.vosges.gouv.fr/contenu/telechargement/32165/252040/file/AP_149_2026_planchasse_ouvert_fermeture.pdf",
+    "source_label": "Arrêté n°149/2026/DDT relatif au plan de chasse du grand gibier et aux plans de gestion du sanglier et du petit gibier, portant ouverture et clôture de la chasse dans le département des Vosges, campagne 2026-2027 (signé le 19 mai 2026 par le préfet Blaise Gourtay)",
+    "confiance": "haute"
+  },
+  "arretes_officiels": [
+    {
+      "objet": "Plan de chasse grand gibier, plans de gestion sanglier/petit gibier, ouverture-clôture 2026-2027",
+      "reference": "Arrêté n°149/2026/DDT (19 mai 2026)",
+      "url_pdf": "https://www.vosges.gouv.fr/contenu/telechargement/32165/252040/file/AP_149_2026_planchasse_ouvert_fermeture.pdf",
+      "statut": "signé"
+    },
+    {
+      "objet": "Quotas d'animaux à prélever au plan de chasse 2026-2027",
+      "reference": "Arrêté n°133/2026/DDT",
+      "url_pdf": "https://www.vosges.gouv.fr/contenu/telechargement/32162/252025/file/AP_133_2026_quota+dpt.pdf",
+      "statut": "signé"
+    }
+  ],
+  "especes": [
+    {
+      "slug": "cerf-elaphe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Ouverture spécifique : tir tous sexes/âges du 1er au 19 septembre en chasse individuelle et silencieuse (sur notification individuelle). Ouverture générale : du 20 au 30 septembre en chasse individuelle et silencieuse ; du 1er octobre au 28 février en battue et chasse individuelle et silencieuse",
+          "source_url": "https://www.vosges.gouv.fr/contenu/telechargement/32165/252040/file/AP_149_2026_planchasse_ouvert_fermeture.pdf",
+          "source_label": "Arrêté n°149/2026/DDT (19 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "chevreuil",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Tir du brocard du 1er juin au 14 août en chasse individuelle et silencieuse (bracelet de brocard, notification individuelle). Tir tous sexes/âges du 15 août au 19 septembre en chasse individuelle et silencieuse (notification individuelle). Ouverture générale du 20 septembre au 28 février en battue et chasse individuelle et silencieuse",
+          "source_url": "https://www.vosges.gouv.fr/contenu/telechargement/32165/252040/file/AP_149_2026_planchasse_ouvert_fermeture.pdf",
+          "source_label": "Arrêté n°149/2026/DDT (19 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "chamois",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Ouverture spécifique : tir tous sexes/âges du 1er au 19 septembre en chasse individuelle et silencieuse (notification individuelle). Ouverture générale : du 20 septembre au 28 février, uniquement en chasse individuelle et silencieuse",
+          "source_url": "https://www.vosges.gouv.fr/contenu/telechargement/32165/252040/file/AP_149_2026_planchasse_ouvert_fermeture.pdf",
+          "source_label": "Arrêté n°149/2026/DDT (19 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "sanglier",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Tir du 1er juin au 31 juillet en chasse individuelle et silencieuse (notification individuelle). Du 1er au 31 août en chasse individuelle/silencieuse et en battue (5 tireurs minimum, en plaine ou boqueteaux de moins de 15 ha). Du 1er au 19 septembre en chasse individuelle/silencieuse et en battue. Ouverture générale du 20 septembre au 28 février en battue et chasse individuelle/silencieuse. Du 1er au 31 mars en chasse individuelle/silencieuse et en battue (sauf sous-massifs 11A, 11B, 12B, 13B à 13G). Du 1er avril au 31 mai, uniquement pour la protection des semis, à l'affût/approche ou en battue exceptionnelle sur autorisation préfectorale individuelle",
+          "source_url": "https://www.vosges.gouv.fr/contenu/telechargement/32165/252040/file/AP_149_2026_planchasse_ouvert_fermeture.pdf",
+          "source_label": "Arrêté n°149/2026/DDT (19 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "mouflon-mediterraneen",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Ouverture spécifique (parc de chasse, avec daim et cerf sika) : tir tous sexes/âges du 1er juin au 19 septembre en chasse individuelle et silencieuse (notification individuelle). Ouverture générale : du 20 septembre au 28 février, en battue et chasse individuelle/silencieuse",
+          "source_url": "https://www.vosges.gouv.fr/contenu/telechargement/32165/252040/file/AP_149_2026_planchasse_ouvert_fermeture.pdf",
+          "source_label": "Arrêté n°149/2026/DDT (19 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "lievre-europe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 10 octobre au 1er novembre, tous les jours ; seuls les bénéficiaires d'un plan de gestion sont autorisés à chasser cette espèce",
+          "source_url": "https://www.vosges.gouv.fr/contenu/telechargement/32165/252040/file/AP_149_2026_planchasse_ouvert_fermeture.pdf",
+          "source_label": "Arrêté n°149/2026/DDT (19 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "lapin-garenne",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 20 septembre au 28 février, tous les jours, chasse avec furet autorisée",
+          "source_url": "https://www.vosges.gouv.fr/contenu/telechargement/32165/252040/file/AP_149_2026_planchasse_ouvert_fermeture.pdf",
+          "source_label": "Arrêté n°149/2026/DDT (19 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-grise",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 20 au 30 septembre, tous les jours ; seuls les bénéficiaires d'un plan de gestion sont autorisés à chasser cette espèce",
+          "source_url": "https://www.vosges.gouv.fr/contenu/telechargement/32165/252040/file/AP_149_2026_planchasse_ouvert_fermeture.pdf",
+          "source_label": "Arrêté n°149/2026/DDT (19 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-rouge",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 20 septembre au 31 janvier, tous les jours ; seuls les bénéficiaires d'un plan de gestion sont autorisés à chasser cette espèce",
+          "source_url": "https://www.vosges.gouv.fr/contenu/telechargement/32165/252040/file/AP_149_2026_planchasse_ouvert_fermeture.pdf",
+          "source_label": "Arrêté n°149/2026/DDT (19 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "faisan-commun",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Coq : du 20 septembre au 31 janvier, tous les jours. Poule : du 20 au 30 septembre, tous les jours. Seuls les bénéficiaires d'un plan de gestion sont autorisés à chasser cette espèce (colchide et obscur)",
+          "source_url": "https://www.vosges.gouv.fr/contenu/telechargement/32165/252040/file/AP_149_2026_planchasse_ouvert_fermeture.pdf",
+          "source_label": "Arrêté n°149/2026/DDT (19 mai 2026)"
+        }
+      ]
+    }
+  ]
+}

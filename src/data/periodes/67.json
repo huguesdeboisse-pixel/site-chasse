@@ -1,0 +1,127 @@
+{
+  "departement": "67",
+  "saison": "2026-2027",
+  "licence_source": "Licence ouverte Etalab 2.0",
+  "ouverture_generale": {
+    "date": "2026-08-23",
+    "fermeture": "2027-02-01",
+    "source_url": "https://www.bas-rhin.gouv.fr/contenu/telechargement/61046/435837/file/AP_P%C3%A9riode_Chasse_2026-2027.pdf",
+    "source_label": "Arrêté préfectoral fixant les périodes de chasse du gibier sédentaire pour la campagne cynégétique 2026/2027 dans le département du Bas-Rhin (signé le 9 avril 2026, pour le préfet et par délégation le directeur départemental adjoint des territoires Ludovic Paul) — droit local Alsace-Moselle, régime distinct du droit commun",
+    "confiance": "haute"
+  },
+  "arretes_officiels": [
+    {
+      "objet": "Périodes de chasse du gibier sédentaire 2026-2027",
+      "reference": "Arrêté préfectoral (9 avril 2026)",
+      "url_pdf": "https://www.bas-rhin.gouv.fr/contenu/telechargement/61046/435837/file/AP_P%C3%A9riode_Chasse_2026-2027.pdf",
+      "statut": "signé"
+    },
+    {
+      "objet": "Sanglier ESOD et tir de nuit 2026-2027",
+      "reference": "AP_Sanglier_ESOD_2026-2027 et AP_Sanglier_Tir_Nuit_2026-2027",
+      "url_pdf": "https://www.bas-rhin.gouv.fr/contenu/telechargement/61047/435842/file/AP_Sanglier_ESOD_2026-2027.pdf",
+      "statut": "signé"
+    }
+  ],
+  "especes": [
+    {
+      "slug": "sanglier",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 15 avril 2026 (matin) au 1er février 2027 (soir)",
+          "source_url": "https://www.bas-rhin.gouv.fr/contenu/telechargement/61046/435837/file/AP_P%C3%A9riode_Chasse_2026-2027.pdf",
+          "source_label": "Arrêté préfectoral fixant les périodes de chasse du gibier sédentaire 2026-2027 (9 avril 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "chevreuil",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Chevreuil mâle : du 15 mai 2026 (matin) au 1er février 2027 (soir). Chevreuil faon et femelle (chevrette) : ouverture générale (23 août 2026) au 1er février 2027 (soir)",
+          "source_url": "https://www.bas-rhin.gouv.fr/contenu/telechargement/61046/435837/file/AP_P%C3%A9riode_Chasse_2026-2027.pdf",
+          "source_label": "Arrêté préfectoral fixant les périodes de chasse du gibier sédentaire 2026-2027 (9 avril 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "cerf-elaphe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Cerf élaphe mâle : du 1er août 2026 (matin) au 1er février 2027 (soir). Cerf élaphe faon et femelle (biche) : ouverture générale (23 août 2026) au 1er février 2027",
+          "source_url": "https://www.bas-rhin.gouv.fr/contenu/telechargement/61046/435837/file/AP_P%C3%A9riode_Chasse_2026-2027.pdf",
+          "source_label": "Arrêté préfectoral fixant les périodes de chasse du gibier sédentaire 2026-2027 (9 avril 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "chamois",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Ouverture et fermeture générales du gibier sédentaire : du 23 août 2026 (matin) au 1er février 2027 (soir)",
+          "source_url": "https://www.bas-rhin.gouv.fr/contenu/telechargement/61046/435837/file/AP_P%C3%A9riode_Chasse_2026-2027.pdf",
+          "source_label": "Arrêté préfectoral fixant les périodes de chasse du gibier sédentaire 2026-2027 (9 avril 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "lapin-garenne",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 15 avril 2026 (matin) au 28 février 2027 (soir)",
+          "source_url": "https://www.bas-rhin.gouv.fr/contenu/telechargement/61046/435837/file/AP_P%C3%A9riode_Chasse_2026-2027.pdf",
+          "source_label": "Arrêté préfectoral fixant les périodes de chasse du gibier sédentaire 2026-2027 (9 avril 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "lievre-europe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Lièvre commun : du 1er novembre 2026 (matin) au 31 décembre 2026 (soir)",
+          "source_url": "https://www.bas-rhin.gouv.fr/contenu/telechargement/61046/435837/file/AP_P%C3%A9riode_Chasse_2026-2027.pdf",
+          "source_label": "Arrêté préfectoral fixant les périodes de chasse du gibier sédentaire 2026-2027 (9 avril 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-grise",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Perdrix (grise et rouge) : du 15 septembre 2026 (matin) au 15 décembre 2026 (soir). Chasse interdite lorsque le sol est couvert de neige",
+          "source_url": "https://www.bas-rhin.gouv.fr/contenu/telechargement/61046/435837/file/AP_P%C3%A9riode_Chasse_2026-2027.pdf",
+          "source_label": "Arrêté préfectoral fixant les périodes de chasse du gibier sédentaire 2026-2027 (9 avril 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-rouge",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 15 septembre 2026 (matin) au 15 décembre 2026 (soir). Chasse interdite lorsque le sol est couvert de neige",
+          "source_url": "https://www.bas-rhin.gouv.fr/contenu/telechargement/61046/435837/file/AP_P%C3%A9riode_Chasse_2026-2027.pdf",
+          "source_label": "Arrêté préfectoral fixant les périodes de chasse du gibier sédentaire 2026-2027 (9 avril 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "faisan-commun",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Faisan de chasse : du 15 septembre 2026 (matin) au 31 décembre 2026 (soir). Chasse des poules faisanes interdite lorsque le sol est couvert de neige",
+          "source_url": "https://www.bas-rhin.gouv.fr/contenu/telechargement/61046/435837/file/AP_P%C3%A9riode_Chasse_2026-2027.pdf",
+          "source_label": "Arrêté préfectoral fixant les périodes de chasse du gibier sédentaire 2026-2027 (9 avril 2026)"
+        }
+      ]
+    }
+  ]
+}

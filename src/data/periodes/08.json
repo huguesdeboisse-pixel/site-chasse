@@ -1,0 +1,171 @@
+{
+  "departement": "08",
+  "saison": "2026-2027",
+  "licence_source": "Licence ouverte Etalab 2.0",
+  "ouverture_generale": {
+    "date": "2026-09-20",
+    "fermeture": "2027-02-28",
+    "source_url": "https://www.ardennes.gouv.fr/contenu/telechargement/15457/109271/file/ARRETE%7E2.PDF",
+    "source_label": "Arrêté préfectoral n°2026/325 fixant les dates d'ouverture et de clôture de la chasse dans le département des Ardennes pour la saison 2026-2027 (signé le 22 mai 2026)",
+    "confiance": "haute"
+  },
+  "arretes_officiels": [
+    {
+      "objet": "Ouverture et clôture générale 2026-2027",
+      "reference": "Arrêté préfectoral n°2026/325 (22 mai 2026)",
+      "url_pdf": "https://www.ardennes.gouv.fr/contenu/telechargement/15457/109271/file/ARRETE%7E2.PDF",
+      "statut": "signé"
+    },
+    {
+      "objet": "Plans de chasse grand gibier (minimums et maximums) 2026-2027",
+      "reference": "Arrêté préfectoral n°2026/261 (3 avril 2026)",
+      "url_pdf": "https://www.ardennes.gouv.fr/index.php/Actions-de-l-Etat/Environnement/Chasse/Reglementation-et-consultations-du-public/Arrete-prefectoral-n-2026-261-du-03-avril-2026-mini-et-maxi-chasse-grand-gibier-2026-2027",
+      "statut": "signé"
+    }
+  ],
+  "especes": [
+    {
+      "slug": "sanglier",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "En chasse individuelle silencieuse (avec daim, cerf, chevreuil, mouflon) : du 20/09/2026 au 28/02/2027, un seul chasseur par tranche de 50 ha, mode interdit de 10h à 15h du 01/10/2026 au 28/02/2027. En battue : du 01/10/2026 au 28/02/2027 selon calendrier transmis à la FDCA avant le 15/09/2026 (20 jours max pour territoires de plus de 100 ha, 10 jours max en dessous, 2 jours max par semaine). Ouverture spécifique daim/brocard/sanglier en chasse individuelle silencieuse du 01/06/2026 au 19/09/2026 sur autorisation préfectorale individuelle. Battue dans cultures de maïs/miscanthus sur pied du 01/08/2026 au 30/09/2026. Période complémentaire à l'approche/affût sur parcelles agricoles du 01/04/2027 au 31/05/2027 sur autorisation préfectorale individuelle. Période complémentaire uniquement sanglier du 01/03/2027 au 31/03/2027 sur autorisation du président de la FDCA (parcelles agricoles et plantations forestières de l'année)",
+          "source_url": "https://www.ardennes.gouv.fr/contenu/telechargement/15457/109271/file/ARRETE%7E2.PDF",
+          "source_label": "Arrêté préfectoral n°2026/325 (22 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "cerf-elaphe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Chasse individuelle silencieuse : du 20/09/2026 au 28/02/2027 (un seul chasseur par tranche de 50 ha). Battue : du 01/10/2026 au 28/02/2027 selon calendrier FDCA. Ouverture spécifique pour le cerf coiffé du 01/09/2026 au 19/09/2026 sur autorisation préfectorale individuelle",
+          "source_url": "https://www.ardennes.gouv.fr/contenu/telechargement/15457/109271/file/ARRETE%7E2.PDF",
+          "source_label": "Arrêté préfectoral n°2026/325 (22 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "chevreuil",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Chasse individuelle silencieuse : du 20/09/2026 au 28/02/2027 (un seul chasseur par tranche de 50 ha, mode interdit de 10h à 15h du 01/10/2026 au 28/02/2027). Battue : du 01/10/2026 au 28/02/2027 selon calendrier FDCA. Ouverture spécifique du brocard en chasse individuelle silencieuse du 01/06/2026 au 19/09/2026 sur autorisation préfectorale individuelle",
+          "source_url": "https://www.ardennes.gouv.fr/contenu/telechargement/15457/109271/file/ARRETE%7E2.PDF",
+          "source_label": "Arrêté préfectoral n°2026/325 (22 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "mouflon-mediterraneen",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Chasse individuelle silencieuse : du 20/09/2026 au 28/02/2027. Battue : du 01/10/2026 au 28/02/2027 selon calendrier FDCA. Ouverture spécifique du 01/09/2026 au 19/09/2026 sur autorisation préfectorale individuelle",
+          "source_url": "https://www.ardennes.gouv.fr/contenu/telechargement/15457/109271/file/ARRETE%7E2.PDF",
+          "source_label": "Arrêté préfectoral n°2026/325 (22 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "lievre-europe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 27/09/2026 au 30/11/2026 dans les communes soumises au plan de gestion lièvre (ouverture différée au 07/10/2026 pour certaines d'entre elles, cf. annexe 1) ; du 27/09/2026 au 11/10/2026 dans les autres communes du département",
+          "source_url": "https://www.ardennes.gouv.fr/contenu/telechargement/15457/109271/file/ARRETE%7E2.PDF",
+          "source_label": "Arrêté préfectoral n°2026/325 (22 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-grise",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Ouverture anticipée du 06/09/2026 au 19/09/2026 sur populations naturelles et territoires sous plan de gestion avec bracelets (chien d'arrêt/leveur/rapporteur obligatoire, déclaration ChassAdapt). Puis du 20/09/2026 au 30/11/2026 (ou 30/10/2026 selon plan de gestion « jours perdrix ») dans les communes sous plan de gestion perdrix ; du 27/09/2026 au 11/10/2026 dans les autres communes",
+          "source_url": "https://www.ardennes.gouv.fr/contenu/telechargement/15457/109271/file/ARRETE%7E2.PDF",
+          "source_label": "Arrêté préfectoral n°2026/325 (22 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-rouge",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Classée « autres oiseaux », chassable du 20/09/2026 au 28/02/2027 sur l'ensemble du département",
+          "source_url": "https://www.ardennes.gouv.fr/contenu/telechargement/15457/109271/file/ARRETE%7E2.PDF",
+          "source_label": "Arrêté préfectoral n°2026/325 (22 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "faisan-commun",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 20/09/2026 au 31/12/2026 dans toutes les communes du département, selon modes de gestion définis à l'article 6 de l'arrêté",
+          "source_url": "https://www.ardennes.gouv.fr/contenu/telechargement/15457/109271/file/ARRETE%7E2.PDF",
+          "source_label": "Arrêté préfectoral n°2026/325 (22 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "lapin-garenne",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 20/09/2026 au 28/02/2027. En dehors de cette période, tir autorisé sur demande auprès de la DDT08 (démarche de destruction à tir)",
+          "source_url": "https://www.ardennes.gouv.fr/contenu/telechargement/15457/109271/file/ARRETE%7E2.PDF",
+          "source_label": "Arrêté préfectoral n°2026/325 (22 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "becasse-bois",
+      "faits": [
+        {
+          "label": "Dates de chasse et PMA",
+          "detail": "Du 20/09/2026 au 20/02/2027. Prélèvement maximal autorisé (PMA) annuel avec déclaration obligatoire sur le lieu de prélèvement via l'application ChassAdapt ou carnet papier « bécasse »",
+          "source_url": "https://www.ardennes.gouv.fr/contenu/telechargement/15457/109271/file/ARRETE%7E2.PDF",
+          "source_label": "Arrêté préfectoral n°2026/325 (22 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "caille-bles",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 29/08/2026 au 20/02/2027 ; avec chien d'arrêt et déclaration ChassAdapt obligatoire en période d'ouverture anticipée (29/08/2026 au 19/09/2026)",
+          "source_url": "https://www.ardennes.gouv.fr/contenu/telechargement/15457/109271/file/ARRETE%7E2.PDF",
+          "source_label": "Arrêté préfectoral n°2026/325 (22 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "pigeon-ramier",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 20/09/2026 au 20/02/2027 ; du 11 au 20 février, chasse à poste fixe matérialisée de la main de l'homme uniquement ; PMA de 15 oiseaux/jour/chasseur pour la chasse en temps de neige",
+          "source_url": "https://www.ardennes.gouv.fr/contenu/telechargement/15457/109271/file/ARRETE%7E2.PDF",
+          "source_label": "Arrêté préfectoral n°2026/325 (22 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "grive-draine",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 20/09/2026 au 10/02/2027, avec les autres grives (musicienne, litorne, mauvis) et le merle noir",
+          "source_url": "https://www.ardennes.gouv.fr/contenu/telechargement/15457/109271/file/ARRETE%7E2.PDF",
+          "source_label": "Arrêté préfectoral n°2026/325 (22 mai 2026)"
+        }
+      ]
+    }
+  ]
+}
