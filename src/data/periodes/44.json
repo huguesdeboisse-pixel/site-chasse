@@ -1,0 +1,155 @@
+{
+  "departement": "44",
+  "saison": "2026-2027",
+  "licence_source": "Licence ouverte Etalab 2.0",
+  "ouverture_generale": {
+    "date": "2026-09-20",
+    "fermeture": "2027-02-28",
+    "source_url": "https://www.chasse44.fr/images/5_documents/arrete/2026_2027/2026_05_22_AP_ouvertureChasse_26_27_signe.pdf",
+    "source_label": "Arrêté préfectoral n°2026/SEE/0063 d'ouverture et de clôture générales de la chasse pour la saison 2026-2027 (signé le 22 mai 2026)",
+    "confiance": "haute"
+  },
+  "arretes_officiels": [
+    {
+      "objet": "Ouverture et clôture générales de la chasse 2026-2027",
+      "reference": "Arrêté préfectoral n°2026/SEE/0063 (22 mai 2026)",
+      "url_pdf": "https://www.chasse44.fr/images/5_documents/arrete/2026_2027/2026_05_22_AP_ouvertureChasse_26_27_signe.pdf",
+      "statut": "signé"
+    }
+  ],
+  "especes": [
+    {
+      "slug": "sanglier",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Espèce soumise à plan de gestion. Ouverture anticipée à l'affût et à l'approche (tir à balle ou à l'arc) ainsi qu'en battue organisée (tir à balle ou à la chevrotine sous conditions) dès le 1er juin 2026 sur autorisation préfectorale individuelle (pour les bénéficiaires d'un plan de chasse chevreuil/daim, autorisation intégrée ; pour les non-bénéficiaires, demande auprès de la DDTM après avis de la FDC44) ; ouverture générale du 15 août 2026 au 31 mars 2027, tous modes de chasse autorisés dans les conditions du schéma départemental de gestion cynégétique",
+          "source_url": "https://www.chasse44.fr/images/5_documents/arrete/2026_2027/2026_05_22_AP_ouvertureChasse_26_27_signe.pdf",
+          "source_label": "Arrêté préfectoral n°2026/SEE/0063 (22 mai 2026), annexe 1"
+        },
+        {
+          "label": "Conditions techniques",
+          "detail": "Tir fichant obligatoire quel que soit le mode de chasse. Chevrotine autorisée uniquement en battue organisée du sanglier, sur autorisation du responsable de battue, à moins de 15 m de l'animal, avec chevrotines de 21 grains, et registre de tir spécial FDC44 à renvoyer avant le 15 avril. Agrainage et lâcher en milieu ouvert interdits",
+          "source_url": "https://www.chasse44.fr/images/5_documents/arrete/2026_2027/2026_05_22_AP_ouvertureChasse_26_27_signe.pdf",
+          "source_label": "Arrêté préfectoral n°2026/SEE/0063 (22 mai 2026), articles 6 et 8.3"
+        }
+      ]
+    },
+    {
+      "slug": "chevreuil",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Espèce soumise à plan de chasse. Ouverture anticipée à l'affût et à l'approche (tir à balle ou à l'arc pour les détenteurs d'une attestation de formation spécifique) dès le 1er juin 2026, réservée aux attributaires d'un plan de chasse, sur autorisation préfectorale individuelle ; ouverture générale du 20 septembre 2026 au 28 février 2027",
+          "source_url": "https://www.chasse44.fr/images/5_documents/arrete/2026_2027/2026_05_22_AP_ouvertureChasse_26_27_signe.pdf",
+          "source_label": "Arrêté préfectoral n°2026/SEE/0063 (22 mai 2026), annexe 1"
+        }
+      ]
+    },
+    {
+      "slug": "cerf-elaphe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Espèce soumise à plan de chasse. Ouverture anticipée à l'affût et à l'approche dès le 1er septembre 2026 pour les attributaires d'un plan de chasse, sur autorisation préfectorale individuelle ; ouverture générale du 20 septembre 2026 au 28 février 2027",
+          "source_url": "https://www.chasse44.fr/images/5_documents/arrete/2026_2027/2026_05_22_AP_ouvertureChasse_26_27_signe.pdf",
+          "source_label": "Arrêté préfectoral n°2026/SEE/0063 (22 mai 2026), annexe 1"
+        }
+      ]
+    },
+    {
+      "slug": "lievre-europe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Espèce soumise à plan de chasse. Du 11 octobre 2026 au 17 janvier 2027, pas d'ouverture anticipée",
+          "source_url": "https://www.chasse44.fr/images/5_documents/arrete/2026_2027/2026_05_22_AP_ouvertureChasse_26_27_signe.pdf",
+          "source_label": "Arrêté préfectoral n°2026/SEE/0063 (22 mai 2026), annexe 1"
+        }
+      ]
+    },
+    {
+      "slug": "lapin-garenne",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 20 septembre 2026 au 17 janvier 2027",
+          "source_url": "https://www.chasse44.fr/images/5_documents/arrete/2026_2027/2026_05_22_AP_ouvertureChasse_26_27_signe.pdf",
+          "source_label": "Arrêté préfectoral n°2026/SEE/0063 (22 mai 2026), annexe 1"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-grise",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 20 septembre 2026 au 17 janvier 2027, pas d'ouverture anticipée. Dans les établissements professionnels de chasse à caractère commercial, fermeture au 28 février 2027 pour les oiseaux munis d'un signe distinctif de couleur vive (patte ou cou) avant lâcher",
+          "source_url": "https://www.chasse44.fr/images/5_documents/arrete/2026_2027/2026_05_22_AP_ouvertureChasse_26_27_signe.pdf",
+          "source_label": "Arrêté préfectoral n°2026/SEE/0063 (22 mai 2026), annexe 1"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-rouge",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 20 septembre 2026 au 17 janvier 2027, pas d'ouverture anticipée. Dans les établissements professionnels de chasse à caractère commercial, fermeture au 28 février 2027 pour les oiseaux munis d'un signe distinctif de couleur vive (patte ou cou) avant lâcher",
+          "source_url": "https://www.chasse44.fr/images/5_documents/arrete/2026_2027/2026_05_22_AP_ouvertureChasse_26_27_signe.pdf",
+          "source_label": "Arrêté préfectoral n°2026/SEE/0063 (22 mai 2026), annexe 1"
+        }
+      ]
+    },
+    {
+      "slug": "faisan-commun",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 20 septembre 2026 au 17 janvier 2027, pas d'ouverture anticipée. Dans les établissements professionnels de chasse à caractère commercial, fermeture au 28 février 2027 pour les oiseaux munis d'un signe distinctif de couleur vive (patte ou cou) avant lâcher",
+          "source_url": "https://www.chasse44.fr/images/5_documents/arrete/2026_2027/2026_05_22_AP_ouvertureChasse_26_27_signe.pdf",
+          "source_label": "Arrêté préfectoral n°2026/SEE/0063 (22 mai 2026), annexe 1"
+        }
+      ]
+    },
+    {
+      "slug": "canard-colvert",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 20 septembre 2026 au 28 février 2027 (période générale gibier d'eau)",
+          "source_url": "https://www.chasse44.fr/images/5_documents/arrete/2026_2027/2026_05_22_AP_ouvertureChasse_26_27_signe.pdf",
+          "source_label": "Arrêté préfectoral n°2026/SEE/0063 (22 mai 2026)"
+        },
+        {
+          "label": "Prélèvement maximal autorisé",
+          "detail": "5 canards colvert par jour et par chasseur ; le gibier d'eau (toutes espèces confondues) est plafonné à 10 canards par jour et par chasseur (dont 5 colverts maximum) sur les territoires agrainés dans les conditions du schéma départemental de gestion cynégétique",
+          "source_url": "https://www.chasse44.fr/images/5_documents/arrete/2026_2027/2026_05_22_AP_ouvertureChasse_26_27_signe.pdf",
+          "source_label": "Arrêté préfectoral n°2026/SEE/0063 (22 mai 2026), articles 12.3 et 12.4"
+        }
+      ]
+    },
+    {
+      "slug": "becasse-bois",
+      "faits": [
+        {
+          "label": "Prélèvement maximal autorisé",
+          "detail": "PMA national de 30 bécasses par chasseur pour la saison (carnet de prélèvement avec dispositif de marquage ou application ChassAdapt), avec un maximum journalier de 3 bécasses par chasseur dans la limite de 6 oiseaux par semaine calendaire",
+          "source_url": "https://www.chasse44.fr/images/5_documents/arrete/2026_2027/2026_05_22_AP_ouvertureChasse_26_27_signe.pdf",
+          "source_label": "Arrêté préfectoral n°2026/SEE/0063 (22 mai 2026), article 12.5"
+        }
+      ]
+    },
+    {
+      "slug": "pigeon-ramier",
+      "faits": [
+        {
+          "label": "Prélèvement maximal autorisé",
+          "detail": "20 pigeons par jour et par chasseur",
+          "source_url": "https://www.chasse44.fr/images/5_documents/arrete/2026_2027/2026_05_22_AP_ouvertureChasse_26_27_signe.pdf",
+          "source_label": "Arrêté préfectoral n°2026/SEE/0063 (22 mai 2026), article 12.1"
+        }
+      ]
+    }
+  ]
+}

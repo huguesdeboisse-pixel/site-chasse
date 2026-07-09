@@ -1,0 +1,183 @@
+{
+  "departement": "85",
+  "saison": "2026-2027",
+  "licence_source": "Licence ouverte Etalab 2.0",
+  "ouverture_generale": {
+    "date": "2026-09-20",
+    "fermeture": "2027-02-28",
+    "source_url": "https://www.essartsenbocage.fr/wp-content/uploads/2026/05/recueil-85-2026-100-recueil-des-actes-administratifs-2-5.pdf",
+    "source_label": "Arrêté n°26-DDTM85-261 relatif à l'ouverture et à la clôture de la chasse pour la campagne cynégétique 2026-2027 dans le département de la Vendée (signé le 12 mai 2026 par le préfet Éric Freysselinard, publié au recueil des actes administratifs 85-2026-05-12-00011)",
+    "confiance": "haute"
+  },
+  "arretes_officiels": [
+    {
+      "objet": "Ouverture et clôture de la chasse, campagne cynégétique 2026-2027",
+      "reference": "Arrêté n°26-DDTM85-261 (12 mai 2026), acte 85-2026-05-12-00011",
+      "url_pdf": "https://www.essartsenbocage.fr/wp-content/uploads/2026/05/recueil-85-2026-100-recueil-des-actes-administratifs-2-5.pdf",
+      "statut": "signé"
+    },
+    {
+      "objet": "Plan de chasse grand gibier 2026-2027 (nombre minimal et maximal à prélever)",
+      "reference": "Arrêté n°26-DDTM85-262, acte 85-2026-05-12-00012",
+      "url_pdf": "https://www.essartsenbocage.fr/wp-content/uploads/2026/05/recueil-85-2026-100-recueil-des-actes-administratifs-2-5.pdf",
+      "statut": "signé"
+    }
+  ],
+  "especes": [
+    {
+      "slug": "sanglier",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Soumis à plan de chasse. Du 1er juin au 14 août 2026 : chasse en battue (5 chasseurs minimum, déclaration en ligne obligatoire à la fédération), à l'affût ou à l'approche, sur autorisation préfectorale ; du 15 août au 19 septembre 2026 : mêmes modalités ; ouverture générale du 20 septembre 2026 au 31 mars 2027, tir à balle ou à l'arc obligatoire, dans le cadre du plan de chasse ; période complémentaire de protection des semis du 1er avril au 31 mai 2027 à l'affût, à l'approche, ou en battue exceptionnelle sur autorisation préfectorale. L'emploi de chevrotines pour le tir du sanglier en battues collectives n'est pas autorisé en Vendée pour 2026-2027 (arrêté ministériel du 7 juin 2024)",
+          "source_url": "https://www.essartsenbocage.fr/wp-content/uploads/2026/05/recueil-85-2026-100-recueil-des-actes-administratifs-2-5.pdf",
+          "source_label": "Arrêté n°26-DDTM85-261 (12 mai 2026), article 3"
+        }
+      ]
+    },
+    {
+      "slug": "chevreuil",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Soumis à plan de chasse. Le brocard peut être chassé à l'approche ou à l'affût par les bénéficiaires d'un plan de chasse, sur autorisation préfectorale individuelle, du 1er juin au 19 septembre 2026 ; ouverture générale du 20 septembre 2026 au 28 février 2027, tir à balle, à l'arc, ou à la grenaille (sous conditions strictes : battue de 5 chasseurs minimum, grenaille d'acier n°0/00/000 ou grenaille sans plomb n°1/2, tir à moins de 20 m)",
+          "source_url": "https://www.essartsenbocage.fr/wp-content/uploads/2026/05/recueil-85-2026-100-recueil-des-actes-administratifs-2-5.pdf",
+          "source_label": "Arrêté n°26-DDTM85-261 (12 mai 2026), article 2"
+        }
+      ]
+    },
+    {
+      "slug": "cerf-elaphe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Soumis à plan de chasse, tir à balle ou à l'arc obligatoire. Deux périodes mentionnées : du 15 septembre 2026 au 28 février 2027, et ouverture générale du 20 septembre 2026 au 28 février 2027",
+          "source_url": "https://www.essartsenbocage.fr/wp-content/uploads/2026/05/recueil-85-2026-100-recueil-des-actes-administratifs-2-5.pdf",
+          "source_label": "Arrêté n°26-DDTM85-261 (12 mai 2026), article 2"
+        }
+      ]
+    },
+    {
+      "slug": "lievre-europe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Soumis à plan de chasse sur l'ensemble du département. Du 11 octobre au 6 décembre 2026. Retour des cartons de prélèvement obligatoire dès la fin de la période de tir",
+          "source_url": "https://www.essartsenbocage.fr/wp-content/uploads/2026/05/recueil-85-2026-100-recueil-des-actes-administratifs-2-5.pdf",
+          "source_label": "Arrêté n°26-DDTM85-261 (12 mai 2026), article 2"
+        }
+      ]
+    },
+    {
+      "slug": "lapin-garenne",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 20 septembre 2026 au 10 janvier 2027",
+          "source_url": "https://www.essartsenbocage.fr/wp-content/uploads/2026/05/recueil-85-2026-100-recueil-des-actes-administratifs-2-5.pdf",
+          "source_label": "Arrêté n°26-DDTM85-261 (12 mai 2026), article 2"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-rouge",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 20 septembre 2026 au 6 décembre 2026. Plan de gestion spécifique sur les communes de Barbâtre, l'Épine, la Guérinière et Noirmoutier-en-l'Île : tir uniquement les dimanches 27 septembre, 11 octobre, 25 octobre et 8 novembre 2026 (4 jours), limité à 4 perdrix par chasseur et par saison, marquage obligatoire et carte de prélèvement à retourner avant le 18 novembre 2026",
+          "source_url": "https://www.essartsenbocage.fr/wp-content/uploads/2026/05/recueil-85-2026-100-recueil-des-actes-administratifs-2-5.pdf",
+          "source_label": "Arrêté n°26-DDTM85-261 (12 mai 2026), article 2"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-grise",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 20 septembre 2026 au 6 décembre 2026",
+          "source_url": "https://www.essartsenbocage.fr/wp-content/uploads/2026/05/recueil-85-2026-100-recueil-des-actes-administratifs-2-5.pdf",
+          "source_label": "Arrêté n°26-DDTM85-261 (12 mai 2026), article 2"
+        }
+      ]
+    },
+    {
+      "slug": "faisan-commun",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 20 septembre 2026 au 10 janvier 2027. Tir de la poule faisane interdit sur une longue liste de communes du sud et du marais poitevin vendéen (Angles, Benet, Chasnais, Damvix, Grues, La Tranche-sur-Mer, Luçon, Maillezais, Saint-Denis-du-Payré, Vix, etc.)",
+          "source_url": "https://www.essartsenbocage.fr/wp-content/uploads/2026/05/recueil-85-2026-100-recueil-des-actes-administratifs-2-5.pdf",
+          "source_label": "Arrêté n°26-DDTM85-261 (12 mai 2026), article 2"
+        }
+      ]
+    },
+    {
+      "slug": "canard-colvert",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Ouverture anticipée selon annexe 2 (domaine public maritime : 21 août 2026 à 6h ; autres territoires : 20 septembre 2026 à 8h) ; ouverture générale du 21 septembre 2026 au 31 janvier 2027",
+          "source_url": "https://www.essartsenbocage.fr/wp-content/uploads/2026/05/recueil-85-2026-100-recueil-des-actes-administratifs-2-5.pdf",
+          "source_label": "Arrêté n°26-DDTM85-261 (12 mai 2026), article 2 et annexe 2"
+        },
+        {
+          "label": "Prélèvement maximal autorisé",
+          "detail": "PMA journalier de 5 oiseaux par chasseur, saisie des prélèvements obligatoire sur l'application ChassAdapt",
+          "source_url": "https://www.essartsenbocage.fr/wp-content/uploads/2026/05/recueil-85-2026-100-recueil-des-actes-administratifs-2-5.pdf",
+          "source_label": "Arrêté n°26-DDTM85-261 (12 mai 2026), article 2"
+        }
+      ]
+    },
+    {
+      "slug": "becasse-bois",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 20 septembre 2026 au 20 février 2027. À partir du 20 janvier 2027, chasse uniquement aux chiens d'arrêt, retrievers et broussailleurs (groupes canins 7 et 8), chasse sans chien interdite durant cette période. Chasse interdite chaque jour au-delà de 17 heures. Chasse à la passée interdite",
+          "source_url": "https://www.essartsenbocage.fr/wp-content/uploads/2026/05/recueil-85-2026-100-recueil-des-actes-administratifs-2-5.pdf",
+          "source_label": "Arrêté n°26-DDTM85-261 (12 mai 2026), annexe 1"
+        },
+        {
+          "label": "Prélèvement maximal autorisé",
+          "detail": "PMA journalier de 3 bécasses par chasseur, PMA hebdomadaire de 6 bécasses, PMA annuel de 30 bécasses par chasseur. Marquage obligatoire sur place et enregistrement immédiat sur carnet de prélèvement ou application ChassAdapt",
+          "source_url": "https://www.essartsenbocage.fr/wp-content/uploads/2026/05/recueil-85-2026-100-recueil-des-actes-administratifs-2-5.pdf",
+          "source_label": "Arrêté n°26-DDTM85-261 (12 mai 2026), annexe 1"
+        }
+      ]
+    },
+    {
+      "slug": "pigeon-ramier",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 20 septembre 2026 au 20 février 2027 ; du 11 au 20 février 2027, chasse uniquement à poste fixe matérialisé de la main de l'homme",
+          "source_url": "https://www.essartsenbocage.fr/wp-content/uploads/2026/05/recueil-85-2026-100-recueil-des-actes-administratifs-2-5.pdf",
+          "source_label": "Arrêté n°26-DDTM85-261 (12 mai 2026), annexe 1"
+        }
+      ]
+    },
+    {
+      "slug": "caille-bles",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 29 août 2026 au 20 février 2027 (gibier de passage)",
+          "source_url": "https://www.essartsenbocage.fr/wp-content/uploads/2026/05/recueil-85-2026-100-recueil-des-actes-administratifs-2-5.pdf",
+          "source_label": "Arrêté n°26-DDTM85-261 (12 mai 2026), annexe 1"
+        }
+      ]
+    },
+    {
+      "slug": "grive-draine",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Grives (draine, musicienne, litorne, mauvis) et merle noir : du 20 septembre 2026 au 10 février 2027. À compter du deuxième dimanche de janvier (10 janvier 2027), chasse uniquement à poste fixe matérialisé de main d'homme",
+          "source_url": "https://www.essartsenbocage.fr/wp-content/uploads/2026/05/recueil-85-2026-100-recueil-des-actes-administratifs-2-5.pdf",
+          "source_label": "Arrêté n°26-DDTM85-261 (12 mai 2026), annexe 1"
+        }
+      ]
+    }
+  ]
+}

@@ -358,8 +358,8 @@
    "nom": "Loire-Atlantique",
    "region": "Pays de la Loire",
    "prefecture_url": "https://www.loire-atlantique.gouv.fr",
-   "fdc_nom": null,
-   "fdc_url": null
+   "fdc_nom": "Fédération départementale des chasseurs de Loire-Atlantique",
+   "fdc_url": "https://www.chasse44.fr"
   },
   {
    "code": "45",
@@ -398,8 +398,8 @@
    "nom": "Maine-et-Loire",
    "region": "Pays de la Loire",
    "prefecture_url": "https://www.maine-et-loire.gouv.fr",
-   "fdc_nom": null,
-   "fdc_url": null
+   "fdc_nom": "Fédération départementale des chasseurs de Maine-et-Loire",
+   "fdc_url": "https://www.chasse49.fr"
   },
   {
    "code": "50",
@@ -430,8 +430,8 @@
    "nom": "Mayenne",
    "region": "Pays de la Loire",
    "prefecture_url": "https://www.mayenne.gouv.fr",
-   "fdc_nom": null,
-   "fdc_url": null
+   "fdc_nom": "Fédération départementale des chasseurs de la Mayenne",
+   "fdc_url": "https://www.chasse53.fr"
   },
   {
    "code": "54",
@@ -582,8 +582,8 @@
    "nom": "Sarthe",
    "region": "Pays de la Loire",
    "prefecture_url": "https://www.sarthe.gouv.fr",
-   "fdc_nom": null,
-   "fdc_url": null
+   "fdc_nom": "Fédération départementale des chasseurs de la Sarthe",
+   "fdc_url": "https://fdc-sarthe.com"
   },
   {
    "code": "73",
@@ -686,8 +686,8 @@
    "nom": "Vendée",
    "region": "Pays de la Loire",
    "prefecture_url": "https://www.vendee.gouv.fr",
-   "fdc_nom": null,
-   "fdc_url": null
+   "fdc_nom": "Fédération départementale des chasseurs de la Vendée",
+   "fdc_url": "https://chasseur-vendeen.fr"
   },
   {
    "code": "86",

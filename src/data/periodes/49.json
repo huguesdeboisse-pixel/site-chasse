@@ -1,0 +1,134 @@
+{
+  "departement": "49",
+  "saison": "2026-2027",
+  "licence_source": "Licence ouverte Etalab 2.0",
+  "ouverture_generale": {
+    "date": "2026-09-20",
+    "fermeture": "2027-02-28",
+    "source_url": "https://www.chasse49.fr/wp-content/uploads/2026/06/260610_AP-ouverture-fermeture-chasse_signe.pdf",
+    "source_label": "Arrêté préfectoral SEEB-CHASSE 2026 n°1357, ouverture et clôture de la chasse pour la campagne 2026-2027 dans le département de Maine-et-Loire (signé le 10 juin 2026)",
+    "confiance": "haute"
+  },
+  "arretes_officiels": [
+    {
+      "objet": "Ouverture et clôture 2026-2027",
+      "reference": "Arrêté SEEB-CHASSE 2026 n°1357 (10 juin 2026)",
+      "url_pdf": "https://www.chasse49.fr/wp-content/uploads/2026/06/260610_AP-ouverture-fermeture-chasse_signe.pdf",
+      "statut": "signé"
+    },
+    {
+      "objet": "Classement du pigeon ramier et du sanglier en espèces susceptibles d'occasionner des dégâts",
+      "reference": "Arrêté SEEB-CHASSE 2025 n°1392 (période du 1er juillet 2025 au 30 juin 2026)",
+      "url_pdf": "https://www.chasse49.fr/wp-content/uploads/2025/07/202506_AP_classement-ESOD_signe.pdf",
+      "statut": "en vigueur jusqu'au 30 juin 2026"
+    }
+  ],
+  "especes": [
+    {
+      "slug": "sanglier",
+      "faits": [
+        {
+          "label": "Statut",
+          "detail": "Classé espèce susceptible d'occasionner des dégâts (ESOD), ensemble du département, pour prévenir les dommages aux activités agricoles/forestières/aquacoles et dans l'intérêt de la santé et de la sécurité publique",
+          "saison": "2025-2026",
+          "source_url": "https://www.chasse49.fr/wp-content/uploads/2025/07/202506_AP_classement-ESOD_signe.pdf",
+          "source_label": "Arrêté SEEB-CHASSE 2025 n°1392, en vigueur jusqu'au 30 juin 2026"
+        },
+        {
+          "label": "Dates de chasse",
+          "detail": "Tir à l'affût ou à l'approche sur autorisation préfectorale du 1er juillet au 14 août 2026, puis du 1er avril au 30 juin 2027 ; chasse en battue (6 chasseurs minimum avec chiens) sur autorisation préfectorale du 1er juillet au 14 août 2026, puis du 1er juin au 30 juin 2027 ; tir à l'affût, à l'approche ou en battue (6 chasseurs minimum) du 15 août au 19 septembre 2026 ; ouverture générale du 20 septembre 2026 au 31 mars 2027, tir à balle ou à l'arc obligatoire",
+          "source_url": "https://www.chasse49.fr/wp-content/uploads/2026/06/260610_AP-ouverture-fermeture-chasse_signe.pdf",
+          "source_label": "Arrêté SEEB-CHASSE 2026 n°1357 (10 juin 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "chevreuil",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Tir à l'affût ou à l'approche dans le cadre des attributions individuelles du plan de chasse, du 1er juillet au 19 septembre 2026 puis du 1er au 30 juin 2027 ; ouverture générale (tir à balle, à l'arc ou à plomb n°1/2, réservée aux bénéficiaires d'un plan de chasse) du 20 septembre 2026 au 28 février 2027",
+          "source_url": "https://www.chasse49.fr/wp-content/uploads/2026/06/260610_AP-ouverture-fermeture-chasse_signe.pdf",
+          "source_label": "Arrêté SEEB-CHASSE 2026 n°1357 (10 juin 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "cerf-elaphe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 20 septembre 2026 au 28 février 2027, tir à balle ou à l'arc obligatoire, réservé aux bénéficiaires d'un plan de chasse, pas d'ouverture anticipée",
+          "source_url": "https://www.chasse49.fr/wp-content/uploads/2026/06/260610_AP-ouverture-fermeture-chasse_signe.pdf",
+          "source_label": "Arrêté SEEB-CHASSE 2026 n°1357 (10 juin 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "lievre-europe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Espèce soumise à plan de gestion annuel avec marquage individualisé (bracelet daté). Ouverture générale du 20 septembre au 31 décembre 2026 ; sur certaines communes listées en annexe 1 de l'arrêté, ouverture au 18 octobre 2026 (même date de clôture)",
+          "source_url": "https://www.chasse49.fr/wp-content/uploads/2026/06/260610_AP-ouverture-fermeture-chasse_signe.pdf",
+          "source_label": "Arrêté SEEB-CHASSE 2026 n°1357 (10 juin 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-rouge",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 20 septembre 2026 au 6 décembre 2026, sur l'ensemble du département",
+          "source_url": "https://www.chasse49.fr/wp-content/uploads/2026/06/260610_AP-ouverture-fermeture-chasse_signe.pdf",
+          "source_label": "Arrêté SEEB-CHASSE 2026 n°1357 (10 juin 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-grise",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 20 septembre 2026 au 6 décembre 2026, sur l'ensemble du département",
+          "source_url": "https://www.chasse49.fr/wp-content/uploads/2026/06/260610_AP-ouverture-fermeture-chasse_signe.pdf",
+          "source_label": "Arrêté SEEB-CHASSE 2026 n°1357 (10 juin 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "faisan-commun",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 20 septembre 2026 au 15 janvier 2027 (certaines communes soumises à plan de gestion avec ouverture au 18 octobre 2026, listées en annexe 1). Fermeture totale (tir du faisan vénéré seul autorisé) sur les communes déléguées de Beaulieu-sur-Layon, Champ-sur-Layon, Rablay-sur-Layon, Thouarcé et Faye-d'Anjou. Interdiction du tir de la poule faisane sur les communes du GIC de la Baconne (Champtocé-sur-Baconne, Chenillé-Changé, Thorigné-d'Anjou, Chambellay, Montreuil-sur-Maine). Lâcher de faisan commun et vénéré interdit sur les communes à plan de gestion",
+          "source_url": "https://www.chasse49.fr/wp-content/uploads/2026/06/260610_AP-ouverture-fermeture-chasse_signe.pdf",
+          "source_label": "Arrêté SEEB-CHASSE 2026 n°1357 (10 juin 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "becasse-bois",
+      "faits": [
+        {
+          "label": "Prélèvement maximal autorisé",
+          "detail": "PMA de 30 bécasses par saison et par chasseur (carnet de prélèvement avec marquage à la patte ou application ChassAdapt obligatoire), limité à 3 bécasses par jour et 6 par semaine (lundi à dimanche inclus). Carnet à retourner à la fédération avant le 30 juin 2027",
+          "source_url": "https://www.chasse49.fr/wp-content/uploads/2026/06/260610_AP-ouverture-fermeture-chasse_signe.pdf",
+          "source_label": "Arrêté SEEB-CHASSE 2026 n°1357 (10 juin 2026), article 4"
+        }
+      ]
+    },
+    {
+      "slug": "canard-colvert",
+      "faits": [
+        {
+          "label": "Prélèvement maximal autorisé",
+          "detail": "Prélèvement de canards et oies (toutes espèces confondues) limité à 10 oiseaux par chasseur et par jour, en application du schéma départemental de gestion cynégétique",
+          "source_url": "https://www.chasse49.fr/wp-content/uploads/2026/06/260610_AP-ouverture-fermeture-chasse_signe.pdf",
+          "source_label": "Arrêté SEEB-CHASSE 2026 n°1357 (10 juin 2026), article 5"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "departement": "72",
+  "saison": "2026-2027",
+  "licence_source": "Licence ouverte Etalab 2.0",
+  "ouverture_generale": {
+    "date": "2026-09-27",
+    "fermeture": "2027-02-28",
+    "source_url": "https://fdc-sarthe.com/wp-content/uploads/2026/06/ARRETE-DOUVERTURE.pdf",
+    "source_label": "Arrêté préfectoral du 9 juin 2026 relatif aux dates d'ouverture et de clôture de la chasse pour la campagne cynégétique 2026-2027 (signé par le préfet de la Sarthe, Sébastien Jallet)",
+    "confiance": "haute"
+  },
+  "arretes_officiels": [
+    {
+      "objet": "Ouverture et clôture de la chasse, campagne 2026-2027",
+      "reference": "Arrêté préfectoral du 9 juin 2026",
+      "url_pdf": "https://fdc-sarthe.com/wp-content/uploads/2026/06/ARRETE-DOUVERTURE.pdf",
+      "statut": "signé"
+    },
+    {
+      "objet": "Plan de chasse grand gibier 2026-2027",
+      "reference": "Arrêté préfectoral du 26 mai 2026",
+      "url_pdf": "https://fdc-sarthe.com/wp-content/uploads/2026/06/Arrete-prefectoral-2026-2027-plan-chasse-grand-gibier.pdf",
+      "statut": "signé"
+    },
+    {
+      "objet": "Plan de chasse quantitatif cerf élaphe 2026-2027",
+      "reference": "Arrêté préfectoral du 26 mai 2026",
+      "url_pdf": "https://fdc-sarthe.com/wp-content/uploads/2026/05/ARRETE-PREFECTORAL-PLAN-DE-CHASSE-QUANTITATIF-CERF-ELAPHE.pdf",
+      "statut": "signé"
+    }
+  ],
+  "especes": [
+    {
+      "slug": "sanglier",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Non soumis à plan de chasse mais à plan de gestion (déclaration de tout prélèvement à la FDC72 dans les 48h). Chasse anticipée à l'approche ou à l'affût sur autorisation préfectorale individuelle du 1er juillet au 31 juillet 2026 ; chasse anticipée en battue, à l'approche ou à l'affût sur autorisation préfectorale du 1er au 14 août 2026 ; en dehors de l'ouverture générale, chasse en battue/approche/affût libre du 15 août 2026 au 31 mars 2027 ; période complémentaire protection des semis sur autorisation préfectorale du 1er avril au 31 mai 2027 ; période complémentaire à l'approche/affût sur autorisation préfectorale du 1er au 30 juin 2027",
+          "source_url": "https://fdc-sarthe.com/wp-content/uploads/2026/06/ARRETE-DOUVERTURE.pdf",
+          "source_label": "Arrêté préfectoral du 9 juin 2026, article 2 (II)"
+        }
+      ]
+    },
+    {
+      "slug": "chevreuil",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Soumis à plan de chasse. Chasse anticipée à l'approche ou à l'affût sur autorisation préfectorale individuelle (détenteurs d'un plan de chasse) du 1er juillet 2026 jusqu'à l'ouverture générale ; ouverture générale du 27 septembre 2026 au 28 février 2027 dans le cadre des attributions du plan de chasse ; période complémentaire sur autorisation préfectorale (plan de chasse 2027-2028) du 1er juin au 30 juin 2027",
+          "source_url": "https://fdc-sarthe.com/wp-content/uploads/2026/06/ARRETE-DOUVERTURE.pdf",
+          "source_label": "Arrêté préfectoral du 9 juin 2026, article 2 (I)"
+        }
+      ]
+    },
+    {
+      "slug": "cerf-elaphe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Soumis à plan de chasse. Cerfs mâles uniquement : chasse à l'approche ou à l'affût, réservée aux détenteurs d'un plan de chasse, du 1er septembre 2026 jusqu'à l'ouverture générale ; ouverture générale (tous cerfs) du 27 septembre 2026 au 28 février 2027 dans le cadre des attributions du plan de chasse",
+          "source_url": "https://fdc-sarthe.com/wp-content/uploads/2026/06/ARRETE-DOUVERTURE.pdf",
+          "source_label": "Arrêté préfectoral du 9 juin 2026, article 2 (I)"
+        }
+      ]
+    },
+    {
+      "slug": "lievre-europe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 27 septembre 2026 au 14 décembre 2026 (fermeture anticipée), prélèvements selon le plan de gestion cynégétique du lièvre",
+          "source_url": "https://fdc-sarthe.com/wp-content/uploads/2026/06/ARRETE-DOUVERTURE.pdf",
+          "source_label": "Arrêté préfectoral du 9 juin 2026, article 2 (III)"
+        }
+      ]
+    },
+    {
+      "slug": "lapin-garenne",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 27 septembre 2026 au 28 février 2027, furet autorisé sur l'ensemble du département",
+          "source_url": "https://fdc-sarthe.com/wp-content/uploads/2026/06/ARRETE-DOUVERTURE.pdf",
+          "source_label": "Arrêté préfectoral du 9 juin 2026, article 2 (III)"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-grise",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 27 septembre 2026 au 14 décembre 2026 (fermeture anticipée)",
+          "source_url": "https://fdc-sarthe.com/wp-content/uploads/2026/06/ARRETE-DOUVERTURE.pdf",
+          "source_label": "Arrêté préfectoral du 9 juin 2026, article 2 (III)"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-rouge",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 27 septembre 2026 au 14 décembre 2026 (fermeture anticipée) ; sur les chasses à caractère commercial inscrites au registre du commerce, prolongation jusqu'au 28 février 2027",
+          "source_url": "https://fdc-sarthe.com/wp-content/uploads/2026/06/ARRETE-DOUVERTURE.pdf",
+          "source_label": "Arrêté préfectoral du 9 juin 2026, article 2 (III)"
+        }
+      ]
+    },
+    {
+      "slug": "faisan-commun",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 27 septembre 2026 au 15 janvier 2027 (fermeture anticipée), sauf sur les communes soumises à un plan de gestion cynégétique faisan (liste de communes à l'article 6 de l'arrêté, incluant notamment Écommoy, La Ferté-Bernard, Mayet, Montval-sur-Loir) où les prélèvements suivent les règles du plan de gestion. Sur les chasses à caractère commercial inscrites au registre du commerce, prolongation jusqu'au 28 février 2027",
+          "source_url": "https://fdc-sarthe.com/wp-content/uploads/2026/06/ARRETE-DOUVERTURE.pdf",
+          "source_label": "Arrêté préfectoral du 9 juin 2026, articles 2 (III) et 6"
+        }
+      ]
+    },
+    {
+      "slug": "becasse-bois",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "De l'ouverture générale (27 septembre 2026) jusqu'au 20 février 2027 au soir",
+          "source_url": "https://fdc-sarthe.com/wp-content/uploads/2026/06/ARRETE-DOUVERTURE.pdf",
+          "source_label": "Arrêté préfectoral du 9 juin 2026, article 8"
+        },
+        {
+          "label": "Prélèvement maximal autorisé",
+          "detail": "PMA de 30 bécasses par chasseur pour la saison, avec un maximum de 3 bécasses par jour et par chasseur",
+          "source_url": "https://fdc-sarthe.com/wp-content/uploads/2026/06/ARRETE-DOUVERTURE.pdf",
+          "source_label": "Arrêté préfectoral du 9 juin 2026, article 8"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "departement": "53",
+  "saison": "2026-2027",
+  "licence_source": "Licence ouverte Etalab 2.0",
+  "ouverture_generale": {
+    "date": "2026-09-20",
+    "fermeture": "2027-02-28",
+    "source_url": "https://www.mayenne.gouv.fr/contenu/telechargement/59184/425215/file/AP_O_F_chasse_2026_2027_VF-1.pdf",
+    "source_label": "Arrêté du 19 mai 2026 portant sur l'exercice de la chasse du gibier sédentaire en Mayenne pour la campagne 2026-2027 (signé par la préfète Nadège Baptista)",
+    "confiance": "haute"
+  },
+  "arretes_officiels": [
+    {
+      "objet": "Exercice de la chasse du gibier sédentaire, campagne 2026-2027",
+      "reference": "Arrêté du 19 mai 2026",
+      "url_pdf": "https://www.mayenne.gouv.fr/contenu/telechargement/59184/425215/file/AP_O_F_chasse_2026_2027_VF-1.pdf",
+      "statut": "signé"
+    },
+    {
+      "objet": "Plan de chasse 2026-2027 du grand gibier en Mayenne",
+      "reference": "Arrêté du 21 mai 2026",
+      "url_pdf": "https://www.mayenne.gouv.fr/contenu/telechargement/59185/425220/file/AP_plan_de_chasse_2026_2027_finale_1.pdf",
+      "statut": "signé"
+    },
+    {
+      "objet": "Période complémentaire de vénerie sous terre du blaireau",
+      "reference": "Arrêté du 13 mai 2026",
+      "url_pdf": "https://www.mayenne.gouv.fr/contenu/telechargement/59186/425225/file/20260513_DDT_53_periode_complementaire_blaireau.pdf",
+      "statut": "signé"
+    }
+  ],
+  "especes": [
+    {
+      "slug": "sanglier",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Espèce soumise à plan de gestion. Chasse anticipée à l'approche ou à l'affût (mirador ou dispositif équivalent d'1 m minimum) du 1er juin au 19 septembre 2026 pour les bénéficiaires d'une autorisation préfectorale de tir d'été du brocard ou sur autorisation préfectorale spécifique ; chasse anticipée en battue (10 à 35 tireurs, 6 chiens créancés minimum, exceptionnellement jusqu'à 50 tireurs) du 15 août au 19 septembre 2026 ; ouverture générale du 20 septembre 2026 au 31 mars 2027 ; période complémentaire de protection des semis à l'affût, à l'approche ou en battue exceptionnelle sur autorisation préfectorale du 1er avril au 31 mai 2027. Déclaration des prélèvements obligatoire sous 3 jours sur www.cyneclic.fr",
+          "source_url": "https://www.mayenne.gouv.fr/contenu/telechargement/59184/425215/file/AP_O_F_chasse_2026_2027_VF-1.pdf",
+          "source_label": "Arrêté du 19 mai 2026, article 3"
+        }
+      ]
+    },
+    {
+      "slug": "chevreuil",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Plan de chasse obligatoire. Tir d'été à l'approche ou à l'affût (mirador d'1 m minimum, seule la chasse du brocard est autorisée sur autorisation préfectorale, bracelet bleu 2026-2027) du 1er juin au 19 septembre 2026 ; ouverture générale du 20 septembre 2026 au 28 février 2027, obligation de tir à balle ou à l'arc (ou grenaille n°1/n°2 hors zones humides)",
+          "source_url": "https://www.mayenne.gouv.fr/contenu/telechargement/59184/425215/file/AP_O_F_chasse_2026_2027_VF-1.pdf",
+          "source_label": "Arrêté du 19 mai 2026, article 3"
+        }
+      ]
+    },
+    {
+      "slug": "cerf-elaphe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Plan de chasse obligatoire. Tir d'été à l'approche ou à l'affût (seule la chasse du cerf mâle est autorisée sur autorisation préfectorale) du 1er septembre au 19 septembre 2026 ; ouverture générale du 20 septembre 2026 au 28 février 2027, obligation de tir à balle ou à l'arc. Déclaration du prélèvement sous 3 jours sur www.cyneclic.fr (bracelet, âge, date, lieu, poids, sexe)",
+          "source_url": "https://www.mayenne.gouv.fr/contenu/telechargement/59184/425215/file/AP_O_F_chasse_2026_2027_VF-1.pdf",
+          "source_label": "Arrêté du 19 mai 2026, article 3"
+        }
+      ]
+    },
+    {
+      "slug": "lievre-europe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Plan de chasse obligatoire. Chasse interdite sur une longue liste de communes (notamment Évron, Landivy, Pontmain, Jublains, etc.). Chasse ouverte uniquement les dimanches du 11 octobre au 1er novembre 2026 sur certaines communes (secteur Javron-les-Chapelles, Villaines-la-Juhel, GIC du Bocage, etc.) ; chasse ouverte tous les jours du 11 octobre au 1er novembre 2026 sur les autres communes et dans les massifs forestiers de plus de 100 ha",
+          "source_url": "https://www.mayenne.gouv.fr/contenu/telechargement/59184/425215/file/AP_O_F_chasse_2026_2027_VF-1.pdf",
+          "source_label": "Arrêté du 19 mai 2026, article 3"
+        }
+      ]
+    },
+    {
+      "slug": "lapin-garenne",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 20 septembre 2026 au 31 janvier 2027, chasse autorisée avec des furets sans formalité particulière",
+          "source_url": "https://www.mayenne.gouv.fr/contenu/telechargement/59184/425215/file/AP_O_F_chasse_2026_2027_VF-1.pdf",
+          "source_label": "Arrêté du 19 mai 2026, article 3"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-grise",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 20 septembre au 27 décembre 2026, chasse ouverte tous les jours sauf : chasse interdite sur les communes d'Arquenay, Bazougers, Chémeré-le-Roi, La Bazouge-de-Chémeré, La Cropte, Saint-Denis-du-Maine, Saint-Georges-le-Fléchard, Saulges et Vaiges ; chasse ouverte uniquement le dimanche et le lundi sur les cantons de Landivy, Gorron et Ernée. Établissements professionnels commerciaux autorisés jusqu'au 28 février 2027 pour les oiseaux de lâcher identifiés",
+          "source_url": "https://www.mayenne.gouv.fr/contenu/telechargement/59184/425215/file/AP_O_F_chasse_2026_2027_VF-1.pdf",
+          "source_label": "Arrêté du 19 mai 2026, article 3"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-rouge",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 20 septembre au 27 décembre 2026, chasse ouverte tous les jours sauf : chasse interdite sur les communes d'Arquenay, Bazougers, Chémeré-le-Roi, La Bazouge-de-Chémeré, La Cropte, Saint-Denis-du-Maine, Saint-Georges-le-Fléchard, Saulges et Vaiges ; chasse ouverte uniquement le dimanche et le lundi sur les cantons de Landivy, Gorron et Ernée. Établissements professionnels commerciaux autorisés jusqu'au 28 février 2027 pour les oiseaux de lâcher identifiés",
+          "source_url": "https://www.mayenne.gouv.fr/contenu/telechargement/59184/425215/file/AP_O_F_chasse_2026_2027_VF-1.pdf",
+          "source_label": "Arrêté du 19 mai 2026, article 3"
+        }
+      ]
+    },
+    {
+      "slug": "faisan-commun",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Règle générale : du 20 septembre 2026 au 17 janvier 2027, seul le tir des coqs est autorisé (tir des poules baguées avec poncho biodégradable autorisé). Sur les communes soumises à plan de chasse et attribution (liste de 40 communes dont Evron, Meslay-du-Maine, Montsûrs, Bouère, etc.) : plan de chasse obligatoire pour le coq, période du 20 septembre au 31 décembre 2026. Faisan vénéré : tir autorisé du 20 septembre 2026 au 28 février 2027. Établissements professionnels commerciaux autorisés jusqu'au 28 février 2027 pour oiseaux de lâcher identifiés",
+          "source_url": "https://www.mayenne.gouv.fr/contenu/telechargement/59184/425215/file/AP_O_F_chasse_2026_2027_VF-1.pdf",
+          "source_label": "Arrêté du 19 mai 2026, article 3"
+        }
+      ]
+    },
+    {
+      "slug": "becasse-bois",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 20 septembre 2026 au 20 février 2027. Chasse à la passée ou à la croule interdite",
+          "source_url": "https://www.mayenne.gouv.fr/contenu/telechargement/59184/425215/file/AP_O_F_chasse_2026_2027_VF-1.pdf",
+          "source_label": "Arrêté du 19 mai 2026, article 3"
+        },
+        {
+          "label": "Prélèvement maximal autorisé",
+          "detail": "30 bécasses maximum par chasseur pour la saison sur l'ensemble du territoire national, et 3 bécasses maximum par chasseur et par semaine (lundi à dimanche) dans le département de la Mayenne. Carnet de prélèvement national nominatif avec dispositif de marquage obligatoire ou application ChassAdapt",
+          "source_url": "https://www.mayenne.gouv.fr/contenu/telechargement/59184/425215/file/AP_O_F_chasse_2026_2027_VF-1.pdf",
+          "source_label": "Arrêté du 19 mai 2026, article 3"
+        }
+      ]
+    }
+  ]
+}
