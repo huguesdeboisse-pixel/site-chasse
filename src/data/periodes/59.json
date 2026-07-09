@@ -1,0 +1,116 @@
+{
+  "departement": "59",
+  "saison": "2026-2027",
+  "licence_source": "Licence ouverte Etalab 2.0",
+  "ouverture_generale": {
+    "date": "2026-09-20",
+    "fermeture": "2027-02-28",
+    "source_url": "https://www.chasse59.fr/wp-content/uploads/20260626-AP-ouverture-et-cloture-campagne-de-chasse-2026-2027-dans-le-Nord.pdf",
+    "source_label": "Arrêté relatif à l'ouverture et à la clôture de la chasse dans le département du Nord pour la campagne de chasse 2026-2027 (signé le 26 juin 2026)",
+    "confiance": "haute"
+  },
+  "arretes_officiels": [
+    {
+      "objet": "Ouverture et clôture générale 2026-2027",
+      "reference": "Arrêté du 26 juin 2026 (préfecture du Nord, pour le préfet et par délégation le secrétaire général Pierre Molager)",
+      "url_pdf": "https://www.chasse59.fr/wp-content/uploads/20260626-AP-ouverture-et-cloture-campagne-de-chasse-2026-2027-dans-le-Nord.pdf",
+      "statut": "signé"
+    }
+  ],
+  "especes": [
+    {
+      "slug": "sanglier",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Chasse uniquement avec autorisation préfectorale individuelle : à l'approche ou à l'affût du 1er juillet 2026 au 1er juin 2027 ; en battue dans les parcelles emblavées en maïs du 15 août au 19 septembre 2026 ; sans autorisation préfectorale, pour tout prélèvement de sanglier (déclaré à la fédération des chasseurs du Nord via l'application Chassadapt) du 20 septembre 2026 au 31 mars 2027 ; à nouveau sur autorisation préfectorale individuelle, uniquement pour la protection des semis, du 1er avril au 31 mai 2027",
+          "source_url": "https://www.chasse59.fr/wp-content/uploads/20260626-AP-ouverture-et-cloture-campagne-de-chasse-2026-2027-dans-le-Nord.pdf",
+          "source_label": "Arrêté du 26 juin 2026, article 6 (préfecture du Nord)"
+        },
+        {
+          "label": "Statut",
+          "detail": "Non classé ESOD dans le Nord : chasse en battue soumise à autorisation individuelle en dehors de la période générale, déclaration des prélèvements obligatoire via l'application Chassadapt et le site de la fédération des chasseurs du Nord",
+          "source_url": "https://www.chasse59.fr/wp-content/uploads/20260626-AP-ouverture-et-cloture-campagne-de-chasse-2026-2027-dans-le-Nord.pdf",
+          "source_label": "Arrêté du 26 juin 2026, article 6 (préfecture du Nord)"
+        }
+      ]
+    },
+    {
+      "slug": "chevreuil",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Cerf, chevreuil et daim soumis à plan de chasse, chassables du 20 septembre 2026 au 28 février 2027 sur l'ensemble du département ; tir d'été du cerf et du daim du 1er septembre 2026 au 19 septembre 2026 avec déclaration des prélèvements via Chassadapt ; tir d'été du chevreuil du 1er juillet 2026 au 1er juin 2027 (arme à feu, à l'approche ou à l'affût uniquement)",
+          "source_url": "https://www.chasse59.fr/wp-content/uploads/20260626-AP-ouverture-et-cloture-campagne-de-chasse-2026-2027-dans-le-Nord.pdf",
+          "source_label": "Arrêté du 26 juin 2026, article 6 (préfecture du Nord)"
+        }
+      ]
+    },
+    {
+      "slug": "faisan-commun",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Territoires soumis à un plan de gestion approuvé par le préfet : coq faisan chassable du 20 septembre 2026 au 31 janvier 2027, poule faisan du 20 septembre au 29 novembre 2026 ; territoires boisés d'au moins 30 hectares d'un seul tenant et forêts domaniales : du 20 septembre 2026 au 31 janvier 2027 (mercredi et dimanche uniquement) ; autres territoires : possibilité de modulation des jours de chasse imposés entre le 20 septembre et le 25 octobre 2026",
+          "source_url": "https://www.chasse59.fr/wp-content/uploads/20260626-AP-ouverture-et-cloture-campagne-de-chasse-2026-2027-dans-le-Nord.pdf",
+          "source_label": "Arrêté du 26 juin 2026, article 7 (préfecture du Nord)"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-rouge",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Faisan vénéré et perdrix rouge : du 20 septembre 2026 au 28 février 2027, sur l'ensemble du département (chasse uniquement au bois pour le faisan vénéré)",
+          "source_url": "https://www.chasse59.fr/wp-content/uploads/20260626-AP-ouverture-et-cloture-campagne-de-chasse-2026-2027-dans-le-Nord.pdf",
+          "source_label": "Arrêté du 26 juin 2026, article 7 (préfecture du Nord)"
+        }
+      ]
+    },
+    {
+      "slug": "lievre-europe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Plan de gestion cynégétique par zones (Flandre maritime, Flandre intérieure/plaine de la Lys/région de Lille, Pévèle/plaine de la Scarpe/Cambrésis/Hainaut/Thiérache), du 20 septembre au 6 décembre 2026, avec marquage inamovible obligatoire des animaux prélevés et carte de modulation des jours de chasse (3 à 5 jours selon la zone)",
+          "source_url": "https://www.chasse59.fr/wp-content/uploads/20260626-AP-ouverture-et-cloture-campagne-de-chasse-2026-2027-dans-le-Nord.pdf",
+          "source_label": "Arrêté du 26 juin 2026, article 1 et annexe (préfecture du Nord)"
+        }
+      ]
+    },
+    {
+      "slug": "lapin-garenne",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Utilisation du furet autorisée pour la chasse au lapin de garenne",
+          "source_url": "https://www.chasse59.fr/wp-content/uploads/20260626-AP-ouverture-et-cloture-campagne-de-chasse-2026-2027-dans-le-Nord.pdf",
+          "source_label": "Arrêté du 26 juin 2026, article 9 (préfecture du Nord)"
+        }
+      ]
+    },
+    {
+      "slug": "becasse-bois",
+      "faits": [
+        {
+          "label": "Prélèvement maximal autorisé",
+          "detail": "3 bécasses par jour et par chasseur sur le territoire départemental, dans la limite de 30 par saison sur le territoire métropolitain ; enregistrement immédiat obligatoire via le carnet de prélèvement individuel ou l'application numérique, marquage inamovible obligatoire avant tout transport",
+          "source_url": "https://www.chasse59.fr/wp-content/uploads/20260626-AP-ouverture-et-cloture-campagne-de-chasse-2026-2027-dans-le-Nord.pdf",
+          "source_label": "Arrêté du 26 juin 2026, article 13 (préfecture du Nord)"
+        }
+      ]
+    },
+    {
+      "slug": "pigeon-ramier",
+      "faits": [
+        {
+          "label": "Prélèvement maximal autorisé",
+          "detail": "Pigeon ramier, colombin et biset : 30 par jour pour ces 3 espèces confondues, par chasseur, pour les territoires non couverts par installation de chasse de nuit immatriculée",
+          "source_url": "https://www.chasse59.fr/wp-content/uploads/20260626-AP-ouverture-et-cloture-campagne-de-chasse-2026-2027-dans-le-Nord.pdf",
+          "source_label": "Arrêté du 26 juin 2026, article 6 (préfecture du Nord)"
+        }
+      ]
+    }
+  ]
+}

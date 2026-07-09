@@ -1,0 +1,160 @@
+{
+  "departement": "02",
+  "saison": "2026-2027",
+  "licence_source": "Licence ouverte Etalab 2.0",
+  "ouverture_generale": {
+    "date": "2026-09-20",
+    "fermeture": "2027-02-28",
+    "source_url": "https://www.aisne.gouv.fr/contenu/telechargement/49829/369472/file/ARRETE-PN-2026-55%20OUVERTURE-CLOTURE%20SIGNE.pdf",
+    "source_label": "Arrêté n°PN-2026-55 fixant les dates d'ouverture et de clôture de la chasse dans le département de l'Aisne pour la campagne 2026-2027 (signé le 13 mai 2026)",
+    "confiance": "haute"
+  },
+  "arretes_officiels": [
+    {
+      "objet": "Ouverture et clôture générale 2026-2027",
+      "reference": "Arrêté n°PN-2026-55 (13 mai 2026)",
+      "url_pdf": "https://www.aisne.gouv.fr/contenu/telechargement/49829/369472/file/ARRETE-PN-2026-55%20OUVERTURE-CLOTURE%20SIGNE.pdf",
+      "statut": "signé"
+    }
+  ],
+  "especes": [
+    {
+      "slug": "sanglier",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "À l'approche ou à l'affût, sur autorisation préfectorale délivrée au détenteur du droit de chasse, du 1er juin au 31 juillet 2026 ; en battue dans les cultures agricoles (postes dans les zones boisées périphériques, traque uniquement dans les cultures et bosquets enclavés) ou à l'approche/affût en tous lieux, sur autorisation préfectorale, du 1er au 14 août 2026 ; mêmes conditions du 15 août au 19 septembre 2026 ; ouverture générale à l'approche, à l'affût, en battue du 20 septembre 2026 au 31 mars 2027 ; période complémentaire pour la protection des semis, à l'affût ou à l'approche voire en battue à titre exceptionnel sur autorisation préfectorale, du 1er avril au 31 mai 2027",
+          "source_url": "https://www.aisne.gouv.fr/contenu/telechargement/49829/369472/file/ARRETE-PN-2026-55%20OUVERTURE-CLOTURE%20SIGNE.pdf",
+          "source_label": "Arrêté n°PN-2026-55, annexe 3 (13 mai 2026)"
+        },
+        {
+          "label": "Statut",
+          "detail": "Non classé ESOD dans l'Aisne : soumis à un plan de gestion cynégétique sanglier (PGCS) établi par la fédération des chasseurs de l'Aisne sur l'ensemble du département, décliné en période triennale calquée sur le plan de chasse cerf/chevreuil ; consignes qualitatives de tir interdites",
+          "source_url": "https://www.aisne.gouv.fr/contenu/telechargement/49829/369472/file/ARRETE-PN-2026-55%20OUVERTURE-CLOTURE%20SIGNE.pdf",
+          "source_label": "Arrêté n°PN-2026-55, annexe 3 (13 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "chevreuil",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Brocard et daim à l'approche ou à l'affût, sur autorisation préfectorale délivrée au détenteur du droit de chasse, du 1er juin au 19 septembre 2026 ; ouverture générale à l'approche, à l'affût, en battue du 20 septembre 2026 au 28 février 2027",
+          "source_url": "https://www.aisne.gouv.fr/contenu/telechargement/49829/369472/file/ARRETE-PN-2026-55%20OUVERTURE-CLOTURE%20SIGNE.pdf",
+          "source_label": "Arrêté n°PN-2026-55 (13 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "cerf-elaphe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "À l'approche ou à l'affût, sur autorisation préfectorale, du 1er septembre au 19 septembre 2026 ; ouverture générale à l'approche, à l'affût, en battue du 20 septembre 2026 au 28 février 2027. Plan de chasse triennal 2026-2029",
+          "source_url": "https://www.aisne.gouv.fr/contenu/telechargement/49829/369472/file/ARRETE-PN-2026-55%20OUVERTURE-CLOTURE%20SIGNE.pdf",
+          "source_label": "Arrêté n°PN-2026-55 (13 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "lievre-europe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 20 septembre au 1er décembre 2026, sur l'ensemble du département, sauf pour la chasse au vol (selon les conditions de l'article R.424-4 du code de l'environnement et les arrêtés ministériels en vigueur)",
+          "source_url": "https://www.aisne.gouv.fr/contenu/telechargement/49829/369472/file/ARRETE-PN-2026-55%20OUVERTURE-CLOTURE%20SIGNE.pdf",
+          "source_label": "Arrêté n°PN-2026-55 (13 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-grise",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Ouverture anticipée le 1er septembre 2026 (jusqu'au 20 septembre 2026) possible uniquement sur les territoires couverts par un plan de gestion cynégétique approuvé, avec chien d'arrêt, chien leveur ou rapporteur de gibier ; ouverture générale du 20 septembre au 1er décembre 2026, sauf pour la chasse au vol",
+          "source_url": "https://www.aisne.gouv.fr/contenu/telechargement/49829/369472/file/ARRETE-PN-2026-55%20OUVERTURE-CLOTURE%20SIGNE.pdf",
+          "source_label": "Arrêté n°PN-2026-55 (13 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-rouge",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Faisan vénéré et perdrix rouge : du 20 septembre 2026 au 28 février 2027, sur l'ensemble du département",
+          "source_url": "https://www.aisne.gouv.fr/contenu/telechargement/49829/369472/file/ARRETE-PN-2026-55%20OUVERTURE-CLOTURE%20SIGNE.pdf",
+          "source_label": "Arrêté n°PN-2026-55 (13 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "faisan-commun",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 20 septembre 2026 au 28 février 2027, sur l'ensemble du département",
+          "source_url": "https://www.aisne.gouv.fr/contenu/telechargement/49829/369472/file/ARRETE-PN-2026-55%20OUVERTURE-CLOTURE%20SIGNE.pdf",
+          "source_label": "Arrêté n°PN-2026-55 (13 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "lapin-garenne",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 20 septembre 2026 au 28 février 2027, sur l'ensemble du département",
+          "source_url": "https://www.aisne.gouv.fr/contenu/telechargement/49829/369472/file/ARRETE-PN-2026-55%20OUVERTURE-CLOTURE%20SIGNE.pdf",
+          "source_label": "Arrêté n°PN-2026-55 (13 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "pigeon-ramier",
+      "faits": [
+        {
+          "label": "Prélèvement maximal autorisé",
+          "detail": "Plan de gestion cynégétique petit migrateur sur l'ensemble du département : pigeon ramier, colombin et biset limités à 30 par jour pour ces 3 espèces confondues, par chasseur (maximum susceptible d'évoluer selon la réglementation nationale)",
+          "source_url": "https://www.aisne.gouv.fr/contenu/telechargement/49829/369472/file/ARRETE-PN-2026-55%20OUVERTURE-CLOTURE%20SIGNE.pdf",
+          "source_label": "Arrêté n°PN-2026-55, annexe 2 (13 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "caille-bles",
+      "faits": [
+        {
+          "label": "Prélèvement maximal autorisé",
+          "detail": "5 cailles des blés par jour et par chasseur, dans le cadre du plan de gestion cynégétique petit migrateur",
+          "source_url": "https://www.aisne.gouv.fr/contenu/telechargement/49829/369472/file/ARRETE-PN-2026-55%20OUVERTURE-CLOTURE%20SIGNE.pdf",
+          "source_label": "Arrêté n°PN-2026-55, annexe 2 (13 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "becasse-bois",
+      "faits": [
+        {
+          "label": "Prélèvement maximal autorisé",
+          "detail": "3 bécasses des bois par jour et par chasseur, plus le PMA national en vigueur de 30 par an et par chasseur ; carnet de prélèvement individuel obligatoire, conformément au plan de gestion cynégétique petit migrateur",
+          "source_url": "https://www.aisne.gouv.fr/contenu/telechargement/49829/369472/file/ARRETE-PN-2026-55%20OUVERTURE-CLOTURE%20SIGNE.pdf",
+          "source_label": "Arrêté n°PN-2026-55, annexe 2 (13 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "grive-draine",
+      "faits": [
+        {
+          "label": "Prélèvement maximal autorisé",
+          "detail": "Turdidés (dont grive draine) : 30 par jour et par chasseur, dans le cadre du plan de gestion cynégétique petit migrateur",
+          "source_url": "https://www.aisne.gouv.fr/contenu/telechargement/49829/369472/file/ARRETE-PN-2026-55%20OUVERTURE-CLOTURE%20SIGNE.pdf",
+          "source_label": "Arrêté n°PN-2026-55, annexe 2 (13 mai 2026)"
+        }
+      ]
+    }
+  ]
+}

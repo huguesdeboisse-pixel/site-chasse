@@ -1,0 +1,154 @@
+{
+  "departement": "80",
+  "saison": "2026-2027",
+  "licence_source": "Licence ouverte Etalab 2.0",
+  "ouverture_generale": {
+    "date": "2026-09-20",
+    "fermeture": "2027-02-28",
+    "source_url": "https://www.fdc80.com/medias/files/20260608-ap-ouverture-2026-2027.pdf",
+    "source_label": "Arrêté portant ouverture et clôture générales de la chasse pour la campagne 2026-2027 (hors gibier d'eau et oiseaux de passage) et dispositions générales, département de la Somme (signé le 8 juin 2026)",
+    "confiance": "haute"
+  },
+  "arretes_officiels": [
+    {
+      "objet": "Ouverture et clôture générale 2026-2027 (hors gibier d'eau et oiseaux de passage)",
+      "reference": "Arrêté du 8 juin 2026 (préfet de la Somme, Rollon Mouchel-Blaisot)",
+      "url_pdf": "https://www.fdc80.com/medias/files/20260608-ap-ouverture-2026-2027.pdf",
+      "statut": "signé"
+    }
+  ],
+  "especes": [
+    {
+      "slug": "sanglier",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "À l'affût et à l'approche par les détenteurs de plans de chasse sanglier du 1er juin au 14 août 2026 ; à l'affût/approche en tous lieux ou en battue en plaine uniquement du 15 août au 19 septembre 2026 ; en plaine (hors plaine du Marquenterre) chasse libre les week-ends et jours fériés, battue uniquement les autres jours, du 20 septembre 2026 au 31 mars 2027 ; chasse libre tous modes en bois/marais/miscanthus et dans la plaine du Marquenterre (Le Crotoy, Favières, Fort-Mahon-Plage, Noyelles-sur-Mer, Ponthoile, Quend, Rue, Saint-Quentin-en-Tourmont, Villers-sur-Authie) du 20 septembre 2026 au 31 mars 2027 ; postes fixes en plaine (1 par tranche de 80 ha, à 300 m minimum des lisières et entre postes) du 1er novembre 2026 au 31 mars 2027 ; période complémentaire de protection des semis en plaine, à l'affût ou à l'approche sur autorisation préfectorale, du 1er avril au 31 mai 2027. Tir à balle ou à l'arc obligatoire. Consignes qualitatives de tir interdites sur tout le département",
+          "source_url": "https://www.fdc80.com/medias/files/20260608-ap-ouverture-2026-2027.pdf",
+          "source_label": "Arrêté du 8 juin 2026, articles 2 et 5 (préfecture de la Somme)"
+        }
+      ]
+    },
+    {
+      "slug": "chevreuil",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Chevreuil et daim : à l'approche et à l'affût pour les détenteurs de plan de chasse, tir à balles/plombs (diamètre mini 3,25 mm, courte distance) ou à l'arc, du 1er juin au 19 septembre 2026 ; ouverture générale (chasse libre, tous modes) du 20 septembre 2026 au 28 février 2027 ; daim : tir à balles ou à l'arc obligatoire",
+          "source_url": "https://www.fdc80.com/medias/files/20260608-ap-ouverture-2026-2027.pdf",
+          "source_label": "Arrêté du 8 juin 2026, article 2 (préfecture de la Somme)"
+        }
+      ]
+    },
+    {
+      "slug": "cerf-elaphe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Mouflon et cerf : à l'approche et à l'affût pour les détenteurs de plan de chasse, tir à balles ou à l'arc obligatoire, du 1er septembre au 19 septembre 2026 ; ouverture générale du 20 septembre 2026 au 28 février 2027, tir à balles ou à l'arc obligatoire",
+          "source_url": "https://www.fdc80.com/medias/files/20260608-ap-ouverture-2026-2027.pdf",
+          "source_label": "Arrêté du 8 juin 2026, article 2 (préfecture de la Somme)"
+        }
+      ]
+    },
+    {
+      "slug": "mouflon-mediterraneen",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Mouflon et cerf : à l'approche et à l'affût pour les détenteurs de plan de chasse, tir à balles ou à l'arc obligatoire, du 1er septembre au 19 septembre 2026 ; ouverture générale du 20 septembre 2026 au 28 février 2027, tir à balles ou à l'arc obligatoire",
+          "source_url": "https://www.fdc80.com/medias/files/20260608-ap-ouverture-2026-2027.pdf",
+          "source_label": "Arrêté du 8 juin 2026, article 2 (préfecture de la Somme)"
+        }
+      ]
+    },
+    {
+      "slug": "lievre-europe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "En plaine, landes et vergers : du 20 septembre au 25 octobre 2026 ; en bois, vergers, marais à dominante boisée et miscanthus : du 1er novembre au 6 décembre 2026 ; chasse à l'arc du 20 septembre au 20 décembre 2026 (jours non comptabilisés dans le calendrier de déclaration). Plan de gestion avec marquage obligatoire sur tout le département, 2 jours de chasse par semaine (dimanche et mercredi, modifiable) ; dans les unités de gestion 1, 2, 3, 4, 5 et 10 : maximum 3 jours en plaine et 2 au bois ; dans les unités 6, 7, 8 et 9 : maximum 5 jours en plaine et 3 au bois",
+          "source_url": "https://www.fdc80.com/medias/files/20260608-ap-ouverture-2026-2027.pdf",
+          "source_label": "Arrêté du 8 juin 2026, article 2 et 6 (préfecture de la Somme)"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-grise",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 20 septembre au 14 novembre 2026, 2 jours par semaine maximum (dimanche et mercredi, modifiable), 8 jours maximum dans la saison. Dispositifs de marquage obligatoires sur les communes listées en annexe 2. Pour les détenteurs sans calendrier de jours de chasse : chasse uniquement le dimanche",
+          "source_url": "https://www.fdc80.com/medias/files/20260608-ap-ouverture-2026-2027.pdf",
+          "source_label": "Arrêté du 8 juin 2026, article 2 et 6 (préfecture de la Somme)"
+        }
+      ]
+    },
+    {
+      "slug": "faisan-commun",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "En plaine et landes : du 20 septembre au 29 novembre 2026 ; en bois, marais à dominante boisée et miscanthus : du 1er novembre 2026 au 10 janvier 2027. Chasse limitée à 2 jours par semaine (dimanche et mercredi, modifiable) sauf plan de gestion niveau 2 (non-tir de la poule) et niveau 3 (1 jour poule en plaine, 1 jour poule au bois). Dispositifs de marquage coqs/poules obligatoires (annexes 3 et 4)",
+          "source_url": "https://www.fdc80.com/medias/files/20260608-ap-ouverture-2026-2027.pdf",
+          "source_label": "Arrêté du 8 juin 2026, article 2 et 6 (préfecture de la Somme)"
+        }
+      ]
+    },
+    {
+      "slug": "lapin-garenne",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 20 septembre 2026 au 28 février 2027 sur l'ensemble du département, utilisation du furet autorisée",
+          "source_url": "https://www.fdc80.com/medias/files/20260608-ap-ouverture-2026-2027.pdf",
+          "source_label": "Arrêté du 8 juin 2026, article 2 (préfecture de la Somme)"
+        }
+      ]
+    },
+    {
+      "slug": "pigeon-ramier",
+      "faits": [
+        {
+          "label": "Prélèvement maximal autorisé",
+          "detail": "Colombidés (pigeon colombin, pigeon ramier et tourterelle turque) : prélèvement quantitatif de gestion limité à 25 oiseaux d'une même famille par jour et par chasseur, encadré par arrêté ministériel",
+          "source_url": "https://www.fdc80.com/medias/files/20260608-ap-ouverture-2026-2027.pdf",
+          "source_label": "Arrêté du 8 juin 2026, article 7 (préfecture de la Somme)"
+        }
+      ]
+    },
+    {
+      "slug": "caille-bles",
+      "faits": [
+        {
+          "label": "Prélèvement maximal autorisé",
+          "detail": "Fait l'objet d'un prélèvement maximal autorisé national encadré par arrêté ministériel",
+          "source_url": "https://www.fdc80.com/medias/files/20260608-ap-ouverture-2026-2027.pdf",
+          "source_label": "Arrêté du 8 juin 2026, article 7 (préfecture de la Somme)"
+        }
+      ]
+    },
+    {
+      "slug": "canard-colvert",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Oiseaux de passage et gibiers d'eau : dates d'ouverture et de clôture fixées par arrêté ministériel (non couvertes par l'arrêté préfectoral général de la Somme)",
+          "source_url": "https://www.fdc80.com/medias/files/20260608-ap-ouverture-2026-2027.pdf",
+          "source_label": "Arrêté du 8 juin 2026, article 2 (préfecture de la Somme)"
+        }
+      ]
+    },
+    {
+      "slug": "grive-draine",
+      "faits": [
+        {
+          "label": "Prélèvement maximal autorisé",
+          "detail": "Turdidés (grive draine, grive litorne, grive mauvis, grive musicienne, merle noir) : prélèvement quantitatif de gestion limité à 25 oiseaux d'une même famille par jour et par chasseur",
+          "source_url": "https://www.fdc80.com/medias/files/20260608-ap-ouverture-2026-2027.pdf",
+          "source_label": "Arrêté du 8 juin 2026, article 7 (préfecture de la Somme)"
+        }
+      ]
+    }
+  ]
+}

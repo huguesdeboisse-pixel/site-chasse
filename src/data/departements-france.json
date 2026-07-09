@@ -14,8 +14,8 @@
    "nom": "Aisne",
    "region": "Hauts-de-France",
    "prefecture_url": "https://www.aisne.gouv.fr",
-   "fdc_nom": null,
-   "fdc_url": null
+   "fdc_nom": "Fédération départementale des chasseurs de l'Aisne",
+   "fdc_url": "http://fdc02.naturagora.fr/"
   },
   {
    "code": "03",
@@ -478,16 +478,16 @@
    "nom": "Nord",
    "region": "Hauts-de-France",
    "prefecture_url": "https://www.nord.gouv.fr",
-   "fdc_nom": null,
-   "fdc_url": null
+   "fdc_nom": "Fédération départementale des chasseurs du Nord",
+   "fdc_url": "https://www.chasse59.fr/"
   },
   {
    "code": "60",
    "nom": "Oise",
    "region": "Hauts-de-France",
    "prefecture_url": "https://www.oise.gouv.fr",
-   "fdc_nom": null,
-   "fdc_url": null
+   "fdc_nom": "Fédération des Chasseurs de l'Oise",
+   "fdc_url": "https://www.fdc60.fr/"
   },
   {
    "code": "61",
@@ -502,8 +502,8 @@
    "nom": "Pas-de-Calais",
    "region": "Hauts-de-France",
    "prefecture_url": "https://www.pas-de-calais.gouv.fr",
-   "fdc_nom": null,
-   "fdc_url": null
+   "fdc_nom": "Fédération des Chasseurs du Pas-de-Calais",
+   "fdc_url": "https://fdc62.com/"
   },
   {
    "code": "63",
@@ -646,8 +646,8 @@
    "nom": "Somme",
    "region": "Hauts-de-France",
    "prefecture_url": "https://www.somme.gouv.fr",
-   "fdc_nom": null,
-   "fdc_url": null
+   "fdc_nom": "Fédération des chasseurs de la Somme",
+   "fdc_url": "https://www.fdc80.com/"
   },
   {
    "code": "81",

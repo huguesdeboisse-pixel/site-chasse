@@ -1,0 +1,116 @@
+{
+  "departement": "60",
+  "saison": "2026-2027",
+  "licence_source": "Licence ouverte Etalab 2.0",
+  "ouverture_generale": {
+    "date": "2026-09-20",
+    "fermeture": "2027-02-28",
+    "source_url": "https://www.fdc60.fr/wp-content/uploads/2026/05/20260520_24_Arrete_ouverture_et_cloture_chasse_campagne_2026-2027_Oise.pdf",
+    "source_label": "Arrêté relatif à l'ouverture et la clôture de la chasse pour la campagne 2026-2027 dans le département de l'Oise (signé le 18 mai 2026)",
+    "confiance": "haute"
+  },
+  "arretes_officiels": [
+    {
+      "objet": "Ouverture et clôture générale 2026-2027",
+      "reference": "Arrêté du 18 mai 2026 (préfet de l'Oise, Jean-Marie Caillaud)",
+      "url_pdf": "https://www.fdc60.fr/wp-content/uploads/2026/05/20260520_24_Arrete_ouverture_et_cloture_chasse_campagne_2026-2027_Oise.pdf",
+      "statut": "signé"
+    }
+  ],
+  "especes": [
+    {
+      "slug": "sanglier",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "En battue, à l'affût, à l'approche sur l'ensemble des territoires munis d'une autorisation préfectorale individuelle et d'un plan de gestion PG1 ou PG2, du 1er juin au 14 août 2026 (dispositif de marquage non obligatoire mais prélèvement à déclarer dans les 72h) ; mêmes conditions sans autorisation préfectorale individuelle du 15 août au 19 septembre 2026 ; ouverture générale du 20 septembre 2026 au 28 février 2027 (dispositif de marquage obligatoire, déclaration dans les 72h) ; du 1er au 31 mars 2027 sans autorisation ; du 1er avril au 31 mai 2027 en plaine uniquement, sur autorisation préfectorale individuelle",
+          "source_url": "https://www.fdc60.fr/wp-content/uploads/2026/05/20260520_24_Arrete_ouverture_et_cloture_chasse_campagne_2026-2027_Oise.pdf",
+          "source_label": "Arrêté du 18 mai 2026, article 2 (préfecture de l'Oise)"
+        },
+        {
+          "label": "Statut",
+          "detail": "Classé espèce susceptible d'occasionner des dégâts (ESOD) dans l'Oise ; dégâts aux cultures jugés trop élevés avec tendance à la hausse, justifiant la poursuite de la pression de prélèvement en période estivale",
+          "source_url": "https://www.fdc60.fr/wp-content/uploads/2026/05/20260520_24_Arrete_ouverture_et_cloture_chasse_campagne_2026-2027_Oise.pdf",
+          "source_label": "Arrêté du 18 mai 2026, préambule (préfecture de l'Oise)"
+        }
+      ]
+    },
+    {
+      "slug": "chevreuil",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "À l'approche ou à l'affût, sur autorisation préfectorale individuelle, du 1er juin 2026 (le chevreuil ne peut être chassé qu'à balle ou à l'arc, tir d'un mâle recommandé du 1er juin au 19 septembre) ; ouverture générale du 20 septembre 2026 au 28 février 2027",
+          "source_url": "https://www.fdc60.fr/wp-content/uploads/2026/05/20260520_24_Arrete_ouverture_et_cloture_chasse_campagne_2026-2027_Oise.pdf",
+          "source_label": "Arrêté du 18 mai 2026, article 2 (préfecture de l'Oise)"
+        }
+      ]
+    },
+    {
+      "slug": "cerf-elaphe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 1er septembre 2026 (seul le cerf élaphe mâle peut être chassé à l'approche ou à l'affût, présentation obligatoire des trophées de cerfs et daguets lors de l'exposition organisée par la fédération des chasseurs de l'Oise) au 19 septembre 2026 ; ouverture générale du 20 septembre 2026 au 28 février 2027 ; le tir du cerf mulet est interdit",
+          "source_url": "https://www.fdc60.fr/wp-content/uploads/2026/05/20260520_24_Arrete_ouverture_et_cloture_chasse_campagne_2026-2027_Oise.pdf",
+          "source_label": "Arrêté du 18 mai 2026, article 2 (préfecture de l'Oise)"
+        }
+      ]
+    },
+    {
+      "slug": "lievre-europe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 20 septembre 2026 à 9h au 31 décembre 2026 à 17h, jours de chasse à définir par territoire (n° d'adhérent) selon le plan de gestion de la fédération des chasseurs de l'Oise (FDCO), à déclarer avant le 4 septembre 2026",
+          "source_url": "https://www.fdc60.fr/wp-content/uploads/2026/05/20260520_24_Arrete_ouverture_et_cloture_chasse_campagne_2026-2027_Oise.pdf",
+          "source_label": "Arrêté du 18 mai 2026, article 2 et 6 (préfecture de l'Oise)"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-rouge",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 20 septembre 2026 à 9h au 28 février 2027 à 18h, jours de chasse à définir par territoire selon le plan de gestion de la FDCO",
+          "source_url": "https://www.fdc60.fr/wp-content/uploads/2026/05/20260520_24_Arrete_ouverture_et_cloture_chasse_campagne_2026-2027_Oise.pdf",
+          "source_label": "Arrêté du 18 mai 2026, article 2 (préfecture de l'Oise)"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-grise",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 20 septembre 2026 à 9h au 31 décembre 2026 à 17h, jours de chasse à définir par territoire selon le plan de gestion de la FDCO",
+          "source_url": "https://www.fdc60.fr/wp-content/uploads/2026/05/20260520_24_Arrete_ouverture_et_cloture_chasse_campagne_2026-2027_Oise.pdf",
+          "source_label": "Arrêté du 18 mai 2026, article 2 et 6 (préfecture de l'Oise)"
+        }
+      ]
+    },
+    {
+      "slug": "faisan-commun",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Faisan commun : ouverture générale le 20 septembre 2026, clôture le 31 janvier 2027 (lâchers interdits en plan de chasse en battue autorisée pour les Associations Cynophiles pour les fields trials avec présentation de licence, uniquement sur les communes de Bresles, Bulles, Cuignières, Essuiles, Saint Rimault, Fournival, Haudivilliers, Lafraye, Laversine, Le Fay Saint Quentin, Nivillers, Oroer, Ravenel, Rémérangles et Sauqueuse-Guehengnie)",
+          "source_url": "https://www.fdc60.fr/wp-content/uploads/2026/05/20260520_24_Arrete_ouverture_et_cloture_chasse_campagne_2026-2027_Oise.pdf",
+          "source_label": "Arrêté du 18 mai 2026, article 6 (préfecture de l'Oise)"
+        }
+      ]
+    },
+    {
+      "slug": "lapin-garenne",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 20 septembre 2026 à 9h au 28 février 2027 à 18h, sur l'ensemble du département de l'Oise",
+          "source_url": "https://www.fdc60.fr/wp-content/uploads/2026/05/20260520_24_Arrete_ouverture_et_cloture_chasse_campagne_2026-2027_Oise.pdf",
+          "source_label": "Arrêté du 18 mai 2026, article 2 (préfecture de l'Oise)"
+        }
+      ]
+    }
+  ]
+}
