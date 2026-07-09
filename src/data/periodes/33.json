@@ -1,0 +1,143 @@
+{
+  "departement": "33",
+  "saison": "2026-2027",
+  "licence_source": "Licence ouverte Etalab 2.0",
+  "ouverture_generale": {
+    "date": "2026-09-13",
+    "fermeture": "2027-02-28",
+    "source_url": "https://chasseurs33.com/wp-content/uploads/2026/06/Arrete-ouverture-cloture2026-2027A3.pdf",
+    "source_label": "Arrêté du 20 mai 2026 relatif aux dates d'ouverture et de clôture de la chasse pour la campagne 2026-2027 dans le département de la Gironde (signé à Bordeaux le 20 mai 2026 par la préfète Sophie Brocas)",
+    "confiance": "haute"
+  },
+  "arretes_officiels": [
+    {
+      "objet": "Ouverture et clôture générale de la chasse 2026-2027",
+      "reference": "Arrêté du 20 mai 2026 (Préfecture de la Gironde)",
+      "url_pdf": "https://chasseurs33.com/wp-content/uploads/2026/06/Arrete-ouverture-cloture2026-2027A3.pdf",
+      "statut": "signé"
+    }
+  ],
+  "especes": [
+    {
+      "slug": "sanglier",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 1er juillet 2026 au 14 août 2026 et du 1er juin 2027 au 30 juin 2027 : chasse en battue, à l'affût ou à l'approche par les détenteurs de droit de chasse uniquement sur autorisation préfectorale individuelle délivrée après avis du président de la FDCG. Du 15 août 2026 au 31 mars 2027 : chasse en battue, à l'affût ou à l'approche, sous la responsabilité du détenteur du droit de chasse, bracelet de marquage « sanglier » obligatoire avant tout déplacement. Bilan hebdomadaire des animaux prélevés obligatoire ; bilan définitif à valider avant le 10 avril 2027.",
+          "source_url": "https://chasseurs33.com/wp-content/uploads/2026/06/Arrete-ouverture-cloture2026-2027A3.pdf",
+          "source_label": "Arrêté du 20 mai 2026 (Préfecture de la Gironde)"
+        }
+      ]
+    },
+    {
+      "slug": "chevreuil",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Cervidés soumis au plan de chasse individuel délivré par le président de la FDCG. Daim-Chevreuil : du 1er juillet 2026 au 12 septembre 2026 au soir puis du 1er juin 2027 au 30 juin 2027, chasses à l'approche et à l'affût uniquement. Du 13 septembre 2026 au 28 février 2027 au soir : chasse en battue, à l'affût ou à l'approche. Tir à balle ou à plomb (n°1, 2 ou 3 série de Paris) ou grenaille sans plomb (diamètre 4 à 4,8 mm). Bilan de chasse 2026-2027 obligatoire à valider avant le 10 mars 2027.",
+          "source_url": "https://chasseurs33.com/wp-content/uploads/2026/06/Arrete-ouverture-cloture2026-2027A3.pdf",
+          "source_label": "Arrêté du 20 mai 2026 (Préfecture de la Gironde)"
+        }
+      ]
+    },
+    {
+      "slug": "cerf-elaphe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Cerf élaphe et cerf sika soumis au plan de chasse individuel. Du 1er septembre 2026 au 12 septembre 2026 au soir : chasses à l'approche et à l'affût uniquement. Du 13 septembre 2026 au 28 février 2027 au soir : approche, affût et battue. Tir à balle obligatoire (chasse à l'arc autorisée). Bracelets « C.E.J. » (cerf jeune), « C.E.M. » (cerf mâle) et « C.E.F. » (cerf femelle) selon la catégorie.",
+          "source_url": "https://chasseurs33.com/wp-content/uploads/2026/06/Arrete-ouverture-cloture2026-2027A3.pdf",
+          "source_label": "Arrêté du 20 mai 2026 (Préfecture de la Gironde)"
+        }
+      ]
+    },
+    {
+      "slug": "lievre-europe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13 septembre 2026 au 3 janvier 2027 au soir. Tir du lièvre retardé au 2e dimanche d'octobre pour les cantons suivants : Les Coteaux de Dordogne, Créon, l'Entre-Deux-Mers, l'Estuaire, le Libournais Fronsadais, le Nord Gironde, la Presqu'Île, le Réolais et les Bastides (rive droite de la Garonne uniquement), Lormont.",
+          "source_url": "https://chasseurs33.com/wp-content/uploads/2026/06/Arrete-ouverture-cloture2026-2027A3.pdf",
+          "source_label": "Arrêté du 20 mai 2026 (Préfecture de la Gironde)"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-rouge",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13 septembre 2026 au 28 février 2027 au soir, comme les autres gibiers sédentaires non soumis à plan de chasse (faisan, perdrix grise et rouge, étourneau sansonnet, pie bavarde, corneille noire, geai des chênes, corbeau freux, blaireau, renard, ragondin, rat musqué, fouine, belette, martre, putois, raton laveur, chien viverrin).",
+          "source_url": "https://chasseurs33.com/wp-content/uploads/2026/06/Arrete-ouverture-cloture2026-2027A3.pdf",
+          "source_label": "Arrêté du 20 mai 2026 (Préfecture de la Gironde)"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-grise",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13 septembre 2026 au 28 février 2027 au soir, comme les autres gibiers sédentaires non soumis à plan de chasse.",
+          "source_url": "https://chasseurs33.com/wp-content/uploads/2026/06/Arrete-ouverture-cloture2026-2027A3.pdf",
+          "source_label": "Arrêté du 20 mai 2026 (Préfecture de la Gironde)"
+        }
+      ]
+    },
+    {
+      "slug": "faisan-commun",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13 septembre 2026 au 28 février 2027 au soir, comme les autres gibiers sédentaires non soumis à plan de chasse.",
+          "source_url": "https://chasseurs33.com/wp-content/uploads/2026/06/Arrete-ouverture-cloture2026-2027A3.pdf",
+          "source_label": "Arrêté du 20 mai 2026 (Préfecture de la Gironde)"
+        }
+      ]
+    },
+    {
+      "slug": "lapin-garenne",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13 septembre 2026 au 28 février 2027 au soir. Utilisation du furet autorisée pour la chasse du lapin de garenne.",
+          "source_url": "https://chasseurs33.com/wp-content/uploads/2026/06/Arrete-ouverture-cloture2026-2027A3.pdf",
+          "source_label": "Arrêté du 20 mai 2026 (Préfecture de la Gironde)"
+        }
+      ]
+    },
+    {
+      "slug": "becasse-bois",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Dates fixées par arrêté ministériel. PMA fixé par arrêté ministériel à 30 oiseaux par saison et par chasseur au niveau national ; en Gironde, PMA hebdomadaire de 5 oiseaux (du lundi matin au dimanche soir). Marquage immédiat à la patte de l'oiseau prélevé, tenue à jour du carnet de prélèvements à remettre à la FDCG (Domaine de Pachan, 10 Chemin de Labarde, 33290 Ludon-Médoc) avant le 30 juin 2027, prélèvements obligatoires même nuls.",
+          "source_url": "https://chasseurs33.com/wp-content/uploads/2026/06/Arrete-ouverture-cloture2026-2027A3.pdf",
+          "source_label": "Arrêté du 20 mai 2026 (Préfecture de la Gironde)"
+        }
+      ]
+    },
+    {
+      "slug": "canard-colvert",
+      "faits": [
+        {
+          "label": "Dates de chasse - gibier d'eau (Bassin d'Arcachon et marais)",
+          "detail": "Chasse de nuit au gibier d'eau autorisée à partir de postes fixes (tonnes) mentionnés aux articles R.424-17 du Code de l'environnement, avec carnet de prélèvement à jour pour chaque installation déclarée, remis gratuitement par la FDCG et à retourner avant le 31 mars 2026 (domaine de Pachan, Ludon-Médoc). Sur le Bassin d'Arcachon et le secteur du Cap-Ferret, une interdiction spécifique de la chasse au gibier d'eau s'applique conformément à l'arrêté préfectoral dédié 'Interdiction chasse gibier d'eau Bassin d'Arcachon/Cap-Ferret'. Dates générales et PMA fixés par arrêté ministériel.",
+          "source_url": "https://www.gironde.gouv.fr/contenu/telechargement/71716/535692/file/Interdiction%20chasse%20gibier%20d'eau_Bassin%20dArcachon_CapFerret.pdf",
+          "source_label": "Arrêté préfectoral portant interdiction de la chasse du gibier d'eau sur le Bassin d'Arcachon et le Cap-Ferret ; Arrêté du 20 mai 2026 (Préfecture de la Gironde)"
+        }
+      ]
+    },
+    {
+      "slug": "pigeon-ramier",
+      "faits": [
+        {
+          "label": "Dates de chasse - palombe",
+          "detail": "Conformément au Schéma Départemental de Gestion Cynégétique de la Gironde, un Prélèvement Maximum Autorisé (P.M.A.) hivernal pour les grives et pigeons ramiers (palombe) est instauré par chasseur. À partir du 21 novembre, un P.M.A. journalier est fixé à 20 pour les grives et à 10 pour le pigeon ramier (palombe).",
+          "source_url": "https://chasseurs33.com/wp-content/uploads/2026/06/Arrete-ouverture-cloture2026-2027A3.pdf",
+          "source_label": "Arrêté du 20 mai 2026 (Préfecture de la Gironde)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "departement": "17",
+  "saison": "2026-2027",
+  "licence_source": "Licence ouverte Etalab 2.0",
+  "ouverture_generale": {
+    "date": "2026-09-13",
+    "fermeture": "2027-02-28",
+    "source_url": "https://www.chasseurs17.com/wp-content/uploads/2026/05/AP_26EB075_Campagne_Chasse_2026-2027-1.pdf",
+    "source_label": "Arrêté n°26EB075-DDTM relatif à l'ouverture et à la clôture de la chasse pour la campagne cynégétique 2026-2027 dans le département de la Charente-Maritime (signé à La Rochelle le 22 mai 2026 par le préfet Brice Blondel)",
+    "confiance": "haute"
+  },
+  "arretes_officiels": [
+    {
+      "objet": "Ouverture et clôture générale de la chasse 2026-2027",
+      "reference": "Arrêté n°26EB075-DDTM (22 mai 2026)",
+      "url_pdf": "https://www.chasseurs17.com/wp-content/uploads/2026/05/AP_26EB075_Campagne_Chasse_2026-2027-1.pdf",
+      "statut": "signé"
+    }
+  ],
+  "especes": [
+    {
+      "slug": "sanglier",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 01.06.2026 au 14.08.2026 : approche/affût pour détenteurs du droit de chasse (autorisation individuelle), tir à balle/arc/chevrotine en battue, autorisation écrite de l'exploitant agricole pour parcelles cultivées, chassable en réserve. Du 15.08.2026 au 12.09.2026 : approche, affût et battue, mêmes conditions. Du 13.09.2026 au 31.03.2027 : approche, affût et battue tous les jours ; chasse en réserve autorisée (3 jours libres/mois hors dimanche de sept. à déc., tous les jours à compter du 1er janvier, déclaration par mail à ddtm-rcfs@charente-maritime.gouv.fr). Du 01.04.2027 au 31.05.2027 : protection des semis, approche/affût pour détenteurs, battues exceptionnelles sur autorisation préalable 24h à l'avance.",
+          "source_url": "https://www.chasseurs17.com/wp-content/uploads/2026/05/AP_26EB075_Campagne_Chasse_2026-2027-1.pdf",
+          "source_label": "Arrêté n°26EB075-DDTM (22 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "chevreuil",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 01.06.2026 au 12.09.2026 : approche ou affût pour détenteurs du droit de chasse (autorisation individuelle), tir à balle (carabine) ou à l'arc, tir du brocard uniquement, chassable en réserve (hors secteurs L et R). Du 13.09.2026 au 28.02.2027 : approche, affût et battue tous les jours, tir à balle ou à plomb n°1 ou 2 ou à l'arc (zones humides : tir à balle, munitions de substitution diamètre 3,75 à 4,8 mm, ou arc), chassable en réserve à compter du 1er janvier (sauf secteurs L et R). Plan de chasse et bracelet obligatoires.",
+          "source_url": "https://www.chasseurs17.com/wp-content/uploads/2026/05/AP_26EB075_Campagne_Chasse_2026-2027-1.pdf",
+          "source_label": "Arrêté n°26EB075-DDTM (22 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "cerf-elaphe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13.09.2026 au 28.02.2027, tous les jours autorisés, en forêt domaniale, parc clos et secteurs C et J à partir du 13.09.2026, et sur le reste du territoire à partir du 10.10.2026. Chassable en réserve à compter du 1er janvier. Approche, affût et battue. Plan de chasse et bracelet obligatoires.",
+          "source_url": "https://www.chasseurs17.com/wp-content/uploads/2026/05/AP_26EB075_Campagne_Chasse_2026-2027-1.pdf",
+          "source_label": "Arrêté n°26EB075-DDTM (22 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "lievre-europe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 18.10.2026 au 20.12.2026 (dates spécifiques selon territoire défini dans le plan de gestion cynégétique lièvre). Chassable le dimanche uniquement, sauf territoires gérés par l'ONF et le Conservatoire du Littoral où le cahier des charges s'applique. Prélèvement maximum journalier et annuel par territoire selon le plan de gestion cynégétique lièvre. Enregistrement immédiat de chaque prélèvement (carnet de prélèvements ou ChassAdapt).",
+          "source_url": "https://www.chasseurs17.com/wp-content/uploads/2026/05/AP_26EB075_Campagne_Chasse_2026-2027-1.pdf",
+          "source_label": "Arrêté n°26EB075-DDTM (22 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-rouge",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13.09.2026 au 29.11.2026, chassable le dimanche, mercredi et jours fériés. Prélèvement maximum journalier et annuel par territoire selon le plan de gestion cynégétique perdrix. Enregistrement immédiat de chaque prélèvement (carnet de prélèvements ou ChassAdapt).",
+          "source_url": "https://www.chasseurs17.com/wp-content/uploads/2026/05/AP_26EB075_Campagne_Chasse_2026-2027-1.pdf",
+          "source_label": "Arrêté n°26EB075-DDTM (22 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-grise",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13.09.2026 au 29.11.2026, chassable le dimanche, mercredi et jours fériés. Prélèvement maximum journalier et annuel par territoire selon le plan de gestion cynégétique perdrix. Enregistrement immédiat de chaque prélèvement (carnet de prélèvements ou ChassAdapt).",
+          "source_url": "https://www.chasseurs17.com/wp-content/uploads/2026/05/AP_26EB075_Campagne_Chasse_2026-2027-1.pdf",
+          "source_label": "Arrêté n°26EB075-DDTM (22 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "faisan-commun",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13.09.2026 au 31.01.2027, chassable le dimanche, mercredi et jours fériés. Prélèvement maximum journalier et annuel par territoire selon le plan de gestion cynégétique faisan. Enregistrement immédiat de chaque prélèvement (carnet de prélèvements ou ChassAdapt).",
+          "source_url": "https://www.chasseurs17.com/wp-content/uploads/2026/05/AP_26EB075_Campagne_Chasse_2026-2027-1.pdf",
+          "source_label": "Arrêté n°26EB075-DDTM (22 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "lapin-garenne",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13.09.2026 au 24.10.2026 : dimanche et mercredi. Du 25.10.2026 au 28.02.2027 : tous les jours. Prélèvement maximum autorisé de 2 par jour et par chasseur pour les communes où le lapin n'est pas classé ESOD ; furet interdit sauf dérogation dans ces communes, autorisé dans les communes où le lapin est classé ESOD.",
+          "source_url": "https://www.chasseurs17.com/wp-content/uploads/2026/05/AP_26EB075_Campagne_Chasse_2026-2027-1.pdf",
+          "source_label": "Arrêté n°26EB075-DDTM (22 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "becasse-bois",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13.09.2026 au 24.10.2026 : dimanche et mercredi (sauf ONF et Conservatoire du Littoral où le cahier des charges s'applique). Du 25.10.2026 au 20.02.2027 : tous les jours. PMA : 2 par jour et par chasseur, 6 par semaine (lundi à dimanche), 15 par mois et 30 par saison. Enregistrement immédiat de chaque prélèvement (marquage carnet ou application ChassAdapt).",
+          "source_url": "https://www.chasseurs17.com/wp-content/uploads/2026/05/AP_26EB075_Campagne_Chasse_2026-2027-1.pdf",
+          "source_label": "Arrêté n°26EB075-DDTM (22 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "canard-colvert",
+      "faits": [
+        {
+          "label": "Dates de chasse - gibier d'eau",
+          "detail": "Zones humides hors DPM (marais non asséchés, fleuves, rivières, canaux, réservoirs, lacs, étangs) : du 21.08.2026 à 6h00 au 31.01.2027. Reste du territoire : ouverture générale à 8h00 (île d'Aix 20.09 à 8h00) au 31.01.2027. PMA hors installation de chasse immatriculée : colvert 5 oiseaux par volée par chasseur jusqu'au 12.09.2026, puis toutes espèces de canards hors colvert 15 oiseaux par jour. Depuis une installation immatriculée : 15 à 25 oiseaux selon composition. Enregistrement des prélèvements sur ChassAdapt ou carnet individuel obligatoire.",
+          "source_url": "https://www.chasseurs17.com/wp-content/uploads/2026/05/AP_26EB075_Campagne_Chasse_2026-2027-1.pdf",
+          "source_label": "Arrêté n°26EB075-DDTM (22 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "pigeon-ramier",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13.09.2026 au 10.02.2027 : tous les jours, enregistrement sur le carnet de prélèvements au plus tard en fin de saison. Du 11.02.2027 au 20.02.2027 : tous les jours, uniquement à poste fixe matérialisé de main d'homme, avec enregistrement des prélèvements.",
+          "source_url": "https://www.chasseurs17.com/wp-content/uploads/2026/05/AP_26EB075_Campagne_Chasse_2026-2027-1.pdf",
+          "source_label": "Arrêté n°26EB075-DDTM (22 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "caille-bles",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du dernier samedi d'août (29.08.2026) au 20.02.2027. Du 29.08 au 12.09.2026 : tous les jours. Du 13.09 au 24.10.2026 : dimanche et mercredi. Du 25.10.2026 au 20.02.2027 : tous les jours. PMA : 10 cailles par jour et 50 par an, tout territoire confondu. Enregistrement immédiat de chaque prélèvement selon les modalités prévues par l'arrêté ministériel (ChassAdapt).",
+          "source_url": "https://www.chasseurs17.com/wp-content/uploads/2026/05/AP_26EB075_Campagne_Chasse_2026-2027-1.pdf",
+          "source_label": "Arrêté n°26EB075-DDTM (22 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "grive-draine",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Grive draine, musicienne, mauvis et litorne, ainsi que merle noir : du 13.09.2026 au 10.02.2027, tous les jours. Aucun PMA départemental spécifique mentionné ; enregistrement sur le carnet de prélèvements au plus tard à la fermeture de l'espèce.",
+          "source_url": "https://www.chasseurs17.com/wp-content/uploads/2026/05/AP_26EB075_Campagne_Chasse_2026-2027-1.pdf",
+          "source_label": "Arrêté n°26EB075-DDTM (22 mai 2026)"
+        }
+      ]
+    }
+  ]
+}

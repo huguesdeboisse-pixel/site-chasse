@@ -1,0 +1,121 @@
+{
+  "departement": "87",
+  "saison": "2026-2027",
+  "licence_source": "Licence ouverte Etalab 2.0",
+  "ouverture_generale": {
+    "date": "2026-09-13",
+    "fermeture": "2027-02-28",
+    "source_url": "https://fdc87.com/wp-json/fdc-finder/v1/file/11889",
+    "source_label": "Arrêté n°2026/N152 fixant les dates d'ouverture, de clôture et les modalités de la chasse dans le département de la Haute-Vienne pour la campagne 2026-2027 (signé à Limoges le 21 mai 2026 par le préfet Maurice Barate)",
+    "confiance": "haute"
+  },
+  "arretes_officiels": [
+    {
+      "objet": "Ouverture, clôture et modalités de la chasse 2026-2027",
+      "reference": "Arrêté n°2026/N152 (21 mai 2026)",
+      "url_pdf": "https://fdc87.com/wp-json/fdc-finder/v1/file/11889",
+      "statut": "signé"
+    }
+  ],
+  "especes": [
+    {
+      "slug": "sanglier",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 1er juin 2026 au 12 septembre 2026 inclus : chasse à l'affût ou à l'approche sur autorisation du détenteur du droit de chasse ; chasse en battue organisée sous la responsabilité du détenteur du droit de chasse ou de son délégué (jusqu'au 14 août inclus, battue en une seule équipe, autorisation du propriétaire de la culture, déclaration au lieutenant de louveterie). Du 13 septembre 2026 au 31 mars 2027 inclus : affût, approche ou battue organisée, 2 jours fixes par semaine déclarés à la FDC (ou déclaration libre pour territoires privés avant le 13 septembre 2026, à défaut samedi/dimanche uniquement), jours fériés inclus. Du 1er avril 2027 au 31 mai 2027 inclus : protection des semis, affût/approche ou battues exceptionnelles en une seule équipe sous la responsabilité du détenteur du droit de chasse.",
+          "source_url": "https://fdc87.com/wp-json/fdc-finder/v1/file/11889",
+          "source_label": "Arrêté n°2026/N152 (21 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "chevreuil",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Tir sélectif du 1er juin 2026 au 12 septembre 2026 inclus : à l'approche ou à l'affût, de jour, à balle ou à l'arc, réservé exclusivement au tir des brocards. Du 13 septembre 2026 au 28 février 2027 inclus : chassable à grenaille d'acier, à plomb (diamètres 3,75 à 4 mm), à balle ou à l'arc ; en battue, à l'approche ou à l'affût. Chasse réservée aux détenteurs de décisions individuelles délivrées par la FDC dans le cadre du plan de chasse, sauf enclos définis à l'article L.424-3 du Code de l'environnement.",
+          "source_url": "https://fdc87.com/wp-json/fdc-finder/v1/file/11889",
+          "source_label": "Arrêté n°2026/N152 (21 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "cerf-elaphe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 17 octobre 2026 au 28 février 2027 inclus. Tir à balle ou à l'arc de chasse uniquement, chassable en battue, à l'approche ou à l'affût. Chasse réservée aux détenteurs de décisions individuelles délivrées par la FDC dans le cadre du plan de chasse, sauf enclos définis à l'article L.424-3 du Code de l'environnement.",
+          "source_url": "https://fdc87.com/wp-json/fdc-finder/v1/file/11889",
+          "source_label": "Arrêté n°2026/N152 (21 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "lievre-europe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 18 octobre 2026 au 1er janvier 2027 inclus. Entraînement des chiens courants sur la voie du lièvre possible du 2 janvier au 28 février 2027 inclus, sans capture de l'animal, avec autorisation du propriétaire ou du détenteur du droit de chasse.",
+          "source_url": "https://fdc87.com/wp-json/fdc-finder/v1/file/11889",
+          "source_label": "Arrêté n°2026/N152 (21 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "lapin-garenne",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13 septembre 2026 au 1er janvier 2027 inclus. Usage du furet soumis à autorisation préfectorale conformément à l'article 8 de l'arrêté du 1er août 1986.",
+          "source_url": "https://fdc87.com/wp-json/fdc-finder/v1/file/11889",
+          "source_label": "Arrêté n°2026/N152 (21 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-rouge",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13 septembre 2026 au 1er janvier 2027 inclus (tout le département). Période complémentaire du 2 janvier 2027 au 31 janvier 2027 inclus, uniquement sur les territoires d'Azat-le-Ris, La Bazeuge, Oradour-Saint-Genest, Tersannes, Thiat et Verneuil-Moustiers.",
+          "source_url": "https://fdc87.com/wp-json/fdc-finder/v1/file/11889",
+          "source_label": "Arrêté n°2026/N152 (21 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-grise",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13 septembre 2026 au 1er janvier 2027 inclus (tout le département). Période complémentaire du 2 janvier 2027 au 31 janvier 2027 inclus, uniquement sur les territoires d'Azat-le-Ris, La Bazeuge, Oradour-Saint-Genest, Tersannes, Thiat et Verneuil-Moustiers.",
+          "source_url": "https://fdc87.com/wp-json/fdc-finder/v1/file/11889",
+          "source_label": "Arrêté n°2026/N152 (21 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "faisan-commun",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13 septembre 2026 au 1er janvier 2027 inclus. Tir interdit sur les communes d'Azat-le-Ris, La Bazeuge, Oradour-Saint-Genest, Tersannes, Thiat et Verneuil-Moustiers (zone d'implantation d'une population de faisan commun de souche sauvage F2 issue du conservatoire de l'OFB). Tir également interdit sur les communes de Champagnac-la-Rivière, Cieux, Cussac, Javerdat, Oradour-sur-Glane, Oradour-sur-Vayres, Peyrilhac, Saint-Auvent, Saint-Bazile, Saint-Brice-sur-Vienne, Saint-Cyr, Saint-Gence, Saint-Laurent-sur-Gorre, Vayres et Veyrac. Fermeture fixée au 28 février 2027 sur les territoires de chasse à caractère commercial (oiseaux lâchés munis d'un signe distinctif obligatoire).",
+          "source_url": "https://fdc87.com/wp-json/fdc-finder/v1/file/11889",
+          "source_label": "Arrêté n°2026/N152 (21 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "becasse-bois",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Prélèvement maximal autorisé de 30 oiseaux par saison et par chasseur au niveau national, 6 oiseaux par semaine calendaire, 3 oiseaux par jour de chasse. Chasse à la passée et à la croule interdite (arrêté ministériel du 1er août 1986). Enregistrement immédiat de chaque prélèvement obligatoire avant tout transport, soit via l'application ChassAdapt, soit sur le carnet de prélèvement nominatif délivré par la FDC avec bracelet individuel de marquage ; l'attribution du carnet est conditionnée par le retour de celui de la saison précédente.",
+          "source_url": "https://fdc87.com/wp-json/fdc-finder/v1/file/11889",
+          "source_label": "Arrêté n°2026/N152 (21 mai 2026)"
+        }
+      ]
+    }
+  ]
+}

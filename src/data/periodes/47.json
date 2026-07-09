@@ -1,0 +1,121 @@
+{
+  "departement": "47",
+  "saison": "2026-2027",
+  "licence_source": "Licence ouverte Etalab 2.0",
+  "ouverture_generale": {
+    "date": "2026-09-13",
+    "fermeture": "2027-02-28",
+    "source_url": "https://www.lot-et-garonne.gouv.fr/contenu/telechargement/30474/231512/file/9_recueil%20des%20actes%20administratifs%20sp%C3%A9cial%20n%C2%B047-2026-102%20du%2010%2006%202026.pdf",
+    "source_label": "Arrêté n°47-2026-06-08-00003 portant ouverture et clôture de la chasse dans le département de Lot-et-Garonne pour la campagne 2026-2027 (signé à Agen le 8 juin 2026 par le préfet Bruno André, publié au Recueil des actes administratifs spécial n°47-2026-102 du 10 juin 2026)",
+    "confiance": "haute"
+  },
+  "arretes_officiels": [
+    {
+      "objet": "Ouverture et clôture générale de la chasse 2026-2027",
+      "reference": "Arrêté n°47-2026-06-08-00003 (8 juin 2026)",
+      "url_pdf": "https://www.lot-et-garonne.gouv.fr/contenu/telechargement/30474/231512/file/9_recueil%20des%20actes%20administratifs%20sp%C3%A9cial%20n%C2%B047-2026-102%20du%2010%2006%202026.pdf",
+      "statut": "signé"
+    }
+  ],
+  "especes": [
+    {
+      "slug": "sanglier",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13 septembre 2026 à 8h au 31 mars 2027 au soir. Sur le territoire de Blanquefort-sur-Briolance, Cuzorn, Gavaudun, Lacapelle-Biron, Montagnac-sur-Lède, Paulhiac, Salles, Saint-Front-sur-Lémance et Sauveterre-la-Lémance : affût/approche ouverts tous les jours sans condition, battue autorisée le mercredi, samedi, dimanche et jours fériés (battue supplémentaire possible en cas de dégâts constatés, sur proposition de la FDC). Dans les autres communes : battue, affût et approche autorisés tous les jours de la semaine. Du 1er avril au 31 mai 2027 : chasse limitée à la protection des semis, affût/approche ou battue exceptionnelle (maximum 5 battues par mois sur autorisation préfectorale individuelle). Prélèvements à déclarer à la FDC au plus tard le 15 juin 2027 (carnet de battue ou e-déclaration).",
+          "source_url": "https://www.lot-et-garonne.gouv.fr/contenu/telechargement/30474/231512/file/9_recueil%20des%20actes%20administratifs%20sp%C3%A9cial%20n%C2%B047-2026-102%20du%2010%2006%202026.pdf",
+          "source_label": "Arrêté n°47-2026-06-08-00003 (8 juin 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "chevreuil",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13 septembre 2026 à 8h au 28 février 2027 au soir. Chasse pratiquée en battue, à l'approche ou à l'affût, en application du plan de chasse et conformément aux prescriptions notifiées par la FDC. Tir à cartouches à grenailles de plomb d'un diamètre de 3,75 et 4 mm (ou substitut de caractéristiques balistiques équivalentes), à balle ou à l'arc, autorisé sur l'ensemble du département.",
+          "source_url": "https://www.lot-et-garonne.gouv.fr/contenu/telechargement/30474/231512/file/9_recueil%20des%20actes%20administratifs%20sp%C3%A9cial%20n%C2%B047-2026-102%20du%2010%2006%202026.pdf",
+          "source_label": "Arrêté n°47-2026-06-08-00003 (8 juin 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "cerf-elaphe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13 septembre 2026 à 8h au 28 février 2027 au soir dans les communes situées en zone d'exclusion de la présence du cerf ; du 4 octobre 2026 à 8h au 28 février 2027 au soir dans les communes situées en zone de présence du cerf. Chasse en application du plan de chasse et conformément aux prescriptions notifiées par la FDC.",
+          "source_url": "https://www.lot-et-garonne.gouv.fr/contenu/telechargement/30474/231512/file/9_recueil%20des%20actes%20administratifs%20sp%C3%A9cial%20n%C2%B047-2026-102%20du%2010%2006%202026.pdf",
+          "source_label": "Arrêté n°47-2026-06-08-00003 (8 juin 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "lievre-europe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Selon les secteurs du département, entre le 13 septembre 2026 à 8h et le 13 décembre 2026 au soir, ou entre le 4 octobre 2026 à 8h et le 1er janvier 2027 au soir. Chasse autorisée uniquement le mercredi, le dimanche et les jours fériés (le lundi et jeudi également chassables dans certains secteurs). Prélèvement maximum autorisé par chasseur de 1 lièvre par jour de chasse et de 1 à 4 lièvres par campagne selon les communes ; prélèvement journalier cumulé lièvre/perdrix/faisan limité à 3 pièces par chasseur. Marquage obligatoire sur le lieu de capture, retour du carnet de prélèvement à la FDC au plus tard le 30 juin 2027, même en l'absence de prélèvement.",
+          "source_url": "https://www.lot-et-garonne.gouv.fr/contenu/telechargement/30474/231512/file/9_recueil%20des%20actes%20administratifs%20sp%C3%A9cial%20n%C2%B047-2026-102%20du%2010%2006%202026.pdf",
+          "source_label": "Arrêté n°47-2026-06-08-00003 (8 juin 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "faisan-commun",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Selon les communes, du 13 septembre 2026 à 8h au 31 janvier 2027 au soir. Chasse autorisée le mercredi et le dimanche (et jours fériés) dans la majorité des communes, avec prélèvement limité à 1 ou 2 faisans par jour et par chasseur selon les secteurs ; poules faisanes protégées à compter du 2 janvier 2027 dans plusieurs communes. Prélèvement journalier cumulé lièvre/perdrix/faisan limité à 3 pièces par chasseur. Tir à l'affût, à l'agrainée ou à proximité d'abreuvoirs interdit.",
+          "source_url": "https://www.lot-et-garonne.gouv.fr/contenu/telechargement/30474/231512/file/9_recueil%20des%20actes%20administratifs%20sp%C3%A9cial%20n%C2%B047-2026-102%20du%2010%2006%202026.pdf",
+          "source_label": "Arrêté n°47-2026-06-08-00003 (8 juin 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "becasse-bois",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13 septembre 2026 à 8h au 20 février 2027 au soir. Chasse autorisée uniquement le lundi, mercredi, jeudi, samedi, dimanche et jours fériés. Chasse à la passée ou à la croule interdite. PMA national de 30 bécasses par saison, décliné en 2 par jour et 6 par semaine ; en groupe (à partir de deux chasseurs), quota de 4 bécasses par jour. Plan de gestion cynégétique institué pour cette espèce ; retour du carnet à la FDC via l'ACCA ou la société de chasse.",
+          "source_url": "https://www.lot-et-garonne.gouv.fr/contenu/telechargement/30474/231512/file/9_recueil%20des%20actes%20administratifs%20sp%C3%A9cial%20n%C2%B047-2026-102%20du%2010%2006%202026.pdf",
+          "source_label": "Arrêté n°47-2026-06-08-00003 (8 juin 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "canard-colvert",
+      "faits": [
+        {
+          "label": "Dates de chasse - gibier d'eau",
+          "detail": "Du 21 août 2026 à 6h au 13 septembre 2026 à 8h : chasse ouverte uniquement le mercredi et le dimanche. Du 21 août 2026 au 31 janvier 2027 au soir : prélèvement maximum journalier autorisé fixé à 1 canard colvert par chasseur. Chasse à tir du gibier d'eau à l'agrainée interdite sur l'ensemble du département. Se référer au plan de gestion cynégétique du canard colvert approuvé par la FDC.",
+          "source_url": "https://www.lot-et-garonne.gouv.fr/contenu/telechargement/30474/231512/file/9_recueil%20des%20actes%20administratifs%20sp%C3%A9cial%20n%C2%B047-2026-102%20du%2010%2006%202026.pdf",
+          "source_label": "Arrêté n°47-2026-06-08-00003 (8 juin 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "pigeon-ramier",
+      "faits": [
+        {
+          "label": "Dates de chasse - palombe",
+          "detail": "Du 13 septembre 2026 à 8h au 20 février 2027 au soir selon les secteurs, avec restrictions : tir au vol avant/après la pose interdit dans toute installation au sol ou surélevée équipée d'appelants vivants ou artificiels (sauf pylônes existants en 1998) sur de nombreuses communes du département. Périodes spécifiques : du 21 novembre au 30 novembre 2026, du 1er décembre 2026 au 10 février 2027, et du 11 février au 20 février 2027, avec interdiction de tir dans les champs de maïs et interdiction de l'agrainage de la palombe ; utilisation des pigeons ramiers volants et semi-volants interdite ; appelants fixes sur raquette autorisés uniquement dans les bois et peupleraies.",
+          "source_url": "https://www.lot-et-garonne.gouv.fr/contenu/telechargement/30474/231512/file/9_recueil%20des%20actes%20administratifs%20sp%C3%A9cial%20n%C2%B047-2026-102%20du%2010%2006%202026.pdf",
+          "source_label": "Arrêté n°47-2026-06-08-00003 (8 juin 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "grive-draine",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Merle noir et grives (toutes espèces confondues) : du 13 septembre 2026 à 8h au 10 février 2027 au soir. Plan de gestion cynégétique institué ; quota de prélèvement de 20 grives ou merles par jour et par chasseur, toutes espèces confondues. Modalités de tir dans les vergers et vignes soumises à l'article 5 de l'arrêté préfectoral du 29 juin 2010 relatif à la sécurité publique.",
+          "source_url": "https://www.lot-et-garonne.gouv.fr/contenu/telechargement/30474/231512/file/9_recueil%20des%20actes%20administratifs%20sp%C3%A9cial%20n%C2%B047-2026-102%20du%2010%2006%202026.pdf",
+          "source_label": "Arrêté n°47-2026-06-08-00003 (8 juin 2026)"
+        }
+      ]
+    }
+  ]
+}
