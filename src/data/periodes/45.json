@@ -1,0 +1,121 @@
+{
+  "departement": "45",
+  "saison": "2026-2027",
+  "licence_source": "Licence ouverte Etalab 2.0",
+  "ouverture_generale": {
+    "date": "2026-09-20",
+    "fermeture": "2027-02-28",
+    "source_url": "https://fdc45.fr/wp-content/uploads/2026/05/20260513-AP_Chasse_OF_26-27.pdf",
+    "source_label": "Arrêté préfectoral n° DDT-SEEF-2026-063 relatif à l'ouverture et à la clôture de la chasse pour la campagne 2026-2027 (Loiret), signé le 13 mai 2026 à Orléans par la préfète Sophie Brocas",
+    "confiance": "haute"
+  },
+  "arretes_officiels": [
+    {
+      "objet": "Ouverture et clôture de la chasse 2026-2027",
+      "reference": "Arrêté préfectoral n° DDT-SEEF-2026-063 (13 mai 2026)",
+      "url_pdf": "https://fdc45.fr/wp-content/uploads/2026/05/20260513-AP_Chasse_OF_26-27.pdf",
+      "statut": "signé"
+    }
+  ],
+  "especes": [
+    {
+      "slug": "sanglier",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Sur l'ensemble du département, du 1er juin 2026 au 31 mai 2027, soumis à plan de gestion. Du 1er juin au 14 août : sur autorisation préfectorale individuelle, en battue, à l'affût ou à l'approche. Du 15 août au 31 mars : sans formalité, en tout lieu (battue, affût, approche). Du 1er avril au 31 mai : uniquement pour la protection des semis, à l'affût ou à l'approche, battue exceptionnelle sur autorisation préfectorale. Marquage obligatoire avant déplacement du 20 septembre au 31 mars (sauf marcassins en livrée). Interdiction du rabat à l'aide d'engins automobiles",
+          "source_url": "https://fdc45.fr/wp-content/uploads/2026/05/20260513-AP_Chasse_OF_26-27.pdf",
+          "source_label": "Arrêté préfectoral n° DDT-SEEF-2026-063 (13 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "cerf-elaphe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 1er septembre 2026 au 28 février 2027, sur l'ensemble du département. Du 1er septembre à l'ouverture générale (20 septembre 2026), seuls les mâles peuvent être chassés, à l'approche ou à l'affût",
+          "source_url": "https://fdc45.fr/wp-content/uploads/2026/05/20260513-AP_Chasse_OF_26-27.pdf",
+          "source_label": "Arrêté préfectoral n° DDT-SEEF-2026-063 (13 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "chevreuil",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 1er juin 2026 au 28 février 2027, sur l'ensemble du département. Du 1er juin à l'ouverture générale, seuls les mâles peuvent être chassés, à l'approche ou à l'affût sur autorisation préfectorale individuelle. Chasse du renard autorisée dans les mêmes conditions à partir du 1er juin pour les personnes autorisées à chasser le chevreuil ou le sanglier",
+          "source_url": "https://fdc45.fr/wp-content/uploads/2026/05/20260513-AP_Chasse_OF_26-27.pdf",
+          "source_label": "Arrêté préfectoral n° DDT-SEEF-2026-063 (13 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "lievre-europe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 4 octobre 2026 au 6 décembre 2026 sur l'ensemble du département (sauf territoires soumis à plan de chasse spécifique dans plusieurs GIC du Gâtinais et de Sologne, avec restrictions à un jour de chasse par semaine et fermetures anticipées locales, entre le 8 novembre et le 22 novembre 2026 selon les secteurs). Espèce soumise à plan de chasse sur de nombreuses communes",
+          "source_url": "https://fdc45.fr/wp-content/uploads/2026/05/20260513-AP_Chasse_OF_26-27.pdf",
+          "source_label": "Arrêté préfectoral n° DDT-SEEF-2026-063 (13 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-grise",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 20 septembre 2026 au 6 décembre 2026 sur l'ensemble du département (sauf plusieurs GIC du Gâtinais où la chasse est limitée à un jour par semaine, avec fermetures anticipées entre le 8 novembre et le 22 novembre 2026). Chasse soumise à plan de gestion avec la FDC45, marquage obligatoire (bague autocollante). À compter du 7 décembre 2026, seuls les oiseaux munis d'un signe distinctif peuvent être prélevés",
+          "source_url": "https://fdc45.fr/wp-content/uploads/2026/05/20260513-AP_Chasse_OF_26-27.pdf",
+          "source_label": "Arrêté préfectoral n° DDT-SEEF-2026-063 (13 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-rouge",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 20 septembre 2026 au 31 janvier 2027, sur l'ensemble du département. À compter du 1er février 2027, seuls les oiseaux munis d'un signe distinctif peuvent être prélevés",
+          "source_url": "https://fdc45.fr/wp-content/uploads/2026/05/20260513-AP_Chasse_OF_26-27.pdf",
+          "source_label": "Arrêté préfectoral n° DDT-SEEF-2026-063 (13 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "faisan-commun",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 20 septembre 2026 au 31 janvier 2027, sur l'ensemble du département sauf sur plusieurs GIC (Vallées du Nan et de la Laye, Bellebat, Cléry, Grise, Beauce et Val, Outardes, Val et Forêt, Beaunois) où la chasse est soumise à plan de chasse ou de gestion avec la FDC45, tir de la poule faisane parfois interdit, ou limitée à un jour par semaine (le dimanche). À compter du 1er février 2027, seuls les oiseaux munis d'un signe distinctif peuvent être prélevés dans les établissements de chasse à caractère commercial",
+          "source_url": "https://fdc45.fr/wp-content/uploads/2026/05/20260513-AP_Chasse_OF_26-27.pdf",
+          "source_label": "Arrêté préfectoral n° DDT-SEEF-2026-063 (13 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "lapin-garenne",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Usage du furet autorisé dans tout le département pour la chasse au lapin de garenne",
+          "source_url": "https://fdc45.fr/wp-content/uploads/2026/05/20260513-AP_Chasse_OF_26-27.pdf",
+          "source_label": "Arrêté préfectoral n° DDT-SEEF-2026-063 (13 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "becasse-bois",
+      "faits": [
+        {
+          "label": "Statut",
+          "detail": "Chasse de la bécasse à la passée et à la croule interdite dans le département",
+          "source_url": "https://fdc45.fr/wp-content/uploads/2026/05/20260513-AP_Chasse_OF_26-27.pdf",
+          "source_label": "Arrêté préfectoral n° DDT-SEEF-2026-063 (13 mai 2026)"
+        }
+      ]
+    }
+  ]
+}

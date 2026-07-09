@@ -1,0 +1,110 @@
+{
+  "departement": "36",
+  "saison": "2026-2027",
+  "licence_source": "Licence ouverte Etalab 2.0",
+  "ouverture_generale": {
+    "date": "2026-09-27",
+    "fermeture": "2027-02-28",
+    "source_url": "https://fdc36.fr/wp-content/uploads/2025/09/AP-Ouv-Fermeture-2026-2027-signe-et-enregistre-au-RAA.pdf",
+    "source_label": "Arrêté n° 36-2026-06-02-00001 du 29 mai 2026 fixant les dates d'ouverture et de clôture de la chasse pour l'année cynégétique 2026-2027 dans le département de l'Indre (signé par délégation de la Préfète, publié au RAA)",
+    "confiance": "haute"
+  },
+  "arretes_officiels": [
+    {
+      "objet": "Dates d'ouverture et de clôture de la chasse 2026-2027",
+      "reference": "Arrêté n° 36-2026-06-02-00001 (29 mai 2026)",
+      "url_pdf": "https://fdc36.fr/wp-content/uploads/2025/09/AP-Ouv-Fermeture-2026-2027-signe-et-enregistre-au-RAA.pdf",
+      "statut": "signé"
+    }
+  ],
+  "especes": [
+    {
+      "slug": "sanglier",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Chasse anticipée du 1er juillet au 14 août 2026 (approche/affût, tir à balle obligatoire, plan de gestion sanglier ou plan de chasse requis). Période principale du 15 août 2026 au 31 mars 2027 (approche, affût ou battue). Période complémentaire de protection des semis du 1er avril au 31 mai 2027 (approche/affût, autorisation préfectorale individuelle). Nouvelle période anticipée 2027-2028 du 1er juin au 30 juin 2027 (approche, affût ou battue). Plan de gestion sanglier obligatoire sur tout le département sauf territoires de moins de 5 ha ; déclaration des prélèvements sous 72h sur le site de la FDC36",
+          "source_url": "https://fdc36.fr/wp-content/uploads/2025/09/AP-Ouv-Fermeture-2026-2027-signe-et-enregistre-au-RAA.pdf",
+          "source_label": "Arrêté n° 36-2026-06-02-00001 (29 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "cerf-elaphe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Cerf élaphe et cerf sika (biche et jeune) : du 1er septembre 2026 (tir à balle, uniquement pour les détenteurs d'une autorisation fédérale individuelle de tir estival au titre du plan de chasse 2026-2027) au 26 septembre 2026, puis ouverture générale jusqu'au 28 février 2027. Déclaration des prélèvements sous 72h à la FDC36",
+          "source_url": "https://fdc36.fr/wp-content/uploads/2025/09/AP-Ouv-Fermeture-2026-2027-signe-et-enregistre-au-RAA.pdf",
+          "source_label": "Arrêté n° 36-2026-06-02-00001 (29 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "chevreuil",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Chevreuil et daim : tir estival du brocard (animaux de plus d'un an) du 1er juillet au 26 septembre 2026 pour les détenteurs d'une autorisation fédérale, avec exception sur le territoire du GIC Chevreuil de la région Blancoise où le tir estival du brocard est interdit du 14 juillet au 15 août 2026 (période de rut). Ouverture générale du 27 septembre 2026 au 28 février 2027. Nouvelle période de tir estival 2027-2028 du 1er juin au 30 juin 2027. Déclaration des prélèvements sous 72h à la FDC36",
+          "source_url": "https://fdc36.fr/wp-content/uploads/2025/09/AP-Ouv-Fermeture-2026-2027-signe-et-enregistre-au-RAA.pdf",
+          "source_label": "Arrêté n° 36-2026-06-02-00001 (29 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "lievre-europe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 27 septembre 2026 au 6 décembre 2026, sur l'ensemble du département, à l'exception des communes de Badecon-le-Pin, Baraize, Bazaiges, Ceaulmont-les-Granges, Chantôme et Le Menoux où la chasse est ouverte du 11 octobre au 20 décembre 2026",
+          "source_url": "https://fdc36.fr/wp-content/uploads/2025/09/AP-Ouv-Fermeture-2026-2027-signe-et-enregistre-au-RAA.pdf",
+          "source_label": "Arrêté n° 36-2026-06-02-00001 (29 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "lapin-garenne",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 27 septembre 2026 au 31 janvier 2027, chasse à tir uniquement, sur l'ensemble du département",
+          "source_url": "https://fdc36.fr/wp-content/uploads/2025/09/AP-Ouv-Fermeture-2026-2027-signe-et-enregistre-au-RAA.pdf",
+          "source_label": "Arrêté n° 36-2026-06-02-00001 (29 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-grise",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 27 septembre 2026 au 6 décembre 2026, sur l'ensemble du département",
+          "source_url": "https://fdc36.fr/wp-content/uploads/2025/09/AP-Ouv-Fermeture-2026-2027-signe-et-enregistre-au-RAA.pdf",
+          "source_label": "Arrêté n° 36-2026-06-02-00001 (29 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-rouge",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 27 septembre 2026 au 6 décembre 2026, sur l'ensemble du département",
+          "source_url": "https://fdc36.fr/wp-content/uploads/2025/09/AP-Ouv-Fermeture-2026-2027-signe-et-enregistre-au-RAA.pdf",
+          "source_label": "Arrêté n° 36-2026-06-02-00001 (29 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "faisan-commun",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Chasse du coq faisan : dérogations locales à Heugnes (22 et 29 novembre 2026) et Orville (18 et 22 novembre 2026). Sur les territoires des GIC de la vallée de la Ringoire, marquage individuel obligatoire des oiseaux prélevés (bague autocollante). Chasse de la poule faisane interdite sur la commune de Vicq-Exemplet et sur de nombreuses communes listées (GIC de la Châtre, GIC de Sainte-Sévère, secteur nord de la Creuse) jusqu'au 10 janvier 2027",
+          "source_url": "https://fdc36.fr/wp-content/uploads/2025/09/AP-Ouv-Fermeture-2026-2027-signe-et-enregistre-au-RAA.pdf",
+          "source_label": "Arrêté n° 36-2026-06-02-00001 (29 mai 2026)"
+        }
+      ]
+    }
+  ]
+}

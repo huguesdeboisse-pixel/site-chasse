@@ -1,0 +1,121 @@
+{
+  "departement": "28",
+  "saison": "2026-2027",
+  "licence_source": "Licence ouverte Etalab 2.0",
+  "ouverture_generale": {
+    "date": "2026-09-27",
+    "fermeture": "2027-02-28",
+    "source_url": "https://www.eure-et-loir.gouv.fr/contenu/telechargement/61494/405545/file/20260522_arrete_DDT_SGREB_2026_112_periodes_ouverture_chasse.pdf",
+    "source_label": "Arrêté n° DDT-SGREB-2026-112 définissant les périodes d'ouverture et les conditions spécifiques de chasse de certaines espèces de gibier en Eure-et-Loir, campagne 2026-2027 (signé le 22 mai 2026)",
+    "confiance": "haute"
+  },
+  "arretes_officiels": [
+    {
+      "objet": "Périodes d'ouverture et conditions spécifiques de chasse 2026-2027",
+      "reference": "Arrêté n° DDT-SGREB-2026-112 (22 mai 2026)",
+      "url_pdf": "https://www.eure-et-loir.gouv.fr/contenu/telechargement/61494/405545/file/20260522_arrete_DDT_SGREB_2026_112_periodes_ouverture_chasse.pdf",
+      "statut": "signé"
+    }
+  ],
+  "especes": [
+    {
+      "slug": "sanglier",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 1er juin 2026 au 31 mars 2027 : à l'approche, à l'affût ou en battue, sans autorisation préfectorale, sur tout le territoire (plaine et bois). Du 1er avril au 31 mai 2027 : à l'approche/affût sur tout le territoire, en battue uniquement dans les cultures de miscanthus (ou ailleurs sur autorisation préfectorale). Plan de gestion : marquage obligatoire avant transport (sauf battues administratives et animaux de moins de 15 kg pleins), pas de consigne de tir sur sexe/poids/nombre",
+          "source_url": "https://www.eure-et-loir.gouv.fr/contenu/telechargement/61494/405545/file/20260522_arrete_DDT_SGREB_2026_112_periodes_ouverture_chasse.pdf",
+          "source_label": "Arrêté n° DDT-SGREB-2026-112 (22 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "cerf-elaphe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Tir à l'approche ou à l'affût : du 1er septembre 2026 au 28 février 2027. Hors tir à l'approche/affût (battue) : du 20 septembre 2026 (9h) au 28 février 2027. Espèce soumise à plan de chasse, dispositifs de marquage obligatoires (C1/C2/biche/faon)",
+          "source_url": "https://www.eure-et-loir.gouv.fr/contenu/telechargement/61494/405545/file/20260522_arrete_DDT_SGREB_2026_112_periodes_ouverture_chasse.pdf",
+          "source_label": "Arrêté n° DDT-SGREB-2026-112 (22 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "chevreuil",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Tir à l'approche ou à l'affût : du 1er juin 2026 au 28 février 2027 (avant l'ouverture générale, seuls les mâles peuvent être prélevés). Hors tir à l'approche/affût (battue) : du 20 septembre 2026 (9h) au 28 février 2027. Espèce soumise à plan de chasse, dispositifs de marquage obligatoires (CHI/CHJ)",
+          "source_url": "https://www.eure-et-loir.gouv.fr/contenu/telechargement/61494/405545/file/20260522_arrete_DDT_SGREB_2026_112_periodes_ouverture_chasse.pdf",
+          "source_label": "Arrêté n° DDT-SGREB-2026-112 (22 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "lievre-europe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 27 septembre 2026 au 6 décembre 2026, sur l'ensemble du département. Espèce soumise à plan de gestion : quota fixé par la FDC28, marquage obligatoire avant transport, bilan des prélèvements à transmettre",
+          "source_url": "https://www.eure-et-loir.gouv.fr/contenu/telechargement/61494/405545/file/20260522_arrete_DDT_SGREB_2026_112_periodes_ouverture_chasse.pdf",
+          "source_label": "Arrêté n° DDT-SGREB-2026-112 (22 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-grise",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 27 septembre 2026 au 6 décembre 2026, sur l'ensemble du département. Espèce soumise à plan de gestion : quota FDC28, marquage obligatoire, lâchers de tir interdits (seuls les lâchers de repeuplement conventionnés autorisés)",
+          "source_url": "https://www.eure-et-loir.gouv.fr/contenu/telechargement/61494/405545/file/20260522_arrete_DDT_SGREB_2026_112_periodes_ouverture_chasse.pdf",
+          "source_label": "Arrêté n° DDT-SGREB-2026-112 (22 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-rouge",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Sur les communes du Parc naturel régional du Perche : du 27 septembre 2026 au 6 décembre 2026 (quota et marquage FDC28). Sur le reste du département : du 27 septembre 2026 au 31 janvier 2027, seuls les lâchers de tir conventionnés avec la FDC28 sont autorisés",
+          "source_url": "https://www.eure-et-loir.gouv.fr/contenu/telechargement/61494/405545/file/20260522_arrete_DDT_SGREB_2026_112_periodes_ouverture_chasse.pdf",
+          "source_label": "Arrêté n° DDT-SGREB-2026-112 (22 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "faisan-commun",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 27 septembre 2026 au 31 janvier 2027 (faisan commun soumis à plan de gestion avec quota par commune, marquage obligatoire sur les communes listées en annexe 1 ; tir des poules faisanes interdit sur certaines communes de repeuplement). Faisan vénéré : du 27 septembre 2026 au 28 février 2027, sans condition particulière",
+          "source_url": "https://www.eure-et-loir.gouv.fr/contenu/telechargement/61494/405545/file/20260522_arrete_DDT_SGREB_2026_112_periodes_ouverture_chasse.pdf",
+          "source_label": "Arrêté n° DDT-SGREB-2026-112 (22 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "lapin-garenne",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Chasse à l'aide de bourses et de furets autorisée pendant la période d'ouverture de l'espèce",
+          "source_url": "https://www.eure-et-loir.gouv.fr/contenu/telechargement/61494/405545/file/20260522_arrete_DDT_SGREB_2026_112_periodes_ouverture_chasse.pdf",
+          "source_label": "Arrêté n° DDT-SGREB-2026-112 (22 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "becasse-bois",
+      "faits": [
+        {
+          "label": "Prélèvement maximal autorisé",
+          "detail": "PMA de 2 bécasses par jour et par chasseur, dans la limite de 3 par semaine, et de 30 par chasseur et par saison sur l'ensemble du territoire métropolitain",
+          "source_url": "https://www.eure-et-loir.gouv.fr/contenu/telechargement/61494/405545/file/20260522_arrete_DDT_SGREB_2026_112_periodes_ouverture_chasse.pdf",
+          "source_label": "Arrêté n° DDT-SGREB-2026-112 (22 mai 2026)"
+        }
+      ]
+    }
+  ]
+}

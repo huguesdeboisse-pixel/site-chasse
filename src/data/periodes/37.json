@@ -1,0 +1,121 @@
+{
+  "departement": "37",
+  "saison": "2026-2027",
+  "licence_source": "Licence ouverte Etalab 2.0",
+  "ouverture_generale": {
+    "date": "2026-09-20",
+    "fermeture": "2027-02-28",
+    "source_url": "https://fdc37.fr/wp-content/uploads/2025/09/20260529-Art-ouverture-cloture-de-la-chasse-2026-2027-avec-carte-faisan-signe.pdf",
+    "source_label": "Arrêté relatif à l'ouverture et à la clôture de la chasse dans le département d'Indre-et-Loire pour la campagne 2026-2027 (signé le 29 mai 2026 à Tours par la Directrice départementale des territoires Corinne Biver, par délégation du préfet)",
+    "confiance": "haute"
+  },
+  "arretes_officiels": [
+    {
+      "objet": "Ouverture et clôture de la chasse 2026-2027",
+      "reference": "Arrêté du 29 mai 2026 (Indre-et-Loire)",
+      "url_pdf": "https://fdc37.fr/wp-content/uploads/2025/09/20260529-Art-ouverture-cloture-de-la-chasse-2026-2027-avec-carte-faisan-signe.pdf",
+      "statut": "signé"
+    }
+  ],
+  "especes": [
+    {
+      "slug": "sanglier",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 1er juin au 14 août 2026 : à l'affût ou à l'approche (balle ou arc), et en battue (5 tireurs minimum) à partir du 1er juillet, sur autorisation ou attribution de plan de chasse/gestion. Du 15 août 2026 au 31 mars 2027 : tout mode de chasse sans autorisation. Du 1er avril au 31 mai 2027 : à l'affût ou à l'approche pour la protection des cultures et semis. Marquage obligatoire avant tout transport (sauf animaux de moins de 20 kg pris par les chiens), déclaration de prélèvement sous 72h à la FDC37",
+          "source_url": "https://fdc37.fr/wp-content/uploads/2025/09/20260529-Art-ouverture-cloture-de-la-chasse-2026-2027-avec-carte-faisan-signe.pdf",
+          "source_label": "Arrêté du 29 mai 2026 (Indre-et-Loire)"
+        }
+      ]
+    },
+    {
+      "slug": "cerf-elaphe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 1er septembre 2026 au 28 février 2027. Avant l'ouverture générale (20 septembre 2026), chasse à l'affût ou à l'approche uniquement, réservée aux bénéficiaires d'un plan de chasse. Timbre grand gibier obligatoire",
+          "source_url": "https://fdc37.fr/wp-content/uploads/2025/09/20260529-Art-ouverture-cloture-de-la-chasse-2026-2027-avec-carte-faisan-signe.pdf",
+          "source_label": "Arrêté du 29 mai 2026 (Indre-et-Loire)"
+        }
+      ]
+    },
+    {
+      "slug": "chevreuil",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 1er juin 2026 au 28 février 2027. Avant l'ouverture générale (20 septembre 2026), chasse à l'affût ou à l'approche uniquement, réservée aux bénéficiaires d'un plan de chasse (tir d'été des cervidés). Chasse du renard autorisée dans les mêmes conditions que le chevreuil avant ouverture générale. Timbre grand gibier obligatoire",
+          "source_url": "https://fdc37.fr/wp-content/uploads/2025/09/20260529-Art-ouverture-cloture-de-la-chasse-2026-2027-avec-carte-faisan-signe.pdf",
+          "source_label": "Arrêté du 29 mai 2026 (Indre-et-Loire)"
+        }
+      ]
+    },
+    {
+      "slug": "lievre-europe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 4 octobre 2026 au 6 décembre 2026, sur l'ensemble du département, soumis à plan de gestion",
+          "source_url": "https://fdc37.fr/wp-content/uploads/2025/09/20260529-Art-ouverture-cloture-de-la-chasse-2026-2027-avec-carte-faisan-signe.pdf",
+          "source_label": "Arrêté du 29 mai 2026 (Indre-et-Loire)"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-grise",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 20 septembre 2026 au 6 décembre 2026, sur l'ensemble du département. Perdrix grises issues d'élevage : dispositif de marquage spécifique obligatoire (bandelette ou poncho)",
+          "source_url": "https://fdc37.fr/wp-content/uploads/2025/09/20260529-Art-ouverture-cloture-de-la-chasse-2026-2027-avec-carte-faisan-signe.pdf",
+          "source_label": "Arrêté du 29 mai 2026 (Indre-et-Loire)"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-rouge",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 20 septembre 2026 au 6 décembre 2026, sur l'ensemble du département. Perdrix rouges issues d'élevage : dispositif de marquage spécifique obligatoire (bandelette ou poncho)",
+          "source_url": "https://fdc37.fr/wp-content/uploads/2025/09/20260529-Art-ouverture-cloture-de-la-chasse-2026-2027-avec-carte-faisan-signe.pdf",
+          "source_label": "Arrêté du 29 mai 2026 (Indre-et-Loire)"
+        }
+      ]
+    },
+    {
+      "slug": "faisan-commun",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Faisans communs ponchotés et bagués à l'aile : du 20 septembre 2026 au 10 janvier 2027, sans limitation. Faisans communs naturels (soumis à marquage) : à partir du 4 octobre 2026 seulement, dans la limite des bracelets attribués, jusqu'au 10 janvier 2027. Tir de la poule faisane commune interdit sur 10 communes (Benais, Bourgueil, Chouzé-sur-Loire, Ingrandes-de-Touraine, La Chapelle-sur-Loire, Coteaux-sur-Loire, Restigné, Saint-Michel-sur-Loire, Saint-Nicolas-de-Bourgueil, Saint-Patrice). Faisan vénéré : du 20 septembre 2026 au 31 janvier 2027",
+          "source_url": "https://fdc37.fr/wp-content/uploads/2025/09/20260529-Art-ouverture-cloture-de-la-chasse-2026-2027-avec-carte-faisan-signe.pdf",
+          "source_label": "Arrêté du 29 mai 2026 (Indre-et-Loire)"
+        }
+      ]
+    },
+    {
+      "slug": "lapin-garenne",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Pendant la période de chasse générale, capture aux bourses et chasse à tir à l'aide de furets autorisées en tout lieu",
+          "source_url": "https://fdc37.fr/wp-content/uploads/2025/09/20260529-Art-ouverture-cloture-de-la-chasse-2026-2027-avec-carte-faisan-signe.pdf",
+          "source_label": "Arrêté du 29 mai 2026 (Indre-et-Loire)"
+        }
+      ]
+    },
+    {
+      "slug": "becasse-bois",
+      "faits": [
+        {
+          "label": "Prélèvement maximal autorisé",
+          "detail": "PMA de 30 oiseaux par an, 3 par semaine et 2 par jour et par titulaire du permis de chasser. Déclaration immédiate via l'application ChassAdapt ou carnet de prélèvement avec bracelet autocollant",
+          "source_url": "https://fdc37.fr/wp-content/uploads/2025/09/20260529-Art-ouverture-cloture-de-la-chasse-2026-2027-avec-carte-faisan-signe.pdf",
+          "source_label": "Arrêté du 29 mai 2026 (Indre-et-Loire)"
+        }
+      ]
+    }
+  ]
+}

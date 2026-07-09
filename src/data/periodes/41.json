@@ -1,0 +1,121 @@
+{
+  "departement": "41",
+  "saison": "2026-2027",
+  "licence_source": "Licence ouverte Etalab 2.0",
+  "ouverture_generale": {
+    "date": "2026-09-27",
+    "fermeture": "2027-02-28",
+    "source_url": "https://www.loir-et-cher.gouv.fr/contenu/telechargement/42388/322951/file/AP%20sign%C3%A9.pdf",
+    "source_label": "Arrêté n° 41-2026-05-29-00005 relatif à l'ouverture et à la fermeture de la chasse pour la campagne 2026/2027 dans le département de Loir-et-Cher (signé le 29 mai 2026 à Blois par le préfet Joseph Zimet)",
+    "confiance": "haute"
+  },
+  "arretes_officiels": [
+    {
+      "objet": "Ouverture et fermeture de la chasse 2026-2027",
+      "reference": "Arrêté n° 41-2026-05-29-00005 (29 mai 2026)",
+      "url_pdf": "https://www.loir-et-cher.gouv.fr/contenu/telechargement/42388/322951/file/AP%20sign%C3%A9.pdf",
+      "statut": "signé"
+    }
+  ],
+  "especes": [
+    {
+      "slug": "sanglier",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Sur l'ensemble du département, conformément au plan de gestion cynégétique : du 1er juin 2026 au 14 août 2026 sur autorisation préfectorale individuelle (approche/affût, ou battue à partir du 15 août sans autorisation) ; du 15 août 2026 au 31 mars 2027 tout mode de chasse (approche, affût, battue) sans autorisation, avec carnet de prélèvement à jour dans les 48h et déclaration sous 72h sur l'espace adhérent ; du 1er avril au 31 mai 2027 chasse possible à titre exceptionnel pour la protection des cultures et prairies, sur autorisation préfectorale, pour le chevreuil ou le sanglier",
+          "source_url": "https://www.loir-et-cher.gouv.fr/contenu/telechargement/42388/322951/file/AP%20sign%C3%A9.pdf",
+          "source_label": "Arrêté n° 41-2026-05-29-00005 (29 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "cerf-elaphe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 1er septembre 2026 au 28 février 2027, sur l'ensemble du département. Avant la date d'ouverture générale, le cerf élaphe et le mouflon ne peuvent être chassés qu'à l'affût ou à l'approche par une des détenteurs d'une autorisation préfectorale individuelle, avec déclaration des prélèvements sur l'espace adhérent obligatoire",
+          "source_url": "https://www.loir-et-cher.gouv.fr/contenu/telechargement/42388/322951/file/AP%20sign%C3%A9.pdf",
+          "source_label": "Arrêté n° 41-2026-05-29-00005 (29 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "chevreuil",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 1er juin 2026 au 28 février 2027, sur l'ensemble du département, conformément au plan de gestion cynégétique. Chasse du renard autorisée dans les mêmes conditions et territoires que le chevreuil",
+          "source_url": "https://www.loir-et-cher.gouv.fr/contenu/telechargement/42388/322951/file/AP%20sign%C3%A9.pdf",
+          "source_label": "Arrêté n° 41-2026-05-29-00005 (29 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "lievre-europe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 11 octobre 2026 au 20 décembre 2026 dans le cadre du plan de chasse, sur une large liste de communes (secteur nord et centre du département, cf. arrêté du 28 mai 2026 fixant la liste des communes soumises au plan de chasse lièvre) ; du 27 septembre 2026 au 31 janvier 2027 sur les autres communes du département",
+          "source_url": "https://www.loir-et-cher.gouv.fr/contenu/telechargement/42388/322951/file/AP%20sign%C3%A9.pdf",
+          "source_label": "Arrêté n° 41-2026-05-29-00005 (29 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-grise",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 27 septembre 2026 au 6 décembre 2026, sur l'ensemble du département, dans le cadre du plan de gestion cynégétique",
+          "source_url": "https://www.loir-et-cher.gouv.fr/contenu/telechargement/42388/322951/file/AP%20sign%C3%A9.pdf",
+          "source_label": "Arrêté n° 41-2026-05-29-00005 (29 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-rouge",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 27 septembre 2026 au 6 décembre 2026 sur l'ensemble du département, sauf en Sologne cynégétique (communes de Bauzy, Bracieux, Chambord, Chatres-sur-Cher, Courmemin, Crouy-sur-Cosson, Dhuizon, Fontaines-en-Sologne, Gy-en-Sologne, La Ferté-Beauharnais, La Marolle-en-Sologne, Lassay-sur-Croisne, Langon, Montrieux-en-Sologne, Mennetou-sur-Cher, Mur-de-Sologne, Neung-sur-Beuvron, Neuvy, Orçay, Pruniers-en-Sologne, Rougeou, St-Laurent-Nouan, Theillay, Thoury, Tour-en-Sologne, Villefranche-sur-Cher et Villeny) où la fermeture est fixée au 31 janvier 2027",
+          "source_url": "https://www.loir-et-cher.gouv.fr/contenu/telechargement/42388/322951/file/AP%20sign%C3%A9.pdf",
+          "source_label": "Arrêté n° 41-2026-05-29-00005 (29 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "faisan-commun",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 11 octobre 2026 au 10 janvier 2027 dans le cadre du plan de chasse sur de nombreuses communes déléguées (Perche, Vendômois, Sologne notamment, cf. tableau annexe) ; du 27 septembre 2026 au 31 janvier 2027 sur le reste du département. Faisan vénéré : du 27 septembre 2026 au 31 janvier 2027, sauf sur Choussy et Monthou-sur-Cher (secteur de Thenay) où la fermeture générale s'applique dès la zone de repeuplement",
+          "source_url": "https://www.loir-et-cher.gouv.fr/contenu/telechargement/42388/322951/file/AP%20sign%C3%A9.pdf",
+          "source_label": "Arrêté n° 41-2026-05-29-00005 (29 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "becasse-bois",
+      "faits": [
+        {
+          "label": "Prélèvement maximal autorisé",
+          "detail": "PMA de 30 bécasses par saison, 3 par semaine et 2 par jour et par chasseur. Enregistrement obligatoire immédiatement après capture via carnet de prélèvement avec marquage inamovible délivré par la FDC41, ou via l'application ChassAdapt",
+          "source_url": "https://www.loir-et-cher.gouv.fr/contenu/telechargement/42388/322951/file/AP%20sign%C3%A9.pdf",
+          "source_label": "Arrêté n° 41-2026-05-29-00005 (29 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "lapin-garenne",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Pendant la période où l'espèce est chassable, chasse à tir à l'aide de furets autorisée ; l'utilisation de bourses est conditionnée à l'obtention d'une autorisation préfectorale",
+          "source_url": "https://www.loir-et-cher.gouv.fr/contenu/telechargement/42388/322951/file/AP%20sign%C3%A9.pdf",
+          "source_label": "Arrêté n° 41-2026-05-29-00005 (29 mai 2026)"
+        }
+      ]
+    }
+  ]
+}

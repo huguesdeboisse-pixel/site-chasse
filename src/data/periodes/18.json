@@ -1,0 +1,132 @@
+{
+  "departement": "18",
+  "saison": "2026-2027",
+  "licence_source": "Licence ouverte Etalab 2.0",
+  "ouverture_generale": {
+    "date": "2026-09-27",
+    "fermeture": "2027-02-28",
+    "source_url": "https://www.cher.gouv.fr/contenu/telechargement/43883/336434/file/AP+ouverture+fermeture+chasse+2026-2027.pdf",
+    "source_label": "Arrêté n° DDT-2026-161 relatif à l'ouverture et à la clôture de la chasse pour la campagne 2026-2027 dans le département du Cher (signé le 22 mai 2026)",
+    "confiance": "haute"
+  },
+  "arretes_officiels": [
+    {
+      "objet": "Ouverture et clôture générale 2026-2027",
+      "reference": "Arrêté n° DDT-2026-161 (22 mai 2026)",
+      "url_pdf": "https://www.cher.gouv.fr/contenu/telechargement/43883/336434/file/AP+ouverture+fermeture+chasse+2026-2027.pdf",
+      "statut": "signé"
+    }
+  ],
+  "especes": [
+    {
+      "slug": "sanglier",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 1er juin 2026 au 31 mai 2027 : du 1er juin au 14 août sur autorisation préfectorale individuelle (affût, approche, battue) ; du 15 août au 31 mars sans autorisation individuelle (affût, approche, battue) ; du 1er avril au 31 mai uniquement pour la protection des semis, sur autorisation préfectorale individuelle. Plan de gestion départemental applicable (déclaration des battues sous 48h, quota de battues minimal selon période)",
+          "source_url": "https://www.cher.gouv.fr/contenu/telechargement/43883/336434/file/AP+ouverture+fermeture+chasse+2026-2027.pdf",
+          "source_label": "Arrêté n° DDT-2026-161 (22 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "cerf-elaphe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Ouverture anticipée le 1er septembre 2026 (sur autorisation préfectorale individuelle, seuls les mâles, à l'approche ou à l'affût, jusqu'à l'ouverture générale du 27 septembre 2026), clôture à la clôture générale le 28 février 2027. Plan de chasse individuel obligatoire",
+          "source_url": "https://www.cher.gouv.fr/contenu/telechargement/43883/336434/file/AP+ouverture+fermeture+chasse+2026-2027.pdf",
+          "source_label": "Arrêté n° DDT-2026-161 (22 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "chevreuil",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Ouverture anticipée le 1er juin 2026 (sur autorisation préfectorale individuelle, seuls mâles, femelles déficientes/blessées non suitées, à l'approche ou à l'affût, jusqu'à l'ouverture générale du 27 septembre 2026), clôture à la clôture générale le 28 février 2027. Plan de chasse individuel obligatoire",
+          "source_url": "https://www.cher.gouv.fr/contenu/telechargement/43883/336434/file/AP+ouverture+fermeture+chasse+2026-2027.pdf",
+          "source_label": "Arrêté n° DDT-2026-161 (22 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "lievre-europe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 11 octobre 2026 au 13 décembre 2026, sur l'ensemble du département. Sur 11 communes du Sancerrois (Assigny, Belleville-sur-Loire, Boulleret, Léré, Ménétréol-sous-Sancerre, Sainte-Gemme-en-Sancerrois, Saint-Satur, Santranges, Savigny-en-Sancerre, Subligny, Sury-près-Léré) : PMA d'un lièvre par chasseur pour la saison, carnet de prélèvement et bracelet de marquage obligatoires",
+          "source_url": "https://www.cher.gouv.fr/contenu/telechargement/43883/336434/file/AP+ouverture+fermeture+chasse+2026-2027.pdf",
+          "source_label": "Arrêté n° DDT-2026-161 (22 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "lapin-garenne",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "De l'ouverture générale (27 septembre 2026) à la clôture générale (28 février 2027), sur l'ensemble du département, emploi du furet autorisé",
+          "source_url": "https://www.cher.gouv.fr/contenu/telechargement/43883/336434/file/AP+ouverture+fermeture+chasse+2026-2027.pdf",
+          "source_label": "Arrêté n° DDT-2026-161 (22 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-grise",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "De l'ouverture générale (27 septembre 2026) au 29 novembre 2026, sauf 14 communes (Allogny, Argent-sur-Sauldre, Aubigny-sur-Nère, Brinon-sur-Sauldre, Clémont, Ennordres, Ménétréol-sur-Sauldre, Méry-ès-Bois, Nançay, Neuvy-sur-Barangeon, Presly, Saint-Laurent, Sainte-Montaine, Vouzeron) où elle est autorisée jusqu'au 31 janvier 2027",
+          "source_url": "https://www.cher.gouv.fr/contenu/telechargement/43883/336434/file/AP+ouverture+fermeture+chasse+2026-2027.pdf",
+          "source_label": "Arrêté n° DDT-2026-161 (22 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-rouge",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "De l'ouverture générale (27 septembre 2026) au 29 novembre 2026, sauf 14 communes (Allogny, Argent-sur-Sauldre, Aubigny-sur-Nère, Brinon-sur-Sauldre, Clémont, Ennordres, Ménétréol-sur-Sauldre, Méry-ès-Bois, Nançay, Neuvy-sur-Barangeon, Presly, Saint-Laurent, Sainte-Montaine, Vouzeron) où elle est autorisée jusqu'au 31 janvier 2027",
+          "source_url": "https://www.cher.gouv.fr/contenu/telechargement/43883/336434/file/AP+ouverture+fermeture+chasse+2026-2027.pdf",
+          "source_label": "Arrêté n° DDT-2026-161 (22 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "faisan-commun",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "De l'ouverture générale (27 septembre 2026) au 17 janvier 2027 (jusqu'au 31 janvier 2027 sur 14 communes listées et la commune d'Oizon). Tir de la poule faisane interdit sur 128 communes listées sauf oiseaux marqués (bandelette ou poncho)",
+          "source_url": "https://www.cher.gouv.fr/contenu/telechargement/43883/336434/file/AP+ouverture+fermeture+chasse+2026-2027.pdf",
+          "source_label": "Arrêté n° DDT-2026-161 (22 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "caille-bles",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "De l'ouverture générale (27 septembre 2026) au 17 janvier 2027, sur l'ensemble du département sauf 14 communes bénéficiant d'une prolongation jusqu'au 31 janvier 2027",
+          "source_url": "https://www.cher.gouv.fr/contenu/telechargement/43883/336434/file/AP+ouverture+fermeture+chasse+2026-2027.pdf",
+          "source_label": "Arrêté n° DDT-2026-161 (22 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "becasse-bois",
+      "faits": [
+        {
+          "label": "Prélèvement maximal autorisé",
+          "detail": "PMA de 30 bécasses par chasseur et par saison, 3 par semaine, maximum 2 par jour. Carnet de prélèvement individuel avec bracelet, ou déclaration via l'application ChassAdapt, obligatoire",
+          "source_url": "https://www.cher.gouv.fr/contenu/telechargement/43883/336434/file/AP+ouverture+fermeture+chasse+2026-2027.pdf",
+          "source_label": "Arrêté n° DDT-2026-161 (22 mai 2026)"
+        }
+      ]
+    }
+  ]
+}

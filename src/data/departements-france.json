@@ -142,8 +142,8 @@
    "nom": "Cher",
    "region": "Centre-Val de Loire",
    "prefecture_url": "https://www.cher.gouv.fr",
-   "fdc_nom": null,
-   "fdc_url": null
+   "fdc_nom": "Fédération départementale des chasseurs du Cher",
+   "fdc_url": "https://fdc18.fr/"
   },
   {
    "code": "19",
@@ -214,8 +214,8 @@
    "nom": "Eure-et-Loir",
    "region": "Centre-Val de Loire",
    "prefecture_url": "https://www.eure-et-loir.gouv.fr",
-   "fdc_nom": null,
-   "fdc_url": null
+   "fdc_nom": "Fédération départementale des chasseurs d'Eure-et-Loir",
+   "fdc_url": "https://fdc28.fr/"
   },
   {
    "code": "29",
@@ -294,16 +294,16 @@
    "nom": "Indre",
    "region": "Centre-Val de Loire",
    "prefecture_url": "https://www.indre.gouv.fr",
-   "fdc_nom": null,
-   "fdc_url": null
+   "fdc_nom": "Fédération départementale des chasseurs de l'Indre",
+   "fdc_url": "https://fdc36.fr/"
   },
   {
    "code": "37",
    "nom": "Indre-et-Loire",
    "region": "Centre-Val de Loire",
    "prefecture_url": "https://www.indre-et-loire.gouv.fr",
-   "fdc_nom": null,
-   "fdc_url": null
+   "fdc_nom": "Fédération départementale des chasseurs de l'Indre-et-Loire",
+   "fdc_url": "https://fdc37.fr/"
   },
   {
    "code": "38",
@@ -334,8 +334,8 @@
    "nom": "Loir-et-Cher",
    "region": "Centre-Val de Loire",
    "prefecture_url": "https://www.loir-et-cher.gouv.fr",
-   "fdc_nom": null,
-   "fdc_url": null
+   "fdc_nom": "Fédération départementale des chasseurs de Loir-et-Cher",
+   "fdc_url": "https://fdc41.com/"
   },
   {
    "code": "42",
@@ -366,8 +366,8 @@
    "nom": "Loiret",
    "region": "Centre-Val de Loire",
    "prefecture_url": "https://www.loiret.gouv.fr",
-   "fdc_nom": null,
-   "fdc_url": null
+   "fdc_nom": "Fédération départementale des chasseurs du Loiret",
+   "fdc_url": "https://fdc45.fr/"
   },
   {
    "code": "46",
