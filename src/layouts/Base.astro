@@ -43,6 +43,9 @@ const {
       h1,h2,h3{line-height:1.2;letter-spacing:-.01em;}
 
       /* Header */
+      .site-logo{display:inline-flex;flex-direction:column;gap:.05rem;padding:1.4rem 0 .2rem;text-decoration:none;}
+      .site-logo-title{font-weight:600;font-size:1.4rem;color:var(--ink);letter-spacing:-.01em;}
+      .site-logo-sub{font-size:.78rem;color:var(--muted);}
 
       /* Hero */
       .hero{background:var(--green-900);color:#f3f1e7;padding:3rem 0 3.2rem;}
@@ -164,6 +167,14 @@ const {
     </style>
   </head>
   <body>
+    {Astro.url.pathname !== '/' && (
+      <div class="wrap">
+        <a href="/" class="site-logo">
+          <span class="site-logo-title">Chasse</span>
+          <span class="site-logo-sub">Actualité administrative</span>
+        </a>
+      </div>
+    )}
     <main>
       <slot />
     </main>
