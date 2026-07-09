@@ -133,7 +133,7 @@ for (const e of especesDataset.especes) {
           <p class="info-title">Ouverture générale</p>
           <p class="info-value">
             {formatDate(periodes.ouverture_generale.date)}
-            {periodes.ouverture_generale.fermeture && <> → {formatDate(periodes.ouverture_generale.fermeture)}</>}
+            {periodes.ouverture_generale.fermeture && <> — {formatDate(periodes.ouverture_generale.fermeture)}</>}
             <sup><a class="footnote-ref" href={`#s${ouvertureRef}`}>{ouvertureRef}</a></sup>
           </p>
         </div>
@@ -180,7 +180,6 @@ for (const e of especesDataset.especes) {
         b.classList.toggle('active', on);
       });
       rows.forEach((r) => { r.hidden = !selected.has(r.dataset.slug!); });
-      generale.hidden = selected.size > 0;
 
       const visible = [generale, ...rows].filter((r) => !r.hidden);
       [generale, ...rows].forEach((r) => r.classList.remove('is-last'));
