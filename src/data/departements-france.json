@@ -606,8 +606,8 @@
    "nom": "Paris",
    "region": "Île-de-France",
    "prefecture_url": "https://www.prefecturedepolice.interieur.gouv.fr",
-   "fdc_nom": null,
-   "fdc_url": null
+   "fdc_nom": "Fédération Interdépartementale des Chasseurs d'Île-de-France (FICIF)",
+   "fdc_url": "https://www.ficif.com/"
   },
   {
    "code": "76",
@@ -622,16 +622,16 @@
    "nom": "Seine-et-Marne",
    "region": "Île-de-France",
    "prefecture_url": "https://www.seine-et-marne.gouv.fr",
-   "fdc_nom": null,
-   "fdc_url": null
+   "fdc_nom": "Fédération Départementale des Chasseurs de Seine-et-Marne",
+   "fdc_url": "https://www.fdc77.fr/"
   },
   {
    "code": "78",
    "nom": "Yvelines",
    "region": "Île-de-France",
    "prefecture_url": "https://www.yvelines.gouv.fr",
-   "fdc_nom": null,
-   "fdc_url": null
+   "fdc_nom": "Fédération Interdépartementale des Chasseurs d'Île-de-France (FICIF)",
+   "fdc_url": "https://www.ficif.com/"
   },
   {
    "code": "79",
@@ -734,40 +734,40 @@
    "nom": "Essonne",
    "region": "Île-de-France",
    "prefecture_url": "https://www.essonne.gouv.fr",
-   "fdc_nom": null,
-   "fdc_url": null
+   "fdc_nom": "Fédération Interdépartementale des Chasseurs d'Île-de-France (FICIF)",
+   "fdc_url": "https://www.ficif.com/"
   },
   {
    "code": "92",
    "nom": "Hauts-de-Seine",
    "region": "Île-de-France",
    "prefecture_url": "https://www.hauts-de-seine.gouv.fr",
-   "fdc_nom": null,
-   "fdc_url": null
+   "fdc_nom": "Fédération Interdépartementale des Chasseurs d'Île-de-France (FICIF)",
+   "fdc_url": "https://www.ficif.com/"
   },
   {
    "code": "93",
    "nom": "Seine-Saint-Denis",
    "region": "Île-de-France",
    "prefecture_url": "https://www.seine-saint-denis.gouv.fr",
-   "fdc_nom": null,
-   "fdc_url": null
+   "fdc_nom": "Fédération Interdépartementale des Chasseurs d'Île-de-France (FICIF)",
+   "fdc_url": "https://www.ficif.com/"
   },
   {
    "code": "94",
    "nom": "Val-de-Marne",
    "region": "Île-de-France",
    "prefecture_url": "https://www.val-de-marne.gouv.fr",
-   "fdc_nom": null,
-   "fdc_url": null
+   "fdc_nom": "Fédération Interdépartementale des Chasseurs d'Île-de-France (FICIF)",
+   "fdc_url": "https://www.ficif.com/"
   },
   {
    "code": "95",
    "nom": "Val-d'Oise",
    "region": "Île-de-France",
    "prefecture_url": "https://www.val-doise.gouv.fr",
-   "fdc_nom": null,
-   "fdc_url": null
+   "fdc_nom": "Fédération Interdépartementale des Chasseurs d'Île-de-France (FICIF)",
+   "fdc_url": "https://www.ficif.com/"
   },
   {
    "code": "971",

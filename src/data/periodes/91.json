@@ -1,0 +1,110 @@
+{
+  "departement": "91",
+  "saison": "2026-2027",
+  "licence_source": "Licence ouverte Etalab 2.0",
+  "ouverture_generale": {
+    "date": "2026-09-20",
+    "fermeture": "2027-02-28",
+    "source_url": "https://www.essonne.gouv.fr/contenu/telechargement/43808/376900/file/AP202+du+18+mai+2026_ouverture+cl%C3%B4ture_chasse.pdf",
+    "source_label": "Arrêté préfectoral n°2026-DDT-SE-202 portant ouverture et clôture de la chasse pour la campagne 2026-2027 dans le département de l'Essonne (signé le 18 mai 2026 par la préfète Fabienne Balussou)",
+    "confiance": "haute"
+  },
+  "arretes_officiels": [
+    {
+      "objet": "Ouverture et clôture générale 2026-2027",
+      "reference": "Arrêté préfectoral n°2026-DDT-SE-202 (18 mai 2026)",
+      "url_pdf": "https://www.essonne.gouv.fr/contenu/telechargement/43808/376900/file/AP202+du+18+mai+2026_ouverture+cl%C3%B4ture_chasse.pdf",
+      "statut": "signé"
+    }
+  ],
+  "especes": [
+    {
+      "slug": "sanglier",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 1er juin 2026 au 31 mai 2027. Du 1er juin au 14 août 2026 : chasse à tir de jour sur autorisation préalable de l'administration (sauf bénéficiaires d'un tir d'été intégré à leur plan de chasse) ; dans les communes classées « points noirs sanglier » (liste étendue couvrant une large partie du département), la chasse peut être pratiquée en battue, à l'approche ou à l'affût selon des modalités spécifiques. Déclaration de tir à la FICIF obligatoire sous 48h",
+          "source_url": "https://www.essonne.gouv.fr/contenu/telechargement/43808/376900/file/AP202+du+18+mai+2026_ouverture+cl%C3%B4ture_chasse.pdf",
+          "source_label": "Arrêté préfectoral n°2026-DDT-SE-202 (18 mai 2026), articles 3, 4 et 6"
+        }
+      ]
+    },
+    {
+      "slug": "chevreuil",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 1er juin 2026 au 28 février 2027. Tir des cervidés et sanglier à déclarer à la FICIF dans les 48h (fiche de prélèvement journalier ou espace adhérent FICIF). Tir à balle interdit en période d'ouverture générale sur les territoires de moins de 5 ha d'un seul tenant",
+          "source_url": "https://www.essonne.gouv.fr/contenu/telechargement/43808/376900/file/AP202+du+18+mai+2026_ouverture+cl%C3%B4ture_chasse.pdf",
+          "source_label": "Arrêté préfectoral n°2026-DDT-SE-202 (18 mai 2026), articles 3 et 4"
+        }
+      ]
+    },
+    {
+      "slug": "cerf-elaphe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 1er septembre 2026 au 28 février 2027. Plan de chasse qualitatif applicable sur l'ensemble du département (bracelets CEF, C1, C2, DAG, JCB, CR selon l'âge/sexe/type de bois). Tir à déclarer à la FICIF sous 48h ; sur l'unité de gestion de La Celle-les-Bordes, transmission du maxillaire inférieur et de deux photographies du trophée à la FICIF",
+          "source_url": "https://www.essonne.gouv.fr/contenu/telechargement/43808/376900/file/AP202+du+18+mai+2026_ouverture+cl%C3%B4ture_chasse.pdf",
+          "source_label": "Arrêté préfectoral n°2026-DDT-SE-202 (18 mai 2026), articles 3 et 5"
+        }
+      ]
+    },
+    {
+      "slug": "lievre-europe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 20 septembre 2026 au 29 novembre 2026, sur l'ensemble du département. Espèce soumise à plan de chasse",
+          "source_url": "https://www.essonne.gouv.fr/contenu/telechargement/43808/376900/file/AP202+du+18+mai+2026_ouverture+cl%C3%B4ture_chasse.pdf",
+          "source_label": "Arrêté préfectoral n°2026-DDT-SE-202 (18 mai 2026), article 3"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-grise",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 20 septembre au 29 novembre 2026",
+          "source_url": "https://www.essonne.gouv.fr/contenu/telechargement/43808/376900/file/AP202+du+18+mai+2026_ouverture+cl%C3%B4ture_chasse.pdf",
+          "source_label": "Arrêté préfectoral n°2026-DDT-SE-202 (18 mai 2026), article 3"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-rouge",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 20 septembre 2026 au 31 janvier 2027 (jusqu'au 28 février 2027 pour les chasses commerciales dûment déclarées en préfecture)",
+          "source_url": "https://www.essonne.gouv.fr/contenu/telechargement/43808/376900/file/AP202+du+18+mai+2026_ouverture+cl%C3%B4ture_chasse.pdf",
+          "source_label": "Arrêté préfectoral n°2026-DDT-SE-202 (18 mai 2026), article 3"
+        }
+      ]
+    },
+    {
+      "slug": "faisan-commun",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Coq : du 20 septembre 2026 au 31 janvier 2027. Poule : du 4 octobre au 31 décembre 2026. Chasses commerciales dûment déclarées en préfecture : du 20 septembre 2026 au 28 février 2027. Fait l'objet d'un plan de gestion cynégétique spécifique pour la campagne 2026-2027",
+          "source_url": "https://www.essonne.gouv.fr/contenu/telechargement/43808/376900/file/AP202+du+18+mai+2026_ouverture+cl%C3%B4ture_chasse.pdf",
+          "source_label": "Arrêté préfectoral n°2026-DDT-SE-202 (18 mai 2026), article 3"
+        }
+      ]
+    },
+    {
+      "slug": "becasse-bois",
+      "faits": [
+        {
+          "label": "Prélèvement maximal autorisé",
+          "detail": "PMA de 30 oiseaux par chasseur pour l'ensemble de la saison cynégétique. Chasse conditionnée à la détention d'un carnet de prélèvement et d'un dispositif de marquage",
+          "source_url": "https://www.essonne.gouv.fr/contenu/telechargement/43808/376900/file/AP202+du+18+mai+2026_ouverture+cl%C3%B4ture_chasse.pdf",
+          "source_label": "Arrêté préfectoral n°2026-DDT-SE-202 (18 mai 2026), article 3"
+        }
+      ]
+    }
+  ]
+}

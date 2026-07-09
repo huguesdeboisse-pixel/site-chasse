@@ -1,0 +1,110 @@
+{
+  "departement": "95",
+  "saison": "2026-2027",
+  "licence_source": "Licence ouverte Etalab 2.0",
+  "ouverture_generale": {
+    "date": "2026-09-20",
+    "fermeture": "2027-02-28",
+    "source_url": "https://www.val-doise.gouv.fr/contenu/telechargement/32889/240077/file/AP_2026-18757_Chasse_ouverture_generale.pdf",
+    "source_label": "Arrêté préfectoral n°2026-18757 fixant les périodes d'ouverture et de fermeture de la chasse pour la campagne 2026-2027 dans le département du Val-d'Oise (signé le 11 mai 2026)",
+    "confiance": "haute"
+  },
+  "arretes_officiels": [
+    {
+      "objet": "Ouverture et clôture générale 2026-2027",
+      "reference": "Arrêté préfectoral n°2026-18757 (11 mai 2026)",
+      "url_pdf": "https://www.val-doise.gouv.fr/contenu/telechargement/32889/240077/file/AP_2026-18757_Chasse_ouverture_generale.pdf",
+      "statut": "signé"
+    }
+  ],
+  "especes": [
+    {
+      "slug": "sanglier",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 1er juin 2026 au 31 mai 2027 dans le cadre général. En dehors de la période d'ouverture générale (20 septembre 2026 - 28 février 2027), le sanglier ne peut être chassé qu'en vertu des dispositions de l'arrêté n°2026-18760 définissant le plan de gestion cynégétique du sanglier pour la campagne 2026-2027",
+          "source_url": "https://www.val-doise.gouv.fr/contenu/telechargement/32889/240077/file/AP_2026-18757_Chasse_ouverture_generale.pdf",
+          "source_label": "Arrêté préfectoral n°2026-18757 (11 mai 2026), article 3 et note (2)"
+        }
+      ]
+    },
+    {
+      "slug": "chevreuil",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 1er juin 2026 au 28 février 2027. Avant l'ouverture générale, chassable uniquement à l'approche ou à l'affût par les détenteurs d'une autorisation individuelle de tir anticipée, en vertu de l'arrêté n°2026-18758",
+          "source_url": "https://www.val-doise.gouv.fr/contenu/telechargement/32889/240077/file/AP_2026-18757_Chasse_ouverture_generale.pdf",
+          "source_label": "Arrêté préfectoral n°2026-18757 (11 mai 2026), article 3 et note (1)"
+        }
+      ]
+    },
+    {
+      "slug": "cerf-elaphe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 1er septembre 2026 au 28 février 2027. Avant l'ouverture générale, chassable uniquement à l'approche ou à l'affût par les détenteurs d'une autorisation individuelle de tir anticipée. Plan de chasse qualitatif applicable sur l'ensemble du département en vertu de l'arrêté n°2026-18758",
+          "source_url": "https://www.val-doise.gouv.fr/contenu/telechargement/32889/240077/file/AP_2026-18757_Chasse_ouverture_generale.pdf",
+          "source_label": "Arrêté préfectoral n°2026-18757 (11 mai 2026), article 3 et note (1)"
+        }
+      ]
+    },
+    {
+      "slug": "lievre-europe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 20 septembre au 29 novembre 2026, sur l'ensemble du département. Espèce soumise à plan de chasse",
+          "source_url": "https://www.val-doise.gouv.fr/contenu/telechargement/32889/240077/file/AP_2026-18757_Chasse_ouverture_generale.pdf",
+          "source_label": "Arrêté préfectoral n°2026-18757 (11 mai 2026), article 3 et note (3)"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-grise",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 20 septembre au 29 novembre 2026 (jusqu'au 28 février 2027 pour les établissements professionnels de chasse à caractère commercial dûment déclarés en préfecture)",
+          "source_url": "https://www.val-doise.gouv.fr/contenu/telechargement/32889/240077/file/AP_2026-18757_Chasse_ouverture_generale.pdf",
+          "source_label": "Arrêté préfectoral n°2026-18757 (11 mai 2026), article 3 et note (4)"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-rouge",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 20 septembre 2026 au 31 janvier 2027 (jusqu'au 28 février 2027 pour les établissements professionnels de chasse à caractère commercial dûment déclarés en préfecture)",
+          "source_url": "https://www.val-doise.gouv.fr/contenu/telechargement/32889/240077/file/AP_2026-18757_Chasse_ouverture_generale.pdf",
+          "source_label": "Arrêté préfectoral n°2026-18757 (11 mai 2026), article 3 et note (4)"
+        }
+      ]
+    },
+    {
+      "slug": "faisan-commun",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Coq et faisan en général : du 20 septembre 2026 au 31 janvier 2027. Poule faisane commune : du 4 octobre au 31 décembre 2026, sauf sur les zones soumises au plan de gestion cynégétique faisan (arrêté n°2026-18761) où d'autres règles s'appliquent. Jusqu'au 28 février 2027 pour les établissements professionnels de chasse à caractère commercial déclarés en préfecture",
+          "source_url": "https://www.val-doise.gouv.fr/contenu/telechargement/32889/240077/file/AP_2026-18757_Chasse_ouverture_generale.pdf",
+          "source_label": "Arrêté préfectoral n°2026-18757 (11 mai 2026), article 3 et notes (4), (5), (8)"
+        }
+      ]
+    },
+    {
+      "slug": "becasse-bois",
+      "faits": [
+        {
+          "label": "Prélèvement maximal autorisé",
+          "detail": "PMA de 30 oiseaux par saison cynégétique et par chasseur",
+          "source_url": "https://www.val-doise.gouv.fr/contenu/telechargement/32889/240077/file/AP_2026-18757_Chasse_ouverture_generale.pdf",
+          "source_label": "Arrêté préfectoral n°2026-18757 (11 mai 2026), article 3, note (6)"
+        }
+      ]
+    }
+  ]
+}

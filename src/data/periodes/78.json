@@ -1,0 +1,110 @@
+{
+  "departement": "78",
+  "saison": "2026-2027",
+  "licence_source": "Licence ouverte Etalab 2.0",
+  "ouverture_generale": {
+    "date": "2026-09-20",
+    "fermeture": "2027-02-28",
+    "source_url": "https://www.rey78.fr/wp-content/uploads/AFFICHE-OUVERTURE-FERMETURE-CHASSE-2026-2027-1.pdf",
+    "source_label": "Arrêté préfectoral n°78-2026-05-20-00006 portant ouverture et clôture de la chasse pour la campagne 2026-2027 dans le département des Yvelines (signé le 20 mai 2026)",
+    "confiance": "haute"
+  },
+  "arretes_officiels": [
+    {
+      "objet": "Ouverture et clôture générale, plans de chasse 2026-2027",
+      "reference": "Arrêté préfectoral n°78-2026-05-20-00006 (20 mai 2026)",
+      "url_pdf": "https://www.rey78.fr/wp-content/uploads/AFFICHE-OUVERTURE-FERMETURE-CHASSE-2026-2027-1.pdf",
+      "statut": "signé"
+    }
+  ],
+  "especes": [
+    {
+      "slug": "sanglier",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 1er juin 2026 au 31 mai 2027. Du 1er juin au 14 août 2026 : à l'approche ou à l'affût sur autorisation préfectorale (plan de chasse cervidés) ou en battue sur autorisation préfectorale sur parcelles agricoles et îlots boisés de moins de 5 ha ; du 15 août au 19 septembre 2026 : sans formalité à l'approche/affût ou en battue sur parcelles agricoles et îlots boisés < 5 ha ; du 1er au 31 mars 2027 : en battue, affût ou approche dans les massifs forestiers et parcelles agricoles selon le plan de gestion cynégétique ; du 1er avril au 31 mai 2027 : à l'affût et à l'approche uniquement en protection des semis, sur autorisation préfectorale individuelle",
+          "source_url": "https://www.rey78.fr/wp-content/uploads/AFFICHE-OUVERTURE-FERMETURE-CHASSE-2026-2027-1.pdf",
+          "source_label": "Arrêté préfectoral n°78-2026-05-20-00006 (20 mai 2026), article 2"
+        }
+      ]
+    },
+    {
+      "slug": "chevreuil",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 1er juin 2026 au 28 février 2027. Du 1er juin au 19 septembre 2026 : uniquement à l'approche ou à l'affût, de jour, sous réserve d'un plan de chasse individuel délivré par la FICIF et d'une autorisation préfectorale de chasse anticipée (tirs d'été), précompté sur le plan de chasse",
+          "source_url": "https://www.rey78.fr/wp-content/uploads/AFFICHE-OUVERTURE-FERMETURE-CHASSE-2026-2027-1.pdf",
+          "source_label": "Arrêté préfectoral n°78-2026-05-20-00006 (20 mai 2026), article 2"
+        }
+      ]
+    },
+    {
+      "slug": "cerf-elaphe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 1er septembre 2026 au 28 février 2027. Du 1er septembre au 19 septembre 2026 : uniquement à l'approche ou à l'affût, sous réserve d'un plan de chasse individuel FICIF et d'une autorisation préfectorale de chasse anticipée (tirs d'été). Chasse à courre du cerf élaphe jusqu'au 31 mars 2027",
+          "source_url": "https://www.rey78.fr/wp-content/uploads/AFFICHE-OUVERTURE-FERMETURE-CHASSE-2026-2027-1.pdf",
+          "source_label": "Arrêté préfectoral n°78-2026-05-20-00006 (20 mai 2026), article 2"
+        }
+      ]
+    },
+    {
+      "slug": "lievre-europe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 20 septembre au 29 novembre 2026 (31 mars 2027 pour la chasse à courre). Espèce soumise à plan de chasse sur l'ensemble du département",
+          "source_url": "https://www.rey78.fr/wp-content/uploads/AFFICHE-OUVERTURE-FERMETURE-CHASSE-2026-2027-1.pdf",
+          "source_label": "Arrêté préfectoral n°78-2026-05-20-00006 (20 mai 2026), articles 2 et 3"
+        }
+      ]
+    },
+    {
+      "slug": "lapin-garenne",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 20 septembre 2026 au 28 février 2027",
+          "source_url": "https://www.rey78.fr/wp-content/uploads/AFFICHE-OUVERTURE-FERMETURE-CHASSE-2026-2027-1.pdf",
+          "source_label": "Arrêté préfectoral n°78-2026-05-20-00006 (20 mai 2026), article 2"
+        }
+      ]
+    },
+    {
+      "slug": "faisan-commun",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Coq : du 20 septembre 2026 au 31 janvier 2027. Poule : du 4 octobre au 31 décembre 2026. Sauf zones de gestion soumises à plan de gestion (dont le territoire OFB d'Auffargis, Cernay-la-Ville, La Celle-les-Bordes, Les Essarts-le-Roi et Senlisse, où le faisan est soumis à plan de chasse)",
+          "source_url": "https://www.rey78.fr/wp-content/uploads/AFFICHE-OUVERTURE-FERMETURE-CHASSE-2026-2027-1.pdf",
+          "source_label": "Arrêté préfectoral n°78-2026-05-20-00006 (20 mai 2026), articles 2 et 3"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-grise",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 20 septembre au 29 novembre 2026, sur l'ensemble du département. Régime dérogatoire limité sur les communes de Bennecourt, Gommecourt et Limetz-Villez (5 jours de chasse, 3 perdrix/jour/chasseur)",
+          "source_url": "https://www.rey78.fr/wp-content/uploads/AFFICHE-OUVERTURE-FERMETURE-CHASSE-2026-2027-1.pdf",
+          "source_label": "Arrêté préfectoral n°78-2026-05-20-00006 (20 mai 2026), articles 2 et 4"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-rouge",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 20 septembre 2026 au 31 janvier 2027",
+          "source_url": "https://www.rey78.fr/wp-content/uploads/AFFICHE-OUVERTURE-FERMETURE-CHASSE-2026-2027-1.pdf",
+          "source_label": "Arrêté préfectoral n°78-2026-05-20-00006 (20 mai 2026), article 2"
+        }
+      ]
+    }
+  ]
+}
