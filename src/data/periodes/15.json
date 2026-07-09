@@ -1,0 +1,144 @@
+{
+  "departement": "15",
+  "saison": "2026-2027",
+  "licence_source": "Licence ouverte Etalab 2.0",
+  "ouverture_generale": {
+    "date": "2026-09-13",
+    "fermeture": "2027-02-28",
+    "source_url": "https://www.cantal.gouv.fr/contenu/telechargement/25285/197217/file/AP_OuvertureCloture2026-2027_Signe.pdf",
+    "source_label": "Arrêté préfectoral n°2026-111-DDT relatif à l'ouverture et à la clôture de la chasse pour la campagne 2026-2027 dans le département du Cantal (signé le 19 juin 2026)",
+    "confiance": "haute"
+  },
+  "arretes_officiels": [
+    {
+      "objet": "Ouverture et clôture générale 2026-2027",
+      "reference": "Arrêté préfectoral n°2026-111-DDT (19 juin 2026)",
+      "url_pdf": "https://www.cantal.gouv.fr/contenu/telechargement/25285/197217/file/AP_OuvertureCloture2026-2027_Signe.pdf",
+      "statut": "signé"
+    },
+    {
+      "objet": "Période complémentaire de vénerie sous terre du blaireau 2026-2027",
+      "reference": "Arrêté préfectoral (signé, 2026)",
+      "url_pdf": "https://www.cantal.gouv.fr/contenu/telechargement/25289/197237/file/AP_PeriodeComplementaireBlaireau_2026-2027_Signe.pdf",
+      "statut": "signé"
+    }
+  ],
+  "especes": [
+    {
+      "slug": "sanglier",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Chasse en battue, à l'affût ou à l'approche, autorisée à titre dérogatoire du 1er juillet au 14 août 2026 et du 15 août au 12 septembre 2026 (organisée par le détenteur du droit de chasse en tenant compte des demandes des agriculteurs) ; ouverture générale sans restriction du 13 septembre 2026 au 31 mars 2027 ; du 1er avril au 31 mai 2027 uniquement à l'affût/l'approche pour la protection des semis ; du 1er juin au 30 juin 2027 en battue, affût ou approche sur autorisation",
+          "source_url": "https://www.cantal.gouv.fr/contenu/telechargement/25285/197217/file/AP_OuvertureCloture2026-2027_Signe.pdf",
+          "source_label": "Arrêté préfectoral n°2026-111-DDT (19 juin 2026)"
+        },
+        {
+          "label": "Autre",
+          "detail": "Tir à balle obligatoire. Prélèvements soumis à saisie hebdomadaire dans l'application CYNEO. Dans les réserves de chasse et de faune sauvage des ACCA, chasse en battue autorisée du 1er juillet 2026 au 31 mars 2027 et du 1er juin au 30 juin 2027, limitée à 8 battues par saison, sur déclaration préalable obligatoire par courriel à l'OFB et à la FDC15",
+          "source_url": "https://www.cantal.gouv.fr/contenu/telechargement/25285/197217/file/AP_OuvertureCloture2026-2027_Signe.pdf",
+          "source_label": "Arrêté préfectoral n°2026-111-DDT (19 juin 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "chevreuil",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Tir d'été à l'approche/l'affût sur autorisation individuelle du 1er juillet au 12 septembre 2026 (cadre de l'arrêté préfectoral 2004-2047 du 23 novembre 2004 modifié) ; ouverture générale en battue ou individuelle du 13 septembre 2026 au 28 février 2027 ; tir d'été à l'approche/l'affût sur autorisation du 1er au 30 juin 2027. Seule l'utilisation de grenaille de plomb (3,75-4,00 mm), de grenaille sans plomb (4-4,8 mm) ou de balles est autorisée",
+          "source_url": "https://www.cantal.gouv.fr/contenu/telechargement/25285/197217/file/AP_OuvertureCloture2026-2027_Signe.pdf",
+          "source_label": "Arrêté préfectoral n°2026-111-DDT (19 juin 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "cerf-elaphe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 17 octobre 2026 au 28 février 2027, chasse en battue ou individuelle, soumis à plan de chasse. Tir à balle obligatoire. Chasse interdite les 3 et 4 octobre 2026 (jours de comptage) sur les communes de l'unité de gestion cerf « Vallée de l'Alagnon » : Auriac-l'Église, Bonnac, La Chapelle-Laurent, Charmensac, Coltines, Ferrières-Saint-Mary, Joursac, Laurie, Leyvaux, Massiac, Malèdes, Molompize, Peyrusse, Rezentières, Saint-Mary-le-Plain, Saint-Poncy, Talizat, Valjouze, Vèze, Vieillespesse",
+          "source_url": "https://www.cantal.gouv.fr/contenu/telechargement/25285/197217/file/AP_OuvertureCloture2026-2027_Signe.pdf",
+          "source_label": "Arrêté préfectoral n°2026-111-DDT (19 juin 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "chamois",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13 septembre 2026 au 28 février 2027, soumis à plan de chasse, chasse exclusivement à l'approche ou à l'affût, sans auxiliaire (rabatteur ou chien), conformément au plan de tir adopté par le GIC des Monts du Cantal. Tir à balle obligatoire",
+          "source_url": "https://www.cantal.gouv.fr/contenu/telechargement/25285/197217/file/AP_OuvertureCloture2026-2027_Signe.pdf",
+          "source_label": "Arrêté préfectoral n°2026-111-DDT (19 juin 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "lievre-europe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13 septembre 2026 au 13 décembre 2026 au soir, chasse exclusivement autorisée jusqu'à 13 heures",
+          "source_url": "https://www.cantal.gouv.fr/contenu/telechargement/25285/197217/file/AP_OuvertureCloture2026-2027_Signe.pdf",
+          "source_label": "Arrêté préfectoral n°2026-111-DDT (19 juin 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "lapin-garenne",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13 septembre 2026 au 13 décembre 2026 au soir",
+          "source_url": "https://www.cantal.gouv.fr/contenu/telechargement/25285/197217/file/AP_OuvertureCloture2026-2027_Signe.pdf",
+          "source_label": "Arrêté préfectoral n°2026-111-DDT (19 juin 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "faisan-commun",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13 septembre 2026 au 13 décembre 2026 au soir",
+          "source_url": "https://www.cantal.gouv.fr/contenu/telechargement/25285/197217/file/AP_OuvertureCloture2026-2027_Signe.pdf",
+          "source_label": "Arrêté préfectoral n°2026-111-DDT (19 juin 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-rouge",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13 septembre 2026 au 13 décembre 2026 au soir",
+          "source_url": "https://www.cantal.gouv.fr/contenu/telechargement/25285/197217/file/AP_OuvertureCloture2026-2027_Signe.pdf",
+          "source_label": "Arrêté préfectoral n°2026-111-DDT (19 juin 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-grise",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13 septembre 2026 au 13 décembre 2026 au soir",
+          "source_url": "https://www.cantal.gouv.fr/contenu/telechargement/25285/197217/file/AP_OuvertureCloture2026-2027_Signe.pdf",
+          "source_label": "Arrêté préfectoral n°2026-111-DDT (19 juin 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "becasse-bois",
+      "faits": [
+        {
+          "label": "Prélèvement maximal autorisé",
+          "detail": "PMA journalier de 3 bécasses par jour, avec un maximum de 30 oiseaux pour la saison et par chasseur. Marquage et enregistrement obligatoires avant tout transport ; carnet de prélèvement à retourner à la FDC15 dans les 10 jours suivant la fermeture de la chasse à la bécasse",
+          "source_url": "https://www.cantal.gouv.fr/contenu/telechargement/25285/197217/file/AP_OuvertureCloture2026-2027_Signe.pdf",
+          "source_label": "Arrêté préfectoral n°2026-111-DDT (19 juin 2026)"
+        }
+      ]
+    }
+  ]
+}

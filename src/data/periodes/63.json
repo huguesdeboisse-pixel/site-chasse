@@ -1,0 +1,116 @@
+{
+  "departement": "63",
+  "saison": "2026-2027",
+  "licence_source": "Licence ouverte Etalab 2.0",
+  "ouverture_generale": {
+    "date": "2026-09-13",
+    "fermeture": "2027-02-28",
+    "source_url": "https://www.puy-de-dome.gouv.fr/contenu/telechargement/33807/270003/file/AP1070-2026-ouverture_cloture_annexe_signe.pdf",
+    "source_label": "Arrêté préfectoral n°20261070 relatif à l'ouverture et à la clôture de la chasse pour la campagne 2026/2027 dans le département du Puy-de-Dôme (signé le 23 juin 2026)",
+    "confiance": "haute"
+  },
+  "arretes_officiels": [
+    {
+      "objet": "Ouverture et clôture générale 2026-2027",
+      "reference": "Arrêté préfectoral n°20261070 (23 juin 2026)",
+      "url_pdf": "https://www.puy-de-dome.gouv.fr/contenu/telechargement/33807/270003/file/AP1070-2026-ouverture_cloture_annexe_signe.pdf",
+      "statut": "signé"
+    }
+  ],
+  "especes": [
+    {
+      "slug": "sanglier",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 1er juillet au 14 août 2026, chasse à l'affût ou à l'approche à proximité immédiate des cultures agricoles, sur autorisation préfectorale. Ouverture anticipée en battue du 15 août au 12 septembre 2026 (sauf chaîne des Puys, où seule la chasse à l'affût/l'approche est permise avec décantonnement encadré). Ouverture générale du 13 septembre 2026 au 28 février 2027 (plan de gestion cynégétique). Période complémentaire du 1er mars au 31 mars 2027 déterminée après avis de la FDC et de la CDCFS en février 2027 selon les prélèvements et dégâts. Tir d'été à l'affût/l'approche du 1er au 30 juin 2027",
+          "source_url": "https://www.puy-de-dome.gouv.fr/contenu/telechargement/33807/270003/file/AP1070-2026-ouverture_cloture_annexe_signe.pdf",
+          "source_label": "Arrêté préfectoral n°20261070 (23 juin 2026)"
+        },
+        {
+          "label": "Autre",
+          "detail": "Tir à balle obligatoire ou à l'arc. Déclaration obligatoire de tous les prélèvements à la Fédération départementale des chasseurs dans les 24h via son site internet. Sur les communes du site classé de la Chaîne des Puys (Charbonnières-les-Varennes, Pulvérières, Saint-Ours, Mazayes, Ceyssat, Nébouzat, Aurières, Aydat, Saint-Genès-Champanelle, Orcines, Chanat-la-Mouteyre, Volvic), l'utilisation de chiens pour le décantonnement est autorisée mais le tir est interdit sauf pour la protection des chiens (un seul chasseur armé)",
+          "source_url": "https://www.puy-de-dome.gouv.fr/contenu/telechargement/33807/270003/file/AP1070-2026-ouverture_cloture_annexe_signe.pdf",
+          "source_label": "Arrêté préfectoral n°20261070 (23 juin 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "chevreuil",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Tir d'été du brocard à l'approche ou à l'affût du 1er juillet au 12 septembre 2026 (tir à balle obligatoire ou à l'arc). Ouverture générale du 13 septembre 2026 au 28 février 2027 (tir à balle, à l'arc, ou à plomb de diamètre 3,5 à 4 mm ; tir à balle ou à l'arc obligatoire dans la bande des 30 mètres jouxtant un cours ou plan d'eau). Tir d'été du brocard à nouveau du 1er au 30 juin 2027. Déclaration obligatoire des prélèvements dans les 24h à la FDC63 via son site internet",
+          "source_url": "https://www.puy-de-dome.gouv.fr/contenu/telechargement/33807/270003/file/AP1070-2026-ouverture_cloture_annexe_signe.pdf",
+          "source_label": "Arrêté préfectoral n°20261070 (23 juin 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "cerf-elaphe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Sur les communes d'Anzat-le-Luguet, Mazoires et Saint-Alyre-ès-Montagne : ouverture générale au 16 octobre 2026, uniquement pour les femelles et les jeunes (bracelets CEF et CEJ). Sur le reste du département : du 17 octobre 2026 au 28 février 2027. Tir à balle obligatoire ou à l'arc, chasse en temps de neige autorisée, déclaration obligatoire des prélèvements dans les 24h à la FDC63",
+          "source_url": "https://www.puy-de-dome.gouv.fr/contenu/telechargement/33807/270003/file/AP1070-2026-ouverture_cloture_annexe_signe.pdf",
+          "source_label": "Arrêté préfectoral n°20261070 (23 juin 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "mouflon-mediterraneen",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Ouverture générale jusqu'au 28 février 2027 au soir. Tir à balle obligatoire ou à l'arc, chasse à l'approche uniquement, chasse en temps de neige autorisée, déclaration obligatoire des prélèvements dans les 24h à la FDC63",
+          "source_url": "https://www.puy-de-dome.gouv.fr/contenu/telechargement/33807/270003/file/AP1070-2026-ouverture_cloture_annexe_signe.pdf",
+          "source_label": "Arrêté préfectoral n°20261070 (23 juin 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "lievre-europe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Sur le territoire soumis au plan de gestion cynégétique du lièvre : ouverture générale jusqu'au 6 décembre 2026, selon un quota de prélèvements par commune, avec déclaration obligatoire des prélèvements dans les 24h à la FDC63 via son site internet. Reste du département : du 27 septembre 2026 au 29 novembre 2026 au soir. Des arrêtés spécifiques (PGCA) peuvent s'appliquer sur les territoires adhérents au GIC du Val d'Allier, au GIC de Lezoux et à l'Association de Gestion Basse Limagne",
+          "source_url": "https://www.puy-de-dome.gouv.fr/contenu/telechargement/33807/270003/file/AP1070-2026-ouverture_cloture_annexe_signe.pdf",
+          "source_label": "Arrêté préfectoral n°20261070 (23 juin 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "lapin-garenne",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Ouverture générale jusqu'au 28 février 2027 au soir. Emploi du furet autorisé sans formalité",
+          "source_url": "https://www.puy-de-dome.gouv.fr/contenu/telechargement/33807/270003/file/AP1070-2026-ouverture_cloture_annexe_signe.pdf",
+          "source_label": "Arrêté préfectoral n°20261070 (23 juin 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "faisan-commun",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Sur le territoire soumis à plan de gestion cynégétique : tir interdit. Sur le reste du département : ouverture générale jusqu'au 31 janvier 2027 au soir",
+          "source_url": "https://www.puy-de-dome.gouv.fr/contenu/telechargement/33807/270003/file/AP1070-2026-ouverture_cloture_annexe_signe.pdf",
+          "source_label": "Arrêté préfectoral n°20261070 (23 juin 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "becasse-bois",
+      "faits": [
+        {
+          "label": "Prélèvement maximal autorisé",
+          "detail": "Chasse à la passée interdite en tout temps, ainsi que la chasse à la croule. Prélèvement limité à 3 bécasses par chasseur et par jour, et à 30 bécasses par saison cynégétique, avec carnet de prélèvement obligatoire ou déclaration sur l'application ChassAdapt",
+          "source_url": "https://www.puy-de-dome.gouv.fr/contenu/telechargement/33807/270003/file/AP1070-2026-ouverture_cloture_annexe_signe.pdf",
+          "source_label": "Arrêté préfectoral n°20261070 (23 juin 2026)"
+        }
+      ]
+    }
+  ]
+}

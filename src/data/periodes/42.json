@@ -1,0 +1,149 @@
+{
+  "departement": "42",
+  "saison": "2026-2027",
+  "licence_source": "Licence ouverte Etalab 2.0",
+  "ouverture_generale": {
+    "date": "2026-09-13",
+    "fermeture": "2027-02-28",
+    "source_url": "https://www.loire.gouv.fr/contenu/telechargement/23940/174771/file/2026_05_13_AP_dates_modalites_26_27_RAA.pdf",
+    "source_label": "Arrêté préfectoral n°DT-26-0306 relatif à l'ouverture et à la fermeture de la chasse dans le département de la Loire pour la campagne 2026-2027 (signé le 13 mai 2026)",
+    "confiance": "haute"
+  },
+  "arretes_officiels": [
+    {
+      "objet": "Ouverture et clôture générale 2026-2027",
+      "reference": "Arrêté préfectoral n°DT-26-0306 (13 mai 2026)",
+      "url_pdf": "https://www.loire.gouv.fr/contenu/telechargement/23940/174771/file/2026_05_13_AP_dates_modalites_26_27_RAA.pdf",
+      "statut": "signé"
+    }
+  ],
+  "especes": [
+    {
+      "slug": "sanglier",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Soumis à plan de gestion. Chasse à l'affût ou à l'approche à compter du 1er juin 2026, en battue à compter du 1er août 2026, pour les bénéficiaires d'une autorisation préfectorale individuelle, jusqu'au 12 septembre 2026. Ouverture générale du 13 septembre 2026 au 28 février 2027 sous réserve d'adhésion au plan de gestion sanglier. Du 1er mars au 31 mars 2027, chasse en battue, affût ou approche sous réserve d'adhésion au plan de gestion. Du 1er avril au 31 mai 2027, chasse à l'approche, à l'affût ou exceptionnellement en battue, uniquement pour la protection des semis, sur autorisation préfectorale individuelle",
+          "source_url": "https://www.loire.gouv.fr/contenu/telechargement/23940/174771/file/2026_05_13_AP_dates_modalites_26_27_RAA.pdf",
+          "source_label": "Arrêté préfectoral n°DT-26-0306 (13 mai 2026)"
+        },
+        {
+          "label": "Autre",
+          "detail": "Marquage obligatoire par bracelet millésimé de la Fédération, à déclarer en ligne sur le portail Cynef dans les 72 heures suivant le prélèvement (date, commune de tir, sexe, poids)",
+          "source_url": "https://www.loire.gouv.fr/contenu/telechargement/23940/174771/file/2026_05_13_AP_dates_modalites_26_27_RAA.pdf",
+          "source_label": "Arrêté préfectoral n°DT-26-0306 (13 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "chevreuil",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Réservé aux détenteurs de décisions individuelles de plan de chasse. Tir sélectif (mâles adultes uniquement) à l'approche ou à l'affût sur autorisation préfectorale individuelle du 1er juin au 12 septembre 2026, sans chien ni rabatteur. Ouverture générale du 13 septembre 2026 au 28 février 2027, avec registre de chasse tenu par le détenteur du droit de chasse",
+          "source_url": "https://www.loire.gouv.fr/contenu/telechargement/23940/174771/file/2026_05_13_AP_dates_modalites_26_27_RAA.pdf",
+          "source_label": "Arrêté préfectoral n°DT-26-0306 (13 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "cerf-elaphe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Réservé aux détenteurs de décisions individuelles de plan de chasse, exclusivement les mâles, à l'approche ou à l'affût, du 13 septembre au 14 octobre 2026 (attestation de capacité obligatoire), puis en battue, à l'approche ou à l'affût du 15 octobre 2026 au 28 février 2027",
+          "source_url": "https://www.loire.gouv.fr/contenu/telechargement/23940/174771/file/2026_05_13_AP_dates_modalites_26_27_RAA.pdf",
+          "source_label": "Arrêté préfectoral n°DT-26-0306 (13 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "lievre-europe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Chasse interdite sauf sur les territoires des sociétés de chasse adhérentes au plan de gestion cynégétique lièvre. Dates au plus tôt le 13 septembre 2026, au plus tard le 31 janvier 2027, selon les attributions de prélèvement fixées par unité de gestion (plan de gestion consultable auprès de la FDC42). Marquage obligatoire par bracelet sur la patte avant droite",
+          "source_url": "https://www.loire.gouv.fr/contenu/telechargement/23940/174771/file/2026_05_13_AP_dates_modalites_26_27_RAA.pdf",
+          "source_label": "Arrêté préfectoral n°DT-26-0306 (13 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "lapin-garenne",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13 septembre 2026 au 31 janvier 2027, tir autorisé uniquement les samedis, dimanches, lundis, mercredis et jours fériés",
+          "source_url": "https://www.loire.gouv.fr/contenu/telechargement/23940/174771/file/2026_05_13_AP_dates_modalites_26_27_RAA.pdf",
+          "source_label": "Arrêté préfectoral n°DT-26-0306 (13 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "faisan-commun",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13 septembre 2026 au 31 janvier 2027, tir autorisé uniquement les samedis, dimanches, lundis, mercredis et jours fériés",
+          "source_url": "https://www.loire.gouv.fr/contenu/telechargement/23940/174771/file/2026_05_13_AP_dates_modalites_26_27_RAA.pdf",
+          "source_label": "Arrêté préfectoral n°DT-26-0306 (13 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-rouge",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13 septembre 2026 au 31 janvier 2027, tir autorisé uniquement les samedis, dimanches, lundis, mercredis et jours fériés",
+          "source_url": "https://www.loire.gouv.fr/contenu/telechargement/23940/174771/file/2026_05_13_AP_dates_modalites_26_27_RAA.pdf",
+          "source_label": "Arrêté préfectoral n°DT-26-0306 (13 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "becasse-bois",
+      "faits": [
+        {
+          "label": "Prélèvement maximal autorisé",
+          "detail": "Du 13 septembre 2026 au 20 février 2027. PMA national de 30 oiseaux par an, limité au niveau départemental à 6 oiseaux par semaine et 3 par jour de l'ouverture au 31 décembre 2026, puis 3 oiseaux par semaine du 1er janvier 2027 jusqu'à la clôture. Marquage par bracelet et déclaration obligatoire via carnet de prélèvement ou l'application ChassAdapt",
+          "source_url": "https://www.loire.gouv.fr/contenu/telechargement/23940/174771/file/2026_05_13_AP_dates_modalites_26_27_RAA.pdf",
+          "source_label": "Arrêté préfectoral n°DT-26-0306 (13 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "caille-bles",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 29 août 2026 au 20 février 2027",
+          "source_url": "https://www.loire.gouv.fr/contenu/telechargement/23940/174771/file/2026_05_13_AP_dates_modalites_26_27_RAA.pdf",
+          "source_label": "Arrêté préfectoral n°DT-26-0306 (13 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "pigeon-ramier",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Jusqu'au 10 février 2027 (dates d'ouverture fixées par arrêté ministériel pour le gibier de passage)",
+          "source_url": "https://www.loire.gouv.fr/contenu/telechargement/23940/174771/file/2026_05_13_AP_dates_modalites_26_27_RAA.pdf",
+          "source_label": "Arrêté préfectoral n°DT-26-0306 (13 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "grive-draine",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Jusqu'au 10 février 2027 (dates d'ouverture fixées par arrêté ministériel pour le gibier de passage)",
+          "source_url": "https://www.loire.gouv.fr/contenu/telechargement/23940/174771/file/2026_05_13_AP_dates_modalites_26_27_RAA.pdf",
+          "source_label": "Arrêté préfectoral n°DT-26-0306 (13 mai 2026)"
+        }
+      ]
+    }
+  ]
+}

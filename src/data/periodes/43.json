@@ -1,0 +1,121 @@
+{
+  "departement": "43",
+  "saison": "2026-2027",
+  "licence_source": "Licence ouverte Etalab 2.0",
+  "ouverture_generale": {
+    "date": "2026-09-13",
+    "fermeture": "2027-02-28",
+    "source_url": "https://www.haute-loire.gouv.fr/contenu/telechargement/17674/120750/file/ArreteSigne_OuvertureChasse_2026-2027_V04.pdf",
+    "source_label": "Arrêté préfectoral n°DDT-SEF 2026-139 relatif à l'ouverture et à la clôture de la chasse pour la campagne 2026-2027 dans le département de la Haute-Loire (signé le 22 mai 2026)",
+    "confiance": "haute"
+  },
+  "arretes_officiels": [
+    {
+      "objet": "Ouverture et clôture générale 2026-2027",
+      "reference": "Arrêté préfectoral n°DDT-SEF 2026-139 (22 mai 2026)",
+      "url_pdf": "https://www.haute-loire.gouv.fr/contenu/telechargement/17674/120750/file/ArreteSigne_OuvertureChasse_2026-2027_V04.pdf",
+      "statut": "signé"
+    }
+  ],
+  "especes": [
+    {
+      "slug": "sanglier",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 1er juin au 14 août 2026, sur les communes classées sensibles, chasse à l'affût, à l'approche et en battue sur autorisation préfectorale. Du 15 août au 12 septembre 2026, sur toutes les communes, chasse à l'affût, à l'approche et en battue sur autorisation du président de l'unité de gestion. Ouverture générale du 13 septembre 2026 au 31 mars 2027 (battue, affût, approche ou tir individuel). Du 1er avril au 31 mai 2027, uniquement pour la protection des semis, à l'affût ou à l'approche, voire en battue exceptionnelle sur autorisation préfectorale. Tir à l'arc ou par arme à feu obligatoirement à balle",
+          "source_url": "https://www.haute-loire.gouv.fr/contenu/telechargement/17674/120750/file/ArreteSigne_OuvertureChasse_2026-2027_V04.pdf",
+          "source_label": "Arrêté préfectoral n°DDT-SEF 2026-139 (22 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "chevreuil",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Soumis à plan de chasse. Du 1er juin au 12 septembre 2026, seule la chasse du brocard à l'approche et à l'affût est autorisée sur autorisation préfectorale (interdite les mardis et vendredis sauf jours fériés). Du 13 septembre 2026 au 28 février 2027, chasse en battue, à l'approche et à l'affût. Munitions à plomb (n°1, 2, 3 série de Paris) autorisées uniquement en battue",
+          "source_url": "https://www.haute-loire.gouv.fr/contenu/telechargement/17674/120750/file/ArreteSigne_OuvertureChasse_2026-2027_V04.pdf",
+          "source_label": "Arrêté préfectoral n°DDT-SEF 2026-139 (22 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "cerf-elaphe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 17 octobre 2026 au 28 février 2027 au soir, soumis à plan de chasse. Chasse en battue (équipe de 5 chasseurs minimum, maximum 7 équipes par ACCA/AICA/chasse privée sauf dérogation), à l'approche ou à l'affût (arme à canon rayé ou arc, sans chien, interdite les mardis et vendredis sauf jours fériés). Tir obligatoirement à balle quel que soit le mode de chasse. Chasse interdite les 3 et 4 octobre 2026 (jours de comptage) sur les communes de l'unité de gestion cerf du massif de l'Alagnon : Autrac, Beaumont, Blesle, Bournoncle-Saint-Pierre, Chambezon, Espalem, Grenier-Montgon, Lempdes-sur-Allagnon, Léotoing, Lorlanges, Lubilhac, Mercœur, Paulhac, Saint-Beauzire, Saint-Étienne-sur-Blesle, Saint-Géron, Saint-Laurent-Chabreuges",
+          "source_url": "https://www.haute-loire.gouv.fr/contenu/telechargement/17674/120750/file/ArreteSigne_OuvertureChasse_2026-2027_V04.pdf",
+          "source_label": "Arrêté préfectoral n°DDT-SEF 2026-139 (22 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "lievre-europe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 27 septembre 2026 au 6 décembre 2026 au soir. Vente, achat, transport en vue de la vente et colportage interdits entre le 27 septembre et le 26 octobre 2026 inclus",
+          "source_url": "https://www.haute-loire.gouv.fr/contenu/telechargement/17674/120750/file/ArreteSigne_OuvertureChasse_2026-2027_V04.pdf",
+          "source_label": "Arrêté préfectoral n°DDT-SEF 2026-139 (22 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "lapin-garenne",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13 septembre 2026 au 1er janvier 2027 au soir",
+          "source_url": "https://www.haute-loire.gouv.fr/contenu/telechargement/17674/120750/file/ArreteSigne_OuvertureChasse_2026-2027_V04.pdf",
+          "source_label": "Arrêté préfectoral n°DDT-SEF 2026-139 (22 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "faisan-commun",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13 septembre 2026 au 1er janvier 2027 au soir",
+          "source_url": "https://www.haute-loire.gouv.fr/contenu/telechargement/17674/120750/file/ArreteSigne_OuvertureChasse_2026-2027_V04.pdf",
+          "source_label": "Arrêté préfectoral n°DDT-SEF 2026-139 (22 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-rouge",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Hors périmètre de gestion des plateaux volcaniques du Velay : du 13 septembre 2026 au 6 décembre 2026 au soir. Dans le périmètre de gestion des plateaux volcaniques du Velay (Arlempdes, Bains, Barges, Blanzac, Borne, Le Bouchet-Saint-Nicolas, Le Brignon, Cayres, Céaux-d'Allègre, Ceyssac, Chaspuzac, Cussac-sur-Loire, Espaly-Saint-Marcel, Goudet, Landos, Lissac, Loudes, Ouides, Polignac, Pradelles, Rauret, Saint-Arcons-de-Barges, Saint-Bérain, Saint-Christophe-sur-Dolaison, Saint-Étienne-du-Vigan, Saint-Geneys-près-Saint-Paulien, Saint-Haon, Saint-Jean-de-Nay, Saint-Jean-Lachalm, Saint-Paul-de-Tartas, Saint-Paulien, Saint-Privat-d'Allier, Saint-Vidal, Sanssac-l'Église, Séneujols, Siaugues-Sainte-Marie, Solignac-sur-Loire, Vals-près-Le-Puy, Vazeilles-Limandre, Vergezac, Vernassal, Le Vernet) : du 4 octobre 2026 au 6 décembre 2026. Vente/colportage interdits entre le 4 octobre et le 3 novembre 2026 inclus (plateaux volcaniques) ou entre le 13 septembre et le 12 octobre 2026 inclus (hors périmètre)",
+          "source_url": "https://www.haute-loire.gouv.fr/contenu/telechargement/17674/120750/file/ArreteSigne_OuvertureChasse_2026-2027_V04.pdf",
+          "source_label": "Arrêté préfectoral n°DDT-SEF 2026-139 (22 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-grise",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Hors périmètre de gestion des plateaux volcaniques du Velay : du 13 septembre 2026 au 6 décembre 2026 au soir. Dans le périmètre de gestion des plateaux volcaniques du Velay : du 4 octobre 2026 au 6 décembre 2026",
+          "source_url": "https://www.haute-loire.gouv.fr/contenu/telechargement/17674/120750/file/ArreteSigne_OuvertureChasse_2026-2027_V04.pdf",
+          "source_label": "Arrêté préfectoral n°DDT-SEF 2026-139 (22 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "becasse-bois",
+      "faits": [
+        {
+          "label": "Prélèvement maximal autorisé",
+          "detail": "PMA de 3 bécasses par chasseur et par jour de chasse, limité à 6 bécasses par chasseur et par semaine (arrêté préfectoral n°DDT-E-2010-149 du 1er juin 2010), dans la limite nationale de 30 bécasses par saison et par chasseur. Chasse suspendue les mardis et vendredis sauf jours fériés",
+          "source_url": "https://www.haute-loire.gouv.fr/contenu/telechargement/17674/120750/file/ArreteSigne_OuvertureChasse_2026-2027_V04.pdf",
+          "source_label": "Arrêté préfectoral n°DDT-SEF 2026-139 (22 mai 2026)"
+        }
+      ]
+    }
+  ]
+}

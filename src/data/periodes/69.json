@@ -1,0 +1,127 @@
+{
+  "departement": "69",
+  "saison": "2026-2027",
+  "licence_source": "Licence ouverte Etalab 2.0",
+  "ouverture_generale": {
+    "date": "2026-09-13",
+    "fermeture": "2027-02-28",
+    "source_url": "https://fdc69.com/wp-content/uploads/2026/06/20260623_AP_A43_saison_2026-2027_signe.odt.pdf",
+    "source_label": "Arrêté préfectoral n°DDT-2026-A43 relatif à l'ouverture et à la clôture de la chasse pour la campagne 2026-2027 dans le département du Rhône et la Métropole de Lyon (signé le 23 juin 2026)",
+    "confiance": "haute"
+  },
+  "arretes_officiels": [
+    {
+      "objet": "Ouverture et clôture générale 2026-2027",
+      "reference": "Arrêté préfectoral n°DDT-2026-A43 (23 juin 2026)",
+      "url_pdf": "https://fdc69.com/wp-content/uploads/2026/06/20260623_AP_A43_saison_2026-2027_signe.odt.pdf",
+      "statut": "signé"
+    }
+  ],
+  "especes": [
+    {
+      "slug": "sanglier",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13 septembre 2026 au 31 mars 2027, prélèvement autorisé tous les jours (y compris mardis et vendredis, jours normalement chômés pour le petit gibier). En dehors de cette période, un arrêté préfectoral spécifique fixe les modalités complémentaires de chasse (tirs d'été, etc.). Usage de chiens toléré pour déloger les sangliers remisés dans les parcelles de cultures sensibles (maïs, céréales) du 13 septembre au 14 décembre 2026 inclus",
+          "source_url": "https://fdc69.com/wp-content/uploads/2026/06/20260623_AP_A43_saison_2026-2027_signe.odt.pdf",
+          "source_label": "Arrêté préfectoral n°DDT-2026-A43 (23 juin 2026)"
+        },
+        {
+          "label": "Autre",
+          "detail": "Marquage obligatoire par bracelet de transport sur le lieu de capture avant tout transport. Déclaration de la capture obligatoire à la FDC du Rhône et de la Métropole de Lyon dans un délai de 48 heures via www.fdc69.com",
+          "source_url": "https://fdc69.com/wp-content/uploads/2026/06/20260623_AP_A43_saison_2026-2027_signe.odt.pdf",
+          "source_label": "Arrêté préfectoral n°DDT-2026-A43 (23 juin 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "chevreuil",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13 septembre 2026 au 28 février 2027, soumis à plan de chasse, prélèvement autorisé tous les jours. Tir à balle ou à l'arc ; tir à la grenaille autorisé uniquement dans certaines communes fixées par arrêté préfectoral spécifique. En dehors de cette période, un arrêté préfectoral spécifique fixe les tirs d'été du chevreuil. Marquage obligatoire (bracelet plan de chasse) et déclaration à la FDC69 dans les 48 heures",
+          "source_url": "https://fdc69.com/wp-content/uploads/2026/06/20260623_AP_A43_saison_2026-2027_signe.odt.pdf",
+          "source_label": "Arrêté préfectoral n°DDT-2026-A43 (23 juin 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "cerf-elaphe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13 septembre 2026 au 28 février 2027, soumis à plan de chasse, prélèvement autorisé tous les jours, uniquement à balle ou à l'arc. Marquage obligatoire (bracelet plan de chasse) et déclaration à la FDC69 dans les 48 heures",
+          "source_url": "https://fdc69.com/wp-content/uploads/2026/06/20260623_AP_A43_saison_2026-2027_signe.odt.pdf",
+          "source_label": "Arrêté préfectoral n°DDT-2026-A43 (23 juin 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "lievre-europe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du dimanche 27 septembre au dimanche 8 novembre 2026 en règle générale, avec dates spécifiques par unité cynégétique : UC Clunisois, Neulise, Pramenoux, Haut Beaujolais Sud : du 11 octobre au 8 novembre 2026, sans restriction de quantité. UC Haut Beaujolais Nord, Coteaux Beaujolais et Vallée de la Saône : du 11 octobre au 8 novembre 2026, limité à un lièvre par chasseur et par jour. UC Pierres Dorées : du 11 octobre au 8 novembre 2026, un lièvre par chasseur par jour uniquement les mercredis et dimanches ; pour les communes du GIC des Pierres Dorées, marquage obligatoire et ouverture uniquement les dimanches 11, 18, 25 octobre, 1er et 8 novembre 2026",
+          "source_url": "https://fdc69.com/wp-content/uploads/2026/06/20260623_AP_A43_saison_2026-2027_signe.odt.pdf",
+          "source_label": "Arrêté préfectoral n°DDT-2026-A43 (23 juin 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "lapin-garenne",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13 septembre 2026 au 10 janvier 2027. Chasse à l'aide d'un furet soumise à autorisation préfectorale spécifique",
+          "source_url": "https://fdc69.com/wp-content/uploads/2026/06/20260623_AP_A43_saison_2026-2027_signe.odt.pdf",
+          "source_label": "Arrêté préfectoral n°DDT-2026-A43 (23 juin 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "faisan-commun",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13 septembre 2026 au 10 janvier 2027",
+          "source_url": "https://fdc69.com/wp-content/uploads/2026/06/20260623_AP_A43_saison_2026-2027_signe.odt.pdf",
+          "source_label": "Arrêté préfectoral n°DDT-2026-A43 (23 juin 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-grise",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13 septembre 2026 au 11 novembre 2026",
+          "source_url": "https://fdc69.com/wp-content/uploads/2026/06/20260623_AP_A43_saison_2026-2027_signe.odt.pdf",
+          "source_label": "Arrêté préfectoral n°DDT-2026-A43 (23 juin 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-rouge",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Dates spécifiques par unité cynégétique (restrictions de quantité par chasseur), voir arrêté détaillé de la FDC du Rhône et de la Métropole de Lyon",
+          "source_url": "https://fdc69.com/wp-content/uploads/2026/06/20260623_AP_A43_saison_2026-2027_signe.odt.pdf",
+          "source_label": "Arrêté préfectoral n°DDT-2026-A43 (23 juin 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "becasse-bois",
+      "faits": [
+        {
+          "label": "Prélèvement maximal autorisé",
+          "detail": "Du 13 septembre 2026 au 20 février 2027. Jusqu'au 31 décembre 2026 : 3 bécasses par jour, 6 bécasses par semaine (du lundi au dimanche). À compter du 1er janvier 2027 jusqu'au 20 février 2027 : 3 bécasses par semaine. Ne peut pas être chassée les mardis et vendredis. Déclaration obligatoire avant transport sur l'application ChassAdapt ou sur carnet de prélèvement papier, à retourner à la fédération départementale des chasseurs du lieu de validation du permis avant le 30 juin 2027",
+          "source_url": "https://fdc69.com/wp-content/uploads/2026/06/20260623_AP_A43_saison_2026-2027_signe.odt.pdf",
+          "source_label": "Arrêté préfectoral n°DDT-2026-A43 (23 juin 2026)"
+        }
+      ]
+    }
+  ]
+}

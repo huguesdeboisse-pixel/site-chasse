@@ -1,0 +1,140 @@
+{
+  "departement": "07",
+  "saison": "2026-2027",
+  "licence_source": "Licence ouverte Etalab 2.0",
+  "ouverture_generale": {
+    "date": "2026-09-13",
+    "fermeture": "2027-02-28",
+    "source_url": "https://www.chasseardeche.fr/images/20260623_AP_ouverture_fermeture_chasse_2026-2027_departement_ardeche.pdf",
+    "source_label": "Arrêté préfectoral n°07-2026-06-23-00001 relatif à l'ouverture et à la clôture de la chasse pour la campagne 2026-2027 dans le département de l'Ardèche (signé le 23 juin 2026)",
+    "confiance": "haute"
+  },
+  "arretes_officiels": [
+    {
+      "objet": "Ouverture et clôture générale 2026-2027",
+      "reference": "Arrêté préfectoral n°07-2026-06-23-00001 (23 juin 2026)",
+      "url_pdf": "https://www.chasseardeche.fr/images/20260623_AP_ouverture_fermeture_chasse_2026-2027_departement_ardeche.pdf",
+      "statut": "signé"
+    },
+    {
+      "objet": "Plan de chasse Cerf élaphe 2026-2027",
+      "reference": "Arrêté préfectoral du 23 juin 2026",
+      "url_pdf": "https://www.chasseardeche.fr/images/20260623_AP_plan_de_chasse_cerf_elaphe_2026_2027_departement_ardeche.pdf",
+      "statut": "signé"
+    },
+    {
+      "objet": "Plan de chasse triennal Chevreuil 2026-2029",
+      "reference": "Arrêté préfectoral du 23 juin 2026",
+      "url_pdf": "https://www.chasseardeche.fr/images/20260623_AP_plan_de_chasse_triennal_chevreuil_2026_2029_departement_ardeche.pdf",
+      "statut": "signé"
+    },
+    {
+      "objet": "Liste, périodes et modalités de destruction des animaux classés ESOD, 1er juillet 2026 au 30 juin 2027",
+      "reference": "Arrêté préfectoral n°07-2026-06-24-00014 (24 juin 2026)",
+      "url_pdf": "https://www.chasseardeche.fr/images/2026_AP_ESOD_2026.2027.pdf",
+      "statut": "signé"
+    }
+  ],
+  "especes": [
+    {
+      "slug": "sanglier",
+      "faits": [
+        {
+          "label": "Statut",
+          "detail": "Classé espèce susceptible d'occasionner des dégâts (ESOD) sur l'ensemble du département, du 1er juillet 2026 au 30 juin 2027, en raison des dégâts agricoles importants et des risques sanitaires (pathologies transmissibles au porc domestique). Le lapin de garenne et le pigeon ramier ne sont pas classés ESOD dans l'Ardèche",
+          "source_url": "https://www.chasseardeche.fr/images/2026_AP_ESOD_2026.2027.pdf",
+          "source_label": "Arrêté préfectoral n°07-2026-06-24-00014 (24 juin 2026)"
+        },
+        {
+          "label": "Dates et modalités de chasse",
+          "detail": "Chasse individuelle à l'affût/l'approche sans chien du 1er juillet au 12 septembre 2026, puis chasse collective (battue) et individuelle sans condition particulière du 13 septembre 2026 au 10 janvier 2027, puis chasse individuelle à l'affût/l'approche réservée aux chasseurs autorisés et agriculteurs/retraités du 11 janvier au 31 mars 2027 (battue possible jusqu'au 28 février 2027), puis du 1er avril au 31 mai 2027 uniquement pour la protection des semis, et à nouveau du 1er juin au 30 juin 2027 sur autorisation",
+          "source_url": "https://www.chasseardeche.fr/images/20260623_AP_ouverture_fermeture_chasse_2026-2027_departement_ardeche.pdf",
+          "source_label": "Arrêté préfectoral n°07-2026-06-23-00001 (23 juin 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "chevreuil",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Soumis à plan de chasse triennal 2026-2029. Tir d'été du brocard à l'affût/l'approche sans chien du 1er juillet au 12 septembre 2026 et du 1er au 30 juin 2027 ; ouverture générale (battue ou tir individuel à l'affût/l'approche) du 13 septembre 2026 au 28 février 2027",
+          "source_url": "https://www.chasseardeche.fr/images/20260623_AP_ouverture_fermeture_chasse_2026-2027_departement_ardeche.pdf",
+          "source_label": "Arrêté préfectoral n°07-2026-06-23-00001 (23 juin 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "cerf-elaphe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Soumis à plan de chasse. Ouverture le 17 octobre 2026, fermeture le 28 février 2027 au soir. Chasse en battue organisée par les détenteurs du droit de chasse ou leurs délégués, ou individuellement par tir d'affût ou à l'approche",
+          "source_url": "https://www.chasseardeche.fr/images/20260623_AP_ouverture_fermeture_chasse_2026-2027_departement_ardeche.pdf",
+          "source_label": "Arrêté préfectoral n°07-2026-06-23-00001 (23 juin 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "lievre-europe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Deux régimes selon les unités de gestion (UG). UG 1-2-3-5-6-7-8-10-12-23-24-26-27-28 : du 13 septembre au 29 novembre 2026, tir autorisé uniquement les jeudis, samedis, dimanches et jours fériés. UG 4-9-11-13-14-15-16-17-18-19-20-21-22-25 : du 27 septembre au 13 décembre 2026, tir autorisé trois jours par semaine (jeudis, samedis, dimanches et jours fériés)",
+          "source_url": "https://www.chasseardeche.fr/images/20260623_AP_ouverture_fermeture_chasse_2026-2027_departement_ardeche.pdf",
+          "source_label": "Arrêté préfectoral n°07-2026-06-23-00001 (23 juin 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "lapin-garenne",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13 septembre 2026 au 10 janvier 2027 au soir, sans condition spécifique",
+          "source_url": "https://www.chasseardeche.fr/images/20260623_AP_ouverture_fermeture_chasse_2026-2027_departement_ardeche.pdf",
+          "source_label": "Arrêté préfectoral n°07-2026-06-23-00001 (23 juin 2026)"
+        },
+        {
+          "label": "Statut",
+          "detail": "Non classé ESOD dans l'Ardèche (nuisances jugées non significatives par la préfecture)",
+          "source_url": "https://www.chasseardeche.fr/images/2026_AP_ESOD_2026.2027.pdf",
+          "source_label": "Arrêté préfectoral n°07-2026-06-24-00014 (24 juin 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "faisan-commun",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13 septembre 2026 au 10 janvier 2027 au soir, sans condition spécifique",
+          "source_url": "https://www.chasseardeche.fr/images/20260623_AP_ouverture_fermeture_chasse_2026-2027_departement_ardeche.pdf",
+          "source_label": "Arrêté préfectoral n°07-2026-06-23-00001 (23 juin 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "becasse-bois",
+      "faits": [
+        {
+          "label": "Prélèvement maximal autorisé",
+          "detail": "PMA national de 30 bécasses par chasseur pour la saison. Déclinaison hebdomadaire départementale : 6 bécasses par semaine et 3 par jour maximum de l'ouverture (date fixée par arrêté ministériel) jusqu'au 10 janvier 2027 au soir ; puis 2 bécasses par semaine maximum du 11 janvier 2027 jusqu'à la fermeture. Enregistrement obligatoire via l'application Chassadapt ou un carnet de prélèvement avec dispositif de marquage. À partir du 11 janvier 2027, chasse autorisée uniquement dans les bois de plus de 3 hectares avec chiens d'arrêt ou springers équipés d'un dispositif sonore",
+          "source_url": "https://www.chasseardeche.fr/images/20260623_AP_ouverture_fermeture_chasse_2026-2027_departement_ardeche.pdf",
+          "source_label": "Arrêté préfectoral n°07-2026-06-23-00001 (23 juin 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "canard-colvert",
+      "faits": [
+        {
+          "label": "Restriction locale",
+          "detail": "Chasse du canard colvert interdite sur les communes d'Aubenas, Balazuc, Chauzon, Fabras, Labégude, Lanas, Lalevade, Ruoms, Pont-de-Labeaume, Prades, Pradons, Saint-Didier-sous-Aubenas, Saint-Étienne-de-Fontbellon, Saint-Germain, Saint-Maurice-d'Ardèche, Saint-Privat, Saint-Sernin, Ucel, Vals-les-Bains, Vogüé",
+          "source_url": "https://www.chasseardeche.fr/images/20260623_AP_ouverture_fermeture_chasse_2026-2027_departement_ardeche.pdf",
+          "source_label": "Arrêté préfectoral n°07-2026-06-23-00001 (23 juin 2026)"
+        }
+      ]
+    }
+  ]
+}
