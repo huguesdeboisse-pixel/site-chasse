@@ -1,0 +1,199 @@
+{
+  "departement": "06",
+  "saison": "2026-2027",
+  "licence_source": "Licence ouverte Etalab 2.0",
+  "ouverture_generale": {
+    "date": "2026-09-13",
+    "fermeture": "2027-01-10",
+    "source_url": "http://www.fdc06.fr/wp-content/uploads/2026/06/ARRETE_OUVERTURE_FERMETURE_CHASSE_20262027.pdf",
+    "source_label": "Arrêté DDTM-SEAFEN-AP n°2026-064 relatif à l'ouverture et à la clôture de la chasse pour la campagne 2026-2027 dans le département des Alpes-Maritimes (signé le 18 mai 2026)",
+    "confiance": "haute"
+  },
+  "arretes_officiels": [
+    {
+      "objet": "Ouverture et clôture générale 2026-2027",
+      "reference": "Arrêté DDTM-SEAFEN-AP n°2026-064 (18 mai 2026)",
+      "url_pdf": "http://www.fdc06.fr/wp-content/uploads/2026/06/ARRETE_OUVERTURE_FERMETURE_CHASSE_20262027.pdf",
+      "statut": "signé"
+    }
+  ],
+  "especes": [
+    {
+      "slug": "sanglier",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Communes où le sanglier est classé ESOD par arrêté préfectoral : chasse toute l'année sur autorisation préfectorale (dégâts avérés) du 1er juin au 14 août 2026, puis chasse tous les jours (battue, affût, approche) du 23 août 2026 au 28 février 2027. Autres communes : ouverture anticipée sur autorisation préfectorale du 1er juin au 12 septembre 2026, puis ouverture générale (mercredi, samedi, dimanche et jours fériés, battue/affût/approche) du 13 septembre 2026 au 10 janvier 2027",
+          "source_url": "http://www.fdc06.fr/wp-content/uploads/2026/06/ARRETE_OUVERTURE_FERMETURE_CHASSE_20262027.pdf",
+          "source_label": "Arrêté DDTM-SEAFEN-AP n°2026-064 (18 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "cerf-elaphe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Bracelets CEJ/CEF/CEM (toutes classes) : 13-20 septembre 2026 (battue les mercredi/samedi/dimanche/jours fériés, affût, approche). Uniquement biche (CEF) et jeunes (CEJ) sur les communes de Saint-Dalmas-le-Selvage, Saint-Étienne-de-Tinée, Isola, Saint-Sauveur-sur-Tinée, Roure, Roubion, Beuil : du 23 septembre au 10 octobre 2026. Toutes classes (hors zone ci-dessus) : du 11 octobre 2026 au 10 janvier 2027. Bracelets CEM-C1 (daguet à 6 cors) et CEI : du 11 janvier au 24 janvier 2027, sauf sur les communes de Saint-Dalmas-le-Selvage, Saint-Étienne-de-Tinée, Isola, Saint-Sauveur-sur-Tinée, Roure, Roubion, Beuil où la chasse est fermée. Tir à balle ou à l'arc obligatoire, carnet de battue obligatoire",
+          "source_url": "http://www.fdc06.fr/wp-content/uploads/2026/06/ARRETE_OUVERTURE_FERMETURE_CHASSE_20262027.pdf",
+          "source_label": "Arrêté DDTM-SEAFEN-AP n°2026-064 (18 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "chevreuil",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Tir d'été du brocard (bracelet CHM, mâle de 2e année et plus) sur autorisation préfectorale individuelle à l'affût ou à l'approche, du 1er juin au 12 septembre 2026 (lundi, mercredi, samedi, dimanche et jours fériés). Ouverture générale (CHI, toutes classes) du 13 septembre 2026 au 24 janvier 2027 : lundi uniquement à l'approche/affût, mercredi/samedi/dimanche/jours fériés en battue, affût et approche (carnet de battue obligatoire)",
+          "source_url": "http://www.fdc06.fr/wp-content/uploads/2026/06/ARRETE_OUVERTURE_FERMETURE_CHASSE_20262027.pdf",
+          "source_label": "Arrêté DDTM-SEAFEN-AP n°2026-064 (18 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "chamois",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Classes ISI-J (chevreau) et ISI-E (éterle/éterlou) : du 13 septembre au 10 novembre 2026. Classe ISI-A (adulte 3e année et plus) : du 5 décembre 2026 au 10 janvier 2027. Lundi uniquement à l'approche/affût, mercredi/samedi/dimanche/jours fériés en groupe de 1 à 4 chasseurs. Tir de la chèvre suitée et isolée de la harde interdit ; utilisation du chien interdite",
+          "source_url": "http://www.fdc06.fr/wp-content/uploads/2026/06/ARRETE_OUVERTURE_FERMETURE_CHASSE_20262027.pdf",
+          "source_label": "Arrêté DDTM-SEAFEN-AP n°2026-064 (18 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "mouflon-mediterraneen",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Toutes classes (MOIJ, MOF, MOM) : du 13 septembre 2026 au 10 janvier 2027. Lundi uniquement à l'approche/affût, mercredi/samedi/dimanche/jours fériés en groupe de 1 à 4 chasseurs. Utilisation du chien interdite par arrêté ministériel",
+          "source_url": "http://www.fdc06.fr/wp-content/uploads/2026/06/ARRETE_OUVERTURE_FERMETURE_CHASSE_20262027.pdf",
+          "source_label": "Arrêté DDTM-SEAFEN-AP n°2026-064 (18 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "tetras-lyre",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Coq maillé uniquement, du 27 septembre au 10 novembre 2026, chasse les lundi, mercredi, samedi, dimanche et jours fériés. Espèce soumise à plan de chasse et carnet de prélèvement obligatoire",
+          "source_url": "http://www.fdc06.fr/wp-content/uploads/2026/06/ARRETE_OUVERTURE_FERMETURE_CHASSE_20262027.pdf",
+          "source_label": "Arrêté DDTM-SEAFEN-AP n°2026-064 (18 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-bartavelle",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 27 septembre au 10 novembre 2026, uniquement dans les communes de la zone B du SDGC (secteur montagne : Auvare, Bairols, Belvédère, Beuil, La Bollène-Vésubie, Breil-sur-Roya, La Brigue, Châteauneuf-d'Entraunes, Clans, La Croix-sur-Roudoule, Daluis, Entraunes, Fontan, Guillaumes, Ilonse, Isola, Lantosque, Lieuche, Marie, Moulinet, La Penne, Péone, Pierlas, Puget-Rostang, Puget-Théniers, Rigaud, Rimplas, Roquebillière, Roubion, Roure, Saint-Dalmas-le-Selvage, Saint-Étienne-de-Tinée, Saint-Léger, Saint-Martin-d'Entraunes, Saint-Martin-Vésubie, Saint-Sauveur-sur-Tinée, Saorge, Sauze, Tende, Thiéry, La Tour-sur-Tinée, Valdeblore, Venanson, Villars-sur-Var, Villeneuve-d'Entraunes). Chasse les lundi, mercredi, samedi, dimanche et jours fériés. Espèce soumise à plan de chasse et carnet de prélèvement obligatoire",
+          "source_url": "http://www.fdc06.fr/wp-content/uploads/2026/06/ARRETE_OUVERTURE_FERMETURE_CHASSE_20262027.pdf",
+          "source_label": "Arrêté DDTM-SEAFEN-AP n°2026-064 (18 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "lagopede-alpin",
+      "faits": [
+        {
+          "label": "Statut",
+          "detail": "Chasse interdite sur tout le département des Alpes-Maritimes pour la saison 2026-2027 (plan de chasse égal à zéro)",
+          "source_url": "http://www.fdc06.fr/wp-content/uploads/2026/06/ARRETE_OUVERTURE_FERMETURE_CHASSE_20262027.pdf",
+          "source_label": "Arrêté DDTM-SEAFEN-AP n°2026-064 (18 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "lievre-europe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13 septembre au 27 septembre 2026 : chasse les mercredi et dimanche uniquement. Du 28 septembre 2026 au 10 janvier 2027 : chasse les lundi, mercredi, samedi, dimanche et jours fériés. Prélèvement limité à 2 animaux par jour et par chasseur (dispositions du Schéma départemental de gestion cynégétique)",
+          "source_url": "http://www.fdc06.fr/wp-content/uploads/2026/06/ARRETE_OUVERTURE_FERMETURE_CHASSE_20262027.pdf",
+          "source_label": "Arrêté DDTM-SEAFEN-AP n°2026-064 (18 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "lapin-garenne",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13 septembre 2026 au 10 janvier 2027, prélèvement limité à 2 animaux par jour et par chasseur (dispositions du Schéma départemental de gestion cynégétique)",
+          "source_url": "http://www.fdc06.fr/wp-content/uploads/2026/06/ARRETE_OUVERTURE_FERMETURE_CHASSE_20262027.pdf",
+          "source_label": "Arrêté DDTM-SEAFEN-AP n°2026-064 (18 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "faisan-commun",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13 septembre 2026 au 10 janvier 2027, prélèvement limité à 2 animaux par jour et par chasseur (dispositions du Schéma départemental de gestion cynégétique)",
+          "source_url": "http://www.fdc06.fr/wp-content/uploads/2026/06/ARRETE_OUVERTURE_FERMETURE_CHASSE_20262027.pdf",
+          "source_label": "Arrêté DDTM-SEAFEN-AP n°2026-064 (18 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-rouge",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Dates variables selon zone du Schéma départemental de gestion cynégétique (SDGC) : zone A secteur 1 (bande littorale et moyen pays) du 13 septembre 2026 au 10 janvier 2027 (2 perdrix/jour/chasseur) ; zone A secteur 2 du 13 septembre au 11 novembre 2026 (2/jour) ; unité de gestion 12 (Bézaudun-les-Alpes, Bouyon, Caussols, Cipières, Conségudes, Courmes, Coursegoules, Les Ferres, Gourdon, Gréolières, La Roque-en-Provence) uniquement 3 jours en octobre et 3 jours en novembre 2026, 1 perdrix/jour, chasse interdite à Sigale ; zone B (secteur montagne) du 27 septembre au 11 novembre 2026, soumise à plan de chasse et carnet de prélèvement obligatoire",
+          "source_url": "http://www.fdc06.fr/wp-content/uploads/2026/06/ARRETE_OUVERTURE_FERMETURE_CHASSE_20262027.pdf",
+          "source_label": "Arrêté DDTM-SEAFEN-AP n°2026-064 (18 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "becasse-bois",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13 septembre 2026 au 20 février 2027, chasse les samedi, dimanche, lundi, mercredi et jours fériés. Chasse à la croule et à la passée interdite par arrêté ministériel",
+          "source_url": "http://www.fdc06.fr/wp-content/uploads/2026/06/ARRETE_OUVERTURE_FERMETURE_CHASSE_20262027.pdf",
+          "source_label": "Arrêté DDTM-SEAFEN-AP n°2026-064 (18 mai 2026)"
+        },
+        {
+          "label": "Prélèvement maximal autorisé",
+          "detail": "PMA de 3 bécasses par jour de chasse et par chasseur, dans la limite de 30 bécasses par chasseur et par saison. Carnet de prélèvement et marquage des oiseaux obligatoires avant transport",
+          "source_url": "http://www.fdc06.fr/wp-content/uploads/2026/06/ARRETE_OUVERTURE_FERMETURE_CHASSE_20262027.pdf",
+          "source_label": "Arrêté DDTM-SEAFEN-AP n°2026-064 (18 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "grive-draine",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Grives et merle noir : du 13 septembre 2026 au 10 février 2027, chasse tous les jours (mardi/jeudi/vendredi non fériés : tir uniquement à partir d'un poste), puis prolongation exclusivement au poste du 11 au 20 février 2027",
+          "source_url": "http://www.fdc06.fr/wp-content/uploads/2026/06/ARRETE_OUVERTURE_FERMETURE_CHASSE_20262027.pdf",
+          "source_label": "Arrêté DDTM-SEAFEN-AP n°2026-064 (18 mai 2026)"
+        },
+        {
+          "label": "Prélèvement maximal autorisé",
+          "detail": "PMA de 40 oiseaux par jour et par chasseur (grives et merle noir confondus)",
+          "source_url": "http://www.fdc06.fr/wp-content/uploads/2026/06/ARRETE_OUVERTURE_FERMETURE_CHASSE_20262027.pdf",
+          "source_label": "Arrêté DDTM-SEAFEN-AP n°2026-064 (18 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "pigeon-ramier",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13 septembre 2026 au 10 février 2027, chasse tous les jours (mardi/jeudi/vendredi non fériés : tir uniquement à partir d'un poste), puis prolongation exclusivement au poste du 11 au 20 février 2027",
+          "source_url": "http://www.fdc06.fr/wp-content/uploads/2026/06/ARRETE_OUVERTURE_FERMETURE_CHASSE_20262027.pdf",
+          "source_label": "Arrêté DDTM-SEAFEN-AP n°2026-064 (18 mai 2026)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "departement": "05",
+  "saison": "2026-2027",
+  "licence_source": "Licence ouverte Etalab 2.0",
+  "ouverture_generale": {
+    "date": "2026-09-13",
+    "fermeture": "2027-01-10",
+    "source_url": "https://www.fdc05.com/medias/2026/06/260526-ap-ouv-fermeture.pdf",
+    "source_label": "Arrêté préfectoral n°05-2026-05-26-00001 relatif à la campagne d'ouverture et de clôture de la chasse pour la saison cynégétique 2026-2027 (signé le 26 mai 2026)",
+    "confiance": "haute"
+  },
+  "arretes_officiels": [
+    {
+      "objet": "Ouverture et clôture générale 2026-2027",
+      "reference": "Arrêté préfectoral n°05-2026-05-26-00001 (26 mai 2026)",
+      "url_pdf": "https://www.fdc05.com/medias/2026/06/260526-ap-ouv-fermeture.pdf",
+      "statut": "signé"
+    }
+  ],
+  "especes": [
+    {
+      "slug": "sanglier",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Tir occasionnel à l'affût/approche sur autorisation préfectorale individuelle (ensemble du département) du 1er juin au 12 septembre 2026 ; chasse en battue (mercredi, samedi, dimanche) du 15 août au 12 septembre 2026 sur l'ensemble du département ; ouverture générale (tous modes, tous les jours sauf vendredi) du 13 septembre 2026 au 31 janvier 2027 ; prolongation automatique en battue (mercredi, samedi, dimanche) du 1er au 28 février 2027 sur les pays cynégétiques cervidés n°6 à 14 ; prolongation à l'affût/approche du 1er au 31 mars 2027 sur l'ensemble du département",
+          "source_url": "https://www.fdc05.com/medias/2026/06/260526-ap-ouv-fermeture.pdf",
+          "source_label": "Arrêté préfectoral n°05-2026-05-26-00001 (26 mai 2026)"
+        },
+        {
+          "label": "Statut / modalités",
+          "detail": "Soumis à plan de gestion cynégétique « sanglier » ; chasse en temps de neige autorisée à titre dérogatoire pour la saison 2026-2027 (en battue, ou à l'affût/approche dans le cadre d'un plan de chasse individuel)",
+          "source_url": "https://www.fdc05.com/medias/2026/06/260526-ap-ouv-fermeture.pdf",
+          "source_label": "Arrêté préfectoral n°05-2026-05-26-00001 (26 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "chevreuil",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Brocard : ouverture anticipée à l'affût ou à l'approche (tous les jours sauf vendredi) du 1er juillet au 31 août 2026 sur les réserves de chasse et de faune sauvage sur autorisation préfectorale individuelle, puis du 1er au 12 septembre 2026 sur autorisation fédérale individuelle. Brocard et chevrillard : ouverture générale du 13 septembre 2026 au 31 janvier 2027",
+          "source_url": "https://www.fdc05.com/medias/2026/06/260526-ap-ouv-fermeture.pdf",
+          "source_label": "Arrêté préfectoral n°05-2026-05-26-00001 (26 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "cerf-elaphe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Ouverture anticipée sur autorisation fédérale individuelle du 1er septembre au 12 septembre 2026, puis ouverture générale (tous modes) du 13 septembre 2026 au 31 janvier 2027, soumis à plan de chasse",
+          "source_url": "https://www.fdc05.com/medias/2026/06/260526-ap-ouv-fermeture.pdf",
+          "source_label": "Arrêté préfectoral n°05-2026-05-26-00001 (26 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "chamois",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Pays cynégétiques « ongulés de montagne » n°1 à 13 et n°16 : du 1er septembre au 30 novembre 2026. Pays cynégétiques n°14, 15, 17, 18 et 19 : du 1er octobre au 10 janvier 2027. Chasse à l'affût ou à l'approche (sans chien), tous les jours sauf vendredi ; équipe de 2 chasseurs autorisée. Soumis à plan de chasse et décision fédérale individuelle d'attribution",
+          "source_url": "https://www.fdc05.com/medias/2026/06/260526-ap-ouv-fermeture.pdf",
+          "source_label": "Arrêté préfectoral n°05-2026-05-26-00001 (26 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "mouflon-mediterraneen",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Pays cynégétiques « ongulés de montagne » n°1 à 13 et n°16 : du 1er septembre au 30 novembre 2026. Pays cynégétiques n°14, 15, 17, 18 et 19 : du 1er octobre au 10 janvier 2027. Soumis à plan de chasse et décision fédérale individuelle d'attribution",
+          "source_url": "https://www.fdc05.com/medias/2026/06/260526-ap-ouv-fermeture.pdf",
+          "source_label": "Arrêté préfectoral n°05-2026-05-26-00001 (26 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "tetras-lyre",
+      "faits": [
+        {
+          "label": "Statut",
+          "detail": "Non chassé pour la saison 2026-2027 dans les Hautes-Alpes (aucune date d'ouverture fixée)",
+          "source_url": "https://www.fdc05.com/medias/2026/06/260526-ap-ouv-fermeture.pdf",
+          "source_label": "Arrêté préfectoral n°05-2026-05-26-00001 (26 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "lagopede-alpin",
+      "faits": [
+        {
+          "label": "Statut",
+          "detail": "Non chassé pour la saison 2026-2027 dans les Hautes-Alpes (aucune date d'ouverture fixée)",
+          "source_url": "https://www.fdc05.com/medias/2026/06/260526-ap-ouv-fermeture.pdf",
+          "source_label": "Arrêté préfectoral n°05-2026-05-26-00001 (26 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-bartavelle",
+      "faits": [
+        {
+          "label": "Statut",
+          "detail": "Plan de chasse nul pour la saison 2026-2027 : espèce non chassée dans les Hautes-Alpes",
+          "source_url": "https://www.fdc05.com/medias/2026/06/260526-ap-ouv-fermeture.pdf",
+          "source_label": "Arrêté préfectoral n°05-2026-05-26-00001 (26 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "lievre-europe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Lièvre commun : du 13 septembre 2026 au troisième dimanche de décembre (20 décembre 2026), chasse autorisée les lundi, mercredi, samedi, dimanche et jours fériés (sauf vendredi), prélèvement limité à 1 par jour et par chasseur, carnet de prélèvement nominatif obligatoire",
+          "source_url": "https://www.fdc05.com/medias/2026/06/260526-ap-ouv-fermeture.pdf",
+          "source_label": "Arrêté préfectoral n°05-2026-05-26-00001 (26 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "lapin-garenne",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13 septembre 2026 au premier dimanche de décembre (6 décembre 2026), carnet de prélèvement nominatif obligatoire",
+          "source_url": "https://www.fdc05.com/medias/2026/06/260526-ap-ouv-fermeture.pdf",
+          "source_label": "Arrêté préfectoral n°05-2026-05-26-00001 (26 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "faisan-commun",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13 septembre 2026 au 10 janvier 2027 (fermeture générale), carnet de prélèvement nominatif obligatoire",
+          "source_url": "https://www.fdc05.com/medias/2026/06/260526-ap-ouv-fermeture.pdf",
+          "source_label": "Arrêté préfectoral n°05-2026-05-26-00001 (26 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-rouge",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13 septembre 2026 au 11 novembre 2026, prélèvement limité à 2 oiseaux par jour et par chasseur (perdrix rouge et grise confondues), carnet de prélèvement nominatif obligatoire",
+          "source_url": "https://www.fdc05.com/medias/2026/06/260526-ap-ouv-fermeture.pdf",
+          "source_label": "Arrêté préfectoral n°05-2026-05-26-00001 (26 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-grise",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13 septembre 2026 au 11 novembre 2026, prélèvement limité à 2 oiseaux par jour et par chasseur (perdrix rouge et grise confondues), carnet de prélèvement nominatif obligatoire",
+          "source_url": "https://www.fdc05.com/medias/2026/06/260526-ap-ouv-fermeture.pdf",
+          "source_label": "Arrêté préfectoral n°05-2026-05-26-00001 (26 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "becasse-bois",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Ouverture générale du 13 septembre 2026 au 31 octobre 2026, chasse autorisée tous les jours sauf le vendredi, uniquement avec un chien des groupes 7 ou 8 (chiens d'arrêt ou de rapport, muni d'un collier à grelots)",
+          "source_url": "https://www.fdc05.com/medias/2026/06/260526-ap-ouv-fermeture.pdf",
+          "source_label": "Arrêté préfectoral n°05-2026-05-26-00001 (26 mai 2026)"
+        },
+        {
+          "label": "Prélèvement maximal autorisé",
+          "detail": "PMA de 3 oiseaux par jour et par chasseur, dans la limite de 30 oiseaux par saison cynégétique et par chasseur sur l'ensemble du territoire national. Carnet de prélèvement ou application ChassAdapt obligatoire, avec enregistrement le jour même",
+          "source_url": "https://www.fdc05.com/medias/2026/06/260526-ap-ouv-fermeture.pdf",
+          "source_label": "Arrêté préfectoral n°05-2026-05-26-00001 (26 mai 2026)"
+        }
+      ]
+    }
+  ]
+}

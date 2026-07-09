@@ -1,0 +1,194 @@
+{
+  "departement": "83",
+  "saison": "2026-2027",
+  "licence_source": "Licence ouverte Etalab 2.0",
+  "ouverture_generale": {
+    "date": "2026-09-13",
+    "fermeture": "2027-02-28",
+    "source_url": "https://www.fdc83.com/wp-content/uploads/2026/05/1-AP_Ouverture-et-cloture-26-27.pdf",
+    "source_label": "Arrêté préfectoral n°DDTM/SAF/BCFSP/2026-046 relatif à l'ouverture et à la clôture de la chasse pour la campagne 2026-2027 dans le département du Var (signé le 12 mai 2026)",
+    "confiance": "haute"
+  },
+  "arretes_officiels": [
+    {
+      "objet": "Ouverture et clôture générale 2026-2027",
+      "reference": "Arrêté préfectoral n°DDTM/SAF/BCFSP/2026-046 (12 mai 2026)",
+      "url_pdf": "https://www.fdc83.com/wp-content/uploads/2026/05/1-AP_Ouverture-et-cloture-26-27.pdf",
+      "statut": "signé"
+    },
+    {
+      "objet": "Ouverture anticipée du sanglier et du renard en battue 2026-2027",
+      "reference": "Arrêté préfectoral (mai 2026)",
+      "url_pdf": "https://www.fdc83.com/wp-content/uploads/2026/05/4-AP_Ouverture-anticipee-2026.pdf",
+      "statut": "signé"
+    },
+    {
+      "objet": "Tir d'été du sanglier, du brocard et du renard 2026-2027",
+      "reference": "Arrêté préfectoral (mai 2026)",
+      "url_pdf": "https://www.fdc83.com/wp-content/uploads/2026/05/2-AP_Tir-dete.pdf",
+      "statut": "signé"
+    }
+  ],
+  "especes": [
+    {
+      "slug": "sanglier",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Tir d'été à l'approche ou à l'affût (bracelet obligatoire) : du 1er juin au 11 septembre 2026. Battue (carnet de battue individuel obligatoire) : du 1er juin au 14 août 2026, puis ouverture anticipée en battue du 15 août au 11 septembre 2026. Ouverture générale (tir à balle, à l'arc ou en battue) : du 13 septembre 2026 au 31 mars 2027",
+          "source_url": "https://www.fdc83.com/wp-content/uploads/2026/05/1-AP_Ouverture-et-cloture-26-27.pdf",
+          "source_label": "Arrêté préfectoral n°DDTM/SAF/BCFSP/2026-046 (12 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "chevreuil",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Brocard : tir d'été à l'approche ou à l'affût, bracelet obligatoire, du 1er juin au 11 septembre 2026. Ouverture générale (plan de chasse, tir à balle ou à l'arc, bracelet obligatoire) : du 13 septembre 2026 au 28 février 2027",
+          "source_url": "https://www.fdc83.com/wp-content/uploads/2026/05/1-AP_Ouverture-et-cloture-26-27.pdf",
+          "source_label": "Arrêté préfectoral n°DDTM/SAF/BCFSP/2026-046 (12 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "cerf-elaphe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13 septembre 2026 au 28 février 2027, soumis à plan de chasse, tir à balle ou à l'arc uniquement, bracelet obligatoire",
+          "source_url": "https://www.fdc83.com/wp-content/uploads/2026/05/1-AP_Ouverture-et-cloture-26-27.pdf",
+          "source_label": "Arrêté préfectoral n°DDTM/SAF/BCFSP/2026-046 (12 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "mouflon-mediterraneen",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13 septembre 2026 au 28 février 2027, chasse à l'affût ou à l'approche uniquement, tir à balle ou à l'arc, bracelet obligatoire, soumis à plan de chasse",
+          "source_url": "https://www.fdc83.com/wp-content/uploads/2026/05/1-AP_Ouverture-et-cloture-26-27.pdf",
+          "source_label": "Arrêté préfectoral n°DDTM/SAF/BCFSP/2026-046 (12 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "chamois",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13 septembre 2026 au 31 janvier 2027, chasse à l'affût ou à l'approche uniquement, tir à balle ou à l'arc, bracelet obligatoire, soumis à plan de chasse",
+          "source_url": "https://www.fdc83.com/wp-content/uploads/2026/05/1-AP_Ouverture-et-cloture-26-27.pdf",
+          "source_label": "Arrêté préfectoral n°DDTM/SAF/BCFSP/2026-046 (12 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "lievre-europe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Lièvre brun (lièvre d'Europe) : du 13 septembre 2026 au 11 novembre 2026, chasse au fusil ou à l'arc uniquement, carnet de battue obligatoire, chasse individuelle obligatoire avec obligation déclarative des prélèvements",
+          "source_url": "https://www.fdc83.com/wp-content/uploads/2026/05/1-AP_Ouverture-et-cloture-26-27.pdf",
+          "source_label": "Arrêté préfectoral n°DDTM/SAF/BCFSP/2026-046 (12 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "lapin-garenne",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13 septembre 2026 au 11 novembre 2026, chasse au fusil ou à l'arc uniquement, carnet de battue obligatoire, chasse individuelle avec obligation déclarative des prélèvements",
+          "source_url": "https://www.fdc83.com/wp-content/uploads/2026/05/1-AP_Ouverture-et-cloture-26-27.pdf",
+          "source_label": "Arrêté préfectoral n°DDTM/SAF/BCFSP/2026-046 (12 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "faisan-commun",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Faisan et colin de Virginie : du 13 septembre 2026 au 31 janvier 2027",
+          "source_url": "https://www.fdc83.com/wp-content/uploads/2026/05/1-AP_Ouverture-et-cloture-26-27.pdf",
+          "source_label": "Arrêté préfectoral n°DDTM/SAF/BCFSP/2026-046 (12 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-rouge",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Perdrix rouge et perdrix grise : du 13 septembre 2026 au 28 février 2027 (établissements professionnels de chasse à caractère commercial et chasse aux perdrix rouges et faisans issus de lâchers, avec obligation déclarative des prélèvements)",
+          "source_url": "https://www.fdc83.com/wp-content/uploads/2026/05/1-AP_Ouverture-et-cloture-26-27.pdf",
+          "source_label": "Arrêté préfectoral n°DDTM/SAF/BCFSP/2026-046 (12 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-grise",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Perdrix rouge et perdrix grise : du 13 septembre 2026 au 28 février 2027 (établissements professionnels de chasse à caractère commercial, avec obligation déclarative des prélèvements)",
+          "source_url": "https://www.fdc83.com/wp-content/uploads/2026/05/1-AP_Ouverture-et-cloture-26-27.pdf",
+          "source_label": "Arrêté préfectoral n°DDTM/SAF/BCFSP/2026-046 (12 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "becasse-bois",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 10 février au 2e vendredi de septembre 2026 (soit jusqu'au 11 septembre 2026), puis du 13 septembre 2026 au 20 février 2027 sur l'ensemble du département",
+          "source_url": "https://www.fdc83.com/wp-content/uploads/2026/05/1-AP_Ouverture-et-cloture-26-27.pdf",
+          "source_label": "Arrêté préfectoral n°DDTM/SAF/BCFSP/2026-046 (12 mai 2026)"
+        },
+        {
+          "label": "Prélèvement maximal autorisé",
+          "detail": "PMA de 30 oiseaux par chasseur et par saison, et 3 bécasses par jour de chasse et par chasseur. Carnet de prélèvement obligatoire (déclaration via ChassAdapt ou carnet papier), marquage/bagage de l'oiseau prélevé dès la capture",
+          "source_url": "https://www.fdc83.com/wp-content/uploads/2026/05/1-AP_Ouverture-et-cloture-26-27.pdf",
+          "source_label": "Arrêté préfectoral n°DDTM/SAF/BCFSP/2026-046 (12 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "grive-draine",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Grives et merle noir : du 13 septembre 2026 au 20 février 2027, prélèvement maximum fixé à 15 individus par jour et par chasseur",
+          "source_url": "https://www.fdc83.com/wp-content/uploads/2026/05/1-AP_Ouverture-et-cloture-26-27.pdf",
+          "source_label": "Arrêté préfectoral n°DDTM/SAF/BCFSP/2026-046 (12 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "pigeon-ramier",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13 septembre 2026 au 20 février 2027, sur l'ensemble du département",
+          "source_url": "https://www.fdc83.com/wp-content/uploads/2026/05/1-AP_Ouverture-et-cloture-26-27.pdf",
+          "source_label": "Arrêté préfectoral n°DDTM/SAF/BCFSP/2026-046 (12 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "caille-bles",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Caille des blés : du 29 août 2026 au 20 février 2027",
+          "source_url": "https://www.fdc83.com/wp-content/uploads/2026/05/1-AP_Ouverture-et-cloture-26-27.pdf",
+          "source_label": "Arrêté préfectoral n°DDTM/SAF/BCFSP/2026-046 (12 mai 2026)"
+        }
+      ]
+    }
+  ]
+}

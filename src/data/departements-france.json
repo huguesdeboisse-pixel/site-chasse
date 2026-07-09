@@ -30,24 +30,24 @@
    "nom": "Alpes-de-Haute-Provence",
    "region": "Provence-Alpes-Côte d'Azur",
    "prefecture_url": "https://www.alpes-de-haute-provence.gouv.fr",
-   "fdc_nom": null,
-   "fdc_url": null
+   "fdc_nom": "Fédération départementale des chasseurs des Alpes-de-Haute-Provence",
+   "fdc_url": "https://www.fdc04.com/"
   },
   {
    "code": "05",
    "nom": "Hautes-Alpes",
    "region": "Provence-Alpes-Côte d'Azur",
    "prefecture_url": "https://www.hautes-alpes.gouv.fr",
-   "fdc_nom": null,
-   "fdc_url": null
+   "fdc_nom": "Fédération départementale des chasseurs des Hautes-Alpes",
+   "fdc_url": "https://www.fdc05.com/"
   },
   {
    "code": "06",
    "nom": "Alpes-Maritimes",
    "region": "Provence-Alpes-Côte d'Azur",
    "prefecture_url": "https://www.alpes-maritimes.gouv.fr",
-   "fdc_nom": null,
-   "fdc_url": null
+   "fdc_nom": "Fédération des chasseurs des Alpes-Maritimes",
+   "fdc_url": "https://www.fdc06.fr/"
   },
   {
    "code": "07",
@@ -102,8 +102,8 @@
    "nom": "Bouches-du-Rhône",
    "region": "Provence-Alpes-Côte d'Azur",
    "prefecture_url": "https://www.bouches-du-rhone.gouv.fr",
-   "fdc_nom": null,
-   "fdc_url": null
+   "fdc_nom": "Fédération départementale des chasseurs des Bouches-du-Rhône",
+   "fdc_url": "https://www.fdc-13.com/"
   },
   {
    "code": "14",
@@ -670,16 +670,16 @@
    "nom": "Var",
    "region": "Provence-Alpes-Côte d'Azur",
    "prefecture_url": "https://www.var.gouv.fr",
-   "fdc_nom": null,
-   "fdc_url": null
+   "fdc_nom": "Fédération départementale des chasseurs du Var",
+   "fdc_url": "https://www.fdc83.com/"
   },
   {
    "code": "84",
    "nom": "Vaucluse",
    "region": "Provence-Alpes-Côte d'Azur",
    "prefecture_url": "https://www.vaucluse.gouv.fr",
-   "fdc_nom": null,
-   "fdc_url": null
+   "fdc_nom": "Fédération départementale des chasseurs de Vaucluse",
+   "fdc_url": "https://www.fdc84.info/"
   },
   {
    "code": "85",

@@ -1,0 +1,144 @@
+{
+  "departement": "13",
+  "saison": "2026-2027",
+  "licence_source": "Licence ouverte Etalab 2.0",
+  "ouverture_generale": {
+    "date": "2026-09-13",
+    "fermeture": "2027-02-28",
+    "source_url": "https://www.bouches-du-rhone.gouv.fr/contenu/telechargement/64086/448720/file/raa_13-2026-05-20-00035_AP_Ouverture-fermeture_2026-2027.pdf",
+    "source_label": "Arrêté préfectoral n°13-2026-05-20-00035 portant sur l'ouverture et la fermeture de la chasse dans le département des Bouches-du-Rhône pour la saison cynégétique 2026-2027 (signé le 20 mai 2026)",
+    "confiance": "haute"
+  },
+  "arretes_officiels": [
+    {
+      "objet": "Ouverture et clôture générale 2026-2027",
+      "reference": "Arrêté préfectoral n°13-2026-05-20-00035 (20 mai 2026)",
+      "url_pdf": "https://www.bouches-du-rhone.gouv.fr/contenu/telechargement/64086/448720/file/raa_13-2026-05-20-00035_AP_Ouverture-fermeture_2026-2027.pdf",
+      "statut": "signé"
+    },
+    {
+      "objet": "Plan de chasse départemental 2026-2027",
+      "reference": "Arrêté préfectoral n°13-2026-05-20-00036 (20 mai 2026)",
+      "url_pdf": "https://www.bouches-du-rhone.gouv.fr/contenu/telechargement/64087/448725/file/raa_13-2026-05-20-00036_AP_Plan de chasse_2026-2027.pdf",
+      "statut": "signé"
+    }
+  ],
+  "especes": [
+    {
+      "slug": "sanglier",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Tir anticipé sur autorisation préfectorale individuelle (battue à partir de 5 participants avec carnet de battue, affût, approche), sur l'ensemble du département, du 1er juin au 14 août 2026. Ouverture générale sans conditions particulières du 15 août 2026 au 31 mars 2027 (sauf communes d'Aureille, Châteauneuf-les-Martigues, Eyguières, Fontvieille, Gémenos, La Roque d'Anthéron, Lambesc, Lançon-Provence, Le Rove, Martigues, Meyrargues, Mimet, Roquevaire, Saint-Rémy-de-Provence, Simiane-Collongue, Velaux, où la chasse collective au mois de mars est soumise à autorisation DDTM après avis de la FDC13, pour préserver l'aigle de Bonelli). Prolongation dérogatoire du 1er avril au 31 mai 2027 uniquement sur demande pour la protection des semis, à l'affût/approche à moins de 200 m des parcelles cultivées, sur autorisation préfectorale",
+          "source_url": "https://www.bouches-du-rhone.gouv.fr/contenu/telechargement/64086/448720/file/raa_13-2026-05-20-00035_AP_Ouverture-fermeture_2026-2027.pdf",
+          "source_label": "Arrêté préfectoral n°13-2026-05-20-00035 (20 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "chevreuil",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Brocards uniquement, à l'affût ou à l'approche sur autorisation préfectorale individuelle (avec information de la FDC13), sur l'ensemble du département, du 1er juin au 12 septembre 2026. Ouverture générale sans conditions particulières du 13 septembre 2026 au 28 février 2027. Tir à balle ou à l'arc obligatoire",
+          "source_url": "https://www.bouches-du-rhone.gouv.fr/contenu/telechargement/64086/448720/file/raa_13-2026-05-20-00035_AP_Ouverture-fermeture_2026-2027.pdf",
+          "source_label": "Arrêté préfectoral n°13-2026-05-20-00035 (20 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "cerf-elaphe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13 septembre 2026 à 7 heures au 28 février 2027 au soir, sans conditions particulières sur l'ensemble du département. Tir à balle ou à l'arc obligatoire, soumis à plan de chasse",
+          "source_url": "https://www.bouches-du-rhone.gouv.fr/contenu/telechargement/64086/448720/file/raa_13-2026-05-20-00035_AP_Ouverture-fermeture_2026-2027.pdf",
+          "source_label": "Arrêté préfectoral n°13-2026-05-20-00035 (20 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "mouflon-mediterraneen",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Ouverture anticipée à l'affût ou à l'approche sur autorisation préfectorale individuelle (avec information de la FDC13), sur l'ensemble du département, du 1er septembre au 12 septembre 2026. Ouverture générale à l'affût ou à l'approche du 13 septembre 2026 à 7 heures au 28 février 2027 au soir. Tir à balle ou à l'arc obligatoire, soumis à plan de chasse",
+          "source_url": "https://www.bouches-du-rhone.gouv.fr/contenu/telechargement/64086/448720/file/raa_13-2026-05-20-00035_AP_Ouverture-fermeture_2026-2027.pdf",
+          "source_label": "Arrêté préfectoral n°13-2026-05-20-00035 (20 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "chamois",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13 septembre 2026 à 7 heures au 28 février 2027 au soir, seulement pour les mâles et éterlous. Tir à balle ou à l'arc obligatoire, soumis à plan de chasse",
+          "source_url": "https://www.bouches-du-rhone.gouv.fr/contenu/telechargement/64086/448720/file/raa_13-2026-05-20-00035_AP_Ouverture-fermeture_2026-2027.pdf",
+          "source_label": "Arrêté préfectoral n°13-2026-05-20-00035 (20 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "lievre-europe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Sur les territoires de chasse des communes d'Arles, Fos-sur-Mer, Istres, Port-Saint-Louis-du-Rhône, Saint-Martin-de-Crau et Eyguières, ainsi que le domaine du Merle à Salon-de-Provence : du 13 septembre 2026 (ouverture générale) au 15 novembre 2026 (3e dimanche de novembre). Sur le reste des communes et territoires chassables du département : du 4 octobre 2026 (1er dimanche d'octobre) au 10 janvier 2027 (2e dimanche de janvier)",
+          "source_url": "https://www.bouches-du-rhone.gouv.fr/contenu/telechargement/64086/448720/file/raa_13-2026-05-20-00035_AP_Ouverture-fermeture_2026-2027.pdf",
+          "source_label": "Arrêté préfectoral n°13-2026-05-20-00035 (20 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "lapin-garenne",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Sur l'ensemble du département (sauf communes ci-après) : du 13 septembre 2026 (ouverture générale) au 10 janvier 2027 (2e dimanche de janvier), furet autorisé uniquement sur autorisation individuelle pour la reprise et le lâcher. Sur les communes d'Aix-en-Provence, Arles, Eguilles, Graveson, Jouques, Maillane, Mallemort, Mollégès, Noves, Plan d'Orgon, Saint-Étienne-du-Grès, Saint-Martin-de-Crau et Saint-Rémy-de-Provence : du 13 septembre 2026 au 31 janvier 2027 (dernier dimanche de janvier)",
+          "source_url": "https://www.bouches-du-rhone.gouv.fr/contenu/telechargement/64086/448720/file/raa_13-2026-05-20-00035_AP_Ouverture-fermeture_2026-2027.pdf",
+          "source_label": "Arrêté préfectoral n°13-2026-05-20-00035 (20 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "faisan-commun",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13 septembre 2026 (ouverture générale) au 10 janvier 2027 (2e dimanche de janvier). Chasse au poste, à l'agrainée ou à proximité d'abreuvoirs interdite. Tir interdit 25 minutes après le coucher du soleil à partir du 1er novembre. Régime dérogatoire pour les oiseaux d'élevage issus de lâchers (établissements de chasse à caractère commercial)",
+          "source_url": "https://www.bouches-du-rhone.gouv.fr/contenu/telechargement/64086/448720/file/raa_13-2026-05-20-00035_AP_Ouverture-fermeture_2026-2027.pdf",
+          "source_label": "Arrêté préfectoral n°13-2026-05-20-00035 (20 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-rouge",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 13 septembre 2026 (ouverture générale) au 13 décembre 2026 (2e dimanche de décembre). Chasse au poste, à l'agrainée ou à proximité d'abreuvoirs interdite. Tir interdit 25 minutes après le coucher du soleil à partir du 1er novembre. Régime dérogatoire pour les oiseaux d'élevage issus de lâchers (établissements de chasse à caractère commercial)",
+          "source_url": "https://www.bouches-du-rhone.gouv.fr/contenu/telechargement/64086/448720/file/raa_13-2026-05-20-00035_AP_Ouverture-fermeture_2026-2027.pdf",
+          "source_label": "Arrêté préfectoral n°13-2026-05-20-00035 (20 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "becasse-bois",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Périodes fixées par arrêtés ministériels. Chasse et tir autorisés seulement à partir de 8 heures du matin. Chasse à la passée et à la croule interdite. Dispositifs électroniques de repérage des chiens à l'arrêt autorisés, colliers GPS interdits pendant l'action de chasse",
+          "source_url": "https://www.bouches-du-rhone.gouv.fr/contenu/telechargement/64086/448720/file/raa_13-2026-05-20-00035_AP_Ouverture-fermeture_2026-2027.pdf",
+          "source_label": "Arrêté préfectoral n°13-2026-05-20-00035 (20 mai 2026)"
+        },
+        {
+          "label": "Prélèvement maximal autorisé",
+          "detail": "PMA de 3 oiseaux par jour et par chasseur, dans la limite de 30 oiseaux par an. Pose d'une bague autocollante et renseignement du carnet de prélèvement (ou application ChassAdapt) obligatoires avant tout transport. Retour du carnet à la FDC13 avant le 31 mars 2027 sous peine de non-délivrance l'année suivante",
+          "source_url": "https://www.bouches-du-rhone.gouv.fr/contenu/telechargement/64086/448720/file/raa_13-2026-05-20-00035_AP_Ouverture-fermeture_2026-2027.pdf",
+          "source_label": "Arrêté préfectoral n°13-2026-05-20-00035 (20 mai 2026)"
+        }
+      ]
+    }
+  ]
+}
