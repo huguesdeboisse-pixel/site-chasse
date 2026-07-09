@@ -40,7 +40,7 @@ const deps = dataset.departements;
         />
         {Object.entries(carte.departements).map(([code, d], i) => (
           <a href={`/departements/${code}/`} class="dep-shape" aria-label={`${d.nom} (${code})`} data-nom={d.nom}>
-            <path d={d.path} class={i % 2 === 0 ? 'tone-a' : 'tone-b'} />
+            <path d={d.path} class={['tone-a', 'tone-b', 'tone-c'][i % 3]} />
             <text x={d.labelX} y={d.labelY}>{code}</text>
           </a>
         ))}
