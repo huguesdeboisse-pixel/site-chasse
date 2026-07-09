@@ -18,6 +18,9 @@
     { "nom": "Caille des blés", "categorie": "oiseau de passage" },
     { "nom": "Tétras-lyre", "categorie": "galliforme de montagne" },
     { "nom": "Lagopède alpin", "categorie": "galliforme de montagne" },
-    { "nom": "Perdrix bartavelle", "categorie": "galliforme de montagne" }
+    { "nom": "Perdrix bartavelle", "categorie": "galliforme de montagne" },
+    { "nom": "Tangue", "categorie": "gibier d'outre-mer", "territoire": "La Réunion" },
+    { "nom": "Lièvre à collier noir", "categorie": "gibier d'outre-mer", "territoire": "La Réunion" },
+    { "nom": "Cerf de Java", "categorie": "gibier d'outre-mer", "territoire": "La Réunion" }
   ]
 }

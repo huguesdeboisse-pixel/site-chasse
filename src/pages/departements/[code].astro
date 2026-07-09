@@ -8,6 +8,8 @@ export function getStaticPaths() {
   return dataset.departements.map((d) => ({ params: { code: d.code }, props: { dep: d } }));
 }
 
+const DROM_REGIONS = new Set(['Guadeloupe', 'Martinique', 'Guyane', 'La Réunion', 'Mayotte']);
+
 interface Fait {
   label: string;
   detail: string;
@@ -79,7 +81,11 @@ interface EspeceRow { slug: string; titre: string; valeur: string; ref: number; 
 const especeViews: EspeceBannerView[] = [];
 const especeRows: EspeceRow[] = [];
 
-for (const e of especesDataset.especes) {
+const especesDuTerritoire = especesDataset.especes.filter((e) =>
+  'territoire' in e ? e.territoire === dep.region : !DROM_REGIONS.has(dep.region)
+);
+
+for (const e of especesDuTerritoire) {
   const slug = SLUGS[e.nom];
   const svg = slug ? icons[`../../icons/especes/${slug}.svg`] ?? null : null;
   especeViews.push({ nom: e.nom, slug, svg });

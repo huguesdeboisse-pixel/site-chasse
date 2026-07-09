@@ -17,4 +17,7 @@ export const SLUGS: Record<string, string> = {
   'Tétras-lyre': 'tetras-lyre',
   'Lagopède alpin': 'lagopede-alpin',
   'Perdrix bartavelle': 'perdrix-bartavelle',
+  'Tangue': 'tangue',
+  'Lièvre à collier noir': 'lievre-collier-noir',
+  'Cerf de Java': 'cerf-de-java',
 };
