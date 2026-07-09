@@ -1,0 +1,154 @@
+{
+  "departement": "27",
+  "saison": "2026-2027",
+  "licence_source": "Licence ouverte Etalab 2.0",
+  "ouverture_generale": {
+    "date": "2026-09-27",
+    "fermeture": "2027-02-28",
+    "source_url": "https://www.eure.gouv.fr/contenu/telechargement/62980/464829/file/2026-120_AP%20ouverture-fermeture%20chasse%202026-2027.pdf",
+    "source_label": "Arrêté préfectoral DDTM/SEBF/2026-120 relatif à l'ouverture et à la clôture de la chasse dans le département de l'Eure, campagne 2026/2027 (signé le 1er juin 2026)",
+    "confiance": "haute"
+  },
+  "arretes_officiels": [
+    {
+      "objet": "Ouverture et clôture générale 2026-2027",
+      "reference": "Arrêté DDTM/SEBF/2026-120 (1er juin 2026)",
+      "url_pdf": "https://www.eure.gouv.fr/contenu/telechargement/62980/464829/file/2026-120_AP%20ouverture-fermeture%20chasse%202026-2027.pdf",
+      "statut": "signé"
+    }
+  ],
+  "especes": [
+    {
+      "slug": "sanglier",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Ouverture anticipée à l'approche, à l'affût ou en battue sur autorisation préfectorale individuelle du 8 juin au 14 août 2026 ; puis à l'approche, à l'affût ou en battue (5 chasseurs minimum en battue, tirs sélectifs sexe/poids interdits) du 15 août 2026 au 31 mars 2027 ; période complémentaire de protection des semis du 1er avril au 31 mai 2027 (affût/approche sur autorisation préfectorale, uniquement pour protéger les semis)",
+          "source_url": "https://www.eure.gouv.fr/contenu/telechargement/62980/464829/file/2026-120_AP%20ouverture-fermeture%20chasse%202026-2027.pdf",
+          "source_label": "Arrêté DDTM/SEBF/2026-120 (1er juin 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "chevreuil",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Ouverture anticipée à l'approche ou à l'affût sur autorisation préfectorale individuelle (tir à balle ou à l'arc) du 8 juin au 10 octobre 2026, puis ouverture générale du 11 octobre 2026 au 28 février 2027. Chevreuil de plaine : uniquement à l'affût depuis un siège surélevé ou mirador (plateau à 1,50 m minimum), sur territoires de plus de 20 ha à plus de 300 m des bois, battue interdite, du 8 juin 2026 au 28 février 2027",
+          "source_url": "https://www.eure.gouv.fr/contenu/telechargement/62980/464829/file/2026-120_AP%20ouverture-fermeture%20chasse%202026-2027.pdf",
+          "source_label": "Arrêté DDTM/SEBF/2026-120 (1er juin 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "cerf-elaphe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Ouverture anticipée à l'approche ou à l'affût sur autorisation préfectorale individuelle (tir à balle ou à l'arc) du 1er septembre au 10 octobre 2026, puis ouverture générale du 11 octobre 2026 au 28 février 2027. Plan de chasse qualitatif : tous les trophées (CEM1 et CEM2) doivent être présentés à la FDCE en fin de saison",
+          "source_url": "https://www.eure.gouv.fr/contenu/telechargement/62980/464829/file/2026-120_AP%20ouverture-fermeture%20chasse%202026-2027.pdf",
+          "source_label": "Arrêté DDTM/SEBF/2026-120 (1er juin 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "lievre-europe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 27 septembre au 29 novembre 2026, sur l'ensemble du département, espèce soumise à plan de gestion avec marquage obligatoire (bracelet à languette autocollante)",
+          "source_url": "https://www.eure.gouv.fr/contenu/telechargement/62980/464829/file/2026-120_AP%20ouverture-fermeture%20chasse%202026-2027.pdf",
+          "source_label": "Arrêté DDTM/SEBF/2026-120 (1er juin 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-grise",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 27 septembre au 11 novembre 2026, sur l'ensemble du département (communes de Farceaux, Boisemont et Hacqueville soumises à un plan de gestion spécifique). À compter du 12 novembre 2026, seuls les oiseaux munis d'un signe distinctif (bandelette ou poncho) peuvent être prélevés",
+          "source_url": "https://www.eure.gouv.fr/contenu/telechargement/62980/464829/file/2026-120_AP%20ouverture-fermeture%20chasse%202026-2027.pdf",
+          "source_label": "Arrêté DDTM/SEBF/2026-120 (1er juin 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-rouge",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 27 septembre 2026 au 31 janvier 2027, sur l'ensemble du département. À compter du 1er février 2027, seuls les oiseaux munis d'un signe distinctif peuvent être prélevés",
+          "source_url": "https://www.eure.gouv.fr/contenu/telechargement/62980/464829/file/2026-120_AP%20ouverture-fermeture%20chasse%202026-2027.pdf",
+          "source_label": "Arrêté DDTM/SEBF/2026-120 (1er juin 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "faisan-commun",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 27 septembre 2026 au 31 janvier 2027, sur l'ensemble du département sauf communes listées où la chasse est fermée ou soumise à plan de chasse (zones de gestion Caillouet Orgeville-Le Cormier, Gasny, Gouville-Les Essarts, Vallée de la Risle, GIC du Pays de Bleu, GIC du Vexin Normand, GIC de Bézu la Forêt). À compter du 1er février 2027, seuls les oiseaux munis d'un signe distinctif peuvent être prélevés",
+          "source_url": "https://www.eure.gouv.fr/contenu/telechargement/62980/464829/file/2026-120_AP%20ouverture-fermeture%20chasse%202026-2027.pdf",
+          "source_label": "Arrêté DDTM/SEBF/2026-120 (1er juin 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "lapin-garenne",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Du 27 septembre 2026 au 28 février 2027, sur l'ensemble du département, furet autorisé",
+          "source_url": "https://www.eure.gouv.fr/contenu/telechargement/62980/464829/file/2026-120_AP%20ouverture-fermeture%20chasse%202026-2027.pdf",
+          "source_label": "Arrêté DDTM/SEBF/2026-120 (1er juin 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "pigeon-ramier",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Ouverture anticipée à poste fixe du 20 au 26 septembre 2026, puis ouverture générale du 27 septembre 2026 au 20 février 2027, sur l'ensemble du département",
+          "source_url": "https://www.eure.gouv.fr/contenu/telechargement/62980/464829/file/2026-120_AP%20ouverture-fermeture%20chasse%202026-2027.pdf",
+          "source_label": "Arrêté DDTM/SEBF/2026-120 (1er juin 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "becasse-bois",
+      "faits": [
+        {
+          "label": "Prélèvement maximal autorisé",
+          "detail": "PMA de 3 bécasses par chasseur et par semaine, dans la limite de 30 bécasses par chasseur pour l'ensemble de la saison. Carnet individuel de prélèvement délivré par la FDC27 ou application ChassAdapt obligatoire",
+          "source_url": "https://www.eure.gouv.fr/contenu/telechargement/62980/464829/file/2026-120_AP%20ouverture-fermeture%20chasse%202026-2027.pdf",
+          "source_label": "Arrêté DDTM/SEBF/2026-120 (1er juin 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "caille-bles",
+      "faits": [
+        {
+          "label": "Prélèvement maximal autorisé",
+          "detail": "PMA de 15 oiseaux par jour et par chasseur",
+          "source_url": "https://www.eure.gouv.fr/contenu/telechargement/62980/464829/file/2026-120_AP%20ouverture-fermeture%20chasse%202026-2027.pdf",
+          "source_label": "Arrêté DDTM/SEBF/2026-120 (1er juin 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "canard-colvert",
+      "faits": [
+        {
+          "label": "Prélèvement maximal autorisé",
+          "detail": "Un PMA de 15 oiseaux par jour et par chasseur (chasse de jour) ou 15 oiseaux par nuit et par chasseur en gabion (max 25 par installation et par tranche de 24h) s'applique à plusieurs anatidés chassables (canard chipeau, pilet, siffleur, souchet, sarcelles, fuligules, macreuses, harelde, garrot, nette rousse) ; le colvert n'est pas comptabilisé dans ce PMA",
+          "source_url": "https://www.eure.gouv.fr/contenu/telechargement/62980/464829/file/2026-120_AP%20ouverture-fermeture%20chasse%202026-2027.pdf",
+          "source_label": "Arrêté DDTM/SEBF/2026-120 (1er juin 2026)"
+        }
+      ]
+    }
+  ]
+}

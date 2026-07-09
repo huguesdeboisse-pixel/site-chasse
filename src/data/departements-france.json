@@ -110,8 +110,8 @@
    "nom": "Calvados",
    "region": "Normandie",
    "prefecture_url": "https://www.calvados.gouv.fr",
-   "fdc_nom": null,
-   "fdc_url": null
+   "fdc_nom": "Fédération départementale des chasseurs du Calvados",
+   "fdc_url": "https://www.fdc14.fr/"
   },
   {
    "code": "15",
@@ -206,8 +206,8 @@
    "nom": "Eure",
    "region": "Normandie",
    "prefecture_url": "https://www.eure.gouv.fr",
-   "fdc_nom": null,
-   "fdc_url": null
+   "fdc_nom": "Fédération des chasseurs de l'Eure",
+   "fdc_url": "https://www.fdc27.com/"
   },
   {
    "code": "28",
@@ -406,8 +406,8 @@
    "nom": "Manche",
    "region": "Normandie",
    "prefecture_url": "https://www.manche.gouv.fr",
-   "fdc_nom": null,
-   "fdc_url": null
+   "fdc_nom": "Fédération des chasseurs de la Manche",
+   "fdc_url": "https://fdc50.com/"
   },
   {
    "code": "51",
@@ -494,8 +494,8 @@
    "nom": "Orne",
    "region": "Normandie",
    "prefecture_url": "https://www.orne.gouv.fr",
-   "fdc_nom": null,
-   "fdc_url": null
+   "fdc_nom": "Fédération départementale des chasseurs de l'Orne",
+   "fdc_url": "https://fdc61.fr/"
   },
   {
    "code": "62",
@@ -614,8 +614,8 @@
    "nom": "Seine-Maritime",
    "region": "Normandie",
    "prefecture_url": "https://www.seine-maritime.gouv.fr",
-   "fdc_nom": null,
-   "fdc_url": null
+   "fdc_nom": "Fédération des chasseurs de Seine-Maritime",
+   "fdc_url": "https://www.fdc76.com/"
   },
   {
    "code": "77",

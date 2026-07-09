@@ -1,0 +1,150 @@
+{
+  "departement": "61",
+  "saison": "2026-2027",
+  "licence_source": "Licence ouverte Etalab 2.0",
+  "ouverture_generale": {
+    "date": "2026-09-20",
+    "fermeture": "2027-02-28",
+    "source_url": "https://www.orne.gouv.fr/contenu/telechargement/29279/234544/file/AP-00024_ouverture-fermeture_2026_2027.pdf",
+    "source_label": "Arrêté préfectoral n°2340-26-00024 relatif à l'exercice de la chasse dans le département de l'Orne pour la campagne cynégétique 2026/2027 (signé le 21 mai 2026)",
+    "confiance": "haute"
+  },
+  "arretes_officiels": [
+    {
+      "objet": "Ouverture et clôture générale, exercice de la chasse 2026-2027",
+      "reference": "Arrêté n°2340-26-00024 (21 mai 2026)",
+      "url_pdf": "https://www.orne.gouv.fr/contenu/telechargement/29279/234544/file/AP-00024_ouverture-fermeture_2026_2027.pdf",
+      "statut": "signé"
+    },
+    {
+      "objet": "Prélèvement maximal autorisé (PMA) bécasse des bois",
+      "reference": "Arrêté n°2340-26-00027 (21 mai 2026)",
+      "url_pdf": "https://www.orne.gouv.fr/contenu/telechargement/29282/234559/file/AP-00027-becasse_des_bois_2026_2027.pdf",
+      "statut": "signé"
+    },
+    {
+      "objet": "Classement ESOD du sanglier sur les massifs de Bellême et de Gouffern",
+      "reference": "Arrêté n°2340-26-00028 (21 mai 2026)",
+      "url_pdf": "https://www.orne.gouv.fr/contenu/telechargement/29269/234494/file/AP-00028-ESOD_G3_2026_2027.pdf",
+      "statut": "signé"
+    }
+  ],
+  "especes": [
+    {
+      "slug": "sanglier",
+      "faits": [
+        {
+          "label": "Statut",
+          "detail": "Classé ESOD (espèce susceptible d'occasionner des dégâts) du 1er juillet 2026 au 30 juin 2027 sur les seuls massifs cynégétiques de Bellême et de Gouffern, en raison de dégâts agricoles importants et récurrents",
+          "source_url": "https://www.orne.gouv.fr/contenu/telechargement/29269/234494/file/AP-00028-ESOD_G3_2026_2027.pdf",
+          "source_label": "Arrêté ESOD n°2340-26-00028 (21 mai 2026)"
+        },
+        {
+          "label": "Dates de chasse",
+          "detail": "Tir à l'approche et à l'affût (tir des laies suitées interdit) du 1er juin au 19 septembre 2026, sans autorisation individuelle préalable ; ouverture anticipée en battues dans les cultures du 15 août au 19 septembre 2026 ; tous modes de chasse du 20 septembre 2026 au 31 mars 2027 ; tir à l'approche et à l'affût pour la protection des semis (laies suitées interdites) du 1er avril au 31 mai 2027. Dans les zones de tuberculose bovine et ESOD, tous modes de chasse du 15 août 2026 au 31 mars 2027. Marquage obligatoire, déclaration à la FDC61 sous 48h",
+          "source_url": "https://www.orne.gouv.fr/contenu/telechargement/29279/234544/file/AP-00024_ouverture-fermeture_2026_2027.pdf",
+          "source_label": "Arrêté n°2340-26-00024 (21 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "chevreuil",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Chasse anticipée du brocard et du faon de chevreuil à l'approche ou à l'affût du 1er juin au 19 septembre 2026 (autorisation réputée accordée pour les détenteurs d'un plan de chasse), puis ouverture générale à partir du 20 septembre 2026 jusqu'au 28 février 2027",
+          "source_url": "https://www.orne.gouv.fr/contenu/telechargement/29279/234544/file/AP-00024_ouverture-fermeture_2026_2027.pdf",
+          "source_label": "Arrêté n°2340-26-00024 (21 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "cerf-elaphe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Chasse anticipée du cerf mâle, daguet, jeune cerf ou jeune biche (moins d'un an) à l'approche ou à l'affût du 1er septembre au 19 septembre 2026, puis ouverture générale à partir du 20 septembre 2026 jusqu'au 28 février 2027",
+          "source_url": "https://www.orne.gouv.fr/contenu/telechargement/29279/234544/file/AP-00024_ouverture-fermeture_2026_2027.pdf",
+          "source_label": "Arrêté n°2340-26-00024 (21 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "lievre-europe",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Chasse uniquement le dimanche : jusqu'au 11 octobre 2026 dans les pays cynégétiques du Bocage, Pays d'Ouche et de la Plaine ; jusqu'au 18 octobre 2026 dans le Perche. Par dérogation, chasse tous les jours jusqu'au 29 novembre 2026 sur tout le département pour les détenteurs d'un plan de gestion cynégétique accordé par la FDC61. Vente/transport/colportage interdits du 20 septembre au 18 octobre 2026",
+          "source_url": "https://www.orne.gouv.fr/contenu/telechargement/29279/234544/file/AP-00024_ouverture-fermeture_2026_2027.pdf",
+          "source_label": "Arrêté n°2340-26-00024 (21 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-grise",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Chasse uniquement le dimanche : jusqu'au 11 octobre 2026 dans les pays cynégétiques du Bocage, Pays d'Ouche et de la Plaine ; jusqu'au 18 octobre 2026 dans le Perche. Par dérogation, chasse tous les jours jusqu'au 29 novembre 2026 sur tout le département pour les détenteurs d'un plan de gestion cynégétique accordé par la FDC61",
+          "source_url": "https://www.orne.gouv.fr/contenu/telechargement/29279/234544/file/AP-00024_ouverture-fermeture_2026_2027.pdf",
+          "source_label": "Arrêté n°2340-26-00024 (21 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "perdrix-rouge",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Dans les cantons de Céton et Bretoncelles : chasse uniquement le dimanche jusqu'au 18 octobre 2026, puis tous les jours par dérogation jusqu'au 29 novembre 2026 pour les détenteurs d'un plan de gestion cynégétique accordé par la FDC61",
+          "source_url": "https://www.orne.gouv.fr/contenu/telechargement/29279/234544/file/AP-00024_ouverture-fermeture_2026_2027.pdf",
+          "source_label": "Arrêté n°2340-26-00024 (21 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "faisan-commun",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Chasse restreinte au groupement d'intérêt cynégétique d'Écouché Nord, du 20 septembre au 29 novembre 2026, réservée aux détenteurs d'un plan de gestion cynégétique accordé par la FDC61",
+          "source_url": "https://www.orne.gouv.fr/contenu/telechargement/29279/234544/file/AP-00024_ouverture-fermeture_2026_2027.pdf",
+          "source_label": "Arrêté n°2340-26-00024 (21 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "lapin-garenne",
+      "faits": [
+        {
+          "label": "Dates de chasse",
+          "detail": "Chasse autorisée sur l'ensemble du département pendant toute la période d'ouverture de la chasse (20 septembre 2026 au 28 février 2027), y compris au furet",
+          "source_url": "https://www.orne.gouv.fr/contenu/telechargement/29279/234544/file/AP-00024_ouverture-fermeture_2026_2027.pdf",
+          "source_label": "Arrêté n°2340-26-00024 (21 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "becasse-bois",
+      "faits": [
+        {
+          "label": "Prélèvement maximal autorisé",
+          "detail": "PMA de 3 bécasses par semaine calendaire et par chasseur, avec un maximum de 30 bécasses par chasseur pour la saison cynégétique. Carnet individuel de prélèvement délivré par la FDC61 ou application ChassAdapt obligatoire. Entrée en vigueur le 1er juillet 2026",
+          "source_url": "https://www.orne.gouv.fr/contenu/telechargement/29282/234559/file/AP-00027-becasse_des_bois_2026_2027.pdf",
+          "source_label": "Arrêté n°2340-26-00027 (21 mai 2026)"
+        }
+      ]
+    },
+    {
+      "slug": "canard-colvert",
+      "faits": [
+        {
+          "label": "Prélèvement maximal autorisé",
+          "detail": "Plan quantitatif de gestion (PQG) pour les anatidés (canards et oies) en chasse de nuit : limite de 25 anatidés par installation de chasse de nuit déclarée, par tranche de 24 heures (de midi à midi)",
+          "source_url": "https://www.orne.gouv.fr/contenu/telechargement/29279/234544/file/AP-00024_ouverture-fermeture_2026_2027.pdf",
+          "source_label": "Arrêté n°2340-26-00024 (21 mai 2026)"
+        }
+      ]
+    }
+  ]
+}
