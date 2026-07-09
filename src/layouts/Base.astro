@@ -43,10 +43,6 @@ const {
       h1,h2,h3{line-height:1.2;letter-spacing:-.01em;}
 
       /* Header */
-      .site-header{position:sticky;top:0;z-index:20;background:rgba(247,246,241,.9);backdrop-filter:saturate(1.4) blur(8px);border-bottom:1px solid var(--line);}
-      .header-inner{display:flex;align-items:center;height:62px;}
-      .brand{display:flex;align-items:center;gap:.55rem;font-weight:700;color:var(--ink);text-decoration:none;font-size:1.05rem;letter-spacing:-.01em;}
-      .brand-sep{color:var(--green-600);margin:0 .15em;}
 
       /* Hero */
       .hero{background:var(--green-900);color:#f3f1e7;padding:3rem 0 3.2rem;}
@@ -168,14 +164,6 @@ const {
     </style>
   </head>
   <body>
-    <header class="site-header">
-      <div class="wrap header-inner">
-        <a class="brand" href="/">
-          <span>Chasse</span>
-        </a>
-      </div>
-    </header>
-
     <main>
       <slot />
     </main>
