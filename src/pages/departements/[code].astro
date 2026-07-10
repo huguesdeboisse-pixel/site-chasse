@@ -3,6 +3,7 @@ import Base from '../../layouts/Base.astro';
 import dataset from '../../data/departements-france.json';
 import especesDataset from '../../data/especes.json';
 import { SLUGS } from '../../lib/especes';
+import { LOCALISATION } from '../../lib/localisation';
 
 export function getStaticPaths() {
   return dataset.departements.map((d) => ({ params: { code: d.code }, props: { dep: d } }));
@@ -106,7 +107,7 @@ for (const e of especesDuTerritoire) {
   }
 }
 ---
-<Base title={`Chasse en ${dep.nom} (${dep.code})`} description={`Dates d'ouverture et de fermeture, quotas et arrêtés de la chasse en ${dep.nom}.`}>
+<Base title={`Chasse ${LOCALISATION[dep.code]} (${dep.code})`} description={`Dates d'ouverture et de fermeture, quotas et arrêtés de la chasse ${LOCALISATION[dep.code]}.`}>
   <div class="wrap">
     <div class="especes-banner" role="group" aria-label="Filtrer par espèce">
       {especeViews.map((e) => (
