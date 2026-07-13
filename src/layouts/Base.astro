@@ -18,7 +18,7 @@ const {
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>{title}</title>
     <meta name="description" content={description} />
-    <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Cpath fill='%232d6a4f' d='M16 4 L21 12 H18 L23 19 H20 L25 26 H7 L12 19 H9 L14 12 H11 Z'/%3E%3Crect x='14.5' y='25' width='3' height='5' fill='%236b4f2e'/%3E%3C/svg%3E" />
+    <link rel="icon" type="image/png" href="/favicon.png" />
     <script is:inline>
       window.dataLayer = window.dataLayer || [];
       window.trackEvent = function (name, params) {
@@ -51,8 +51,10 @@ const {
 
       /* Hero */
       .hero{background:var(--green-900);color:#f3f1e7;padding:3rem 0 3.2rem;}
-      .hero h1{font-weight:600;font-size:clamp(1.9rem,4.4vw,3rem);margin:0 0 .2rem;color:#fbfaf5;}
+      .hero h1{font-weight:600;font-size:clamp(1.9rem,4.4vw,3rem);margin:0 0 .05rem;color:#fbfaf5;}
       .hero .lede{margin:0;max-width:60ch;color:#d7ddd2;font-size:1.05rem;}
+      .hero-top{display:flex;align-items:center;gap:1rem;}
+      .hero-logo-img{height:4.4rem;width:auto;flex:none;}
 
       .intro-note{margin:1.6rem 0 0;color:var(--muted);font-size:.92rem;font-style:italic;line-height:1.55;max-width:62ch;}
 
