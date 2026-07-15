@@ -27,6 +27,12 @@ const {
       };
     </script>
     <style is:global>
+      @font-face{
+        font-family:"Kikuta";
+        src:url("/fonts/kikuta-variable.ttf") format("truetype-variations");
+        font-weight:100 900;
+        font-display:swap;
+      }
       :root{
         --bg:#f7f6f1; --surface:#ffffff; --ink:#1b2a23; --muted:#6c7268; --line:#e6e3da;
         --green-900:#14342a; --green-700:#2d6a4f; --green-600:#3f8f6b; --green-50:#eaf3ee;
@@ -46,13 +52,13 @@ const {
       .site-logo{display:inline-flex;align-items:center;gap:.6rem;padding:1.4rem 0 .2rem;text-decoration:none;}
       .site-logo-img{height:2.6rem;width:auto;flex:none;}
       .site-logo-text{display:flex;flex-direction:column;gap:.05rem;}
-      .site-logo-title{font-weight:600;font-size:1.4rem;color:var(--ink);letter-spacing:-.01em;}
-      .site-logo-sub{font-size:.78rem;color:var(--muted);}
+      .site-logo-title{font-family:"Kikuta",sans-serif;font-weight:700;font-size:1.3rem;line-height:1;color:var(--ink);letter-spacing:-.01em;}
+      .site-logo-sub{font-size:.78rem;line-height:1;color:var(--muted);}
 
       /* Hero */
       .hero{background:var(--green-900);color:#f3f1e7;padding:3rem 0 3.2rem;}
-      .hero h1{font-weight:600;font-size:clamp(1.9rem,4.4vw,3rem);margin:0 0 .05rem;color:#fbfaf5;}
-      .hero .lede{margin:0;max-width:60ch;color:#d7ddd2;font-size:1.05rem;}
+      .hero h1{font-family:"Kikuta",sans-serif;font-weight:700;font-size:clamp(1.7rem,4vw,2.7rem);line-height:1;margin:0 0 .3rem;color:#fbfaf5;}
+      .hero .lede{margin:0;max-width:60ch;color:#d7ddd2;font-size:1.05rem;line-height:1;}
       .hero-top{display:flex;align-items:center;gap:1rem;}
       .hero-logo-img{height:4.4rem;width:auto;flex:none;}
 
@@ -95,10 +101,10 @@ const {
       .breadcrumb a:hover{color:var(--green-700);}
       .breadcrumb span{margin:0 .3rem;}
       .fiche-head{margin-bottom:1.8rem;}
-      .fiche-head-row{display:flex;align-items:center;gap:.7rem;}
+      .fiche-head-row{display:flex;align-items:flex-end;gap:.7rem;}
       .dep-badge{flex:none;width:38px;height:38px;display:grid;place-items:center;background:transparent;border:1.5px solid var(--green-700);color:var(--green-700);border-radius:50%;font-weight:600;font-size:.9rem;}
-      .fiche-head h1{font-weight:600;font-size:clamp(1.6rem,3.5vw,2.2rem);margin:0;}
-      .fiche-head .fiche-sources{margin:.3rem 0 0 calc(38px + .7rem);}
+      .fiche-head h1{font-weight:600;font-size:clamp(1.6rem,3.5vw,2.2rem);line-height:1;margin:0;}
+      .fiche-head .fiche-sources{margin:.25rem 0 0 calc(38px + .7rem);line-height:1;}
       .fiche-sources{margin:0;font-size:.9rem;color:var(--muted);}
       .fiche-sources .dot{margin:0 .5rem;color:var(--line);}
 
