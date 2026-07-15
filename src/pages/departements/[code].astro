@@ -65,7 +65,12 @@ function noteRef(label: string, href: string): number {
   return idx;
 }
 
-const prefRef = noteRef(`Préfecture — ${dep.nom}`, dep.prefecture_url);
+// La préfecture n'est citée comme source que lorsqu'un arrêté a réellement été trouvé et confirmé pour ce
+// département : sinon, un simple lien vers la page d'accueil de la préfecture ne "source" rien de concret.
+let prefRef = 0;
+if (periodes) {
+  prefRef = noteRef(`Préfecture — ${dep.nom}`, dep.prefecture_url);
+}
 if (dep.fdc_nom && dep.fdc_url) {
   noteRef(dep.fdc_nom, dep.fdc_url);
 }
@@ -147,14 +152,14 @@ for (const e of especesDuTerritoire) {
       ) : (
         <div class="info-row" id="row-generale">
           <p class="info-title">Données en cours de collecte</p>
-          <p class="info-value">Sources ci-dessous.</p>
+          <p class="info-value">Aucun arrêté signé confirmé pour cette campagne à ce jour.</p>
         </div>
       )}
 
       {especeRows.map((r) => (
         <div class="info-row espece-row" data-slug={r.slug} hidden>
           <p class="info-title">{r.titre}</p>
-          <p class="info-value">{r.valeur}<sup><a class="footnote-ref" href={`#s${r.ref}`}>{r.ref}</a></sup></p>
+          <p class="info-value">{r.valeur}{r.ref > 0 && <sup><a class="footnote-ref" href={`#s${r.ref}`}>{r.ref}</a></sup>}</p>
         </div>
       ))}
     </div>
@@ -164,14 +169,16 @@ for (const e of especesDuTerritoire) {
       <span class="ad-slot-body">Emplacement disponible</span>
     </div>
 
-    <section class="sources" id="sources">
-      <p>Sources</p>
-      <ol>
-        {notes.map((n, i) => (
-          <li id={`s${i + 1}`}>{n.label} — <a href={n.href} target="_blank" rel="noopener noreferrer">consulter ↗</a></li>
-        ))}
-      </ol>
-    </section>
+    {notes.length > 0 && (
+      <section class="sources" id="sources">
+        <p>Sources</p>
+        <ol>
+          {notes.map((n, i) => (
+            <li id={`s${i + 1}`}>{n.label} — <a href={n.href} target="_blank" rel="noopener noreferrer">consulter ↗</a></li>
+          ))}
+        </ol>
+      </section>
+    )}
   </div>
 
   <script>
