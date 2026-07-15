@@ -1,6 +1,6 @@
 import { defineConfig } from 'astro/config';
 
 export default defineConfig({
-  site: 'https://site-chasse.netlify.app',
+  site: 'https://huguesdeboisse-pixel.github.io',
   build: { format: 'directory' }
 });
