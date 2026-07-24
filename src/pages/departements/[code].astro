@@ -151,26 +151,34 @@ for (const e of especesDuTerritoire) {
     }
   }
 
-  // 1 bis. Gibier d'eau : ouverture nationale échelonnée (domaine public maritime / plans d'eau
-  //        intérieurs) + fermeture nationale. Ajoutée seulement si aucune date n'a déjà été collectée.
-  if (ge && periodes && !aDejaDate) {
-    const anneeOuverture = Number(periodes.saison.split('-')[0]);
-    const anneeFermeture = Number(periodes.saison.split('-')[1]);
-    const interieurIso = ge.ouvertureInterieur === '15-septembre'
-      ? `${anneeOuverture}-09-15`
-      : `${anneeOuverture}-08-21`;
-    const paliers: string[] = [];
-    if (DEPARTEMENTS_COTIERS.includes(dep.code)) {
-      paliers.push(`sur le domaine public maritime dès le ${formatDate(premierSamediAout(anneeOuverture))}`);
+  // 1 bis. Gibier d'eau : statut particulier (moratoire / mer uniquement), ou ouverture nationale
+  //        échelonnée (domaine public maritime / plans d'eau intérieurs) + fermeture nationale.
+  if (ge && periodes) {
+    if (ge.statut === 'moratoire') {
+      const ref = noteRef(SOURCE_GIBIER_EAU.label, SOURCE_GIBIER_EAU.url);
+      especeRows.push({ slug, titre: `${e.nom} — Statut`, valeur: "Chasse suspendue (moratoire national) : aucune date d'ouverture pour cette saison.", refs: [ref] });
+    } else if (ge.statut === 'mer-uniquement') {
+      const ref = noteRef(SOURCE_GIBIER_EAU.label, SOURCE_GIBIER_EAU.url);
+      especeRows.push({ slug, titre: `${e.nom} — Statut`, valeur: "Chasse à terre suspendue ; autorisée uniquement en mer, jusqu'à la limite des eaux territoriales.", refs: [ref] });
+    } else if (!aDejaDate) {
+      const anneeOuverture = Number(periodes.saison.split('-')[0]);
+      const anneeFermeture = Number(periodes.saison.split('-')[1]);
+      const interieurIso = ge.ouvertureInterieur === '15-septembre'
+        ? `${anneeOuverture}-09-15`
+        : `${anneeOuverture}-08-21`;
+      const paliers: string[] = [];
+      if (DEPARTEMENTS_COTIERS.includes(dep.code)) {
+        paliers.push(`sur le domaine public maritime dès le ${formatDate(premierSamediAout(anneeOuverture))}`);
+      }
+      paliers.push(`sur les marais, étangs et plans d'eau dès le ${formatDate(interieurIso)}`);
+      const fermetureIso = `${anneeFermeture}-${String(ge.fermeture.mois).padStart(2, '0')}-${String(ge.fermeture.jour).padStart(2, '0')}`;
+      const noteCote = DEPARTEMENTS_COTIERS.includes(dep.code)
+        ? " Sur le domaine public maritime, la fermeture est repoussée (10 février pour certaines espèces)."
+        : '';
+      const valeur = `Ouverture échelonnée : ${paliers.join(' ; ')} — fermeture le ${formatDate(fermetureIso)}.${noteCote}${ge.note ? ' ' + ge.note : ''}`;
+      const ref = noteRef(SOURCE_GIBIER_EAU.label, SOURCE_GIBIER_EAU.url);
+      especeRows.push({ slug, titre: `${e.nom} — Dates de chasse`, valeur, refs: [ref] });
     }
-    paliers.push(`sur les marais, étangs et plans d'eau dès le ${formatDate(interieurIso)}`);
-    const fermetureIso = `${anneeFermeture}-${String(ge.fermeture.mois).padStart(2, '0')}-${String(ge.fermeture.jour).padStart(2, '0')}`;
-    const noteCote = DEPARTEMENTS_COTIERS.includes(dep.code)
-      ? " Sur le domaine public maritime, la fermeture est repoussée (10 février pour certaines espèces)."
-      : '';
-    const valeur = `Ouverture échelonnée : ${paliers.join(' ; ')} — fermeture le ${formatDate(fermetureIso)}.${noteCote}`;
-    const ref = noteRef(SOURCE_GIBIER_EAU.label, SOURCE_GIBIER_EAU.url);
-    especeRows.push({ slug, titre: `${e.nom} — Dates de chasse`, valeur, refs: [ref] });
   }
 
   // 2. Faits collectés dans l'arrêté départemental (dates locales détaillées, quotas/PMA, statut ESOD…).
