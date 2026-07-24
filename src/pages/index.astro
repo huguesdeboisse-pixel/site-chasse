@@ -7,7 +7,7 @@ const deps = dataset.departements;
 <Base title="Chasse">
   <section class="hero">
     <div class="wrap hero-top">
-      <img src="/logo-fauconnier-clair.png?v=8" alt="" class="hero-logo-img" />
+      <img src="/logo-fauconnier-accueil.svg" alt="" class="hero-logo-img" />
       <div>
         <h1>Chasse</h1>
         <p class="lede">Actualité administrative</p>
@@ -58,10 +58,12 @@ const deps = dataset.departements;
       <div class="map-tooltip" id="map-tooltip"></div>
     </figure>
 
+    {/* Espace publicitaire retiré pour le moment — à réactiver plus tard (voir aussi .ad-slot dans Base.astro).
     <div class="ad-slot" role="complementary" aria-label="Emplacement publicitaire">
       <span class="ad-slot-label">Publicité</span>
       <span class="ad-slot-body">Emplacement disponible</span>
     </div>
+    */}
   </div>
 
   <script define:vars={{ deps }} is:inline>
