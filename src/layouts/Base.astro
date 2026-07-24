@@ -7,7 +7,7 @@ import ConsentBanner from '../components/ConsentBanner.astro';
 
 interface Props { title?: string; description?: string; }
 const {
-  title = "Chasse",
+  title = "Le Chasseur",
   description = "Dates d'ouverture et de fermeture, quotas, coûts et arrêtés de la chasse, agrégés et systématiquement sourcés."
 } = Astro.props;
 ---
@@ -49,11 +49,11 @@ const {
       h1,h2,h3{line-height:1.2;letter-spacing:-.01em;}
 
       /* Header */
-      .site-logo{display:inline-flex;align-items:center;gap:.5rem;padding:1.4rem 0 .2rem;text-decoration:none;}
-      .site-logo-img{height:1.9rem;width:auto;flex:none;transform:translateY(-0.07rem);}
+      .site-logo{display:inline-flex;align-items:center;gap:.55rem;padding:1.4rem 0 .2rem;text-decoration:none;}
+      .site-logo-img{height:2.15rem;width:auto;flex:none;transform:translateY(-0.08rem);}
       .site-logo-text{display:flex;flex-direction:column;gap:.05rem;}
-      .site-logo-title{font-family:"Kikuta",sans-serif;font-weight:700;font-size:1.3rem;line-height:1;color:var(--ink);letter-spacing:-.01em;}
-      .site-logo-sub{font-size:.78rem;line-height:1;color:var(--muted);}
+      .site-logo-title{font-family:"Kikuta",sans-serif;font-weight:700;font-size:1.45rem;line-height:1;color:var(--ink);letter-spacing:-.01em;}
+      .site-logo-sub{font-size:.87rem;line-height:1;color:var(--muted);}
 
       /* Hero */
       .hero{background:#2e3632;color:#f3f1e7;padding:1.7rem 0 2rem;}
@@ -183,7 +183,7 @@ const {
         <a href="/" class="site-logo">
           <img src="/logo-fauconnier-header.svg" alt="" class="site-logo-img" />
           <span class="site-logo-text">
-            <span class="site-logo-title">Chasse</span>
+            <span class="site-logo-title">Le Chasseur</span>
             <span class="site-logo-sub">Actualité administrative</span>
           </span>
         </a>
