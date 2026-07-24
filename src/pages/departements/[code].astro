@@ -155,7 +155,7 @@ for (const e of especesDuTerritoire) {
       const refs: number[] = [];
       if (passage.ouverture === 'generale' && ouvertureRef) refs.push(ouvertureRef);
       refs.push(noteRef(SOURCE_PASSAGE.label, SOURCE_PASSAGE.url));
-      especeRows.push({ slug, titre: `${e.nom} — Dates de chasse`, valeur, refs });
+      especeRows.push({ slug, titre: e.nom, valeur, refs });
     }
   }
 
@@ -185,7 +185,7 @@ for (const e of especesDuTerritoire) {
         : '';
       const valeur = `Ouverture échelonnée : ${paliers.join(' ; ')} — fermeture le ${formatDate(fermetureIso)}.${noteCote}${ge.note ? ' ' + ge.note : ''}`;
       const ref = noteRef(SOURCE_GIBIER_EAU.label, SOURCE_GIBIER_EAU.url);
-      especeRows.push({ slug, titre: `${e.nom} — Dates de chasse`, valeur, refs: [ref] });
+      especeRows.push({ slug, titre: e.nom, valeur, refs: [ref] });
     }
   }
 
@@ -197,7 +197,8 @@ for (const e of especesDuTerritoire) {
     const saisonNote = fait.saison && fait.saison !== periodes?.saison
       ? ` (saison ${fait.saison}, dernière valeur connue)`
       : '';
-    especeRows.push({ slug, titre: `${e.nom} — ${fait.label}`, valeur: `${fait.detail}${saisonNote}`, refs: [ref] });
+    const titreFait = fait.label === 'Dates de chasse' ? e.nom : `${e.nom} — ${fait.label}`;
+    especeRows.push({ slug, titre: titreFait, valeur: `${fait.detail}${saisonNote}`, refs: [ref] });
   }
 
   // 3. Ni ligne nationale calculable, ni fait collecté → message honnête.
