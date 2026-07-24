@@ -5,6 +5,7 @@ import especesDataset from '../../data/especes.json';
 import { SLUGS } from '../../lib/especes';
 import { LOCALISATION } from '../../lib/localisation';
 import { OISEAUX_DE_PASSAGE, SOURCE_PASSAGE, dernierSamediAout } from '../../lib/migrateurs';
+import { GIBIER_EAU, DEPARTEMENTS_COTIERS, SOURCE_GIBIER_EAU, premierSamediAout } from '../../lib/gibier-eau';
 
 export function getStaticPaths() {
   return dataset.departements.map((d) => ({ params: { code: d.code }, props: { dep: d } }));
@@ -51,7 +52,7 @@ const MOIS = ['janvier','février','mars','avril','mai','juin','juillet','août'
 function formatDate(iso: string){
   if(!iso) return '';
   const [y,m,d] = iso.split('-').map(Number);
-  return `${d} ${MOIS[m-1]} ${y}`;
+  return `${d === 1 ? '1er' : d} ${MOIS[m-1]} ${y}`;
 }
 
 interface Note { label: string; href: string; }
@@ -101,14 +102,21 @@ for (const e of especesDuTerritoire) {
   const data = especeParDepartement.get(slug);
   const faits = data?.faits ?? [];
   const passage = OISEAUX_DE_PASSAGE[slug];
+  const ge = GIBIER_EAU[slug];
   // Le département a-t-il déjà collecté les VRAIES dates de cette espèce ? On l'estime en cherchant,
   // dans le détail d'un fait, un mois ou une date au format jj/mm ACCOMPAGNÉ d'une année de la saison
   // en cours (2026/2027). Cela évite de confondre les vraies dates avec un simple renvoi à un arrêté
   // (« arrêtés ministériels du 24 mars 2006 et du 19 janvier 2009 » contient des mois mais pas la saison).
   // Si les dates sont déjà là, on n'ajoute pas la ligne « dates nationales » (doublon/conflit).
   const anneesSaison = periodes ? periodes.saison.split('-') : [];
-  const MOIS_OU_JJMM = /janvier|février|fevrier|mars|avril|mai|juin|juillet|août|aout|septembre|octobre|novembre|décembre|decembre|\d{1,2}[\/.]\d{1,2}/i;
-  const aDejaDate = faits.some((f) => MOIS_OU_JJMM.test(f.detail) && anneesSaison.some((an) => f.detail.includes(an)));
+  // Un fait « donne les vraies dates » s'il contient au moins DEUX repères de date (mois ou jj/mm),
+  // signe d'une plage « du … au … », ET une année de la saison en cours. Cela évite de confondre avec
+  // une date isolée (retour de carnet, seuil de PMA) ou un renvoi d'arrêté (« 24 mars 2006 »…).
+  // Un repère de date = un jour suivi d'un mois (« 31 mars », « 1er août ») OU un format jj/mm.
+  // On exige le jour pour ne pas attraper un mois caché dans un mot (« mai » dans « do-mai-ne »).
+  const RE_DATE = /\d{1,2}\s?(?:er)?\s?(?:janvier|février|fevrier|mars|avril|mai|juin|juillet|août|aout|septembre|octobre|novembre|décembre|decembre)|\d{1,2}[\/.]\d{1,2}/gi;
+  const donneVraiesDates = (detail: string) => (detail.match(RE_DATE)?.length ?? 0) >= 2 && anneesSaison.some((an) => detail.includes(an));
+  const aDejaDate = faits.some((f) => donneVraiesDates(f.detail));
 
   // 1. Oiseau de passage : ligne « dates nationales » (arrêté du 24 mars 2006 / 19 janvier 2009),
   //    ajoutée seulement si aucune date n'a déjà été collectée pour ce département.
@@ -143,14 +151,32 @@ for (const e of especesDuTerritoire) {
     }
   }
 
+  // 1 bis. Gibier d'eau : ouverture nationale échelonnée (domaine public maritime / plans d'eau
+  //        intérieurs) + fermeture nationale. Ajoutée seulement si aucune date n'a déjà été collectée.
+  if (ge && periodes && !aDejaDate) {
+    const anneeOuverture = Number(periodes.saison.split('-')[0]);
+    const anneeFermeture = Number(periodes.saison.split('-')[1]);
+    const interieurIso = ge.ouvertureInterieur === '15-septembre'
+      ? `${anneeOuverture}-09-15`
+      : `${anneeOuverture}-08-21`;
+    const paliers: string[] = [];
+    if (DEPARTEMENTS_COTIERS.includes(dep.code)) {
+      paliers.push(`sur le domaine public maritime dès le ${formatDate(premierSamediAout(anneeOuverture))}`);
+    }
+    paliers.push(`sur les marais, étangs et plans d'eau dès le ${formatDate(interieurIso)}`);
+    const fermetureIso = `${anneeFermeture}-${String(ge.fermeture.mois).padStart(2, '0')}-${String(ge.fermeture.jour).padStart(2, '0')}`;
+    const noteCote = DEPARTEMENTS_COTIERS.includes(dep.code)
+      ? " Sur le domaine public maritime, la fermeture est repoussée (10 février pour certaines espèces)."
+      : '';
+    const valeur = `Ouverture échelonnée : ${paliers.join(' ; ')} — fermeture le ${formatDate(fermetureIso)}.${noteCote}`;
+    const ref = noteRef(SOURCE_GIBIER_EAU.label, SOURCE_GIBIER_EAU.url);
+    especeRows.push({ slug, titre: `${e.nom} — Dates de chasse`, valeur, refs: [ref] });
+  }
+
   // 2. Faits collectés dans l'arrêté départemental (dates locales détaillées, quotas/PMA, statut ESOD…).
-  const nationalAjoutee = passage != null && periodes != null && !passage.statut && !aDejaDate;
+  //    On les affiche TOUJOURS : mieux vaut un léger doublon sur un renvoi que de risquer de masquer
+  //    une information réelle (ex. interdiction locale, chasse de nuit).
   for (const fait of faits) {
-    // Si on vient d'ajouter la ligne « dates nationales », on masque les faits « dates » qui ne sont
-    // qu'un renvoi sans date concrète (ex. « selon arrêtés ministériels ») : ils sont devenus redondants.
-    const faitDonneDates = MOIS_OU_JJMM.test(fait.detail) && anneesSaison.some((an) => fait.detail.includes(an));
-    const estRenvoiDates = /date/i.test(fait.label) && !faitDonneDates;
-    if (nationalAjoutee && estRenvoiDates) continue;
     const ref = noteRef(fait.source_label, fait.source_url);
     const saisonNote = fait.saison && fait.saison !== periodes?.saison
       ? ` (saison ${fait.saison}, dernière valeur connue)`
@@ -159,7 +185,7 @@ for (const e of especesDuTerritoire) {
   }
 
   // 3. Ni ligne nationale calculable, ni fait collecté → message honnête.
-  if (!faits.length && !(passage && periodes)) {
+  if (!faits.length && !(passage && periodes) && !(ge && periodes)) {
     const ref = ouvertureRef || prefRef;
     especeRows.push({ slug, titre: `${e.nom} — Statut`, valeur: "Aucune règle spécifique recensée pour cette espèce dans l'arrêté de ce département.", refs: ref ? [ref] : [] });
   }
