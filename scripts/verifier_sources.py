@@ -14,6 +14,7 @@ Verdicts par département :
 
 Usage :
   python3 scripts/verifier_sources.py 03 63 19      # départements précis
+  python3 scripts/verifier_sources.py --hasard 3    # pêche aléatoire de 3 départements
   python3 scripts/verifier_sources.py --tous        # tous les collectés (long)
 """
 import json, glob, os, re, sys, subprocess, tempfile, urllib.request
@@ -84,9 +85,16 @@ def verifier(code):
     return code, 'OK', ''
 
 def main():
+    import random
     args = sys.argv[1:]
+    tous = sorted(os.path.basename(f)[:-5] for f in glob.glob(os.path.join(DIR_PERIODES, '*.json')))
     if '--tous' in args:
-        codes = sorted(os.path.basename(f)[:-5] for f in glob.glob(os.path.join(DIR_PERIODES, '*.json')))
+        codes = tous
+    elif '--hasard' in args:
+        i = args.index('--hasard')
+        n = int(args[i + 1]) if i + 1 < len(args) and args[i + 1].isdigit() else 3
+        codes = random.sample(tous, min(n, len(tous)))
+        print(f'Pêche aléatoire de {len(codes)} département(s) : {", ".join(codes)}\n')
     else:
         codes = [a for a in args if not a.startswith('--')]
     if not codes:
