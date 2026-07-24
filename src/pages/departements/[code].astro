@@ -4,6 +4,7 @@ import dataset from '../../data/departements-france.json';
 import especesDataset from '../../data/especes.json';
 import { SLUGS } from '../../lib/especes';
 import { LOCALISATION } from '../../lib/localisation';
+import { OISEAUX_DE_PASSAGE, SOURCE_PASSAGE, dernierSamediAout } from '../../lib/migrateurs';
 
 export function getStaticPaths() {
   return dataset.departements.map((d) => ({ params: { code: d.code }, props: { dep: d } }));
@@ -82,7 +83,7 @@ if (periodes) {
 const especeParDepartement = new Map((periodes?.especes ?? []).map((e) => [e.slug, e]));
 
 interface EspeceBannerView { nom: string; slug: string | undefined; svg: string | null; }
-interface EspeceRow { slug: string; titre: string; valeur: string; ref: number; }
+interface EspeceRow { slug: string; titre: string; valeur: string; refs: number[]; }
 
 const especeViews: EspeceBannerView[] = [];
 const especeRows: EspeceRow[] = [];
@@ -98,17 +99,69 @@ for (const e of especesDuTerritoire) {
   if (!slug) continue;
 
   const data = especeParDepartement.get(slug);
-  if (data?.faits?.length) {
-    for (const fait of data.faits) {
-      const ref = noteRef(fait.source_label, fait.source_url);
-      const saisonNote = fait.saison && fait.saison !== periodes?.saison
-        ? ` (saison ${fait.saison}, dernière valeur connue)`
-        : '';
-      especeRows.push({ slug, titre: `${e.nom} — ${fait.label}`, valeur: `${fait.detail}${saisonNote}`, ref });
+  const faits = data?.faits ?? [];
+  const passage = OISEAUX_DE_PASSAGE[slug];
+  // Le département a-t-il déjà collecté les VRAIES dates de cette espèce ? On l'estime en cherchant,
+  // dans le détail d'un fait, un mois ou une date au format jj/mm ACCOMPAGNÉ d'une année de la saison
+  // en cours (2026/2027). Cela évite de confondre les vraies dates avec un simple renvoi à un arrêté
+  // (« arrêtés ministériels du 24 mars 2006 et du 19 janvier 2009 » contient des mois mais pas la saison).
+  // Si les dates sont déjà là, on n'ajoute pas la ligne « dates nationales » (doublon/conflit).
+  const anneesSaison = periodes ? periodes.saison.split('-') : [];
+  const MOIS_OU_JJMM = /janvier|février|fevrier|mars|avril|mai|juin|juillet|août|aout|septembre|octobre|novembre|décembre|decembre|\d{1,2}[\/.]\d{1,2}/i;
+  const aDejaDate = faits.some((f) => MOIS_OU_JJMM.test(f.detail) && anneesSaison.some((an) => f.detail.includes(an)));
+
+  // 1. Oiseau de passage : ligne « dates nationales » (arrêté du 24 mars 2006 / 19 janvier 2009),
+  //    ajoutée seulement si aucune date n'a déjà été collectée pour ce département.
+  if (passage && periodes) {
+    if (passage.statut === 'moratoire') {
+      const ref = noteRef(SOURCE_PASSAGE.label, SOURCE_PASSAGE.url);
+      especeRows.push({ slug, titre: `${e.nom} — Statut`, valeur: "Chasse suspendue (moratoire national) : aucune date d'ouverture pour cette saison.", refs: [ref] });
+    } else if (!aDejaDate) {
+      const anneeOuverture = Number(periodes.saison.split('-')[0]);
+      const anneeFermeture = Number(periodes.saison.split('-')[1]);
+      const ouvertureIso = passage.ouverture === 'dernier-samedi-aout'
+        ? dernierSamediAout(anneeOuverture)
+        : periodes.ouverture_generale.date;
+      // Fermeture : date nationale par défaut, ou dérogation si le département est listé.
+      const derog = passage.fermetureDerogation && passage.fermetureDerogation.departements.includes(dep.code)
+        ? passage.fermetureDerogation
+        : null;
+      const ferm = derog ?? passage.fermeture;
+      const fermetureIso = `${anneeFermeture}-${String(ferm.mois).padStart(2, '0')}-${String(ferm.jour).padStart(2, '0')}`;
+      const mentionOuverture = passage.ouverture === 'dernier-samedi-aout'
+        ? `Ouverture le ${formatDate(ouvertureIso)} (dernier samedi d'août)`
+        : `Ouverture générale du département (${formatDate(ouvertureIso)})`;
+      const mentions: string[] = [];
+      if (derog?.note) mentions.push(derog.note);
+      if (passage.note) mentions.push(passage.note);
+      const valeur = `${mentionOuverture} — fermeture le ${formatDate(fermetureIso)}.${mentions.length ? ' ' + mentions.join(' ') : ''}`;
+      // Référence : l'arrêté départemental pour l'ouverture générale, l'arrêté national pour la fermeture.
+      const refs: number[] = [];
+      if (passage.ouverture === 'generale' && ouvertureRef) refs.push(ouvertureRef);
+      refs.push(noteRef(SOURCE_PASSAGE.label, SOURCE_PASSAGE.url));
+      especeRows.push({ slug, titre: `${e.nom} — Dates de chasse`, valeur, refs });
     }
-  } else {
+  }
+
+  // 2. Faits collectés dans l'arrêté départemental (dates locales détaillées, quotas/PMA, statut ESOD…).
+  const nationalAjoutee = passage != null && periodes != null && !passage.statut && !aDejaDate;
+  for (const fait of faits) {
+    // Si on vient d'ajouter la ligne « dates nationales », on masque les faits « dates » qui ne sont
+    // qu'un renvoi sans date concrète (ex. « selon arrêtés ministériels ») : ils sont devenus redondants.
+    const faitDonneDates = MOIS_OU_JJMM.test(fait.detail) && anneesSaison.some((an) => fait.detail.includes(an));
+    const estRenvoiDates = /date/i.test(fait.label) && !faitDonneDates;
+    if (nationalAjoutee && estRenvoiDates) continue;
+    const ref = noteRef(fait.source_label, fait.source_url);
+    const saisonNote = fait.saison && fait.saison !== periodes?.saison
+      ? ` (saison ${fait.saison}, dernière valeur connue)`
+      : '';
+    especeRows.push({ slug, titre: `${e.nom} — ${fait.label}`, valeur: `${fait.detail}${saisonNote}`, refs: [ref] });
+  }
+
+  // 3. Ni ligne nationale calculable, ni fait collecté → message honnête.
+  if (!faits.length && !(passage && periodes)) {
     const ref = ouvertureRef || prefRef;
-    especeRows.push({ slug, titre: `${e.nom} — Statut`, valeur: "Aucune règle spécifique recensée pour cette espèce dans l'arrêté de ce département.", ref });
+    especeRows.push({ slug, titre: `${e.nom} — Statut`, valeur: "Aucune règle spécifique recensée pour cette espèce dans l'arrêté de ce département.", refs: ref ? [ref] : [] });
   }
 }
 ---
@@ -159,7 +212,7 @@ for (const e of especesDuTerritoire) {
       {especeRows.map((r) => (
         <div class="info-row espece-row" data-slug={r.slug} hidden>
           <p class="info-title">{r.titre}</p>
-          <p class="info-value">{r.valeur}{r.ref > 0 && <sup><a class="footnote-ref" href={`#s${r.ref}`}>{r.ref}</a></sup>}</p>
+          <p class="info-value">{r.valeur}{r.refs.map((ref) => <sup><a class="footnote-ref" href={`#s${ref}`}>{ref}</a></sup>)}</p>
         </div>
       ))}
     </div>
